@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081007905093115904"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2081007911707594782",
+    "created_at": "2026-07-25T13:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081007911707594782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AOwPUMyTxe",
+          "end": 62,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2081007911707594782/photo/1",
+          "media_key": "3_2081007905093115904",
+          "start": 39,
+          "url": "https://t.co/AOwPUMyTxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081007911707594782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在自家线下零售店偷偷植入第三方广告的小米：\n（似乎其实是被别人偷换了屏保？） https://t.co/AOwPUMyTxe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081007905093115904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE5qf3a4AA8QUl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081007905093115904"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2081007911707594782",
+        "created_at": "2026-07-25T13:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081007911707594782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOwPUMyTxe",
+              "end": 62,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2081007911707594782/photo/1",
+              "media_key": "3_2081007905093115904",
+              "start": 39,
+              "url": "https://t.co/AOwPUMyTxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081007911707594782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在自家线下零售店偷偷植入第三方广告的小米：\n（似乎其实是被别人偷换了屏保？） https://t.co/AOwPUMyTxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11933,
+          "following_count": 882,
+          "like_count": 31627,
+          "listed_count": 21,
+          "media_count": 2242,
+          "tweet_count": 11016
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

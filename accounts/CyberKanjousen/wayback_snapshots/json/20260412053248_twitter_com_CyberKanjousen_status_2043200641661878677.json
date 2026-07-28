@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2043190056777834985",
+    "created_at": "2026-04-12T05:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043200641661878677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2017448841940000768",
+          "start": 0,
+          "username": "Nekostve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043200641661878677",
+    "in_reply_to_user_id": "2017448841940000768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043198812588839286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekostve 机器学习其实和人类学习很相似，毕竟就是前者仿生的后者\n在環状線看来，强化学习相当于人类完成练习题目的过程"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2043190056777834985",
+        "created_at": "2026-04-12T05:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043200641661878677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2017448841940000768",
+              "start": 0,
+              "username": "Nekostve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043200641661878677",
+        "in_reply_to_user_id": "2017448841940000768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043198812588839286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekostve 机器学习其实和人类学习很相似，毕竟就是前者仿生的后者\n在環状線看来，强化学习相当于人类完成练习题目的过程"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017448841940000768",
+        "conversation_id": "2043190056777834985",
+        "created_at": "2026-04-12T05:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043198812588839286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043198812588839286",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043190056777834985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 还有强化学习说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 411,
+          "like_count": 12305,
+          "listed_count": 4,
+          "media_count": 818,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-31T04:04:34.000Z",
+        "description": "a fish🐟 in the s?e?a?\nin favor of tsf\n但现世科技不足以使男性变为完全功能的女性\n故暂不发难)\n偏爱科学与数据，为此可以暂时锁上情感与强制保持理智\n06年老头子……\nneko4linux@gmail.com\n出来觅食多巴胺，会回关说是",
+        "id": "2017448841940000768",
+        "location": "shadow banned",
+        "name": "Neko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865787778080772/er30A-2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 87,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 778
+        },
+        "username": "Nekostve",
+        "verified": false
+      }
+    ]
+  }
+}

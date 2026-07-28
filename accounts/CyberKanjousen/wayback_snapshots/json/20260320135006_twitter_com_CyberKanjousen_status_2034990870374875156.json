@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2034967781859631337",
+    "created_at": "2026-03-20T13:50:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034990870374875156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "Zhmgws19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034990870374875156",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034967781859631337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhmgws19120101 合影喵www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2034967777493360647",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2oaXLboAcodmo.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2034967781859631337",
+        "created_at": "2026-03-20T13:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034990870374875156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "Zhmgws19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034990870374875156",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034967781859631337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhmgws19120101 合影喵www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034967777493360647"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2034967781859631337",
+        "created_at": "2026-03-20T12:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034967781859631337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/7aitL1rO61"
+            },
+            {
+              "display_url": "pic.x.com/Irot0nnmIT",
+              "end": 64,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2034967781859631337/photo/1",
+              "media_key": "3_2034967777493360647",
+              "start": 41,
+              "url": "https://t.co/Irot0nnmIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034967781859631337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/7aitL1rO61 https://t.co/Irot0nnmIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 197,
+          "like_count": 5847,
+          "listed_count": 2,
+          "media_count": 590,
+          "tweet_count": 2671
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "多少年來風雨淚，惟愿青天白日满地紅\n姐姐@zhngjing322708\n安得廣厦千萬間，大庇天下寒士倶歡顔，何時眼前突兀現此屋？\n注：不承認淪陷區中共僞政府",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡🇹🇼",
+        "pinned_tweet_id": "1995799934113907002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000935894237503496/VWdlg8d8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 147,
+          "like_count": 5632,
+          "listed_count": 6,
+          "media_count": 54,
+          "tweet_count": 2347
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

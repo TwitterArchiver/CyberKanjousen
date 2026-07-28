@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026919861075747326",
+    "created_at": "2026-02-26T09:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T10:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026953840436855095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "854250925480845312",
+          "start": 0,
+          "username": "liulingyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026953840436855095",
+    "in_reply_to_user_id": "854250925480845312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026919861075747326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyue 识别用的是YOLO吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026919856453632000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEQ3tAawAA0nXs.jpg",
+        "width": 1121
+      },
+      {
+        "height": 2190,
+        "media_key": "3_2026919857141526528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEQ3vkbMAAVXPZ.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026919858525646848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEQ30ubMAAxHl0.jpg",
+        "width": 1127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026919861075747326",
+        "created_at": "2026-02-26T09:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026953840436855095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "854250925480845312",
+              "start": 0,
+              "username": "liulingyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026953840436855095",
+        "in_reply_to_user_id": "854250925480845312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026919861075747326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyue 识别用的是YOLO吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026919856453632000",
+            "3_2026919857141526528",
+            "3_2026919858525646848"
+          ]
+        },
+        "author_id": "854250925480845312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2026919861075747326",
+        "created_at": "2026-02-26T07:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026919861075747326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYrJOVrBpi",
+              "end": 92,
+              "expanded_url": "https://x.com/liulingyue/status/2026919861075747326/photo/1",
+              "media_key": "3_2026919856453632000",
+              "start": 69,
+              "url": "https://t.co/DYrJOVrBpi"
+            },
+            {
+              "display_url": "pic.x.com/DYrJOVrBpi",
+              "end": 92,
+              "expanded_url": "https://x.com/liulingyue/status/2026919861075747326/photo/1",
+              "media_key": "3_2026919857141526528",
+              "start": 69,
+              "url": "https://t.co/DYrJOVrBpi"
+            },
+            {
+              "display_url": "pic.x.com/DYrJOVrBpi",
+              "end": 92,
+              "expanded_url": "https://x.com/liulingyue/status/2026919861075747326/photo/1",
+              "media_key": "3_2026919858525646848",
+              "start": 69,
+              "url": "https://t.co/DYrJOVrBpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026919861075747326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1229,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这就是npu的用途吗（\n虽然识别精度不高（比如把cpu、网卡当成硬盘），但本着宁错杀一千也不放过一个的策略对于查找图片好像也没什么问题。 https://t.co/DYrJOVrBpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 81,
+          "like_count": 2039,
+          "listed_count": 2,
+          "media_count": 376,
+          "tweet_count": 1562
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-18T08:31:06.000Z",
+        "description": "速来接我回火星",
+        "id": "854250925480845312",
+        "name": "panchiao🚩🏴🏴‍☠️🏳️‍⚧️🏳‍🌈",
+        "pinned_tweet_id": "2022906791865258241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907841751840337924/31LJRKV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3424,
+          "following_count": 1430,
+          "like_count": 18581,
+          "listed_count": 12,
+          "media_count": 987,
+          "tweet_count": 8814
+        },
+        "username": "liulingyue",
+        "verified": false
+      }
+    ]
+  }
+}

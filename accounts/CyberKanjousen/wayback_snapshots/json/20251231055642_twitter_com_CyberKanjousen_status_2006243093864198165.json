@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2005923680447258664",
+    "created_at": "2025-12-31T05:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006243093864198165"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "Huawei",
+          "probability": 0.9752,
+          "start": 34,
+          "type": "Organization"
+        },
+        {
+          "end": 147,
+          "normalized_text": "Huawei",
+          "probability": 0.9689,
+          "start": 142,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666363264496975874",
+          "start": 0,
+          "username": "olalatech1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006243093864198165",
+    "in_reply_to_user_id": "1666363264496975874",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005923680447258664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@olalatech1 In fact the moon from Huawei is fake. Someone use it to photo a light in its house, and in photo the light become a moon, because Huawei identified the light as a moon incorrectly😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16166,
+        "height": 1024,
+        "media_key": "13_2005922700758507520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005922700758507520/img/4znfi7vyM8fn5McU.jpg",
+        "public_metrics": {
+          "view_count": 10314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005922700758507520/vid/avc1/320x568/6RPfUcyUTvtfxC-t.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005922700758507520/vid/avc1/480x852/aBDGWFS0G6vaxmsX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005922700758507520/vid/avc1/576x1024/Fv9283QVws6na2yV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005922700758507520/pl/2acRCtXfhDR7Ax7s.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2005923680447258664",
+        "created_at": "2025-12-31T05:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006243093864198165"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Huawei",
+              "probability": 0.9752,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 147,
+              "normalized_text": "Huawei",
+              "probability": 0.9689,
+              "start": 142,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666363264496975874",
+              "start": 0,
+              "username": "olalatech1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006243093864198165",
+        "in_reply_to_user_id": "1666363264496975874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005923680447258664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@olalatech1 In fact the moon from Huawei is fake. Someone use it to photo a light in its house, and in photo the light become a moon, because Huawei identified the light as a moon incorrectly😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005922700758507520"
+          ]
+        },
+        "author_id": "1666363264496975874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286204410498961408",
+              "name": "Gadgets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2005923680447258664",
+        "created_at": "2025-12-30T08:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005923680447258664"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "iPhone",
+              "probability": 0.9293,
+              "start": 4,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9XrFqxt3M",
+              "end": 121,
+              "expanded_url": "https://x.com/olalatech1/status/2005923680447258664/video/1",
+              "media_key": "13_2005922700758507520",
+              "start": 98,
+              "url": "https://t.co/E9XrFqxt3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005923680447258664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 13648,
+          "like_count": 155,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "The iPhone's success is due to its stable ecosystem; it's no longer a high-tech flagship model... https://t.co/E9XrFqxt3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 400
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T08:35:46.000Z",
+        "description": "Huawei's Fan",
+        "id": "1666363264496975874",
+        "location": "Vietnam-China",
+        "name": "Olala🇻🇳 🇨🇳 🇷🇺",
+        "pinned_tweet_id": "2005164753967350204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916242433370951683/4nbrWJvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12323,
+          "following_count": 560,
+          "like_count": 19269,
+          "listed_count": 145,
+          "media_count": 4665,
+          "tweet_count": 12696
+        },
+        "username": "olalatech1",
+        "verified": false
+      }
+    ]
+  }
+}

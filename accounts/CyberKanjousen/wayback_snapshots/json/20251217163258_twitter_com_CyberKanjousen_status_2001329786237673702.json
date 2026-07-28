@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2000896644439794078",
+    "created_at": "2025-12-17T16:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001329786237673702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1342277711834742784",
+          "start": 0,
+          "username": "kome_illust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001329786237673702",
+    "in_reply_to_user_id": "1342277711834742784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000896644439794078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kome_illust 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2588,
+        "media_key": "3_2000896638672601088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Sc5ERagAAfCcs.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2000896644439794078",
+        "created_at": "2025-12-17T16:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001329786237673702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1342277711834742784",
+              "start": 0,
+              "username": "kome_illust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001329786237673702",
+        "in_reply_to_user_id": "1342277711834742784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000896644439794078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kome_illust 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000896638672601088"
+          ]
+        },
+        "author_id": "1342277711834742784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000896644439794078",
+        "created_at": "2025-12-16T11:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000896644439794078"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "レイディアンさん",
+              "probability": 0.7232,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiwOmTt3tT",
+              "end": 59,
+              "expanded_url": "https://x.com/kome_illust/status/2000896644439794078/photo/1",
+              "media_key": "3_2000896638672601088",
+              "start": 36,
+              "url": "https://t.co/DiwOmTt3tT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000896644439794078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 60632,
+          "like_count": 3689,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "もうすぐで逃げ切れるってところで遭遇して絶望したい。レイディアンさん。 https://t.co/DiwOmTt3tT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 260
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T01:16:04.000Z",
+        "description": "大体アークナイツ。カタパルトとWが好き。マロもぜひ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/485fu3erpqgwgu…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/485fu3erpqgwgu4?t=mhFm30&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/wByAEgH8EV"
+              }
+            ]
+          }
+        },
+        "id": "1342277711834742784",
+        "name": "米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998759753540136960/LdDtJVZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 97,
+          "like_count": 3818,
+          "listed_count": 3,
+          "media_count": 667,
+          "tweet_count": 3709
+        },
+        "url": "https://t.co/wByAEgH8EV",
+        "username": "kome_illust",
+        "verified": false
+      }
+    ]
+  }
+}

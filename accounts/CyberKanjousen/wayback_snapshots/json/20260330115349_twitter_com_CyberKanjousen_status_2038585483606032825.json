@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2038471214063341573",
+    "created_at": "2026-03-30T11:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T12:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038585483606032825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855493934371549184",
+          "start": 0,
+          "username": "LimneAe3800y"
+        },
+        {
+          "end": 27,
+          "id": "1520686487540740097",
+          "start": 14,
+          "username": "KokonaKokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038585483606032825",
+    "in_reply_to_user_id": "1855493934371549184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038583349988765699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LimneAe3800y @KokonaKokoro 是视觉小说「魔法少女の魔女裁判」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2038471214063341573",
+        "created_at": "2026-03-30T11:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038585483606032825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855493934371549184",
+              "start": 0,
+              "username": "LimneAe3800y"
+            },
+            {
+              "end": 27,
+              "id": "1520686487540740097",
+              "start": 14,
+              "username": "KokonaKokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038585483606032825",
+        "in_reply_to_user_id": "1855493934371549184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038583349988765699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LimneAe3800y @KokonaKokoro 是视觉小说「魔法少女の魔女裁判」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855493934371549184",
+        "conversation_id": "2038471214063341573",
+        "created_at": "2026-03-30T11:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038583349988765699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520686487540740097",
+              "start": 0,
+              "username": "KokonaKokoro"
+            },
+            {
+              "end": 29,
+              "id": "1918274202580467713",
+              "start": 14,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038583349988765699",
+        "in_reply_to_user_id": "1520686487540740097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038482580182589878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokonaKokoro @CyberKanjousen 这是哪个番里面的角色啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 336,
+          "like_count": 9070,
+          "listed_count": 3,
+          "media_count": 693,
+          "tweet_count": 3456
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-10T06:13:54.000Z",
+        "description": "2024年开始翻墙探索外网，经验不足，还需大家照顾…请多包容谢谢！🎆🎇\n联系邮箱📮：limncheetein.kirapusoq86@gmail.com",
+        "id": "1855493934371549184",
+        "location": "仙英座北极星✧",
+        "name": "～Hoyitoze limne Azu.（_Official）",
+        "pinned_tweet_id": "2031020445563343145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038264538207072256/c29B4Igc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 41,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 858
+        },
+        "username": "LimneAe3800y",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T08:48:29.000Z",
+        "description": "小天使，哲学新手，温和自由主义/存在主义。日常更新，欢迎来互动。好朋友@hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1520686487540740097",
+        "location": "Japan 🇯🇵",
+        "name": "心心心奈 🇯🇵⛩️",
+        "pinned_tweet_id": "2036708877337817267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037575983071723520/31QgPMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 849,
+          "like_count": 11018,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 2379
+        },
+        "username": "KokonaKokoro",
+        "verified": true
+      }
+    ]
+  }
+}

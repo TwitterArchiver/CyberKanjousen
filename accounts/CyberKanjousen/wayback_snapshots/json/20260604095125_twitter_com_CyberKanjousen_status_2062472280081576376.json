@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2062472280081576376",
+    "created_at": "2026-06-04T09:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062472280081576376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sheriyuo/statu…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/sheriyuo/status/2062415645548183658",
+          "start": 144,
+          "url": "https://t.co/wZVSgRKFch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062472280081576376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062415645548183658",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "粉笔是什么野鸡公司？😅\n之前听都没听过……\n\n另外環状線不认为所谓「带着全家一起炒股」是什么好建议。和炒币一样，如果没有足够的金融知识就盲目炒股的话，那就和「赌博」没有区别。\n\n「考公」这条路虽然已经走烂了，但「盲目炒股」不更坏吗？\n\n而且演讲还不能控制好情绪，这种人是怎么配上讲台的？ https://t.co/wZVSgRKFch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_2062415311899709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8rzI0b0AALzF8.jpg",
+        "width": 828
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2062415346808864768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8r1K3bQAAs-Sp.jpg",
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2062472280081576376",
+        "created_at": "2026-06-04T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062472280081576376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheriyuo/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/sheriyuo/status/2062415645548183658",
+              "start": 144,
+              "url": "https://t.co/wZVSgRKFch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062472280081576376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062415645548183658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "粉笔是什么野鸡公司？😅\n之前听都没听过……\n\n另外環状線不认为所谓「带着全家一起炒股」是什么好建议。和炒币一样，如果没有足够的金融知识就盲目炒股的话，那就和「赌博」没有区别。\n\n「考公」这条路虽然已经走烂了，但「盲目炒股」不更坏吗？\n\n而且演讲还不能控制好情绪，这种人是怎么配上讲台的？ https://t.co/wZVSgRKFch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062415311899709440",
+            "3_2062415346808864768"
+          ]
+        },
+        "author_id": "2018976131849039872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2062415645548183658",
+        "created_at": "2026-06-04T06:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062415645548183658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYhj2Il4KA",
+              "end": 168,
+              "expanded_url": "https://x.com/sheriyuo/status/2062415645548183658/photo/1",
+              "media_key": "3_2062415311899709440",
+              "start": 145,
+              "url": "https://t.co/gYhj2Il4KA"
+            },
+            {
+              "display_url": "pic.x.com/gYhj2Il4KA",
+              "end": 168,
+              "expanded_url": "https://x.com/sheriyuo/status/2062415645548183658/photo/1",
+              "media_key": "3_2062415346808864768",
+              "start": 145,
+              "url": "https://t.co/gYhj2Il4KA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062415645548183658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "张小龙（北京粉笔蓝天科技有限公司的 CEO，致力于在线教育和公职考试培训）于 2026 年 6 月 3 日在哲学院讲 AI 时代和炒股，结果没人理他，辱骂观众愤然离场  \n\n像极了在大学毕业典礼上讲 AI 取代人力然后被群起而攻之。人大同学们还是比较有礼貌的，没直接给他嘘下来，太有仁义了   \n\n反转了，其实都是来蹭“形势与政策”讲座分的，0 人关心他说啥。应该是都没在听，然后开骂了感觉不对了，结果他一击脱离直接跑了，大伙没反应过来🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12066,
+          "like_count": 60,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "张小龙（北京粉笔蓝天科技有限公司的 CEO，致力于在线教育和公职考试培训）于 2026 年 6 月 3 日在哲学院讲 AI 时代和炒股，结果没人理他，辱骂观众愤然离场  \n\n像极了在大学毕业典礼上讲 AI 取代人力然后被群起而攻之。人大同学们还是比较有礼貌的，没直接给他嘘下来，太有仁义了 https://t.co/gYhj2Il4KA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2062202655741767826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4806,
+          "following_count": 868,
+          "like_count": 24248,
+          "listed_count": 10,
+          "media_count": 1307,
+          "tweet_count": 7303
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Applying for Fall 27 PhD | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2061382777623519284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8427,
+          "following_count": 1306,
+          "like_count": 10497,
+          "listed_count": 58,
+          "media_count": 269,
+          "tweet_count": 1975
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

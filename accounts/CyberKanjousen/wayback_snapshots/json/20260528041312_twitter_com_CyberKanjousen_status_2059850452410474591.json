@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2059810184512573874",
+    "created_at": "2026-05-28T04:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059850452410474591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918153384848441344",
+          "start": 0,
+          "username": "Xiaodi200617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059850452410474591",
+    "in_reply_to_user_id": "1918153384848441344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059847815749394456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaodi200617 以后我们不说「奶奶」，我们说：\n带「带你入坑地球 OL 的男玩家」入坑地球 OL 的女玩家。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2059810184512573874",
+        "created_at": "2026-05-28T04:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059850452410474591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918153384848441344",
+              "start": 0,
+              "username": "Xiaodi200617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059850452410474591",
+        "in_reply_to_user_id": "1918153384848441344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059847815749394456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaodi200617 以后我们不说「奶奶」，我们说：\n带「带你入坑地球 OL 的男玩家」入坑地球 OL 的女玩家。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918153384848441344",
+        "conversation_id": "2059810184512573874",
+        "created_at": "2026-05-28T04:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059847815749394456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059847815749394456",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059810184512573874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我去笑死我了。我昨天说奶奶的被屏蔽了我就说爷爷的爱人爷爷也被屏蔽了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 858,
+          "like_count": 22740,
+          "listed_count": 11,
+          "media_count": 1210,
+          "tweet_count": 6757
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T03:59:55.000Z",
+        "description": "你好我是泪水 也可以叫我点点 性别男取向男 见人说人话见鬼说鬼片｜容易失踪",
+        "id": "1918153384848441344",
+        "location": "Guangzhou",
+        "name": "泪水",
+        "pinned_tweet_id": "1955828556363391032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929778587756122112/p2vXx8P6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 79,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 149
+        },
+        "username": "Xiaodi200617",
+        "verified": false
+      }
+    ]
+  }
+}

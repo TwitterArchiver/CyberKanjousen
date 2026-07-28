@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2006729650731618664",
+    "created_at": "2026-01-01T15:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T16:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006747137707778449"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Jingdong",
+          "probability": 0.5397,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1254456213527543808",
+          "start": 0,
+          "username": "TheAppleDesign"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006747137707778449",
+    "in_reply_to_user_id": "1254456213527543808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006729650731618664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheAppleDesign It copied Jingdong’s method to show ads😡😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2006729637540540417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lV-SXaMAELuGy.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1650,
+        "media_key": "3_2006729637544734724",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9lV-SYaMAQlNSb.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2006729650731618664",
+        "created_at": "2026-01-01T15:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006747137707778449"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Jingdong",
+              "probability": 0.5397,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1254456213527543808",
+              "start": 0,
+              "username": "TheAppleDesign"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006747137707778449",
+        "in_reply_to_user_id": "1254456213527543808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006729650731618664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheAppleDesign It copied Jingdong’s method to show ads😡😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006729637540540417",
+            "3_2006729637544734724"
+          ]
+        },
+        "author_id": "1254456213527543808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2006729650731618664",
+        "created_at": "2026-01-01T14:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T15:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006729650731618664"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Duolingo",
+              "probability": 0.4217,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Dynamic Island",
+              "probability": 0.5768,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1CyVpxSwf",
+              "end": 69,
+              "expanded_url": "https://x.com/TheAppleDesign/status/2006729650731618664/photo/1",
+              "media_key": "3_2006729637540540417",
+              "start": 46,
+              "url": "https://t.co/n1CyVpxSwf"
+            },
+            {
+              "display_url": "pic.x.com/n1CyVpxSwf",
+              "end": 69,
+              "expanded_url": "https://x.com/TheAppleDesign/status/2006729650731618664/photo/1",
+              "media_key": "3_2006729637544734724",
+              "start": 46,
+              "url": "https://t.co/n1CyVpxSwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006729650731618664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15969,
+          "like_count": 159,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Duolingo is showing ads on the Dynamic Island https://t.co/n1CyVpxSwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 415
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T17:04:19.000Z",
+        "description": "Apple Design. Not affiliated with Apple Inc. DM or mail for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/TheAppleDesign",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/TheAppleDesign",
+                "start": 0,
+                "url": "https://t.co/BkHuWurYMW"
+              }
+            ]
+          }
+        },
+        "id": "1254456213527543808",
+        "name": "Apple Design",
+        "pinned_tweet_id": "1958938747866947922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806052486417096704/FnBslKp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83060,
+          "following_count": 39,
+          "like_count": 4603,
+          "listed_count": 313,
+          "media_count": 1919,
+          "tweet_count": 6918
+        },
+        "url": "https://t.co/BkHuWurYMW",
+        "username": "TheAppleDesign",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2058216416302817772",
+    "created_at": "2026-05-24T02:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058369367470199107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1109471255009230849",
+          "start": 0,
+          "username": "murimuri0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058369367470199107",
+    "in_reply_to_user_id": "1109471255009230849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058369222137569321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@murimuri0x 喜欢我测评视频加软广吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2058216416302817772",
+        "created_at": "2026-05-24T02:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058369367470199107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1109471255009230849",
+              "start": 0,
+              "username": "murimuri0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058369367470199107",
+        "in_reply_to_user_id": "1109471255009230849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058369222137569321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@murimuri0x 喜欢我测评视频加软广吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1109471255009230849",
+        "conversation_id": "2058216416302817772",
+        "created_at": "2026-05-24T02:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058369222137569321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058369222137569321",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058216416302817772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 不加片头广告  让所有视频内容全变成了广告🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 848,
+          "like_count": 21694,
+          "listed_count": 10,
+          "media_count": 1155,
+          "tweet_count": 6466
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-23T15:05:34.000Z",
+        "description": "FPGA/SaaS/Infra Engineer｜网络乐子人｜美股接盘侠",
+        "id": "1109471255009230849",
+        "location": "横浜",
+        "name": "ムリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669634301376495618/PUiver5A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 1252,
+          "like_count": 8672,
+          "listed_count": 8,
+          "media_count": 705,
+          "tweet_count": 10866
+        },
+        "username": "murimuri0x",
+        "verified": true
+      }
+    ]
+  }
+}

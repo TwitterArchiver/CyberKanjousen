@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2049453947589697616",
+    "created_at": "2026-04-29T13:17:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049478295948071273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2021505488337416192",
+          "start": 0,
+          "username": "5chyms"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 31,
+          "expanded_url": "https://x.com/cyberkanjousen/status/2029244981714862530?s=46",
+          "start": 8,
+          "url": "https://t.co/poCR534Apu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049478295948071273",
+    "in_reply_to_user_id": "2021505488337416192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029244981714862530",
+        "type": "quoted"
+      },
+      {
+        "id": "2049453947589697616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5chyms https://t.co/poCR534Apu"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049453947589697616].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049453947589697616",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049453947589697616"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2049453947589697616",
+        "created_at": "2026-04-29T13:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049478295948071273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "5chyms"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 31,
+              "expanded_url": "https://x.com/cyberkanjousen/status/2029244981714862530?s=46",
+              "start": 8,
+              "url": "https://t.co/poCR534Apu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049478295948071273",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029244981714862530",
+            "type": "quoted"
+          },
+          {
+            "id": "2049453947589697616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5chyms https://t.co/poCR534Apu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2029244479757271112",
+        "created_at": "2026-03-04T17:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029244981714862530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029244981714862530",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029244479757271112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nzmanan660 记住你说的这句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 661,
+          "like_count": 16294,
+          "listed_count": 6,
+          "media_count": 934,
+          "tweet_count": 5038
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "我始终都在这里。 https://t.co/E5w4a5cLsw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Z4qoVLc",
+                "end": 32,
+                "expanded_url": "https://b23.tv/Z4qoVLc",
+                "start": 9,
+                "url": "https://t.co/E5w4a5cLsw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acg.rip",
+                "end": 23,
+                "expanded_url": "http://acg.rip",
+                "start": 0,
+                "url": "https://t.co/7lyUL1iWac"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "Japan",
+        "name": "花漫阳春",
+        "pinned_tweet_id": "2049449386644767095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795042991738880/UMh5OtPf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 635,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/7lyUL1iWac",
+        "username": "5chyms",
+        "verified": true
+      }
+    ]
+  }
+}

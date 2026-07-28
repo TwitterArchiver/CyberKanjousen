@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2012586973949812855",
+    "created_at": "2026-01-17T18:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T19:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012586973949812855"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 130,
+          "tag": "英语口语"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2262723812",
+          "start": 3,
+          "username": "abskoop"
+        }
+      ],
+      "urls": [
+        {
+          "description": "别花冤枉钱！本文深度评测 Google Translate AI 最新的 Speaking Practice 功能。教你如何用这个免费工具替代真人外教，利用碎片时间练好口语。",
+          "display_url": "ahhhhfs.com/79049/",
+          "end": 128,
+          "expanded_url": "https://www.ahhhhfs.com/79049/",
+          "images": [
+            {
+              "height": 800,
+              "url": "https://pbs.twimg.com/news_img/2012465028193034240/WSw9UFtW?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2012465028193034240/WSw9UFtW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 105,
+          "status": 200,
+          "title": "别买口语课了！Google Translate AI 新功能深度评测 (免费私教) - A姐分享",
+          "unwound_url": "https://www.ahhhhfs.com/79049/",
+          "url": "https://t.co/In1SUkb4bp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012586973949812855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012465000976207954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abskoop: 🗣️不敢开口练英语？试试Google 翻译新增的“AI外教”：「个性化对话练习」\n\n📱打开就能和 AI 模拟点餐、面试、问路这些真实场景\n\n🤯关键是：完全免费 + 没人笑你说错！\n\n👉https://t.co/In1SUkb4bp\n\n#英语口语 #AI…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2012464485957808128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-21yZiasAAuiLE.jpg",
+        "width": 3960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2012586973949812855",
+        "created_at": "2026-01-17T18:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012586973949812855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "英语口语"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2262723812",
+              "start": 3,
+              "username": "abskoop"
+            }
+          ],
+          "urls": [
+            {
+              "description": "别花冤枉钱！本文深度评测 Google Translate AI 最新的 Speaking Practice 功能。教你如何用这个免费工具替代真人外教，利用碎片时间练好口语。",
+              "display_url": "ahhhhfs.com/79049/",
+              "end": 128,
+              "expanded_url": "https://www.ahhhhfs.com/79049/",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2012465028193034240/WSw9UFtW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012465028193034240/WSw9UFtW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "别买口语课了！Google Translate AI 新功能深度评测 (免费私教) - A姐分享",
+              "unwound_url": "https://www.ahhhhfs.com/79049/",
+              "url": "https://t.co/In1SUkb4bp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012586973949812855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012465000976207954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abskoop: 🗣️不敢开口练英语？试试Google 翻译新增的“AI外教”：「个性化对话练习」\n\n📱打开就能和 AI 模拟点餐、面试、问路这些真实场景\n\n🤯关键是：完全免费 + 没人笑你说错！\n\n👉https://t.co/In1SUkb4bp\n\n#英语口语 #AI…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012464485957808128"
+          ]
+        },
+        "author_id": "2262723812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2012465000976207954",
+        "created_at": "2026-01-17T10:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012465000976207954"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "英语口语"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "AI学习"
+            }
+          ],
+          "urls": [
+            {
+              "description": "别花冤枉钱！本文深度评测 Google Translate AI 最新的 Speaking Practice 功能。教你如何用这个免费工具替代真人外教，利用碎片时间练好口语。",
+              "display_url": "ahhhhfs.com/79049/",
+              "end": 115,
+              "expanded_url": "https://www.ahhhhfs.com/79049/",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2012465028193034240/WSw9UFtW?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012465028193034240/WSw9UFtW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "别买口语课了！Google Translate AI 新功能深度评测 (免费私教) - A姐分享",
+              "unwound_url": "https://www.ahhhhfs.com/79049/",
+              "url": "https://t.co/In1SUkb4bp"
+            },
+            {
+              "display_url": "pic.x.com/CQ20463Dkj",
+              "end": 152,
+              "expanded_url": "https://x.com/abskoop/status/2012465000976207954/photo/1",
+              "media_key": "3_2012464485957808128",
+              "start": 129,
+              "url": "https://t.co/CQ20463Dkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012465000976207954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 13161,
+          "like_count": 128,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "🗣️不敢开口练英语？试试Google 翻译新增的“AI外教”：「个性化对话练习」\n\n📱打开就能和 AI 模拟点餐、面试、问路这些真实场景\n\n🤯关键是：完全免费 + 没人笑你说错！\n\n👉https://t.co/In1SUkb4bp\n\n#英语口语 #AI学习 https://t.co/CQ20463Dkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 642
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740605,
+          "following_count": 1204,
+          "like_count": 26097,
+          "listed_count": 2652,
+          "media_count": 23312,
+          "tweet_count": 60016
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

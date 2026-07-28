@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2008590280019374519",
+    "created_at": "2026-01-07T02:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T03:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008723243545526564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "291797158",
+          "start": 0,
+          "username": "ThePrimeagen"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008723243545526564",
+    "in_reply_to_user_id": "291797158",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008590280019374519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThePrimeagen @grok ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2008590272272199680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_yNe4W8AAGifT.jpg",
+        "width": 2044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2008590280019374519",
+        "created_at": "2026-01-07T02:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T03:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008723243545526564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "291797158",
+              "start": 0,
+              "username": "ThePrimeagen"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008723243545526564",
+        "in_reply_to_user_id": "291797158",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008590280019374519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThePrimeagen @grok ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008590272272199680"
+          ]
+        },
+        "author_id": "291797158",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Swimwear",
+              "id": "846725037595869185",
+              "name": "Swimwear"
+            }
+          }
+        ],
+        "conversation_id": "2008590280019374519",
+        "created_at": "2026-01-06T17:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008590280019374519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UulwjbwxY",
+              "end": 61,
+              "expanded_url": "https://x.com/ThePrimeagen/status/2008590280019374519/photo/1",
+              "media_key": "3_2008590272272199680",
+              "start": 38,
+              "url": "https://t.co/6UulwjbwxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008590280019374519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 379969,
+          "like_count": 1654,
+          "quote_count": 21,
+          "reply_count": 85,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "hey @grok can you put vim in a bikini https://t.co/6UulwjbwxY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 492
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-02T16:42:29.000Z",
+        "description": "skill issues: 🟩⬛️⬛️⬛️⬛️⬛️(69/420)\n\nhttps://t.co/qWJnB6p4EP\nhttps://t.co/IwY3FTx1ZE\nhttps://t.co/TYJ6aSpwYs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ThePrimeagen",
+                "end": 58,
+                "expanded_url": "https://twitch.tv/ThePrimeagen",
+                "start": 35,
+                "url": "https://t.co/qWJnB6p4EP"
+              },
+              {
+                "display_url": "youtube.com/ThePrimeTimeag…",
+                "end": 82,
+                "expanded_url": "https://youtube.com/ThePrimeTimeagen",
+                "start": 59,
+                "url": "https://t.co/IwY3FTx1ZE"
+              },
+              {
+                "display_url": "boot.dev/prime",
+                "end": 106,
+                "expanded_url": "https://boot.dev/prime",
+                "start": 83,
+                "url": "https://t.co/TYJ6aSpwYs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ThePrimeagen",
+                "end": 23,
+                "expanded_url": "https://twitch.tv/ThePrimeagen",
+                "start": 0,
+                "url": "https://t.co/qWJnB6p4EP"
+              }
+            ]
+          }
+        },
+        "id": "291797158",
+        "location": "Windows ME",
+        "name": "ThePrimeagen",
+        "pinned_tweet_id": "2006775263871508842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924503772094517249/DfKkH0ph_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321451,
+          "following_count": 1208,
+          "like_count": 117347,
+          "listed_count": 1447,
+          "media_count": 4957,
+          "tweet_count": 44453
+        },
+        "url": "https://t.co/qWJnB6p4EP",
+        "username": "ThePrimeagen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7263641,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5694,
+          "media_count": 6637406,
+          "tweet_count": 85839070
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

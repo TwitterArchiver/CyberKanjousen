@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2080938152135692741",
+    "created_at": "2026-07-25T09:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080945633847030104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032475215020920832",
+          "start": 0,
+          "username": "Seikimoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080945633847030104",
+    "in_reply_to_user_id": "2032475215020920832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080942400097439804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seikimoe 推特账号托管了解一下（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2080938152135692741",
+        "created_at": "2026-07-25T09:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080945633847030104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032475215020920832",
+              "start": 0,
+              "username": "Seikimoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080945633847030104",
+        "in_reply_to_user_id": "2032475215020920832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080942400097439804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seikimoe 推特账号托管了解一下（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032475215020920832",
+        "conversation_id": "2080938152135692741",
+        "created_at": "2026-07-25T09:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080942400097439804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080942400097439804",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080938152135692741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 怎么又是环状线😠，什么时候环状线的帖子能不是环状线发的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11902,
+          "following_count": 882,
+          "like_count": 31610,
+          "listed_count": 20,
+          "media_count": 2238,
+          "tweet_count": 11007
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T15:16:37.000Z",
+        "description": "furry+LGBT倾向型+钢丝战犯+板绘区懒狗，偶尔弹吉他\nhttps://t.co/CiqBGitEqu\nhttps://t.co/9LuQIc4Fte\n🫵👁️🫦👁️👍",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/124602907",
+                "end": 54,
+                "expanded_url": "https://www.pixiv.net/users/124602907",
+                "start": 31,
+                "url": "https://t.co/CiqBGitEqu"
+              },
+              {
+                "display_url": "t.me/seikimoe",
+                "end": 78,
+                "expanded_url": "http://t.me/seikimoe",
+                "start": 55,
+                "url": "https://t.co/9LuQIc4Fte"
+              }
+            ]
+          }
+        },
+        "id": "2032475215020920832",
+        "location": "中国大陆",
+        "name": "SEKI関茂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079906992043528192/dpGU4PyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 81,
+          "like_count": 9956,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "Seikimoe",
+        "verified": false
+      }
+    ]
+  }
+}

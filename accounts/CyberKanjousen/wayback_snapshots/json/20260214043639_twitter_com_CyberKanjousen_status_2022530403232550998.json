@@ -1,0 +1,672 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2022530403232550998",
+    "created_at": "2026-02-14T04:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T05:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022530403232550998"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 61,
+          "normalized_text": "立希",
+          "probability": 0.8911,
+          "start": 60,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 20,
+          "tag": "第5回ガールズバンド総選挙"
+        },
+        {
+          "end": 49,
+          "start": 37,
+          "tag": "星降るティーパーティー"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "ガルパ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "775280864674525184",
+          "start": 3,
+          "username": "bang_dream_gbp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Qe",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/Qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022530403232550998",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022521182667600357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_gbp: #第5回ガールズバンド総選挙👑\n\n#星降るティーパーティー の1位を記念して、立希からメッセージが届きました✨ぜひ聞いてくださいね！\n\n明日はモカからのメッセージをお届けいたします💫\n\n#バンドリ #ガルパ https://t.co/Qe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 112712,
+        "height": 1328,
+        "media_key": "13_2022207650193453057",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022207650193453057/img/c04nOO1T4AX2Cuj2.jpg",
+        "public_metrics": {
+          "view_count": 4855
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022207650193453057/vid/avc1/320x566/2af5S1h6cer7ywQd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022207650193453057/vid/avc1/480x848/zwlJ_bWohENv9Up4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022207650193453057/vid/avc1/750x1328/f0Nhpcc4o2vfEbdb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022207650193453057/pl/IEpaWIz75I0gAVKp.m3u8?v=5c4"
+          }
+        ],
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2022530403232550998",
+        "created_at": "2026-02-14T04:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022530403232550998"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "立希",
+              "probability": 0.8911,
+              "start": 60,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 20,
+              "tag": "第5回ガールズバンド総選挙"
+            },
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "星降るティーパーティー"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "ガルパ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "775280864674525184",
+              "start": 3,
+              "username": "bang_dream_gbp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Qe",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022530403232550998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022521182667600357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_gbp: #第5回ガールズバンド総選挙👑\n\n#星降るティーパーティー の1位を記念して、立希からメッセージが届きました✨ぜひ聞いてくださいね！\n\n明日はモカからのメッセージをお届けいたします💫\n\n#バンドリ #ガルパ https://t.co/Qe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022207650193453057"
+          ]
+        },
+        "author_id": "775280864674525184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2022521182667600357",
+        "created_at": "2026-02-14T04:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022521182667600357"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "立希",
+              "probability": 0.8468,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "第5回ガールズバンド総選挙"
+            },
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "星降るティーパーティー"
+            },
+            {
+              "end": 98,
+              "start": 93,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "ガルパ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeICQ3YRFF",
+              "end": 127,
+              "expanded_url": "https://x.com/bang_dream_gbp/status/2022521182667600357/video/1",
+              "media_key": "13_2022207650193453057",
+              "start": 104,
+              "url": "https://t.co/QeICQ3YRFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022521182667600357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 23612,
+          "like_count": 1153,
+          "quote_count": 33,
+          "reply_count": 5,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "#第5回ガールズバンド総選挙👑\n\n#星降るティーパーティー の1位を記念して、立希からメッセージが届きました✨ぜひ聞いてくださいね！\n\n明日はモカからのメッセージをお届けいたします💫\n\n#バンドリ #ガルパ https://t.co/QeICQ3YRFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 35,
+          "like_count": 1120,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-12T10:32:16.000Z",
+        "description": "スマートフォン向けゲーム「バンドリ！ ガールズバンドパーティ！」（#ガルパ）の公式アカウントです。※お問い合わせやメッセージへは返答できかねます。ご了承下さい。 iOS：https://t.co/EzP1EeEqge Android：https://t.co/s7XEr71YB6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "ガルパ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3MUD1rd",
+                "end": 108,
+                "expanded_url": "https://bit.ly/3MUD1rd",
+                "start": 85,
+                "url": "https://t.co/EzP1EeEqge"
+              },
+              {
+                "display_url": "bit.ly/44FicGm",
+                "end": 140,
+                "expanded_url": "https://bit.ly/44FicGm",
+                "start": 117,
+                "url": "https://t.co/s7XEr71YB6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/bangdreamgbp",
+                "end": 23,
+                "expanded_url": "https://lit.link/bangdreamgbp",
+                "start": 0,
+                "url": "https://t.co/C24xmWO0hZ"
+              }
+            ]
+          }
+        },
+        "id": "775280864674525184",
+        "location": "各種リンクはこちら！",
+        "name": "バンドリ！ ガールズバンドパーティ！",
+        "pinned_tweet_id": "2004029639455608982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995780608812089344/NvpIO_d0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556855,
+          "following_count": 66,
+          "like_count": 2088,
+          "listed_count": 6822,
+          "media_count": 13649,
+          "tweet_count": 22734
+        },
+        "url": "https://t.co/C24xmWO0hZ",
+        "username": "bang_dream_gbp",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012131379694469120"
+      ],
+      "media_source_tweet_id": [
+        "2012131804120244375"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012221503224328298",
+    "created_at": "2026-01-16T17:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012221503224328298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "818390411890728960",
+          "start": 3,
+          "username": "asdiandyx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0T8v7mPOMP",
+          "end": 38,
+          "expanded_url": "https://x.com/asdiandyx/status/2012131804120244375/photo/1",
+          "media_key": "3_2012131379694469120",
+          "start": 15,
+          "url": "https://t.co/0T8v7mPOMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012221503224328298",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012131804120244375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asdiandyx: https://t.co/0T8v7mPOMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2012131379694469120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-yG1EAbAAAetEv.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012131379694469120"
+          ],
+          "media_source_tweet_id": [
+            "2012131804120244375"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012221503224328298",
+        "created_at": "2026-01-16T17:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012221503224328298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "818390411890728960",
+              "start": 3,
+              "username": "asdiandyx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0T8v7mPOMP",
+              "end": 38,
+              "expanded_url": "https://x.com/asdiandyx/status/2012131804120244375/photo/1",
+              "media_key": "3_2012131379694469120",
+              "start": 15,
+              "url": "https://t.co/0T8v7mPOMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012221503224328298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012131804120244375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asdiandyx: https://t.co/0T8v7mPOMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012131379694469120"
+          ]
+        },
+        "author_id": "818390411890728960",
+        "conversation_id": "2012131804120244375",
+        "created_at": "2026-01-16T11:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012131804120244375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0T8v7mPOMP",
+              "end": 23,
+              "expanded_url": "https://x.com/asdiandyx/status/2012131804120244375/photo/1",
+              "media_key": "3_2012131379694469120",
+              "start": 0,
+              "url": "https://t.co/0T8v7mPOMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012131804120244375",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 36231,
+          "like_count": 808,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0T8v7mPOMP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 617
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-09T09:34:13.000Z",
+        "description": "禁止转载，主人公右厨",
+        "id": "818390411890728960",
+        "name": "DYX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1104254569377280001/xusrQfSj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22831,
+          "following_count": 167,
+          "like_count": 3065,
+          "listed_count": 214,
+          "media_count": 297,
+          "tweet_count": 327
+        },
+        "username": "asdiandyx",
+        "verified": false
+      }
+    ]
+  }
+}

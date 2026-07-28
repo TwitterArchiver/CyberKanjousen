@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2055958319173664814",
+    "created_at": "2026-05-17T10:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055961369128931708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464794434063802373",
+          "start": 0,
+          "username": "Norrskenste"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055961369128931708",
+    "in_reply_to_user_id": "1464794434063802373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055959827449528589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Norrskenste 已经见过好几个互 block 的互 fo 了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055958319173664814",
+        "created_at": "2026-05-17T10:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055961369128931708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464794434063802373",
+              "start": 0,
+              "username": "Norrskenste"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055961369128931708",
+        "in_reply_to_user_id": "1464794434063802373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055959827449528589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Norrskenste 已经见过好几个互 block 的互 fo 了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464794434063802373",
+        "conversation_id": "2055958319173664814",
+        "created_at": "2026-05-17T10:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055959827449528589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959827449528589",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055958319173664814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen （推上得够久会有几率发现你的两个互fo之间是互ban"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 834,
+          "like_count": 20350,
+          "listed_count": 8,
+          "media_count": 1080,
+          "tweet_count": 6054
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T03:13:13.000Z",
+        "description": "|Sui is always staring U.|\n|Oshi: @suisei_hosimati @sakuramiko35 |\n|Science, Pragmatic, Justice|\n|Multipolarization=Refeudalization, Monopolization=Neo-slavary|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "suisei_hosimati"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "sakuramiko35"
+              }
+            ]
+          }
+        },
+        "id": "1464794434063802373",
+        "location": "Abraham System ",
+        "name": "秋吉聽風(℞)",
+        "pinned_tweet_id": "1709607801868415401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903788290735738880/lWNUbmLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 832,
+          "like_count": 138322,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 4371
+        },
+        "username": "Norrskenste",
+        "verified": false
+      }
+    ]
+  }
+}

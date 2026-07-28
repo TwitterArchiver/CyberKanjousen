@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013207199162511360"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2013177763759280243",
+    "created_at": "2026-01-19T11:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T12:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013207208742551594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "562773398",
+          "start": 0,
+          "username": "Sankei_news"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tB8C337aHZ",
+          "end": 58,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2013207208742551594/photo/1",
+          "media_key": "3_2013207199162511360",
+          "start": 35,
+          "url": "https://t.co/tB8C337aHZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013207208742551594",
+    "in_reply_to_user_id": "562773398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013177763759280243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sankei_news 快进到首相无限期连任，椎名立希后继有人了😁 https://t.co/tB8C337aHZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2013207199162511360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BZR_1XMAArYso.jpg",
+        "width": 1867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013207199162511360"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2013177763759280243",
+        "created_at": "2026-01-19T11:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013207208742551594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "562773398",
+              "start": 0,
+              "username": "Sankei_news"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tB8C337aHZ",
+              "end": 58,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2013207208742551594/photo/1",
+              "media_key": "3_2013207199162511360",
+              "start": 35,
+              "url": "https://t.co/tB8C337aHZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013207208742551594",
+        "in_reply_to_user_id": "562773398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013177763759280243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sankei_news 快进到首相无限期连任，椎名立希后继有人了😁 https://t.co/tB8C337aHZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "562773398",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2013177763759280243",
+        "created_at": "2026-01-19T09:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T10:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013177763759280243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "首相",
+              "probability": 0.478,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 13,
+              "normalized_text": "高市早苗",
+              "probability": 0.6509,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "高市早苗",
+              "probability": 0.6193,
+              "start": 72,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "日本列島",
+              "probability": 0.3108,
+              "start": 108,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "高市早苗首相（自民党総裁）は19日、首相官邸で記者会見し、23日に召集される通常国会冒頭で衆院を解散すると表明した。",
+              "display_url": "sankei.com/article/202601…",
+              "end": 66,
+              "expanded_url": "https://www.sankei.com/article/20260119-FI44GVZYOVHIBHAAL3VTTGMKR4/?outputType=theme_election2026",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2013177767861354496/9ZMpw52H?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2013177767861354496/9ZMpw52H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "首相、衆院解散表明「高市早苗が首相で良いかどうか決めてもらう」23日の通常国会冒頭で",
+              "unwound_url": "https://www.sankei.com/article/20260119-FI44GVZYOVHIBHAAL3VTTGMKR4/?outputType=theme_election2026",
+              "url": "https://t.co/UH38kq5ERh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013177763759280243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 265859,
+          "like_count": 4996,
+          "quote_count": 313,
+          "reply_count": 306,
+          "retweet_count": 1276
+        },
+        "reply_settings": "everyone",
+        "text": "首相、衆院解散表明「高市早苗が首相で良いかどうか決めてもらう」23日の通常国会冒頭で\nhttps://t.co/UH38kq5ERh\n\n首相は「高市早苗が内閣総理大臣でよいのかどうか。主権者たる国民に決めていただく。日本列島を強く、豊かに。いま着手しなければ間に合わない」と語った。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 780
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-25T10:36:45.000Z",
+        "description": "産経新聞の公式ニュースアカウントです。ニュース速報や読み応えのある解説記事をお伝えします。\nThreadsはこちら👉https://t.co/OIBkPyngOe\nBlueskyはこちら👉https://t.co/cDfUQH5WCd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.net/@sankei_news",
+                "end": 81,
+                "expanded_url": "https://www.threads.net/@sankei_news",
+                "start": 58,
+                "url": "https://t.co/OIBkPyngOe"
+              },
+              {
+                "display_url": "bsky.app/profile/sankei…",
+                "end": 117,
+                "expanded_url": "https://bsky.app/profile/sankei.com",
+                "start": 94,
+                "url": "https://t.co/cDfUQH5WCd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sankei.com",
+                "end": 23,
+                "expanded_url": "http://www.sankei.com/",
+                "start": 0,
+                "url": "https://t.co/2TJQ6bLXTu"
+              }
+            ]
+          }
+        },
+        "id": "562773398",
+        "location": "東京都千代田区",
+        "name": "産経ニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628409626759925760/HbgE5V0m_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844101,
+          "following_count": 55,
+          "like_count": 363,
+          "listed_count": 12901,
+          "media_count": 61574,
+          "tweet_count": 379613
+        },
+        "url": "https://t.co/2TJQ6bLXTu",
+        "username": "Sankei_news",
+        "verified": true
+      }
+    ]
+  }
+}

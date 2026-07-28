@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012543759167177160",
+    "created_at": "2026-01-18T07:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012791699320328515"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "apple",
+          "probability": 0.3871,
+          "start": 16,
+          "type": "Organization"
+        },
+        {
+          "end": 47,
+          "normalized_text": "Apple",
+          "probability": 0.8251,
+          "start": 43,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1513219964366372866",
+          "start": 0,
+          "username": "iHateApplee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012791699320328515",
+    "in_reply_to_user_id": "1513219964366372866",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012543759167177160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iHateApplee If apple do so, I will betray Apple"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2012543451070423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-39mxgXYAAaTde.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012543759167177160",
+        "created_at": "2026-01-18T07:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012791699320328515"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "apple",
+              "probability": 0.3871,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Apple",
+              "probability": 0.8251,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1513219964366372866",
+              "start": 0,
+              "username": "iHateApplee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012791699320328515",
+        "in_reply_to_user_id": "1513219964366372866",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012543759167177160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iHateApplee If apple do so, I will betray Apple"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012543451070423040"
+          ]
+        },
+        "author_id": "1513219964366372866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2012543759167177160",
+        "created_at": "2026-01-17T15:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:13:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012543689956982950",
+          "2012543759167177160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Apple",
+              "probability": 0.9601,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Apple",
+              "probability": 0.8429,
+              "start": 46,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZEpAOWPlS1",
+              "end": 84,
+              "expanded_url": "https://x.com/iHateApplee/status/2012543759167177160/photo/1",
+              "media_key": "3_2012543451070423040",
+              "start": 61,
+              "url": "https://t.co/ZEpAOWPlS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012543759167177160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 45346,
+          "like_count": 1866,
+          "quote_count": 6,
+          "reply_count": 43,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "Apple fans only like side camera cutouts when Apple does it. https://t.co/ZEpAOWPlS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 661
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-10T18:19:46.000Z",
+        "description": "We despise everything Apple touches.\nSlave-lab-built, overpriced, anti-consumer, repair-proof garbage. \nExposing the cult daily. \niSheep tears fuels us.\nShe/Her",
+        "id": "1513219964366372866",
+        "location": "Earth",
+        "name": "I Hate Apple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742994266333253632/zMrz6YKF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26737,
+          "following_count": 49,
+          "like_count": 51897,
+          "listed_count": 80,
+          "media_count": 8009,
+          "tweet_count": 69318
+        },
+        "username": "iHateApplee",
+        "verified": true
+      }
+    ]
+  }
+}

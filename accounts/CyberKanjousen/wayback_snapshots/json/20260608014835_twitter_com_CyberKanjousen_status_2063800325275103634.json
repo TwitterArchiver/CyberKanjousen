@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2062939493184024657",
+    "created_at": "2026-06-08T01:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063800325275103634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1236824782701645825",
+          "start": 0,
+          "username": "CDNEWSTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063800325275103634",
+    "in_reply_to_user_id": "1236824782701645825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063800193754304730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CDNEWSTW 床的话已经够柔软了吧🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062939493184024657",
+        "created_at": "2026-06-08T01:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063800325275103634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1236824782701645825",
+              "start": 0,
+              "username": "CDNEWSTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063800325275103634",
+        "in_reply_to_user_id": "1236824782701645825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063800193754304730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CDNEWSTW 床的话已经够柔软了吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236824782701645825",
+        "conversation_id": "2062939493184024657",
+        "created_at": "2026-06-08T01:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063800193754304730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063800193754304730",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062939493184024657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 找柔軟的地方坐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5246,
+          "following_count": 871,
+          "like_count": 24795,
+          "listed_count": 11,
+          "media_count": 1358,
+          "tweet_count": 7497
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T01:23:09.000Z",
+        "description": "微生盡戀人間樂，只有襄王憶夢中。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cdnews.com.tw",
+                "end": 23,
+                "expanded_url": "http://cdnews.com.tw",
+                "start": 0,
+                "url": "https://t.co/obtuVBEsi9"
+              }
+            ]
+          }
+        },
+        "id": "1236824782701645825",
+        "location": "Taiwan",
+        "name": "閃刀姫ロゼ",
+        "pinned_tweet_id": "2061625269061050750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061555630138437632/Gm0D0t7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9516,
+          "following_count": 374,
+          "like_count": 53036,
+          "listed_count": 38,
+          "media_count": 18,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/obtuVBEsi9",
+        "username": "CDNEWSTW",
+        "verified": true
+      }
+    ]
+  }
+}

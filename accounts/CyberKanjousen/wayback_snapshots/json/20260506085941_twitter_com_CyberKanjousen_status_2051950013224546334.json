@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2051787886111105186",
+    "created_at": "2026-05-06T08:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051950013224546334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051950013224546334",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051787886111105186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34946,
+        "height": 960,
+        "media_key": "7_2051787853957636096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051787853957636096/pu/img/7Fs_KEJQtBCMhr2D.jpg",
+        "public_metrics": {
+          "view_count": 134152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/vid/avc1/320x568/km8bY7imdCsepiUR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/vid/avc1/480x852/b_pgWnSoGcCxldVp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/vid/avc1/540x960/CkoUlZ_QrshkZRiI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051787853957636096/pu/pl/qH9SjIUXxhBxRWXa.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2051787886111105186",
+        "created_at": "2026-05-06T08:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051950013224546334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051950013224546334",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051787886111105186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051787853957636096"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2051787886111105186",
+        "created_at": "2026-05-05T22:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051787886111105186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b0fuitlIZl",
+              "end": 59,
+              "expanded_url": "https://x.com/anblk984/status/2051787886111105186/video/1",
+              "media_key": "7_2051787853957636096",
+              "start": 36,
+              "url": "https://t.co/b0fuitlIZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051787886111105186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 216869,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 135,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "据说是某推推友体验过从1000赚到一万然后瞬间赔光合约爆仓之后的样子😢 https://t.co/b0fuitlIZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 801,
+          "like_count": 18218,
+          "listed_count": 9,
+          "media_count": 981,
+          "tweet_count": 5403
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13624,
+          "following_count": 991,
+          "like_count": 116502,
+          "listed_count": 69,
+          "media_count": 2677,
+          "tweet_count": 28264
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

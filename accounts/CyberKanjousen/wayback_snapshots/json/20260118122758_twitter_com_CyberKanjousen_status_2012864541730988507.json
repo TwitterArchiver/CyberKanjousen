@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012864207411089714",
+    "created_at": "2026-01-18T12:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012864541730988507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1485643248849002496",
+          "start": 0,
+          "username": "1Tagomi0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012864541730988507",
+    "in_reply_to_user_id": "1485643248849002496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012864207411089714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Tagomi0928 是的，你会使用大脑，我不会，我输了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012864207411089714",
+        "created_at": "2026-01-18T12:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012864541730988507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1485643248849002496",
+              "start": 0,
+              "username": "1Tagomi0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012864541730988507",
+        "in_reply_to_user_id": "1485643248849002496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012864207411089714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Tagomi0928 是的，你会使用大脑，我不会，我输了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485643248849002496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2012864207411089714",
+        "created_at": "2026-01-18T12:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012864207411089714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2012862902206935137",
+              "start": 39,
+              "url": "https://t.co/z6CK4dQnJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012864207411089714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012862902206935137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果grok答非所问🤣\n\n你除了问grok，就不会动动自己肩膀以上的部分吗？ https://t.co/z6CK4dQnJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 425,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 694
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-24T15:59:04.000Z",
+        "description": "NFSC、5% forever，8964 nunca olvidamos",
+        "id": "1485643248849002496",
+        "name": "Tagomi@银河系(galaxy)",
+        "pinned_tweet_id": "1986084568001401290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825550564157263872/Kep1LHI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 500,
+          "like_count": 8453,
+          "listed_count": 9,
+          "media_count": 470,
+          "tweet_count": 15007
+        },
+        "username": "1Tagomi0928",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054958371158274048"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2054834846825128271",
+    "created_at": "2026-05-14T16:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T17:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054958378288615600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1758297861337542658",
+          "start": 0,
+          "username": "Lzy2859905CH"
+        },
+        {
+          "end": 24,
+          "id": "1492030700861591552",
+          "start": 14,
+          "username": "scastlear"
+        },
+        {
+          "end": 31,
+          "id": "380749300",
+          "start": 25,
+          "username": "Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TWP14EmOrh",
+          "end": 85,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2054958378288615600/photo/1",
+          "media_key": "3_2054958371158274048",
+          "start": 62,
+          "url": "https://t.co/TWP14EmOrh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054958378288615600",
+    "in_reply_to_user_id": "1758297861337542658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054956293295890563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Lzy2859905CH @scastlear @Apple 環状線现在才发现可以用 FaceID 结束引导式访问……😭 https://t.co/TWP14EmOrh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2054958371158274048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIStwD0asAApBLA.jpg",
+        "width": 1471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054958371158274048"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2054834846825128271",
+        "created_at": "2026-05-14T16:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054958378288615600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1758297861337542658",
+              "start": 0,
+              "username": "Lzy2859905CH"
+            },
+            {
+              "end": 24,
+              "id": "1492030700861591552",
+              "start": 14,
+              "username": "scastlear"
+            },
+            {
+              "end": 31,
+              "id": "380749300",
+              "start": 25,
+              "username": "Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWP14EmOrh",
+              "end": 85,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2054958378288615600/photo/1",
+              "media_key": "3_2054958371158274048",
+              "start": 62,
+              "url": "https://t.co/TWP14EmOrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054958378288615600",
+        "in_reply_to_user_id": "1758297861337542658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054956293295890563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Lzy2859905CH @scastlear @Apple 環状線现在才发现可以用 FaceID 结束引导式访问……😭 https://t.co/TWP14EmOrh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758297861337542658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2054834846825128271",
+        "created_at": "2026-05-14T16:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054956293295890563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 26,
+              "id": "1492030700861591552",
+              "start": 16,
+              "username": "scastlear"
+            },
+            {
+              "end": 33,
+              "id": "380749300",
+              "start": 27,
+              "username": "Apple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054956293295890563",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054839609012768932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen @scastlear @Apple 话说不应该有FaceID/TouchID嘛，没启用？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3187,
+          "following_count": 822,
+          "like_count": 19704,
+          "listed_count": 8,
+          "media_count": 1052,
+          "tweet_count": 5857
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T01:11:19.000Z",
+        "description": "A Rhythm game Player,play Project Sekai(JP/TW/EN/CN),Minecraft,Phigros,Also play osu,MiSide,Doki Doki Literature Club,Blue Archive. Email:mac10125fof@iCloud.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1660594919",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1660594919",
+                "start": 0,
+                "url": "https://t.co/bve3YSg770"
+              }
+            ]
+          }
+        },
+        "id": "1758297861337542658",
+        "location": "Shuangliu,Chengdu,Sichuan,PRC",
+        "name": "星音ナキ@WSDH Studio",
+        "pinned_tweet_id": "1950982915720085867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986900529302392832/nTn2wfXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 373,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/bve3YSg770",
+        "username": "Lzy2859905CH",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T07:00:25.000Z",
+        "description": "06年小登丨出现在推特各个帖子下丨不Fo但是会眼熟人",
+        "id": "1492030700861591552",
+        "location": "幻想鄉",
+        "name": "LeAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052447129940144128/XtFkwWrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 223,
+          "like_count": 2270,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 2824
+        },
+        "username": "scastlear",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "pinned_tweet_id": "2029256730127761640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9940449,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15181,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

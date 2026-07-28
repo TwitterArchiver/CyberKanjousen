@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2057724097963123088",
+    "created_at": "2026-05-22T09:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057754062200922226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "331667455",
+          "start": 0,
+          "username": "im_xiaoxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057754062200922226",
+    "in_reply_to_user_id": "331667455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057750640110239803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@im_xiaoxiao 而且即便是广角摄像头，透视线也是大致交于一点的，而主题推文的透视线交点之间的距离异常大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2057724097963123088",
+        "created_at": "2026-05-22T09:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057754062200922226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "331667455",
+              "start": 0,
+              "username": "im_xiaoxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057754062200922226",
+        "in_reply_to_user_id": "331667455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057750640110239803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@im_xiaoxiao 而且即便是广角摄像头，透视线也是大致交于一点的，而主题推文的透视线交点之间的距离异常大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "331667455",
+        "conversation_id": "2057724097963123088",
+        "created_at": "2026-05-22T09:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057750640110239803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057750640110239803",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057724097963123088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 广角镜头畸变的可能性？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 843,
+          "like_count": 21359,
+          "listed_count": 10,
+          "media_count": 1133,
+          "tweet_count": 6348
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-08T14:51:06.000Z",
+        "description": "Elo'tm, Essaim,frugativi et appellavi.",
+        "id": "331667455",
+        "location": "埼玉 朧塚市",
+        "name": "Xiao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584067696114962434/Ng3Hp-pL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 2064,
+          "like_count": 2790,
+          "listed_count": 43,
+          "media_count": 678,
+          "tweet_count": 26249
+        },
+        "username": "im_xiaoxiao",
+        "verified": false
+      }
+    ]
+  }
+}

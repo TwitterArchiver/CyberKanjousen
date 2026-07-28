@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059462890462281728"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2059459978872901674",
+    "created_at": "2026-05-27T02:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T03:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059462900314702318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHEjlLWdqv",
+          "end": 56,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2059462900314702318/photo/1",
+          "media_key": "3_2059462890462281728",
+          "start": 33,
+          "url": "https://t.co/CHEjlLWdqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059462900314702318",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059462620525281711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nanami_mua 🤔维基词典里收录的「四」的读音是这样的： https://t.co/CHEjlLWdqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1899,
+        "media_key": "3_2059462890462281728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSull4agAAodu0.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059462890462281728"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2059459978872901674",
+        "created_at": "2026-05-27T02:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059462900314702318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHEjlLWdqv",
+              "end": 56,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2059462900314702318/photo/1",
+              "media_key": "3_2059462890462281728",
+              "start": 33,
+              "url": "https://t.co/CHEjlLWdqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059462900314702318",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059462620525281711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nanami_mua 🤔维基词典里收录的「四」的读音是这样的： https://t.co/CHEjlLWdqv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2059459978872901674",
+        "created_at": "2026-05-27T02:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059462620525281711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059462620525281711",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059462246083055741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 是这样，谷歌告诉我有三种但よ大概不算单独一种吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 850,
+          "like_count": 22382,
+          "listed_count": 12,
+          "media_count": 1191,
+          "tweet_count": 6645
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 490,
+          "like_count": 85712,
+          "listed_count": 6,
+          "media_count": 828,
+          "tweet_count": 9669
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

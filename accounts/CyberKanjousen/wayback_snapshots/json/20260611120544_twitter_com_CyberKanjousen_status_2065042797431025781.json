@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2065010904144789561",
+    "created_at": "2026-06-11T12:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065042797431025781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618911824593944576",
+          "start": 0,
+          "username": "kirinohouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065042797431025781",
+    "in_reply_to_user_id": "1618911824593944576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065041642453880886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirinohouse 那就改成 50K CNY 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2065010904144789561",
+        "created_at": "2026-06-11T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065042797431025781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618911824593944576",
+              "start": 0,
+              "username": "kirinohouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065042797431025781",
+        "in_reply_to_user_id": "1618911824593944576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065041642453880886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirinohouse 那就改成 50K CNY 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618911824593944576",
+        "conversation_id": "2065010904144789561",
+        "created_at": "2026-06-11T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065041642453880886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065041642453880886",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065010904144789561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 其他部分都OK，但是50要的太少了（这行业是暴利，咨询费能吃一年开封菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5595,
+          "following_count": 870,
+          "like_count": 25414,
+          "listed_count": 9,
+          "media_count": 1421,
+          "tweet_count": 7796
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T10:00:54.000Z",
+        "description": "数学｜观察｜偶尔表达",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kirinohouse.com",
+                "end": 23,
+                "expanded_url": "http://kirinohouse.com",
+                "start": 0,
+                "url": "https://t.co/LhVEEAGzew"
+              }
+            ]
+          }
+        },
+        "id": "1618911824593944576",
+        "location": "葫芦岛",
+        "name": "雾之",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049023978292011008/sn_g_DmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 110,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 951,
+          "tweet_count": 3981
+        },
+        "url": "https://t.co/LhVEEAGzew",
+        "username": "kirinohouse",
+        "verified": true
+      }
+    ]
+  }
+}

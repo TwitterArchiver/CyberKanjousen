@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025969076183674880"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025962825106219146",
+    "created_at": "2026-02-23T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025969092298211405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1211567759991005185",
+          "start": 0,
+          "username": "ak_prc_dprk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4a09SrQLx6",
+          "end": 40,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2025969092298211405/photo/1",
+          "media_key": "3_2025969076183674880",
+          "start": 17,
+          "url": "https://t.co/4a09SrQLx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025969092298211405",
+    "in_reply_to_user_id": "1211567759991005185",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025962825106219146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ak_prc_dprk ここ？ https://t.co/4a09SrQLx6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025969076183674880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2wJAfasAAC-7R.jpg",
+        "width": 945
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2025962803509821440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2qb49bgAAtliL.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025969076183674880"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025962825106219146",
+        "created_at": "2026-02-23T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025969092298211405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1211567759991005185",
+              "start": 0,
+              "username": "ak_prc_dprk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4a09SrQLx6",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2025969092298211405/photo/1",
+              "media_key": "3_2025969076183674880",
+              "start": 17,
+              "url": "https://t.co/4a09SrQLx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025969092298211405",
+        "in_reply_to_user_id": "1211567759991005185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025962825106219146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ak_prc_dprk ここ？ https://t.co/4a09SrQLx6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025962803509821440"
+          ]
+        },
+        "author_id": "1211567759991005185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405583886260736000",
+              "name": "Night scapes"
+            }
+          }
+        ],
+        "conversation_id": "2025962825106219146",
+        "created_at": "2026-02-23T15:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025962825106219146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICvPOiarBu",
+              "end": 35,
+              "expanded_url": "https://x.com/ak_prc_dprk/status/2025962825106219146/photo/1",
+              "media_key": "3_2025962803509821440",
+              "start": 12,
+              "url": "https://t.co/ICvPOiarBu"
+            },
+            {
+              "display_url": "x.com/xifanghong/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xifanghong/status/2025869267443597516",
+              "start": 36,
+              "url": "https://t.co/ioU7bUnAu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025962825106219146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025869267443597516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ジェネリック丹東すぎる https://t.co/ICvPOiarBu https://t.co/ioU7bUnAu4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 65,
+          "like_count": 1771,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-30T08:40:48.000Z",
+        "description": "北朝鮮(中朝国境地帯)研究者・エデン蒲田亡命政府首班。現代中国学会・現代韓国朝鮮学会所属。中朝国境・北レスマニア。中日新聞・東京新聞掲載歴、TBS・テレビ朝日・フジテレビなど出演歴、宮塚コリア研究所・先軍祭など講演歴。旅行本作ったり写真撮ったり、色々と。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kumakiha40.wixsite.com/waiwenoffi",
+                "end": 23,
+                "expanded_url": "https://kumakiha40.wixsite.com/waiwenoffi",
+                "start": 0,
+                "url": "https://t.co/NsACPMujIQ"
+              }
+            ]
+          }
+        },
+        "id": "1211567759991005185",
+        "location": "問合せはDM、出勤予定などハイライト",
+        "name": "大熊杜夫/𝑫𝑨𝑽𝑰𝑫𝑶𝑭𝑭━辺境レポーター",
+        "pinned_tweet_id": "2013165143413440876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997638005407014912/WHFetu3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4347,
+          "following_count": 937,
+          "like_count": 35129,
+          "listed_count": 39,
+          "media_count": 4126,
+          "tweet_count": 28518
+        },
+        "url": "https://t.co/NsACPMujIQ",
+        "username": "ak_prc_dprk",
+        "verified": true
+      }
+    ]
+  }
+}

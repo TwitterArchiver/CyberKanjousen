@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2055229846503260345",
+    "created_at": "2026-05-15T13:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055284567205183722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451898340262645760",
+          "start": 0,
+          "username": "Naiwenel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055284567205183722",
+    "in_reply_to_user_id": "1451898340262645760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055282509735182417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Naiwenel 環状線立刻了解了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055229846503260345",
+        "created_at": "2026-05-15T13:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055284567205183722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451898340262645760",
+              "start": 0,
+              "username": "Naiwenel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055284567205183722",
+        "in_reply_to_user_id": "1451898340262645760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055282509735182417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Naiwenel 環状線立刻了解了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451898340262645760",
+        "conversation_id": "2055229846503260345",
+        "created_at": "2026-05-15T13:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055282509735182417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055282509735182417",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055229846503260345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 因为塔2支持跨性别群体，而国内那些人对于跨性别的态度嘛...你懂的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 827,
+          "like_count": 19951,
+          "listed_count": 8,
+          "media_count": 1067,
+          "tweet_count": 5936
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是小涵~希望你能天天开心哦~ | they&them | 游戏开发中... | 如无特殊说明，发布的作品均遵循GPLv3协议 | 【广告】欢迎大家加入中文维基百科专题“WikiProject:无产阶级文化大革命”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naiwenel.com",
+                "end": 23,
+                "expanded_url": "http://www.naiwenel.com",
+                "start": 0,
+                "url": "https://t.co/pjAQTrZ9Oe"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "location": "乌托邦 Utopia ",
+        "name": "小涵Naiwenel",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027971155374612480/DCwn5VnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5712,
+          "following_count": 315,
+          "like_count": 111211,
+          "listed_count": 16,
+          "media_count": 2217,
+          "tweet_count": 22703
+        },
+        "url": "https://t.co/pjAQTrZ9Oe",
+        "username": "Naiwenel",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2069239769138446716",
+    "created_at": "2026-06-23T10:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069371366609187129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1917939857487495169",
+          "start": 0,
+          "username": "Isolation1126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069371366609187129",
+    "in_reply_to_user_id": "1917939857487495169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069370507762512001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isolation1126 为什么你就有「喵喵叫」「都是猫娘」的搜索建议……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2069370501940817920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfhgezasAAL0RM.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2069239769138446716",
+        "created_at": "2026-06-23T10:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069371366609187129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1917939857487495169",
+              "start": 0,
+              "username": "Isolation1126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069371366609187129",
+        "in_reply_to_user_id": "1917939857487495169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069370507762512001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isolation1126 为什么你就有「喵喵叫」「都是猫娘」的搜索建议……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069370501940817920"
+          ]
+        },
+        "author_id": "1917939857487495169",
+        "conversation_id": "2069239769138446716",
+        "created_at": "2026-06-23T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069370507762512001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqDcEDcXiq",
+              "end": 43,
+              "expanded_url": "https://x.com/Isolation1126/status/2069370507762512001/photo/1",
+              "media_key": "3_2069370501940817920",
+              "start": 20,
+              "url": "https://t.co/VqDcEDcXiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069370507762512001",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069239769138446716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 差不多 https://t.co/VqDcEDcXiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7712,
+          "following_count": 871,
+          "like_count": 27817,
+          "listed_count": 11,
+          "media_count": 1655,
+          "tweet_count": 8774
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-01T13:51:52.000Z",
+        "description": "此号为 @Isolation8964 小号\n大号封禁时会互动\n防丢号 @Isoantiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "Isolation8964"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Isoantiloss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/pvtFjwYYlP"
+              }
+            ]
+          }
+        },
+        "id": "1917939857487495169",
+        "name": "𝓘𝓼𝓸2.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041683806961504257/MmHwnx_C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/pvtFjwYYlP",
+        "username": "Isolation1126",
+        "verified": false
+      }
+    ]
+  }
+}

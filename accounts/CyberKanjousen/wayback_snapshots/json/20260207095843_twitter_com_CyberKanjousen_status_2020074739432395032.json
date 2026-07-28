@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2020024009212203363",
+    "created_at": "2026-02-07T09:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020074739432395032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484582068663521281",
+          "start": 0,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020074739432395032",
+    "in_reply_to_user_id": "1484582068663521281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020024009212203363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@data_syuxchu 还有活字印刷术"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2020024002975350784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiRIM8bwAAkokz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2020024009212203363",
+        "created_at": "2026-02-07T09:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020074739432395032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020074739432395032",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020024009212203363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 还有活字印刷术"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020024002975350784"
+          ]
+        },
+        "author_id": "1484582068663521281",
+        "conversation_id": "2020024009212203363",
+        "created_at": "2026-02-07T06:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020024009212203363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DO7q3sfx7f",
+              "end": 23,
+              "expanded_url": "https://x.com/data_syuxchu/status/2020024009212203363/photo/1",
+              "media_key": "3_2020024002975350784",
+              "start": 0,
+              "url": "https://t.co/DO7q3sfx7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020024009212203363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1014,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DO7q3sfx7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 33,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1062
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "成人済ljk **法志望￤@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/l1gz1zbqxgq4cb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/l1gz1zbqxgq4cb5?t=jbuXs0&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5dOPDB7mZT"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "匿名信息▶︎",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "1927681460472860814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 399,
+          "like_count": 29882,
+          "listed_count": 8,
+          "media_count": 475,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/5dOPDB7mZT",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

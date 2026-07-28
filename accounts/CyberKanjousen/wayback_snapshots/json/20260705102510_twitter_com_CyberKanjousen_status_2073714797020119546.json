@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2073702329006850364",
+    "created_at": "2026-07-05T10:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073714797020119546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814290493418901504",
+          "start": 0,
+          "username": "Sixtimenight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073714797020119546",
+    "in_reply_to_user_id": "1814290493418901504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073711915180945703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sixtimenight 民兵顶多是半军事化吧🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2073702329006850364",
+        "created_at": "2026-07-05T10:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073714797020119546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814290493418901504",
+              "start": 0,
+              "username": "Sixtimenight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073714797020119546",
+        "in_reply_to_user_id": "1814290493418901504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073711915180945703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sixtimenight 民兵顶多是半军事化吧🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814290493418901504",
+        "conversation_id": "2073702329006850364",
+        "created_at": "2026-07-05T10:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073711915180945703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073711915180945703",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073702329006850364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 王洪文管辖上海民兵都不是军事化管理🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9166,
+          "following_count": 880,
+          "like_count": 29469,
+          "listed_count": 13,
+          "media_count": 1881,
+          "tweet_count": 9622
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-19T13:25:56.000Z",
+        "description": "加密货币无产阶级领导下的继续革命造反派革命司令部\n大学生社区+v:Sixtimenight",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Arthurknight",
+                "end": 23,
+                "expanded_url": "http://t.me/Arthurknight",
+                "start": 0,
+                "url": "https://t.co/KYJB0WpsJC"
+              }
+            ]
+          }
+        },
+        "id": "1814290493418901504",
+        "location": "币公社",
+        "name": "币圈无产阶级大革命司令部",
+        "pinned_tweet_id": "2067229752453390472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067251783559421952/ORPmM8CO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1823,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 664
+        },
+        "url": "https://t.co/KYJB0WpsJC",
+        "username": "Sixtimenight",
+        "verified": true
+      }
+    ]
+  }
+}

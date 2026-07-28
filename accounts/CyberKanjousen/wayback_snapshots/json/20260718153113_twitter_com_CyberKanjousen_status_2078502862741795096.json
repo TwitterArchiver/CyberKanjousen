@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2078449454085222442",
+    "created_at": "2026-07-18T15:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078502862741795096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419907046615306242",
+          "start": 0,
+          "username": "forokora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078502862741795096",
+    "in_reply_to_user_id": "1419907046615306242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078502652808511992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@forokora 不太可能，这个标签明显是在香港时贴上的，跟台湾关系应该不大。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2078449454085222442",
+        "created_at": "2026-07-18T15:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078502862741795096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419907046615306242",
+              "start": 0,
+              "username": "forokora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078502862741795096",
+        "in_reply_to_user_id": "1419907046615306242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078502652808511992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@forokora 不太可能，这个标签明显是在香港时贴上的，跟台湾关系应该不大。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419907046615306242",
+        "conversation_id": "2078449454085222442",
+        "created_at": "2026-07-18T15:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078502652808511992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078502652808511992",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078502562614137132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 台湾人也说不定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10897,
+          "following_count": 883,
+          "like_count": 31201,
+          "listed_count": 17,
+          "media_count": 2148,
+          "tweet_count": 10696
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T06:26:55.000Z",
+        "description": "简体中文＆繁體中文＆English＆日本語\nACG・STEM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forokora.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://forokora.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/QMOZ60F541"
+              }
+            ]
+          }
+        },
+        "id": "1419907046615306242",
+        "location": "看看你後面",
+        "name": "Forokora",
+        "pinned_tweet_id": "1758610092662895003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644306591808897024/LBEX_RE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 183,
+          "like_count": 1971,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 2373
+        },
+        "url": "https://t.co/QMOZ60F541",
+        "username": "forokora",
+        "verified": true
+      }
+    ]
+  }
+}

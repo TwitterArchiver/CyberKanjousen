@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010423231950594048",
+        "3_2010423232181182464"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2010227865678426270",
+    "created_at": "2026-01-11T18:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T19:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010423238908936310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U79kNzCmTc",
+          "end": 59,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2010423238908936310/photo/1",
+          "media_key": "3_2010423231950594048",
+          "start": 36,
+          "url": "https://t.co/U79kNzCmTc"
+        },
+        {
+          "display_url": "pic.x.com/U79kNzCmTc",
+          "end": 59,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2010423238908936310/photo/1",
+          "media_key": "3_2010423232181182464",
+          "start": 36,
+          "url": "https://t.co/U79kNzCmTc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010423238908936310",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010227865678426270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 确实。生成回答几秒之后就被“无法回答”了 https://t.co/U79kNzCmTc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010423231950594048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Z1RxyboAAwF5I.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010423232181182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Z1RypaIAAEl2Y.jpg",
+        "width": 945
+      },
+      {
+        "height": 801,
+        "media_key": "3_2010227830949588994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XDj8VasAIAPse.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1837,
+        "media_key": "3_2010227850700566532",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XDlF6asAQz-iX.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010423231950594048",
+            "3_2010423232181182464"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2010227865678426270",
+        "created_at": "2026-01-11T18:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010423238908936310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U79kNzCmTc",
+              "end": 59,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2010423238908936310/photo/1",
+              "media_key": "3_2010423231950594048",
+              "start": 36,
+              "url": "https://t.co/U79kNzCmTc"
+            },
+            {
+              "display_url": "pic.x.com/U79kNzCmTc",
+              "end": 59,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2010423238908936310/photo/1",
+              "media_key": "3_2010423232181182464",
+              "start": 36,
+              "url": "https://t.co/U79kNzCmTc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010423238908936310",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010227865678426270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 确实。生成回答几秒之后就被“无法回答”了 https://t.co/U79kNzCmTc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010227830949588994",
+            "3_2010227850700566532"
+          ]
+        },
+        "author_id": "1164467672819499008",
+        "conversation_id": "2010227865678426270",
+        "created_at": "2026-01-11T05:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010227865678426270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfcZmgWOa0",
+              "end": 40,
+              "expanded_url": "https://x.com/whitelate0001/status/2010227865678426270/photo/1",
+              "media_key": "3_2010227830949588994",
+              "start": 17,
+              "url": "https://t.co/lfcZmgWOa0"
+            },
+            {
+              "display_url": "pic.x.com/lfcZmgWOa0",
+              "end": 40,
+              "expanded_url": "https://x.com/whitelate0001/status/2010227865678426270/photo/1",
+              "media_key": "3_2010227850700566532",
+              "start": 17,
+              "url": "https://t.co/lfcZmgWOa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010227865678426270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 82641,
+          "like_count": 587,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Deepseek為什麼無法回答？ https://t.co/lfcZmgWOa0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 558
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "來自台灣的中國愛國主義者🇹🇼 |不反共|包蜜| 自由/民主/有限市場經濟/民主社會主義/三民主義/中華民國派/泛藍/左翼/人道主義/科學主義的支持者 | Glory to China | \n\n賽博搬史王|究極炒作狗|偶爾發抽象tv\n\n| 預備成為準學測生，可能少用推\n\n | 鍵政減少中。。。",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇻🇪",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2820,
+          "following_count": 1151,
+          "like_count": 15285,
+          "listed_count": 10,
+          "media_count": 1219,
+          "tweet_count": 11717
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

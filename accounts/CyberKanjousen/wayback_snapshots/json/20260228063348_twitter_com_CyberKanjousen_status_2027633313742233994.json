@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027633306859409414",
+        "3_2027633306851020804"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2027603035678240953",
+    "created_at": "2026-02-28T06:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T07:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027633313742233994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2190435000",
+          "start": 0,
+          "username": "levineeet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0XKCr6IN4t",
+          "end": 68,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2027633313742233994/photo/1",
+          "media_key": "3_2027633306859409414",
+          "start": 45,
+          "url": "https://t.co/0XKCr6IN4t"
+        },
+        {
+          "display_url": "pic.x.com/0XKCr6IN4t",
+          "end": 68,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2027633313742233994/photo/1",
+          "media_key": "3_2027633306851020804",
+          "start": 45,
+          "url": "https://t.co/0XKCr6IN4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027633313742233994",
+    "in_reply_to_user_id": "2190435000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027603035678240953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@levineeet 根本不会弄混\n已经适应了这种低辨识度图标，然后app还是分开放的😁 https://t.co/0XKCr6IN4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027633306859409414",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOZv-4bEAYXTLW.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027633306851020804",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOZv-2bEAQrOfk.jpg",
+        "width": 945
+      },
+      {
+        "height": 537,
+        "media_key": "3_2027603029407744000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN-NmlawAAT9G8.jpg",
+        "width": 537
+      },
+      {
+        "height": 580,
+        "media_key": "3_2027603029411983360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCN-NmmbcAAqozk.jpg",
+        "width": 580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027633306859409414",
+            "3_2027633306851020804"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2027603035678240953",
+        "created_at": "2026-02-28T06:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027633313742233994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2190435000",
+              "start": 0,
+              "username": "levineeet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XKCr6IN4t",
+              "end": 68,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2027633313742233994/photo/1",
+              "media_key": "3_2027633306859409414",
+              "start": 45,
+              "url": "https://t.co/0XKCr6IN4t"
+            },
+            {
+              "display_url": "pic.x.com/0XKCr6IN4t",
+              "end": 68,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2027633313742233994/photo/1",
+              "media_key": "3_2027633306851020804",
+              "start": 45,
+              "url": "https://t.co/0XKCr6IN4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027633313742233994",
+        "in_reply_to_user_id": "2190435000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027603035678240953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@levineeet 根本不会弄混\n已经适应了这种低辨识度图标，然后app还是分开放的😁 https://t.co/0XKCr6IN4t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027603029407744000",
+            "3_2027603029411983360"
+          ]
+        },
+        "author_id": "2190435000",
+        "conversation_id": "2027603035678240953",
+        "created_at": "2026-02-28T04:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027603035678240953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDPBvaD8JN",
+              "end": 73,
+              "expanded_url": "https://x.com/levineeet/status/2027603035678240953/photo/1",
+              "media_key": "3_2027603029407744000",
+              "start": 50,
+              "url": "https://t.co/bDPBvaD8JN"
+            },
+            {
+              "display_url": "pic.x.com/bDPBvaD8JN",
+              "end": 73,
+              "expanded_url": "https://x.com/levineeet/status/2027603035678240953/photo/1",
+              "media_key": "3_2027603029411983360",
+              "start": 50,
+              "url": "https://t.co/bDPBvaD8JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027603035678240953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27861,
+          "like_count": 120,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淘宝换个粉色谁他妈看得出来这是淘宝？现在又更新换回橙色了，之前这个粉色能上线说明整个阿里都是傻逼😅 https://t.co/bDPBvaD8JN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanjousen_dwb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 89,
+          "like_count": 2257,
+          "listed_count": 2,
+          "media_count": 389,
+          "tweet_count": 1638
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2013-11-12T14:18:21.000Z",
+        "description": "Product Designer / Daily Thoughts / Credit Card Enthusiast / Investment Beginner",
+        "id": "2190435000",
+        "name": "Steve",
+        "pinned_tweet_id": "1992435814861836500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777489271928315904/s1gjYy6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16451,
+          "following_count": 630,
+          "like_count": 2047,
+          "listed_count": 107,
+          "media_count": 1984,
+          "tweet_count": 5794
+        },
+        "username": "levineeet",
+        "verified": false
+      }
+    ]
+  }
+}

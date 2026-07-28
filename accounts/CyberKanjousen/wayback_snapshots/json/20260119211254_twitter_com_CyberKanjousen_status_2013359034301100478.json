@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2013083763207549304",
+    "created_at": "2026-01-19T21:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T22:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013359034301100478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1155672520294408193",
+          "start": 0,
+          "username": "honchahmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013359034301100478",
+    "in_reply_to_user_id": "1155672520294408193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013083763207549304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honchahmb 我身边的朋友没有“稍微聊一会就加微信的”，无论男男还是男女间的\n可能都是社恐吧😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2013083763207549304",
+        "created_at": "2026-01-19T21:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T22:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013359034301100478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1155672520294408193",
+              "start": 0,
+              "username": "honchahmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013359034301100478",
+        "in_reply_to_user_id": "1155672520294408193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013083763207549304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honchahmb 我身边的朋友没有“稍微聊一会就加微信的”，无论男男还是男女间的\n可能都是社恐吧😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1155672520294408193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416151893609390081",
+              "name": "LINE"
+            }
+          }
+        ],
+        "conversation_id": "2013083763207549304",
+        "created_at": "2026-01-19T02:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T03:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013083763207549304"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.937,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 4,
+              "normalized_text": "日本",
+              "probability": 0.8326,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 27,
+              "normalized_text": "中国",
+              "probability": 0.8425,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 111,
+              "normalized_text": "日本",
+              "probability": 0.5505,
+              "start": 110,
+              "type": "Place"
+            },
+            {
+              "end": 123,
+              "normalized_text": "LINE",
+              "probability": 0.7571,
+              "start": 120,
+              "type": "Product"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013083763207549304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 36779,
+          "like_count": 519,
+          "quote_count": 18,
+          "reply_count": 20,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "中国と日本では、連絡先交換のハードルがだいぶ違う。\n中国では、少し会話しただけで男女問わず\n「加个微信吧（WeChat交換しよ）」が普通。\n\nタクシーの運転手や、今日会ったばかりの人とも\nノリでサクッと繋がる。\n\n一方、日本だと初対面で\n「LINE交換しよ」はまだ少し勇気がいる。\nこの距離感の差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 32,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 815
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-29T02:52:54.000Z",
+        "description": "【中国語学習・中華圏にルーツや興味がある方へ】90后｜中国語スラング・中国語学習・日中ハーフあるあるをご紹介｜教科書で習わない中国語を発信中💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@honcha-mixed-…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@honcha-mixed-race",
+                "start": 0,
+                "url": "https://t.co/Yx8Mz1tYXD"
+              }
+            ]
+          }
+        },
+        "id": "1155672520294408193",
+        "location": "👇YouTube：日中ハーフあるある/中国語と広東語の違い",
+        "name": "ほんちゃ🐼",
+        "pinned_tweet_id": "1997991765937434633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944894146898223106/heQyvTPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4543,
+          "following_count": 191,
+          "like_count": 95497,
+          "listed_count": 30,
+          "media_count": 1887,
+          "tweet_count": 17496
+        },
+        "url": "https://t.co/Yx8Mz1tYXD",
+        "username": "honchahmb",
+        "verified": false
+      }
+    ]
+  }
+}

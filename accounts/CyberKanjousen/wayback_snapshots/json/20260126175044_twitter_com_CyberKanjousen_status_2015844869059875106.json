@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015844862252486656"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015624718154608992",
+    "created_at": "2026-01-26T17:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015844869059875106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "155875026",
+          "start": 0,
+          "username": "RatFlat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OICvInrVbZ",
+          "end": 38,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2015844869059875106/photo/1",
+          "media_key": "3_2015844862252486656",
+          "start": 15,
+          "url": "https://t.co/OICvInrVbZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015844869059875106",
+    "in_reply_to_user_id": "155875026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015624718154608992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RatFlat 今3.6😭 https://t.co/OICvInrVbZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015844862252486656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_m4OMjbEAAPtYs.jpg",
+        "width": 945
+      },
+      {
+        "height": 878,
+        "media_key": "3_2015624690723848192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jv-hsaAAAtIyd.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2033,
+        "media_key": "3_2015624691160113152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jv-jUa4AAYMae.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1367,
+        "media_key": "3_2015624707618283520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jv_goWoAA_O5l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015844862252486656"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015624718154608992",
+        "created_at": "2026-01-26T17:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015844869059875106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "155875026",
+              "start": 0,
+              "username": "RatFlat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OICvInrVbZ",
+              "end": 38,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2015844869059875106/photo/1",
+              "media_key": "3_2015844862252486656",
+              "start": 15,
+              "url": "https://t.co/OICvInrVbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015844869059875106",
+        "in_reply_to_user_id": "155875026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015624718154608992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RatFlat 今3.6😭 https://t.co/OICvInrVbZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015624690723848192",
+            "3_2015624691160113152",
+            "3_2015624707618283520"
+          ]
+        },
+        "author_id": "155875026",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10028889887",
+              "name": "Google Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2015624718154608992",
+        "created_at": "2026-01-26T03:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015624718154608992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "AppStore 3.7",
+              "probability": 0.4455,
+              "start": 36,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfXt8E2LFW",
+              "end": 168,
+              "expanded_url": "https://x.com/RatFlat/status/2015624718154608992/photo/1",
+              "media_key": "3_2015624690723848192",
+              "start": 145,
+              "url": "https://t.co/lfXt8E2LFW"
+            },
+            {
+              "display_url": "pic.x.com/lfXt8E2LFW",
+              "end": 168,
+              "expanded_url": "https://x.com/RatFlat/status/2015624718154608992/photo/1",
+              "media_key": "3_2015624691160113152",
+              "start": 145,
+              "url": "https://t.co/lfXt8E2LFW"
+            },
+            {
+              "display_url": "pic.x.com/lfXt8E2LFW",
+              "end": 168,
+              "expanded_url": "https://x.com/RatFlat/status/2015624718154608992/photo/1",
+              "media_key": "3_2015624707618283520",
+              "start": 145,
+              "url": "https://t.co/lfXt8E2LFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015624718154608992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 287815,
+          "like_count": 1899,
+          "quote_count": 102,
+          "reply_count": 69,
+          "retweet_count": 269
+        },
+        "reply_settings": "everyone",
+        "text": "アークナイツエンドフィールド\n\n現状、モバイル版の評価はなかなか厳しい\nAppStore 3.7、GooglePlay 3.1\n仕方ないとは思います。数日じゃ評価難しいゲームでしょうと\n\nまだ行動レベル32で序盤　感想\n（厳しい事書いてるけど、それら差っ引いてもめちゃくちゃハマっている） https://t.co/lfXt8E2LFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CyberKanjousen",
+                "end": 23,
+                "expanded_url": "https://github.com/CyberKanjousen",
+                "start": 0,
+                "url": "https://t.co/t6dmiW4LzP"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 27,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/t6dmiW4LzP",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-15T11:29:23.000Z",
+        "description": "しがない社会人やってます。 漫画、アニメ、ゲーム好きです。最近はPS4/Switch/WiiU/PCでゲームばっかりやってます。萌え&燃え好きです 。Warframe復帰中...。崩壊3rd、崩壊スタレ、スノブレ、ゼンゼロ、NIKKE、鳴潮、無言フォロー失礼します。フォローはお気軽にどうぞb\nErg枠でコ〇〇ツ少々",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2438259",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/2438259",
+                "start": 0,
+                "url": "https://t.co/Pof9vhrYnN"
+              }
+            ]
+          }
+        },
+        "id": "155875026",
+        "location": "奈良県",
+        "name": "黒ラット （崩）",
+        "pinned_tweet_id": "1993151132198486177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668651574296453123/nWAg-kC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46882,
+          "following_count": 3573,
+          "like_count": 140555,
+          "listed_count": 145,
+          "media_count": 23911,
+          "tweet_count": 103426
+        },
+        "url": "https://t.co/Pof9vhrYnN",
+        "username": "RatFlat",
+        "verified": true
+      }
+    ]
+  }
+}

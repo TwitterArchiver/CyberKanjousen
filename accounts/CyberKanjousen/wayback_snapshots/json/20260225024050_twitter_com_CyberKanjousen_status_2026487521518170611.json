@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026304596885524956",
+    "created_at": "2026-02-25T02:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026487521518170611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843519961647722497",
+          "start": 0,
+          "username": "artstudent231"
+        },
+        {
+          "end": 23,
+          "id": "54313278",
+          "start": 15,
+          "username": "96Stats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026487521518170611",
+    "in_reply_to_user_id": "1843519961647722497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026468950536765502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artstudent231 @96Stats 有的地方不行，我高中同学现在在杭州科技大学，他们那里用校园网翻墙是要被处分的\n不过同样是校园网，我们威海工业大专就不管翻墙😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026304596885524956",
+        "created_at": "2026-02-25T02:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026487521518170611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843519961647722497",
+              "start": 0,
+              "username": "artstudent231"
+            },
+            {
+              "end": 23,
+              "id": "54313278",
+              "start": 15,
+              "username": "96Stats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026487521518170611",
+        "in_reply_to_user_id": "1843519961647722497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026468950536765502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artstudent231 @96Stats 有的地方不行，我高中同学现在在杭州科技大学，他们那里用校园网翻墙是要被处分的\n不过同样是校园网，我们威海工业大专就不管翻墙😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843519961647722497",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2026304596885524956",
+        "created_at": "2026-02-25T01:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026468950536765502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "54313278",
+              "start": 0,
+              "username": "96Stats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026468950536765502",
+        "in_reply_to_user_id": "54313278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我就是中国人，在中国大陆，你即便使用VPN访问了一些境外社交媒体，例如YouTube、twitter、Instagram之类的，而且在中国大陆，甚至有企业专门去有关部门申请正规的VPN来访问这些海外社交媒体，所以在中国大陆，只要你不发表一些政治敏感言论，基本上官方都是睁一只眼，闭一只眼，根本没有一些人说的那么恐怖与夸张！\nI am Chinese and live in Mainland China. Even here, people use VPNs to access overseas social media like YouTube, Twitter, and Instagram. In fact, some companies even apply for official VPN access through the relevant authorities. As long as you don't post politically sensitive content, the authorities generally turn a blind eye. It’s nowhere near as terrifying or exaggerated as some people make it out to be!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 276,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026304596885524956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@96Stats 我就是中国人，在中国大陆，你即便使用VPN访问了一些境外社交媒体，例如YouTube、twitter、Instagram之类的，而且在中国大陆，甚至有企业专门去有关部门申请正规的VPN来访问这些海外社交媒体，所以在中国大陆，只要你不发表一些政治敏感言论，基本上官方都是睁一只眼，闭一只眼，根本没有一些人说的那"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 69,
+          "like_count": 1879,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T05:13:14.000Z",
+        "description": "05/ENFP🌟/水瓶♒/坐标江苏南京，大学生🧑‍🎓一枚\n关于我推(*´▽`*)：\n偶像大师💫-樋口円香/浅仓透/双叶杏/藤田琴音\n邦邦✨-千早爱音/祐天寺若麦/高松灯/要乐奈/宇田川亚子\n怪奇物语👻-Steve/Dustin\nQQ扩列👀：2811129660\n欢迎各位老师来玩，喵（〜^∇^)〜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/artstudent0501…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/artstudent050126/",
+                "start": 0,
+                "url": "https://t.co/M037mmtJCu"
+              }
+            ]
+          }
+        },
+        "id": "1843519961647722497",
+        "location": "新エリー都",
+        "name": "弦菜卷饼心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025025589128908800/bx_MQEL7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 3367,
+          "like_count": 8023,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/M037mmtJCu",
+        "username": "artstudent231",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-06T19:56:38.000Z",
+        "description": "Graduated with AI PhD in Shanghai. Now working in Xinjiang. Watch my YouTube : Dr Luke in China",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/livinlavidal…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/livinlavidaluke",
+                "start": 0,
+                "url": "https://t.co/c8YdNCKgrg"
+              }
+            ]
+          }
+        },
+        "id": "54313278",
+        "location": "Urumqi, Xinjiang",
+        "name": "Dr. Luke in China",
+        "pinned_tweet_id": "1872998337961746585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1283655275208155136/G8toKLyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14834,
+          "following_count": 5472,
+          "like_count": 4187,
+          "listed_count": 117,
+          "media_count": 961,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/c8YdNCKgrg",
+        "username": "96Stats",
+        "verified": true
+      }
+    ]
+  }
+}

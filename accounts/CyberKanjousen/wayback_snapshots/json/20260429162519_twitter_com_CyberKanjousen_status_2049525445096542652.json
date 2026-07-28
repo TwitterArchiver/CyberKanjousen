@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2049491069159784959",
+    "created_at": "2026-04-29T16:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049525445096542652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738640912564297728",
+          "start": 0,
+          "username": "GalileoMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049525445096542652",
+    "in_reply_to_user_id": "1738640912564297728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049523033732432210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GalileoMoon 然而实际上并不能，即使能写出来也可能发不出去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2049491069159784959",
+        "created_at": "2026-04-29T16:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049525445096542652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738640912564297728",
+              "start": 0,
+              "username": "GalileoMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049525445096542652",
+        "in_reply_to_user_id": "1738640912564297728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049523033732432210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GalileoMoon 然而实际上并不能，即使能写出来也可能发不出去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738640912564297728",
+        "conversation_id": "2049491069159784959",
+        "created_at": "2026-04-29T16:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049523033732432210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049523033732432210",
+        "in_reply_to_user_id": "1738640912564297728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049521868517040277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 但是系統仍有它的內涵，就是我們好像無法發現系統這件事本身就是一個悖論，系統它是一個腳手架，但就如同「鋼鐵蟲師」遊戲一樣，你只能順著腳手架上下爬而不能轉移腳手架，這也就說明系統這個元素本身在內容裡就已經被固化，如果有哪個系統文作者能夠寫出這種矛盾，也不失為一種絕妙的諷刺文學。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 667,
+          "like_count": 16379,
+          "listed_count": 5,
+          "media_count": 937,
+          "tweet_count": 5054
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-23T19:21:20.000Z",
+        "description": "",
+        "id": "1738640912564297728",
+        "name": "顧言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048070800398520320/MuMJq49R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "GalileoMoon",
+        "verified": false
+      }
+    ]
+  }
+}

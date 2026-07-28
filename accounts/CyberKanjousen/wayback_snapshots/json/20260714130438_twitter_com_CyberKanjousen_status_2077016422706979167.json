@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2076980021512528134",
+    "created_at": "2026-07-14T13:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077016422706979167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1793634239449362432",
+          "start": 0,
+          "username": "JustinVonPluto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077016422706979167",
+    "in_reply_to_user_id": "1793634239449362432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077013430117318795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JustinVonPluto 还确实有这种可能性🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2076980021512528134",
+        "created_at": "2026-07-14T13:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077016422706979167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1793634239449362432",
+              "start": 0,
+              "username": "JustinVonPluto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077016422706979167",
+        "in_reply_to_user_id": "1793634239449362432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077013430117318795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JustinVonPluto 还确实有这种可能性🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793634239449362432",
+        "conversation_id": "2076980021512528134",
+        "created_at": "2026-07-14T12:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077013430117318795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077013430117318795",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076980021512528134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这里面所有人的回答都陷入了一个信息爆炸社会里的现代人经常会陷入的一个误区，即画师是充足的信息和图样参考的。\n\n有没有一种可能，画师可能根本就没有可以确切参考的图样，运气好可以有模糊的照片照葫芦画瓢，运气不好就只能凭借他人的描述去自我发挥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10417,
+          "following_count": 882,
+          "like_count": 30679,
+          "listed_count": 13,
+          "media_count": 2061,
+          "tweet_count": 10352
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T13:25:10.000Z",
+        "description": "",
+        "id": "1793634239449362432",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007558126476898305/BEtmEAh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 19,
+          "like_count": 4915,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1381
+        },
+        "url": "",
+        "username": "JustinVonPluto",
+        "verified": false
+      }
+    ]
+  }
+}

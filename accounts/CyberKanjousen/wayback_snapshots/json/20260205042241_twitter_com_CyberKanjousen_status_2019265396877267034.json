@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2019265396877267034",
+    "created_at": "2026-02-05T04:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T05:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019265396877267034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbcworld/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/bbcworld/status/2019212913492246536",
+          "start": 49,
+          "url": "https://t.co/q2BJTJIy4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019265396877267034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019212913492246536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国应该也应该禁止小孩使用社交媒体\n我8岁的妹妹在家天天看快手、小红书、抖音这些，现在嘴比我还脏 https://t.co/q2BJTJIy4r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2019265396877267034",
+        "created_at": "2026-02-05T04:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019265396877267034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcworld/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/bbcworld/status/2019212913492246536",
+              "start": 49,
+              "url": "https://t.co/q2BJTJIy4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019265396877267034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019212913492246536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国应该也应该禁止小孩使用社交媒体\n我8岁的妹妹在家天天看快手、小红书、抖音这些，现在嘴比我还脏 https://t.co/q2BJTJIy4r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "742143",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "General Worldwide News",
+              "id": "840159616101044224",
+              "name": "World news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "2019212913492246536",
+        "created_at": "2026-02-05T00:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T01:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019212913492246536"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "India",
+              "probability": 0.9699,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Some Indian states have said they are examining Australia's law curbing social media for children.",
+              "display_url": "bbc.in/4qXhwVM",
+              "end": 86,
+              "expanded_url": "https://bbc.in/4qXhwVM",
+              "start": 63,
+              "status": 200,
+              "title": "Social media ban for children: Is it possible in India?",
+              "unwound_url": "https://www.bbc.com/news/articles/c9qpr37d84qo?xtor=AL-71-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_link_type=web_link&at_campaign_type=owned&at_campaign=Social_Flow&at_ptr_name=twitter&at_medium=social&at_link_id=29F85B60-022D-11F1-814C-CF378169D5C7&at_format=link&at_link_origin=BBCWorld&at_bbc_team=editorial",
+              "url": "https://t.co/2foXc5g3Xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019212913492246536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 29548,
+          "like_count": 92,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Growing calls in India to restrict children's social media use https://t.co/2foXc5g3Xj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 30,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-01T07:44:29.000Z",
+        "description": "News, features and analysis from the World's newsroom. Breaking news, follow @BBCBreaking. UK news, @BBCNews. Latest sports news @BBCSport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "BBCBreaking"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "username": "BBCNews"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "BBCSport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/news",
+                "end": 23,
+                "expanded_url": "http://www.bbc.com/news",
+                "start": 0,
+                "url": "https://t.co/4zUWrLAYqP"
+              }
+            ]
+          }
+        },
+        "id": "742143",
+        "location": "London, UK",
+        "name": "BBC News (World)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529107170448523264/q3VwEx38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41461577,
+          "following_count": 17,
+          "like_count": 1,
+          "listed_count": 132971,
+          "media_count": 27235,
+          "tweet_count": 405178
+        },
+        "url": "https://t.co/4zUWrLAYqP",
+        "username": "BBCWorld",
+        "verified": true
+      }
+    ]
+  }
+}

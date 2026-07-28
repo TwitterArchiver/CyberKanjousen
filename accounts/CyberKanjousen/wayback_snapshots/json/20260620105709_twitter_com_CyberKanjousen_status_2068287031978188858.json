@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2068283761800937498",
+    "created_at": "2026-06-20T10:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068287031978188858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517260810065752065",
+          "start": 0,
+          "username": "Nova_Nightfall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068287031978188858",
+    "in_reply_to_user_id": "1517260810065752065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068286406578020624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nova_Nightfall 很难想象谷歌模型调用工具到底是是不是人类开发的，调用个生图模型比自己画一张图还困难😓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068286394125164544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQHhGeaoAAFmdL.jpg",
+        "width": 1014
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068286394116792321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQHhGca4AEfHJ-.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2068283761800937498",
+        "created_at": "2026-06-20T10:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068287031978188858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517260810065752065",
+              "start": 0,
+              "username": "Nova_Nightfall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068287031978188858",
+        "in_reply_to_user_id": "1517260810065752065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068286406578020624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nova_Nightfall 很难想象谷歌模型调用工具到底是是不是人类开发的，调用个生图模型比自己画一张图还困难😓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068286394125164544",
+            "3_2068286394116792321"
+          ]
+        },
+        "author_id": "1517260810065752065",
+        "conversation_id": "2068283761800937498",
+        "created_at": "2026-06-20T10:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068286406578020624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2opNpx3Qs7",
+              "end": 98,
+              "expanded_url": "https://x.com/Nova_Nightfall/status/2068286406578020624/photo/1",
+              "media_key": "3_2068286394125164544",
+              "start": 75,
+              "url": "https://t.co/2opNpx3Qs7"
+            },
+            {
+              "display_url": "pic.x.com/2opNpx3Qs7",
+              "end": 98,
+              "expanded_url": "https://x.com/Nova_Nightfall/status/2068286406578020624/photo/1",
+              "media_key": "3_2068286394116792321",
+              "start": 75,
+              "url": "https://t.co/2opNpx3Qs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068286406578020624",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068283761800937498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 小提示：可以通过点➕把模型调整成 pro，之后就能答对了（当然模型模型答不对也是够离谱的，谷歌模型调用工具天天抽风） https://t.co/2opNpx3Qs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 876,
+          "like_count": 27197,
+          "listed_count": 12,
+          "media_count": 1600,
+          "tweet_count": 8493
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T21:56:57.000Z",
+        "description": "Techno-optimist fascinated by the unconventional and psychology. Exploring new learning methods, lost in poetry, and gazing at the starry sky.",
+        "id": "1517260810065752065",
+        "location": "earth",
+        "name": "Nova",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767212878711648256/zNjogAz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 230,
+          "like_count": 1328,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "Nova_Nightfall",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026885564386127872"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026556480309309447",
+    "created_at": "2026-02-26T05:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026885571281564148"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "中国",
+          "probability": 0.8754,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507284349930307585",
+          "start": 0,
+          "username": "taturyu9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/09zcj8yJlr",
+          "end": 48,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2026885571281564148/photo/1",
+          "media_key": "3_2026885564386127872",
+          "start": 25,
+          "url": "https://t.co/09zcj8yJlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026885571281564148",
+    "in_reply_to_user_id": "1507284349930307585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026556480309309447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taturyu9 実際には、これは中国の政治垢 https://t.co/09zcj8yJlr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026885564386127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDxrpGaMAAwA1Y.jpg",
+        "width": 945
+      },
+      {
+        "height": 1644,
+        "media_key": "3_2026556457404215299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_GXGDaMAMQjDM.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026885564386127872"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026556480309309447",
+        "created_at": "2026-02-26T05:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026885571281564148"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "中国",
+              "probability": 0.8754,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507284349930307585",
+              "start": 0,
+              "username": "taturyu9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09zcj8yJlr",
+              "end": 48,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026885571281564148/photo/1",
+              "media_key": "3_2026885564386127872",
+              "start": 25,
+              "url": "https://t.co/09zcj8yJlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026885571281564148",
+        "in_reply_to_user_id": "1507284349930307585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026556480309309447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taturyu9 実際には、これは中国の政治垢 https://t.co/09zcj8yJlr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026556457404215299"
+          ]
+        },
+        "author_id": "1507284349930307585",
+        "conversation_id": "2026556480309309447",
+        "created_at": "2026-02-25T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026556480309309447"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8832,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KKeGykPfUe",
+              "end": 41,
+              "expanded_url": "https://x.com/taturyu9/status/2026556480309309447/photo/1",
+              "media_key": "3_2026556457404215299",
+              "start": 18,
+              "url": "https://t.co/KKeGykPfUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026556480309309447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1870,
+          "impression_count": 1196842,
+          "like_count": 16819,
+          "quote_count": 34,
+          "reply_count": 71,
+          "retweet_count": 712
+        },
+        "reply_settings": "everyone",
+        "text": "中国のエロ垢ってそういう感じなんや https://t.co/KKeGykPfUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 75,
+          "like_count": 1985,
+          "listed_count": 2,
+          "media_count": 371,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T09:13:06.000Z",
+        "description": "京大物工 B2! 機械システム",
+        "id": "1507284349930307585",
+        "name": "taturyugf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973244894958518272/US7FQU-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 527,
+          "like_count": 2573,
+          "listed_count": 4,
+          "media_count": 736,
+          "tweet_count": 4930
+        },
+        "username": "taturyu9",
+        "verified": false
+      }
+    ]
+  }
+}

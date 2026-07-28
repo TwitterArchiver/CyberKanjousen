@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2050597946459402507",
+    "created_at": "2026-05-03T02:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050766049721901480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1509391402484080646",
+          "start": 0,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050766049721901480",
+    "in_reply_to_user_id": "1509391402484080646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050597946459402507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moran_neko 自从用了 Mac 以后就没碰过 Edge 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2050597946459402507",
+        "created_at": "2026-05-03T02:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050766049721901480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1509391402484080646",
+              "start": 0,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050766049721901480",
+        "in_reply_to_user_id": "1509391402484080646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050597946459402507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moran_neko 自从用了 Mac 以后就没碰过 Edge 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509391402484080646",
+        "conversation_id": "2050597946459402507",
+        "created_at": "2026-05-02T15:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050597946459402507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050597946459402507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2615,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不会用edge浏览器了\n臭狗屎一个\n越用越难受这一块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 709,
+          "like_count": 17132,
+          "listed_count": 8,
+          "media_count": 953,
+          "tweet_count": 5236
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "ⓘ活过来了┋\n嘘——快躲好，不要被命运抓住了┋\n成分请看置顶帖┋\n挂一个走失的孩子@mokuneko_21（里推）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "mokuneko_21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "西三环七号汇流井J-A6-01",
+        "name": "默然*✰‧₊˚²¹",
+        "pinned_tweet_id": "2050599873410642152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034922845395197952/4a1QDbiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 1845,
+          "like_count": 41182,
+          "listed_count": 7,
+          "media_count": 1986,
+          "tweet_count": 8875
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

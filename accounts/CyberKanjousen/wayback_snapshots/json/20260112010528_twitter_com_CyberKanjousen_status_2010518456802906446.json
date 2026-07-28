@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1486467051363258370",
+          "name": "IPOs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2010518456802906446",
+    "created_at": "2026-01-12T01:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T02:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010518456802906446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "6690032",
+          "start": 3,
+          "username": "vista8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010518456802906446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010367030101492132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vista8: 本周有两家中国AI公司上市：智谱AI和MiniMax，IPO都很成功。\n\n但在北京的AGI-Next峰会上，中国AI领军人物的态度却很谨慎。\n\n阿里Qwen团队负责人说，未来3到5年，中国公司超越OpenAI和Anthropic的概率不到20%。\n\n智谱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2010366408623022080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ZBmOZaYAARLvr.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2010518456802906446",
+        "created_at": "2026-01-12T01:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T02:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010518456802906446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "6690032",
+              "start": 3,
+              "username": "vista8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010518456802906446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010367030101492132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vista8: 本周有两家中国AI公司上市：智谱AI和MiniMax，IPO都很成功。\n\n但在北京的AGI-Next峰会上，中国AI领军人物的态度却很谨慎。\n\n阿里Qwen团队负责人说，未来3到5年，中国公司超越OpenAI和Anthropic的概率不到20%。\n\n智谱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010366408623022080"
+          ]
+        },
+        "author_id": "6690032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486467051363258370",
+              "name": "IPOs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2010367030101492132",
+        "created_at": "2026-01-11T15:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010367030101492132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYewUaU3Zk",
+              "end": 163,
+              "expanded_url": "https://x.com/vista8/status/2010367030101492132/photo/1",
+              "media_key": "3_2010366408623022080",
+              "start": 140,
+              "url": "https://t.co/DYewUaU3Zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010367030101492132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "本周有两家中国AI公司上市：智谱AI和MiniMax，IPO都很成功。\n\n但在北京的AGI-Next峰会上，中国AI领军人物的态度却很谨慎。\n\n阿里Qwen团队负责人说，未来3到5年，中国公司超越OpenAI和Anthropic的概率不到20%。\n\n智谱的创始人唐杰说得更直白：\n\n\"我们刚发布了一些开源模型，有些人可能觉得中国模型超越了美国。但真实答案是，差距可能实际上在扩大。\"\n\n---\n\n看来头部的几家模型公司负责人还是很清醒的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 37166,
+          "like_count": 124,
+          "quote_count": 9,
+          "reply_count": 36,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "本周有两家中国AI公司上市：智谱AI和MiniMax，IPO都很成功。\n\n但在北京的AGI-Next峰会上，中国AI领军人物的态度却很谨慎。\n\n阿里Qwen团队负责人说，未来3到5年，中国公司超越OpenAI和Anthropic的概率不到20%。\n\n智谱的创始人唐杰说得更直白： https://t.co/DYewUaU3Zk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 561
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-09T05:48:52.000Z",
+        "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qiaomu.ai",
+                "end": 39,
+                "expanded_url": "https://www.qiaomu.ai",
+                "start": 16,
+                "url": "https://t.co/vnUpLt752o"
+              }
+            ]
+          }
+        },
+        "id": "6690032",
+        "location": "Beijing",
+        "name": "向阳乔木",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960882043249942533/h4J39ERy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78260,
+          "following_count": 1427,
+          "like_count": 7661,
+          "listed_count": 1147,
+          "media_count": 2001,
+          "tweet_count": 6691
+        },
+        "username": "vista8",
+        "verified": true
+      }
+    ]
+  }
+}

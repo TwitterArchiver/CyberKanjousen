@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012776724149293092",
+    "created_at": "2026-01-18T06:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012778542627741820"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012778542627741820",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012776724149293092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "既然如此只好掏出我的猪肝色了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_2012776717178318848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-7RwpeXMAApDds.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012776724149293092",
+        "created_at": "2026-01-18T06:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012778542627741820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012778542627741820",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012776724149293092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然如此只好掏出我的猪肝色了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012776717178318848"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012776724149293092",
+        "created_at": "2026-01-18T06:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012776724149293092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RiQ2xTNStp",
+              "end": 42,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2012776724149293092/photo/1",
+              "media_key": "3_2012776717178318848",
+              "start": 19,
+              "url": "https://t.co/RiQ2xTNStp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012776724149293092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的脸和我的身份证图片根本是两个人😭 https://t.co/RiQ2xTNStp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 652
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

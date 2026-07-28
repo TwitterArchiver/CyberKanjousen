@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028493891293609984"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2028470390608306300",
+    "created_at": "2026-03-02T15:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028493900915347522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hHf0lio6N5",
+          "end": 68,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2028493900915347522/photo/1",
+          "media_key": "3_2028493891293609984",
+          "start": 45,
+          "url": "https://t.co/hHf0lio6N5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028493900915347522",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028470390608306300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 高通骁龙 8+ 于 2022 年发布，而非 2013 年 https://t.co/hHf0lio6N5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028493891293609984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaoclubAAAQ926.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 67466,
+        "height": 1080,
+        "media_key": "13_2028254892679143424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028254892679143424/img/Qr1lvuTFMwfnP847.jpg",
+        "public_metrics": {
+          "view_count": 72787
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028254892679143424/vid/avc1/480x270/2h8ED7-b5jfH9Ew3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028254892679143424/pl/s81KBn0JzWkbdvvR.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028254892679143424/vid/avc1/1280x720/tBOgpKeWC0cYvVNq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028254892679143424/vid/avc1/640x360/DK7_woKiYr2FsKeJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028254892679143424/vid/avc1/1920x1080/W-W820qQCS5Q6IfX.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028493891293609984"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028470390608306300",
+        "created_at": "2026-03-02T15:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028493900915347522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHf0lio6N5",
+              "end": 68,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2028493900915347522/photo/1",
+              "media_key": "3_2028493891293609984",
+              "start": 45,
+              "url": "https://t.co/hHf0lio6N5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028493900915347522",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028470390608306300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 高通骁龙 8+ 于 2022 年发布，而非 2013 年 https://t.co/hHf0lio6N5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028254892679143424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2028470390608306300",
+        "created_at": "2026-03-02T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028470390608306300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Md10FVK9QP",
+              "end": 160,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2028470390608306300/video/1",
+              "media_key": "13_2028254892679143424",
+              "start": 137,
+              "url": "https://t.co/Md10FVK9QP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028470390608306300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 138700,
+          "like_count": 534,
+          "quote_count": 9,
+          "reply_count": 67,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "3月1日，一名数码博主称，华为最近新上架一款手机——华为p60 Art 售价5499元，该机器使用高通骁龙8+处理器，但这款CPU于2013年上市....\n\n 博主表示，也不知道华为从哪个犄角旮旯里找到这一批货，华为粉有福了，5499可以不仅能买到绝版cpu还能支持华为。 https://t.co/Md10FVK9QP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 102,
+          "like_count": 2554,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2025900193976308004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197137,
+          "following_count": 1018,
+          "like_count": 9111,
+          "listed_count": 8601,
+          "media_count": 42472,
+          "tweet_count": 49502
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

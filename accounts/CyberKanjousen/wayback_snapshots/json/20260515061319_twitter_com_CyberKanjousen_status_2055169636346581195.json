@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053357842107924480"
+      ],
+      "media_source_tweet_id": [
+        "2055169556755497383"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2055169636346581195",
+    "created_at": "2026-05-15T06:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055169636346581195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619243328389935104",
+          "start": 3,
+          "username": "CollaboAnime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/faItCFJcMx",
+          "end": 41,
+          "expanded_url": "https://x.com/CollaboAnime/status/2055169556755497383/photo/1",
+          "media_key": "3_2053357842107924480",
+          "start": 18,
+          "url": "https://t.co/faItCFJcMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055169636346581195",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055169556755497383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CollaboAnime: https://t.co/faItCFJcMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2053357842107924480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7-FAebAAACvlK.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053357842107924480"
+          ],
+          "media_source_tweet_id": [
+            "2055169556755497383"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055169636346581195",
+        "created_at": "2026-05-15T06:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055169636346581195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619243328389935104",
+              "start": 3,
+              "username": "CollaboAnime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/faItCFJcMx",
+              "end": 41,
+              "expanded_url": "https://x.com/CollaboAnime/status/2055169556755497383/photo/1",
+              "media_key": "3_2053357842107924480",
+              "start": 18,
+              "url": "https://t.co/faItCFJcMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055169636346581195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055169556755497383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CollaboAnime: https://t.co/faItCFJcMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053357842107924480"
+          ]
+        },
+        "author_id": "1619243328389935104",
+        "conversation_id": "2055169556755497383",
+        "created_at": "2026-05-15T06:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055169556755497383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/faItCFJcMx",
+              "end": 23,
+              "expanded_url": "https://x.com/CollaboAnime/status/2055169556755497383/photo/1",
+              "media_key": "3_2053357842107924480",
+              "start": 0,
+              "url": "https://t.co/faItCFJcMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055169556755497383",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/faItCFJcMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3251,
+          "following_count": 821,
+          "like_count": 19832,
+          "listed_count": 8,
+          "media_count": 1060,
+          "tweet_count": 5897
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-28T07:58:00.000Z",
+        "description": "Life is Rock\nThese works are strictlyfor personal expression and appreciation\nhttps://t.co/lt4GTwU98l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Rockuhero",
+                "end": 101,
+                "expanded_url": "http://www.youtube.com/@Rockuhero",
+                "start": 78,
+                "url": "https://t.co/lt4GTwU98l"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/0MlZaOb…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/artist/0MlZaObd0EIQxXqhueVNgq?si=WkeW1hsvRkCZnSFKepVWsg",
+                "start": 0,
+                "url": "https://t.co/cUn8jtkVPO"
+              }
+            ]
+          }
+        },
+        "id": "1619243328389935104",
+        "location": "Music🎸",
+        "name": "Meno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868983316768276480/5O1E3lCI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31501,
+          "following_count": 216,
+          "like_count": 2092,
+          "listed_count": 161,
+          "media_count": 749,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/cUn8jtkVPO",
+        "username": "CollaboAnime",
+        "verified": false
+      }
+    ]
+  }
+}

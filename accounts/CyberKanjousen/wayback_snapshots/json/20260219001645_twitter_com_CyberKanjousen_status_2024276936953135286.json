@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585783622123954176",
+          "name": "Coming of age"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1586040452628721664",
+          "name": "Slice of life"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2024276936953135286",
+    "created_at": "2026-02-19T00:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024276936953135286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1836602097644785664",
+          "start": 3,
+          "username": "callupgirls_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024276936953135286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024145560039813307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @callupgirls_cn: 国产原创动画《呼唤少女》特别篇正式上线啦！改编自同名漫画，讲述少女们的日常故事，系列周边与歌曲已经架！与你一同共赴青春之约\n动画制作：@四次方动画  配音：叶曦——金娜、白小桃——多多poi丶、孙芝雅——宴宁 音乐制作：永夜蛰居_Toko…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585783622123954176",
+              "name": "Coming of age"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2024276936953135286",
+        "created_at": "2026-02-19T00:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024276936953135286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1836602097644785664",
+              "start": 3,
+              "username": "callupgirls_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024276936953135286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024145560039813307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @callupgirls_cn: 国产原创动画《呼唤少女》特别篇正式上线啦！改编自同名漫画，讲述少女们的日常故事，系列周边与歌曲已经架！与你一同共赴青春之约\n动画制作：@四次方动画  配音：叶曦——金娜、白小桃——多多poi丶、孙芝雅——宴宁 音乐制作：永夜蛰居_Toko…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836602097644785664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585783622123954176",
+              "name": "Coming of age"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2024145560039813307",
+        "created_at": "2026-02-18T15:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024145560039813307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 172,
+              "id": "10228272",
+              "start": 164,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "description": "国产原创动画《呼唤少女》特别篇正式上线啦！改编自同名漫画，讲述少女们欢乐的校园轻日常番剧！系列周边与歌曲同步上架，更多惊喜可以搜索《呼唤少女》2月14日，与你一同共赴青春之约！ 动画制作：四次方动画 配音：叶曦CV金娜 、白小桃CV多多poi丶 、孙芝雅CV宴宁音乐制作：永夜蛰居_TokoyoP 主题曲...",
+              "display_url": "youtu.be/UKNp4LZpyGw?si…",
+              "end": 160,
+              "expanded_url": "https://youtu.be/UKNp4LZpyGw?si=sR3eT0megc1DAg5V",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2024145563491733504/EmbLjpcI?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024145563491733504/EmbLjpcI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "《呼唤少女》特别篇-想做的事到底是什么",
+              "unwound_url": "https://www.youtube.com/watch?si=sR3eT0megc1DAg5V&v=UKNp4LZpyGw&feature=youtu.be",
+              "url": "https://t.co/yXlkVzX7cT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024145560039813307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 12212,
+          "like_count": 144,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "国产原创动画《呼唤少女》特别篇正式上线啦！改编自同名漫画，讲述少女们的日常故事，系列周边与歌曲已经架！与你一同共赴青春之约\n动画制作：@四次方动画  配音：叶曦——金娜、白小桃——多多poi丶、孙芝雅——宴宁 音乐制作：永夜蛰居_TokoyoP 主题曲 演唱：hanser\nhttps://t.co/yXlkVzX7cT 来自 @YouTube"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 47,
+          "like_count": 1348,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-19T03:04:09.000Z",
+        "description": "*原创漫画*《呼唤少女》各大平台连载中 kk漫画、🐧动漫和阿b漫画均可免费观看 商务合作请私信 感谢各位的支持！ 同名动画正在火热制作中！",
+        "id": "1836602097644785664",
+        "name": "呼唤少女Call Up Girls",
+        "pinned_tweet_id": "1838131853703946361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836604701061844997/5uuYtIvz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 1,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 25
+        },
+        "username": "callupgirls_cn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2001612905733853665",
+    "created_at": "2025-12-18T11:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T12:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001613313088852018"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001613313088852018",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001612905733853665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打phi打一半iPad炸了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19636,
+        "height": 720,
+        "media_key": "13_2001612829561098242",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001612829561098242/img/oKOc1duu8BoW_28R.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001612829561098242/vid/avc1/480x270/dsoWSt1QDQx9BKEe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001612829561098242/vid/avc1/640x360/AdB8pfAP_I8vtbNB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001612829561098242/vid/avc1/1280x720/kFzOqQ44rGFey8vy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001612829561098242/pl/GD6k_FaviBdE-Fvn.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2001612905733853665",
+        "created_at": "2025-12-18T11:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001613313088852018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001613313088852018",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001612905733853665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打phi打一半iPad炸了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001612829561098242"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2001612905733853665",
+        "created_at": "2025-12-18T11:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001612905733853665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmPi8tMz6j",
+              "end": 26,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2001612905733853665/video/1",
+              "media_key": "13_2001612829561098242",
+              "start": 3,
+              "url": "https://t.co/mmPi8tMz6j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001612905733853665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😇 https://t.co/mmPi8tMz6j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 268
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023411388799135744"
+      ],
+      "media_source_tweet_id": [
+        "2023411395577135554"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2023430580034318528",
+    "created_at": "2026-02-16T16:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023430580034318528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2018306514549972992",
+          "start": 3,
+          "username": "bcfqdtfqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xE32UQbQG6",
+          "end": 38,
+          "expanded_url": "https://x.com/bcfqdtfqz/status/2023411395577135554/photo/1",
+          "media_key": "3_2023411388799135744",
+          "start": 15,
+          "url": "https://t.co/xE32UQbQG6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023430580034318528",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023411395577135554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bcfqdtfqz: https://t.co/xE32UQbQG6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_2023411388799135744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSZ8AfaMAAr0k7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023411388799135744"
+          ],
+          "media_source_tweet_id": [
+            "2023411395577135554"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2023430580034318528",
+        "created_at": "2026-02-16T16:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023430580034318528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2018306514549972992",
+              "start": 3,
+              "username": "bcfqdtfqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xE32UQbQG6",
+              "end": 38,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2023411395577135554/photo/1",
+              "media_key": "3_2023411388799135744",
+              "start": 15,
+              "url": "https://t.co/xE32UQbQG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023430580034318528",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023411395577135554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bcfqdtfqz: https://t.co/xE32UQbQG6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023411388799135744"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2023411395577135554",
+        "created_at": "2026-02-16T14:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023411395577135554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xE32UQbQG6",
+              "end": 23,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2023411395577135554/photo/1",
+              "media_key": "3_2023411388799135744",
+              "start": 0,
+              "url": "https://t.co/xE32UQbQG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023411395577135554",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xE32UQbQG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 40,
+          "like_count": 1232,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是秽土转生的番茄🍅， 日常分享有趣的东西，欢迎大家私信关注呀",
+        "id": "2018306514549972992",
+        "location": "Tokyo，Japan",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 787,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 493
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

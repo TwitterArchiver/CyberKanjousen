@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012605576065200366",
+    "created_at": "2026-01-18T08:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T09:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012809412117672057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "873093615119028224",
+          "start": 0,
+          "username": "xiaomin29862904"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012809412117672057",
+    "in_reply_to_user_id": "873093615119028224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012605576065200366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomin29862904 来fo😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012605576065200366",
+        "created_at": "2026-01-18T08:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T09:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012809412117672057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "873093615119028224",
+              "start": 0,
+              "username": "xiaomin29862904"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012809412117672057",
+        "in_reply_to_user_id": "873093615119028224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012605576065200366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomin29862904 来fo😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873093615119028224",
+        "conversation_id": "2012605576065200366",
+        "created_at": "2026-01-17T19:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012605576065200366"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012605576065200366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8362,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 162,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "又来要蓝V互关了。\n\n一天不到两千人每日讨要一遍。\n\n来人啦，必回，永不放弃关注！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 664
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-09T08:25:13.000Z",
+        "description": "When you zoom in, have you ever thought that your childhood dream was to become a scientist",
+        "id": "873093615119028224",
+        "location": "Hong Kong",
+        "name": "iBeautifulGirls",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008098919058952192/VsVBbF8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 305,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "xiaomin29862904",
+        "verified": true
+      }
+    ]
+  }
+}

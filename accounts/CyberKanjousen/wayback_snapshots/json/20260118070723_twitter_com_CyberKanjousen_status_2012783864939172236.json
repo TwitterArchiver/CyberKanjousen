@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012752199281946769",
+    "created_at": "2026-01-18T07:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012783864939172236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622255626066731010",
+          "start": 0,
+          "username": "SagerRgyalpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012783864939172236",
+    "in_reply_to_user_id": "1622255626066731010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012752199281946769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagerRgyalpo 学到了，请问这样靠得住的母亲上哪里找"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_2012752183289073664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-67clnWUAAyMAL.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012752199281946769",
+        "created_at": "2026-01-18T07:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012783864939172236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622255626066731010",
+              "start": 0,
+              "username": "SagerRgyalpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012783864939172236",
+        "in_reply_to_user_id": "1622255626066731010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012752199281946769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagerRgyalpo 学到了，请问这样靠得住的母亲上哪里找"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012752183289073664"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "757611799076216833",
+              "name": "Achraf Hakimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "757611799076216833",
+              "name": "Achraf Hakimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "2012752199281946769",
+        "created_at": "2026-01-18T05:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012752199281946769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7QHuG7HPI",
+              "end": 86,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2012752199281946769/photo/1",
+              "media_key": "3_2012752183289073664",
+              "start": 63,
+              "url": "https://t.co/E7QHuG7HPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012752199281946769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6502,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "摩洛哥足球运动员阿什拉夫·哈基米（Achraf Hakimi）的妻子要与他离婚并分走一半财产，可他本人名下没有任何财产可分。 https://t.co/E7QHuG7HPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 653
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "女男平等｜gender equality｜성평등｜爱与和平🕊️☮️｜欢迎私信投稿｜📧SagerRgyalpo@gmail.com｜https://t.co/PbBajSfJT6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@sagerrgyalpo",
+                "end": 88,
+                "expanded_url": "https://youtube.com/@sagerrgyalpo",
+                "start": 65,
+                "url": "https://t.co/PbBajSfJT6"
+              }
+            ]
+          }
+        },
+        "id": "1622255626066731010",
+        "location": "Russia",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "1973412095841673321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597064276717571/syqfEMmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8260,
+          "following_count": 404,
+          "like_count": 955,
+          "listed_count": 26,
+          "media_count": 1339,
+          "tweet_count": 3228
+        },
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

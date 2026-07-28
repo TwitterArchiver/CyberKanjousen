@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2030780603306819916",
+    "created_at": "2026-03-13T16:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032487858515382705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993455710274043905",
+          "start": 0,
+          "username": "satireorcry1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0321k9/status/…",
+          "end": 49,
+          "expanded_url": "https://x.com/0321k9/status/2032415614271201440?s=46",
+          "start": 26,
+          "url": "https://t.co/SewBHAfsOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032487858515382705",
+    "in_reply_to_user_id": "1993455710274043905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032415614271201440",
+        "type": "quoted"
+      },
+      {
+        "id": "2030780603306819916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satireorcry1 他不是以色列国防军士兵\nhttps://t.co/SewBHAfsOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45534,
+        "height": 1280,
+        "media_key": "13_2030740116575260672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030740116575260672/img/MFqgd-NtUNiLiUvV.jpg",
+        "public_metrics": {
+          "view_count": 105550
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030740116575260672/vid/avc1/320x568/_i9rn9WEUajw7rr7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030740116575260672/vid/avc1/480x852/LSWYPfic3v7Vk0zT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030740116575260672/vid/avc1/720x1280/X8fCSTvgQ6IXiONo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030740116575260672/pl/koTuCOXZToln7ofF.m3u8?v=b83"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2030780603306819916",
+        "created_at": "2026-03-13T16:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032487858515382705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993455710274043905",
+              "start": 0,
+              "username": "satireorcry1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0321k9/status/…",
+              "end": 49,
+              "expanded_url": "https://x.com/0321k9/status/2032415614271201440?s=46",
+              "start": 26,
+              "url": "https://t.co/SewBHAfsOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032487858515382705",
+        "in_reply_to_user_id": "1993455710274043905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032415614271201440",
+            "type": "quoted"
+          },
+          {
+            "id": "2030780603306819916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satireorcry1 他不是以色列国防军士兵\nhttps://t.co/SewBHAfsOY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "714819333449322496",
+        "conversation_id": "2032415614271201440",
+        "created_at": "2026-03-13T11:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032415614271201440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 183,
+              "normalized_text": "Kaifeng Jew",
+              "probability": 0.7889,
+              "start": 173,
+              "type": "Other"
+            },
+            {
+              "end": 248,
+              "normalized_text": "Sar-El",
+              "probability": 0.5079,
+              "start": 243,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2030780603306819916",
+              "start": 281,
+              "url": "https://t.co/jdKSgTG5ZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032415614271201440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I’ve seen this videos floating around this site with a lot of rumors & nasty stuff aimed at him.\n\nI actually had the pleasure of meeting this kid recently.\n\nHe’s not a “Kaifeng Jew,” and he’s not serving in the IDF. The uniform belongs to Sar-El, an Israeli volunteer program.\n\nWhat he is though, is a bright and special young man who’s felt a strong pull to learn about Judaism & possibly convert.\n\nTruth be told, I saw a bit of my 18-year-old-self in him, when left home for a foreign land & started a journey I never looked back.\n\nI told him that whether he ends up converting or not, good things are ahead for him. God has a way of guiding people onto the path meant for them - a path only they can forge.\n\nFolks like him are immune to haters."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 16453,
+          "like_count": 396,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030780603306819916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I’ve seen this videos floating around this site with a lot of rumors &amp; nasty stuff aimed at him.\n\nI actually had the pleasure of meeting this kid recently.\n\nHe’s not a “Kaifeng Jew,” and he’s not serving in the IDF. The uniform belongs to Sar-El, an Israeli volunteer program. https://t.co/jdKSgTG5ZF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030740116575260672"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2030780603306819916",
+        "created_at": "2026-03-08T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030780603306819916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjGVOolFLe",
+              "end": 63,
+              "expanded_url": "https://x.com/satireorcry1/status/2030780603306819916/video/1",
+              "media_key": "13_2030740116575260672",
+              "start": 40,
+              "url": "https://t.co/sjGVOolFLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030780603306819916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 220285,
+          "like_count": 1534,
+          "quote_count": 15,
+          "reply_count": 168,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "这个中国小伙是开封犹太人，他参加以色列国防军报效祖国，而不是中国人民解放军。👍 https://t.co/sjGVOolFLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 141,
+          "like_count": 4365,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 2288
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2029873844672991616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14536,
+          "following_count": 1355,
+          "like_count": 8532,
+          "listed_count": 34,
+          "media_count": 1114,
+          "tweet_count": 1974
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-29T14:19:44.000Z",
+        "description": "He/Brew🍺; Ex-Wrangler, Fmr Hill & Knesset staffer; Grunt with a temper; NatSec, Defense, Aviation; Arak & Bourbon Enjoyer; English|עברית|Deutsch|Dansk|普通话|粵語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogs.timesofisrael.com/in-debate-over…",
+                "end": 23,
+                "expanded_url": "https://blogs.timesofisrael.com/in-debate-over-supporting-ukraine-israel-is-unfairly-singled-out/",
+                "start": 0,
+                "url": "https://t.co/ON7pFNEHzH"
+              }
+            ]
+          }
+        },
+        "id": "714819333449322496",
+        "location": "MT/TX/Inland NW ➡️ Jerusalem",
+        "name": "Asian Kosher Cowboy 🇮🇱🇺🇸 אוריה שמואל",
+        "pinned_tweet_id": "2031331946656068091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008572845056557057/scWHFsNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7080,
+          "following_count": 1091,
+          "like_count": 78137,
+          "listed_count": 34,
+          "media_count": 2412,
+          "tweet_count": 15876
+        },
+        "url": "https://t.co/ON7pFNEHzH",
+        "username": "0321K9",
+        "verified": false
+      }
+    ]
+  }
+}

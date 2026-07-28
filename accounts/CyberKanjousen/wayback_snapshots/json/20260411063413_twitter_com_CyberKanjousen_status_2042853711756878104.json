@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042853161850036224"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2042853711756878104",
+    "created_at": "2026-04-11T06:34:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042853711756878104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7rTBSzQo23",
+          "end": 175,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2042853711756878104/video/1",
+          "media_key": "13_2042853161850036224",
+          "start": 152,
+          "url": "https://t.co/7rTBSzQo23"
+        },
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 199,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2042602615884976369",
+          "start": 176,
+          "url": "https://t.co/99aGUMWPpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042853711756878104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "bilibili.com/video/av114912…",
+            "end": 344,
+            "expanded_url": "https://www.bilibili.com/video/av114912789534313?t=533.2&p=13",
+            "start": 321,
+            "url": "https://t.co/EYWMAbpBRU"
+          }
+        ]
+      },
+      "text": "「……但是中心化也有缺点，主要缺点是执行的速度慢。中心化的系统要定于一尊，agents 自己没有决策权，决策全都要等中央来做。Agents 把自己的观测全都汇报给中央，然后等待中央的指示。中央在收到全局的信息之后才会做出决策。中央亲自部署，亲自指挥，告诉每个agent 要做什么，把动作 a^i 发送给 agent i 。决策过程需要 communication 通信和 synchronization 同步，发送信息需要花时间，而且所有人都要等待最慢的人，这是同步的代价，这中间需要耽搁很长时间。中心化的系统导致 agents 反应很慢，无法做到实时的决策，到了关键时刻总是会慢半拍，想必大家在实际生活中都有亲身体会，你懂的…… 」\n 源：https://t.co/EYWMAbpBRU"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042602615884976369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「……但是中心化也有缺点，主要缺点是执行的速度慢。中心化的系统要定于一尊，agents 自己没有决策权，决策全都要等中央来做。Agents 把自己的观测全都汇报给中央，然后等待中央的指示。中央在收到全局的信息之后才会做出决策。中央亲自部署，亲自指挥，告诉每个agent 要做什么，把动作 a^i 发送给 https://t.co/7rTBSzQo23 https://t.co/99aGUMWPpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56166,
+        "height": 1080,
+        "media_key": "13_2042853161850036224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042853161850036224/img/eTTAnd6or62CV-Wf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042853161850036224/vid/avc1/480x270/wxEf2HvyJSo-L0fs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042853161850036224/vid/avc1/1280x720/G1jZ0CQZXBFGFb4J.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042853161850036224/vid/avc1/1920x1080/gBZsNR6JTz6vD5Vg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042853161850036224/pl/6j1DplxM6gtBQrEw.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042853161850036224/vid/avc1/640x360/WXpzfifhmvSdgYSf.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 642,
+        "media_key": "3_2042602610256154629",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjIQHmakAU1yGm.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042853161850036224"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042853711756878104",
+        "created_at": "2026-04-11T06:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042853711756878104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rTBSzQo23",
+              "end": 175,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2042853711756878104/video/1",
+              "media_key": "13_2042853161850036224",
+              "start": 152,
+              "url": "https://t.co/7rTBSzQo23"
+            },
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2042602615884976369",
+              "start": 176,
+              "url": "https://t.co/99aGUMWPpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042853711756878104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/av114912…",
+                "end": 344,
+                "expanded_url": "https://www.bilibili.com/video/av114912789534313?t=533.2&p=13",
+                "start": 321,
+                "url": "https://t.co/EYWMAbpBRU"
+              }
+            ]
+          },
+          "text": "「……但是中心化也有缺点，主要缺点是执行的速度慢。中心化的系统要定于一尊，agents 自己没有决策权，决策全都要等中央来做。Agents 把自己的观测全都汇报给中央，然后等待中央的指示。中央在收到全局的信息之后才会做出决策。中央亲自部署，亲自指挥，告诉每个agent 要做什么，把动作 a^i 发送给 agent i 。决策过程需要 communication 通信和 synchronization 同步，发送信息需要花时间，而且所有人都要等待最慢的人，这是同步的代价，这中间需要耽搁很长时间。中心化的系统导致 agents 反应很慢，无法做到实时的决策，到了关键时刻总是会慢半拍，想必大家在实际生活中都有亲身体会，你懂的…… 」\n 源：https://t.co/EYWMAbpBRU"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042602615884976369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「……但是中心化也有缺点，主要缺点是执行的速度慢。中心化的系统要定于一尊，agents 自己没有决策权，决策全都要等中央来做。Agents 把自己的观测全都汇报给中央，然后等待中央的指示。中央在收到全局的信息之后才会做出决策。中央亲自部署，亲自指挥，告诉每个agent 要做什么，把动作 a^i 发送给 https://t.co/7rTBSzQo23 https://t.co/99aGUMWPpx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042602610256154629"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042602615884976369",
+        "created_at": "2026-04-10T13:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042602615884976369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlMj5rj2My",
+              "end": 169,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2042602615884976369/photo/1",
+              "media_key": "3_2042602610256154629",
+              "start": 146,
+              "url": "https://t.co/XlMj5rj2My"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042602615884976369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3511,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "環状線刚刚在在看 Bilibili 上深度强化学习的教学视频。几乎所有视频都有配套的 AI 中文字幕，唯独一集没有字幕。\n環状線深感奇怪，本以为是 Bilibili 漏传这一集的字幕，\n直到環状線在这一集讲 MARL 完全中心化的执行速度缓慢的缺点时听见了：\n「…中央亲自部署，亲自指挥…」 https://t.co/XlMj5rj2My"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 397,
+          "like_count": 12017,
+          "listed_count": 4,
+          "media_count": 810,
+          "tweet_count": 4221
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2070504548230430804",
+    "created_at": "2026-06-27T04:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070732069454631141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056806554150883328",
+          "start": 0,
+          "username": "yezhiram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070732069454631141",
+    "in_reply_to_user_id": "2056806554150883328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070726292748599391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezhiram 是这样。毕竟「军师」和自己终究是不同的两个个体。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2070504548230430804",
+        "created_at": "2026-06-27T04:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070732069454631141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056806554150883328",
+              "start": 0,
+              "username": "yezhiram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070732069454631141",
+        "in_reply_to_user_id": "2056806554150883328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070726292748599391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezhiram 是这样。毕竟「军师」和自己终究是不同的两个个体。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056806554150883328",
+        "conversation_id": "2070504548230430804",
+        "created_at": "2026-06-27T04:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070726292748599391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070726292748599391",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070504548230430804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 恋爱爱的是这个人本身吧，军师什么都虚假话语，我感觉都是有些欺骗修饰成分在的。互相交换征询，最本真的自己，这才是恋爱该有的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8202,
+          "following_count": 874,
+          "like_count": 28267,
+          "listed_count": 13,
+          "media_count": 1717,
+          "tweet_count": 9021
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-19T18:40:34.000Z",
+        "description": "夏日终章的斜阳，积雨云与聒噪的蝉鸣作伴。\n我想就这样，永远沉溺在这夏日的无尽热量。",
+        "id": "2056806554150883328",
+        "name": "夜風汐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057084474110750721/zBH_JtRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "yezhiram",
+        "verified": false
+      }
+    ]
+  }
+}

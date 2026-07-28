@@ -1,0 +1,665 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970838831202181121"
+      ],
+      "media_source_tweet_id": [
+        "1971499989508518009"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1093271119849635840",
+          "name": "Honkai series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1971870461815595136",
+    "created_at": "2025-09-27T09:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T10:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971870461815595136"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "崩壞星穹鐵道"
+        },
+        {
+          "end": 48,
+          "start": 33,
+          "tag": "HonkaiStarRail"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "Firefly"
+        },
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "ホタル"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "流螢"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "784972972922511360",
+          "start": 3,
+          "username": "travelmoon85"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQZ8WndeMz",
+          "end": 91,
+          "expanded_url": "https://x.com/travelmoon85/status/1971499989508518009/photo/1",
+          "media_key": "3_1970838831202181121",
+          "start": 68,
+          "url": "https://t.co/tQZ8WndeMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971870461815595136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1303
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971499989508518009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @travelmoon85: 正妻宣言✌👌\n#崩壞星穹鐵道 #HonkaiStarRail  #Firefly #ホタル #流螢 https://t.co/tQZ8WndeMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_1970838831202181121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nTeZtaIAEKkSY.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970838831202181121"
+          ],
+          "media_source_tweet_id": [
+            "1971499989508518009"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1971870461815595136",
+        "created_at": "2025-09-27T09:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971870461815595136"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "崩壞星穹鐵道"
+            },
+            {
+              "end": 48,
+              "start": 33,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "Firefly"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "ホタル"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "流螢"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "784972972922511360",
+              "start": 3,
+              "username": "travelmoon85"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQZ8WndeMz",
+              "end": 91,
+              "expanded_url": "https://x.com/travelmoon85/status/1971499989508518009/photo/1",
+              "media_key": "3_1970838831202181121",
+              "start": 68,
+              "url": "https://t.co/tQZ8WndeMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971870461815595136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1303
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971499989508518009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @travelmoon85: 正妻宣言✌👌\n#崩壞星穹鐵道 #HonkaiStarRail  #Firefly #ホタル #流螢 https://t.co/tQZ8WndeMz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970838831202181121"
+          ]
+        },
+        "author_id": "784972972922511360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1971499989508518009",
+        "created_at": "2025-09-26T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971499989508518009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "崩壞星穹鐵道"
+            },
+            {
+              "end": 30,
+              "start": 15,
+              "tag": "HonkaiStarRail"
+            },
+            {
+              "end": 40,
+              "start": 32,
+              "tag": "Firefly"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "ホタル"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "流螢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQZ8WndeMz",
+              "end": 73,
+              "expanded_url": "https://x.com/travelmoon85/status/1971499989508518009/photo/1",
+              "media_key": "3_1970838831202181121",
+              "start": 50,
+              "url": "https://t.co/tQZ8WndeMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971499989508518009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1399,
+          "impression_count": 211129,
+          "like_count": 13782,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 1303
+        },
+        "reply_settings": "everyone",
+        "text": "正妻宣言✌👌\n#崩壞星穹鐵道 #HonkaiStarRail  #Firefly #ホタル #流螢 https://t.co/tQZ8WndeMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 129
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-09T04:25:15.000Z",
+        "description": "委託開放!\n絵を描いています🎀🎨|プロセカ|スタレ\n旅月、米米子FA：#米月撰\nhttps://t.co/rcjFmfN3ps",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 35,
+                "tag": "米月撰"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/a6ja91303…",
+                "end": 63,
+                "expanded_url": "https://wavebox.me/wave/a6ja91303rk0e81m/",
+                "start": 40,
+                "url": "https://t.co/rcjFmfN3ps"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/en/tabitsukimi…",
+                "end": 23,
+                "expanded_url": "https://lit.link/en/tabitsukimimiko",
+                "start": 0,
+                "url": "https://t.co/GzJkMEUM5U"
+              }
+            ]
+          }
+        },
+        "id": "784972972922511360",
+        "location": "無断転載❌ ",
+        "name": "旅月🌙",
+        "pinned_tweet_id": "1959609607971876908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665006724816982016/qnRHYha-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6475,
+          "following_count": 452,
+          "like_count": 6350,
+          "listed_count": 40,
+          "media_count": 643,
+          "tweet_count": 4018
+        },
+        "url": "https://t.co/GzJkMEUM5U",
+        "username": "travelmoon85",
+        "verified": false
+      }
+    ]
+  }
+}

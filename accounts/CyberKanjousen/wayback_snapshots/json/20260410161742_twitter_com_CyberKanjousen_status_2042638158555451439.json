@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2042505177153012217",
+    "created_at": "2026-04-10T16:17:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T17:17:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042638158555451439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1714894056986460160",
+          "start": 0,
+          "username": "89JinPing64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042638158555451439",
+    "in_reply_to_user_id": "1714894056986460160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042505177153012217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@89JinPing64 「死乞白赖」是东北语词汇吗🤔\n環状線以前在东北的时候听得更多的是「死皮赖脸」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2042505172103131136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhvoeMa8AAycL-.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1780,
+        "media_key": "3_2042505172103069696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhvoeMaAAACQXH.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042505177153012217",
+        "created_at": "2026-04-10T16:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042638158555451439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1714894056986460160",
+              "start": 0,
+              "username": "89JinPing64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042638158555451439",
+        "in_reply_to_user_id": "1714894056986460160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042505177153012217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@89JinPing64 「死乞白赖」是东北语词汇吗🤔\n環状線以前在东北的时候听得更多的是「死皮赖脸」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042505172103131136",
+            "3_2042505172103069696"
+          ]
+        },
+        "author_id": "1714894056986460160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2042505177153012217",
+        "created_at": "2026-04-10T07:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042505177153012217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ecJxfNFfzv",
+              "end": 63,
+              "expanded_url": "https://x.com/89JinPing64/status/2042505177153012217/photo/1",
+              "media_key": "3_2042505172103131136",
+              "start": 40,
+              "url": "https://t.co/ecJxfNFfzv"
+            },
+            {
+              "display_url": "pic.x.com/ecJxfNFfzv",
+              "end": 63,
+              "expanded_url": "https://x.com/89JinPing64/status/2042505177153012217/photo/1",
+              "media_key": "3_2042505172103069696",
+              "start": 40,
+              "url": "https://t.co/ecJxfNFfzv"
+            },
+            {
+              "display_url": "x.com/rentler12/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/rentler12/status/2042501272650334413",
+              "start": 64,
+              "url": "https://t.co/4jPNJVPMfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042505177153012217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8481,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042501272650334413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草泥马的东百🐶，把Grok的语言模型都给污染了，现在翻译功能都会出现东百话了🤮 https://t.co/ecJxfNFfzv https://t.co/4jPNJVPMfO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 394,
+          "like_count": 11864,
+          "listed_count": 4,
+          "media_count": 802,
+          "tweet_count": 4183
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-19T06:40:00.000Z",
+        "description": "頭冷やしたほうがいいよっ、XXの人は。民主の女神:@Liyu0109 🚪：One share of Nvidia stock. 只要你主动，我们就会有故事。 博客：https://t.co/ZZsthj06Du 提问箱：https://t.co/KC5brt7JpE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Liyu0109"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jyajyananalee.blogspot.com",
+                "end": 105,
+                "expanded_url": "https://jyajyananalee.blogspot.com",
+                "start": 82,
+                "url": "https://t.co/ZZsthj06Du"
+              },
+              {
+                "display_url": "marshmallow-qa.com/6p2yg02ptedk8g…",
+                "end": 133,
+                "expanded_url": "https://marshmallow-qa.com/6p2yg02ptedk8g3?t=1wo2An&utm_medium=twitter&utm_source=promotion",
+                "start": 110,
+                "url": "https://t.co/KC5brt7JpE"
+              }
+            ]
+          }
+        },
+        "id": "1714894056986460160",
+        "location": "Carp Entertainment Co., Ltd",
+        "name": "李奈々です",
+        "pinned_tweet_id": "1714895367370866803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718640683857448960/lYs7DLuo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 1665,
+          "like_count": 114758,
+          "listed_count": 60,
+          "media_count": 1268,
+          "tweet_count": 25977
+        },
+        "username": "89JinPing64",
+        "verified": false
+      }
+    ]
+  }
+}

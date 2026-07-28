@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2025192483064570314",
+    "created_at": "2026-02-21T15:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025238952819745101"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "中国",
+          "probability": 0.9095,
+          "start": 14,
+          "type": "Place"
+        },
+        {
+          "end": 43,
+          "normalized_text": "中国",
+          "probability": 0.745,
+          "start": 42,
+          "type": "Place"
+        },
+        {
+          "end": 77,
+          "normalized_text": "中国",
+          "probability": 0.6553,
+          "start": 76,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1061910000933646337",
+          "start": 0,
+          "username": "jo_gayu1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025238952819745101",
+    "in_reply_to_user_id": "1061910000933646337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025192483064570314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jo_gayu1204 「中国では評判がイマイチらしいけど」…\nその理由は、現実の中国の高校の環境は反吐が出るほどひどいからです。しかし、このアニメに中国の高校は過度に理想化された"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2025189716740722688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrUUUa0AAbEjR.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025189734524608512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrVWkbYAA3cd_.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025189750278422531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrWRQbgAMvKxj.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025189761460355072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrrW66aQAAq3G8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2025192483064570314",
+        "created_at": "2026-02-21T15:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025238952819745101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "中国",
+              "probability": 0.9095,
+              "start": 14,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "中国",
+              "probability": 0.745,
+              "start": 42,
+              "type": "Place"
+            },
+            {
+              "end": 77,
+              "normalized_text": "中国",
+              "probability": 0.6553,
+              "start": 76,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1061910000933646337",
+              "start": 0,
+              "username": "jo_gayu1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025238952819745101",
+        "in_reply_to_user_id": "1061910000933646337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025192483064570314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jo_gayu1204 「中国では評判がイマイチらしいけど」…\nその理由は、現実の中国の高校の環境は反吐が出るほどひどいからです。しかし、このアニメに中国の高校は過度に理想化された"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025189716740722688",
+            "3_2025189734524608512",
+            "3_2025189750278422531",
+            "3_2025189761460355072"
+          ]
+        },
+        "author_id": "1061910000933646337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2025192483064570314",
+        "created_at": "2026-02-21T12:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025192483064570314"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Call Up Girls",
+              "probability": 0.8866,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 38,
+              "normalized_text": "日本",
+              "probability": 0.6643,
+              "start": 37,
+              "type": "Place"
+            },
+            {
+              "end": 90,
+              "normalized_text": "中国",
+              "probability": 0.9107,
+              "start": 89,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189716740722688",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            },
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189734524608512",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            },
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189750278422531",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            },
+            {
+              "display_url": "pic.x.com/j6Jsn8RAtJ",
+              "end": 172,
+              "expanded_url": "https://x.com/jo_gayu1204/status/2025192483064570314/photo/1",
+              "media_key": "3_2025189761460355072",
+              "start": 149,
+              "url": "https://t.co/j6Jsn8RAtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025192483064570314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4640,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "話題の中国アニメ「Call Up Girls」を観てみた！\n映像だけ見ると日本のアニメのような作風だから言葉が全く分からなくても面白かった！まるできららアニメのようだった...。中国では評判がイマイチらしいけど、日本風の中国アニメって考えればおかしくはないか。どんな会話してたのか気になる...！ https://t.co/j6Jsn8RAtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 59,
+          "like_count": 1636,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 1374
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-12T09:14:08.000Z",
+        "description": "恋アス/きんモザ/ひびめし/れるとりetc...日常・ほのぼの系が好きな田舎民。最近は\\ｱｯｶﾘｰﾝ/しがち。詳細はツイフィール(下記リンク)をご覧下さい。※フォロバ100ではありません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/jo_gayu1204",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/jo_gayu1204",
+                "start": 0,
+                "url": "https://t.co/69R4nl8Wpv"
+              }
+            ]
+          }
+        },
+        "id": "1061910000933646337",
+        "location": "秋田",
+        "name": "じょーがゆ🐳",
+        "pinned_tweet_id": "1851962245825335681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006380407328210944/3wtlCkn-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4941,
+          "following_count": 3555,
+          "like_count": 125486,
+          "listed_count": 39,
+          "media_count": 13312,
+          "tweet_count": 106988
+        },
+        "url": "https://t.co/69R4nl8Wpv",
+        "username": "jo_gayu1204",
+        "verified": false
+      }
+    ]
+  }
+}

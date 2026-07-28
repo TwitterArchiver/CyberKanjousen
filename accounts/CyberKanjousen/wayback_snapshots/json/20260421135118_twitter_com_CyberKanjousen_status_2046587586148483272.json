@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2046560004359217544",
+    "created_at": "2026-04-21T13:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046587586148483272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        },
+        {
+          "end": 31,
+          "id": "2021505488337416192",
+          "start": 16,
+          "username": "CyberRazuberii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046587586148483272",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046561926914916743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal @CyberRazuberii 和 Discord 服务器没有关系喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2046560004359217544",
+        "created_at": "2026-04-21T13:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046587586148483272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            },
+            {
+              "end": 31,
+              "id": "2021505488337416192",
+              "start": 16,
+              "username": "CyberRazuberii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046587586148483272",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046561926914916743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal @CyberRazuberii 和 Discord 服务器没有关系喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841306675674075136",
+        "conversation_id": "2046560004359217544",
+        "created_at": "2026-04-21T12:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046561926914916743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2021505488337416192",
+              "start": 0,
+              "username": "CyberRazuberii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046561926914916743",
+        "in_reply_to_user_id": "2021505488337416192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046560004359217544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberRazuberii 只能说允许dc群键政是个错误决定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "-",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2046557892095189339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 556,
+          "like_count": 14470,
+          "listed_count": 5,
+          "media_count": 882,
+          "tweet_count": 4680
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語专业出身，中推日推两头混🫥C语言/大数据/经管/投资知识学习中☠️目前穷困潦倒孤苦伶仃☠️广交推特各路豪杰\n🙌Mrs.GreenAppleファン🍏",
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1254,
+          "like_count": 876,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 2694
+        },
+        "username": "suishoucrystal",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T08:44:15.000Z",
+        "description": "20 男的｜大一｜游戏主播｜另一个我@CyberKanjousen 建設中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 18,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-acy.com",
+                "end": 23,
+                "expanded_url": "http://c-acy.com",
+                "start": 0,
+                "url": "https://t.co/hlQ5om0JY5"
+              }
+            ]
+          }
+        },
+        "id": "2021505488337416192",
+        "location": "汉化组",
+        "name": "微醺木莓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046273928566538240/s3pCUyFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 572,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/hlQ5om0JY5",
+        "username": "CyberRazuberii",
+        "verified": true
+      }
+    ]
+  }
+}

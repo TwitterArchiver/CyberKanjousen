@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013973640119812096"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2013976803409633344",
+    "created_at": "2026-01-21T14:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013976803409633344"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lVyYAj4Yot",
+          "end": 120,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2013976803409633344/photo/1",
+          "media_key": "3_2013973640119812096",
+          "start": 97,
+          "url": "https://t.co/lVyYAj4Yot"
+        },
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/Cldeop/status/2013968928238936467",
+          "start": 121,
+          "url": "https://t.co/kZf8HOKL0b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013976803409633344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于虚假网站\n我今天谷歌了一下Z-Lib，想要下载一本书，返回的第一个结果是一个域名为.id的网站。我进了之后发现登录状态失效了，于是登录了一下，结果之后直接说让我付费升级，否则无法下载书籍。\n我觉得很奇怪，于是问了下Gemini。Gemini说Z-Library一直都是可以免费下载书籍的，我于是对那个.id域名的网站起了疑心，旋即通过历史记录里的另一地址访问Z-Library，发现登录状态实际上并没有失效，而且下载书记并不需要付费。\n在Z-Library搜索页面看到了官方贴出的这个告示，我意识到之前访问的是虚假网站，于是立刻修改了密码\n诈骗犯子没一个家里有喘气的"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013968928238936467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于虚假网站\n我今天谷歌了一下Z-Lib，想要下载一本书，返回的第一个结果是一个域名为.id的网站。我进了之后发现登录状态失效了，于是登录了一下，结果之后直接说让我付费升级，否则无法下载书籍。 https://t.co/lVyYAj4Yot https://t.co/kZf8HOKL0b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2013973640119812096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MSWu5XgAAQlhV.jpg",
+        "width": 2557
+      },
+      {
+        "height": 2867,
+        "media_key": "3_2013968910387912704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MODbRaIAABrjQ.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013973640119812096"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2013976803409633344",
+        "created_at": "2026-01-21T14:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013976803409633344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVyYAj4Yot",
+              "end": 120,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2013976803409633344/photo/1",
+              "media_key": "3_2013973640119812096",
+              "start": 97,
+              "url": "https://t.co/lVyYAj4Yot"
+            },
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Cldeop/status/2013968928238936467",
+              "start": 121,
+              "url": "https://t.co/kZf8HOKL0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013976803409633344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于虚假网站\n我今天谷歌了一下Z-Lib，想要下载一本书，返回的第一个结果是一个域名为.id的网站。我进了之后发现登录状态失效了，于是登录了一下，结果之后直接说让我付费升级，否则无法下载书籍。\n我觉得很奇怪，于是问了下Gemini。Gemini说Z-Library一直都是可以免费下载书籍的，我于是对那个.id域名的网站起了疑心，旋即通过历史记录里的另一地址访问Z-Library，发现登录状态实际上并没有失效，而且下载书记并不需要付费。\n在Z-Library搜索页面看到了官方贴出的这个告示，我意识到之前访问的是虚假网站，于是立刻修改了密码\n诈骗犯子没一个家里有喘气的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013968928238936467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于虚假网站\n我今天谷歌了一下Z-Lib，想要下载一本书，返回的第一个结果是一个域名为.id的网站。我进了之后发现登录状态失效了，于是登录了一下，结果之后直接说让我付费升级，否则无法下载书籍。 https://t.co/lVyYAj4Yot https://t.co/kZf8HOKL0b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013968910387912704"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2013968928238936467",
+        "created_at": "2026-01-21T13:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013968928238936467"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IemBR2VG0f",
+              "end": 113,
+              "expanded_url": "https://x.com/Cldeop/status/2013968928238936467/photo/1",
+              "media_key": "3_2013968910387912704",
+              "start": 90,
+              "url": "https://t.co/IemBR2VG0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013968928238936467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️防诈骗提醒⚠️\n近期又有一波新的“假推广、真盗号”的账号出现。请各位注意不要点击不明链接（尤其是图中这种一眼假的网站）\n不慎登录虚假网站后被盗号想找回十分麻烦，之前已有先例！ https://t.co/IemBR2VG0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 877
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98746,
+          "following_count": 685,
+          "like_count": 33954,
+          "listed_count": 276,
+          "media_count": 15234,
+          "tweet_count": 21956
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

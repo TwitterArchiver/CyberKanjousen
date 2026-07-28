@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012524951706775970",
+    "created_at": "2026-01-18T12:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012867282691645782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831550851191816192",
+          "start": 0,
+          "username": "Li_Qianmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012867282691645782",
+    "in_reply_to_user_id": "1831550851191816192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012524951706775970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li_Qianmo 零处"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1519,
+        "media_key": "3_2012524932429926400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3sw2MaUAABUI0.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012524951706775970",
+        "created_at": "2026-01-18T12:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012867282691645782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831550851191816192",
+              "start": 0,
+              "username": "Li_Qianmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012867282691645782",
+        "in_reply_to_user_id": "1831550851191816192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012524951706775970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li_Qianmo 零处"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012524932429926400"
+          ]
+        },
+        "author_id": "1831550851191816192",
+        "conversation_id": "2012524951706775970",
+        "created_at": "2026-01-17T13:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012524951706775970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAp68QwMln",
+              "end": 41,
+              "expanded_url": "https://x.com/Li_Qianmo/status/2012524951706775970/photo/1",
+              "media_key": "3_2012524932429926400",
+              "start": 18,
+              "url": "https://t.co/WAp68QwMln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012524951706775970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 14565,
+          "like_count": 156,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "此生必去的55个地方，你去过几处❓ https://t.co/WAp68QwMln"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 697
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-05T04:32:25.000Z",
+        "description": "Thanks for your following\n❤️逐步回关 🙅私信不回",
+        "id": "1831550851191816192",
+        "name": "李阡陌(fo)",
+        "pinned_tweet_id": "2011073246695711121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849758836317736960/u0gy_2ze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16353,
+          "following_count": 7085,
+          "like_count": 13059,
+          "listed_count": 57,
+          "media_count": 2548,
+          "tweet_count": 6231
+        },
+        "username": "Li_Qianmo",
+        "verified": false
+      }
+    ]
+  }
+}

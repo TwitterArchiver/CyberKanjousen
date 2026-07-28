@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065751130228002816"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2065749122255392931",
+    "created_at": "2026-06-13T11:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065751138398552396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/viktgTdWJY",
+          "end": 48,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2065751138398552396/photo/1",
+          "media_key": "3_2065751130228002816",
+          "start": 25,
+          "url": "https://t.co/viktgTdWJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065751138398552396",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065749122255392931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "環状線在ディスコード環状線的声明，亦适用于推特： https://t.co/viktgTdWJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2065751130228002816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsFtUeaEAAJNc7.jpg",
+        "width": 710
+      },
+      {
+        "height": 735,
+        "media_key": "3_2065749101044781056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsD3NLbUAAdR01.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065751130228002816"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2065749122255392931",
+        "created_at": "2026-06-13T11:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065751138398552396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viktgTdWJY",
+              "end": 48,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2065751138398552396/photo/1",
+              "media_key": "3_2065751130228002816",
+              "start": 25,
+              "url": "https://t.co/viktgTdWJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065751138398552396",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065749122255392931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "環状線在ディスコード環状線的声明，亦适用于推特： https://t.co/viktgTdWJY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065749101044781056"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2065749122255392931",
+        "created_at": "2026-06-13T10:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065749122255392931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZmsXphdKh",
+              "end": 65,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2065749122255392931/photo/1",
+              "media_key": "3_2065749101044781056",
+              "start": 42,
+              "url": "https://t.co/oZmsXphdKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065749122255392931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 127,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "对不起，環状線今后再也不诋毁任何无辜个人或集体了。\n相关推文已删除，饶了環状線吧😭 https://t.co/oZmsXphdKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6098,
+          "following_count": 868,
+          "like_count": 25827,
+          "listed_count": 9,
+          "media_count": 1468,
+          "tweet_count": 7983
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

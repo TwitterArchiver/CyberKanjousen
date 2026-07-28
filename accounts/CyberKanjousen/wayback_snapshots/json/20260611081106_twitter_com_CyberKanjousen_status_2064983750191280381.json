@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2064944597089005623",
+    "created_at": "2026-06-11T08:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T09:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064983750191280381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685043984",
+          "start": 0,
+          "username": "VelvetCharm79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064983750191280381",
+    "in_reply_to_user_id": "1685043984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064982194582683979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VelvetCharm79 環状線目前没有这个打算，似乎会非常疼的样子……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2064944597089005623",
+        "created_at": "2026-06-11T08:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064983750191280381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685043984",
+              "start": 0,
+              "username": "VelvetCharm79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064983750191280381",
+        "in_reply_to_user_id": "1685043984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064982194582683979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VelvetCharm79 環状線目前没有这个打算，似乎会非常疼的样子……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685043984",
+        "conversation_id": "2064944597089005623",
+        "created_at": "2026-06-11T08:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T09:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064982194582683979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064982194582683979",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064944597089005623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 可以戴鎖呀😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5574,
+          "following_count": 870,
+          "like_count": 25378,
+          "listed_count": 9,
+          "media_count": 1418,
+          "tweet_count": 7782
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-20T06:52:30.000Z",
+        "description": "丨娚 ♂️丨已婚丨 懶惰癌丨 近期迷上短髮丨減肥中 丨 屬性： #偽娘 #獸耳控 #有點媚黑 #表面高冷 #人父\n⭐️丨沒有約、不要問我住哪，會封鎖你丨⭐️\n\nBlueSky：@velvetcharm79.bsky.social\n\nFansone：VelvetCharm79\n\n藍V追隨我會回追呦～",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 32,
+                "tag": "偽娘"
+              },
+              {
+                "end": 40,
+                "start": 36,
+                "tag": "獸耳控"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "有點媚黑"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "表面高冷"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "人父"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "velvetcharm79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansone.co/VelvetCharm",
+                "end": 23,
+                "expanded_url": "https://fansone.co/VelvetCharm",
+                "start": 0,
+                "url": "https://t.co/ABp7EB0e4f"
+              }
+            ]
+          }
+        },
+        "id": "1685043984",
+        "location": "Taipei City, Taiwan",
+        "name": "♂️瑞雪丨ずいせつ ❄️",
+        "pinned_tweet_id": "2064706752063697272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052743613638148096/Vpd34HFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4564,
+          "following_count": 629,
+          "like_count": 2203,
+          "listed_count": 22,
+          "media_count": 411,
+          "tweet_count": 3086
+        },
+        "url": "https://t.co/ABp7EB0e4f",
+        "username": "VelvetCharm79",
+        "verified": true
+      }
+    ]
+  }
+}

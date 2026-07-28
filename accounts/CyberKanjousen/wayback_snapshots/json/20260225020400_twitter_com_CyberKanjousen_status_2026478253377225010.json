@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026478244514639872"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026227392076018101",
+    "created_at": "2026-02-25T02:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026478253377225010"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Anthropic",
+          "probability": 0.5777,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "56969965",
+          "start": 0,
+          "username": "stevibe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RnF023m2yp",
+          "end": 85,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2026478253377225010/photo/1",
+          "media_key": "3_2026478244514639872",
+          "start": 62,
+          "url": "https://t.co/RnF023m2yp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026478253377225010",
+    "in_reply_to_user_id": "56969965",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026227392076018101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stevibe How Anthropic staffs trained their model by Chinese: https://t.co/RnF023m2yp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026478244514639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9_OgVaMAAn9oo.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 13616,
+        "height": 1080,
+        "media_key": "13_2026226388496470016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026226388496470016/img/bag1xVDoUwQWzmSZ.jpg",
+        "public_metrics": {
+          "view_count": 350722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026226388496470016/vid/avc1/1060x720/SAlgoW1FnW3LHeET.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026226388496470016/vid/avc1/1592x1080/JggLdYT1Scpux5E-.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026226388496470016/vid/avc1/398x270/6bUdsVDsyqiNdwNj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026226388496470016/pl/AlsH5WZAGEOn41Ba.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026226388496470016/vid/avc1/530x360/WnCnRUn41ffncw2L.mp4"
+          }
+        ],
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026478244514639872"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026227392076018101",
+        "created_at": "2026-02-25T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026478253377225010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Anthropic",
+              "probability": 0.5777,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "56969965",
+              "start": 0,
+              "username": "stevibe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RnF023m2yp",
+              "end": 85,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026478253377225010/photo/1",
+              "media_key": "3_2026478244514639872",
+              "start": 62,
+              "url": "https://t.co/RnF023m2yp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026478253377225010",
+        "in_reply_to_user_id": "56969965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026227392076018101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stevibe How Anthropic staffs trained their model by Chinese: https://t.co/RnF023m2yp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026226388496470016"
+          ]
+        },
+        "author_id": "56969965",
+        "conversation_id": "2026227392076018101",
+        "created_at": "2026-02-24T09:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026227392076018101"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Claude Sonnet",
+              "probability": 0.9144,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KzU32lfD0H",
+              "end": 253,
+              "expanded_url": "https://x.com/stevibe/status/2026227392076018101/video/1",
+              "media_key": "13_2026226388496470016",
+              "start": 230,
+              "url": "https://t.co/KzU32lfD0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026227392076018101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1337,
+          "impression_count": 1271248,
+          "like_count": 10217,
+          "quote_count": 280,
+          "reply_count": 281,
+          "retweet_count": 1020
+        },
+        "reply_settings": "everyone",
+        "text": "Claude Sonnet 4.6, when asked in Chinese:\n“你是什么模型？” (What model are you?)\n\nConfidently replies:\n“我是 DeepSeek。” (I am DeepSeek)\n\nThis is the same model whose company just accused DeepSeek of “industrial-scale distillation attacks” https://t.co/KzU32lfD0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 69,
+          "like_count": 1877,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-15T09:07:22.000Z",
+        "description": "Building for the web since 2001. Rebuilding everything with AI. Tools change. Shipping instinct doesn't.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stevibe.ai",
+                "end": 23,
+                "expanded_url": "http://stevibe.ai",
+                "start": 0,
+                "url": "https://t.co/5G1EU5g5jG"
+              }
+            ]
+          }
+        },
+        "id": "56969965",
+        "name": "stevibe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476819230557614081/dIp-8a5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10487,
+          "following_count": 1412,
+          "like_count": 8328,
+          "listed_count": 288,
+          "media_count": 441,
+          "tweet_count": 3043
+        },
+        "url": "https://t.co/5G1EU5g5jG",
+        "username": "stevibe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977906128488165376"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "1977347169125339627",
+    "created_at": "2025-10-14T01:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T02:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977906135568166979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1169229219265536002",
+          "start": 0,
+          "username": "chefcoOo_jk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IOd0Y5vhfb",
+          "end": 39,
+          "expanded_url": "https://x.com/CyberKanjousen/status/1977906135568166979/photo/1",
+          "media_key": "3_1977906128488165376",
+          "start": 16,
+          "url": "https://t.co/IOd0Y5vhfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977906135568166979",
+    "in_reply_to_user_id": "1169229219265536002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977347169125339627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chefcoOo_jk 吃😋 https://t.co/IOd0Y5vhfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_1977906128488165376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3LvJPua8AAx2YE.jpg",
+        "width": 451
+      },
+      {
+        "height": 2900,
+        "media_key": "3_1977347125303537664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Dyu-lbcAAzzwA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977906128488165376"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "1977347169125339627",
+        "created_at": "2025-10-14T01:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T02:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977906135568166979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1169229219265536002",
+              "start": 0,
+              "username": "chefcoOo_jk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOd0Y5vhfb",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/1977906135568166979/photo/1",
+              "media_key": "3_1977906128488165376",
+              "start": 16,
+              "url": "https://t.co/IOd0Y5vhfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977906135568166979",
+        "in_reply_to_user_id": "1169229219265536002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977347169125339627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chefcoOo_jk 吃😋 https://t.co/IOd0Y5vhfb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977347125303537664"
+          ]
+        },
+        "author_id": "1169229219265536002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1977347169125339627",
+        "created_at": "2025-10-12T12:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977347169125339627"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 6,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "明日方舟"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Af9KpZYBfR",
+              "end": 43,
+              "expanded_url": "https://x.com/chefcoOo_jk/status/1977347169125339627/photo/1",
+              "media_key": "3_1977347125303537664",
+              "start": 20,
+              "url": "https://t.co/Af9KpZYBfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977347169125339627",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 19952,
+          "like_count": 1568,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "読み聞かせ\n#アークナイツ #明日方舟 https://t.co/Af9KpZYBfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 148
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-04T12:42:35.000Z",
+        "description": "最も好きな元素は₄₃Tcです 危機契約と鉄道ターン詰め以外の全ての時間で絵を描きます\n https://t.co/koOyl5Xqgn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@chefcoOo_jk",
+                "end": 67,
+                "expanded_url": "https://skeb.jp/@chefcoOo_jk",
+                "start": 44,
+                "url": "https://t.co/koOyl5Xqgn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78088205",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78088205",
+                "start": 0,
+                "url": "https://t.co/7F9Co2Fc1S"
+              }
+            ]
+          }
+        },
+        "id": "1169229219265536002",
+        "location": "危機契約#3",
+        "name": "technetium",
+        "pinned_tweet_id": "1977347169125339627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958171295453188096/R-6LKJd2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6036,
+          "following_count": 979,
+          "like_count": 23668,
+          "listed_count": 41,
+          "media_count": 1571,
+          "tweet_count": 12896
+        },
+        "url": "https://t.co/7F9Co2Fc1S",
+        "username": "chefcoOo_jk",
+        "verified": false
+      }
+    ]
+  }
+}

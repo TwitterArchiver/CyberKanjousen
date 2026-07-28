@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2037739846073200874",
+    "created_at": "2026-03-28T16:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037935470915801364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555888810700836865",
+          "start": 0,
+          "username": "Lonnet_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037935470915801364",
+    "in_reply_to_user_id": "1555888810700836865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037934695045030368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lonnet_Official 理论上除了一个写在手机里一个写在 ESTK 里之外就没有区别了\n但是两者的上推体验实际上却大相径庭🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2037739846073200874",
+        "created_at": "2026-03-28T16:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037935470915801364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1555888810700836865",
+              "start": 0,
+              "username": "Lonnet_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037935470915801364",
+        "in_reply_to_user_id": "1555888810700836865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037934695045030368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lonnet_Official 理论上除了一个写在手机里一个写在 ESTK 里之外就没有区别了\n但是两者的上推体验实际上却大相径庭🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555888810700836865",
+        "conversation_id": "2037739846073200874",
+        "created_at": "2026-03-28T16:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037934695045030368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037934695045030368",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037739846073200874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 普通euicc和estk有啥区别啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 328,
+          "like_count": 8511,
+          "listed_count": 3,
+          "media_count": 670,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-06T12:09:52.000Z",
+        "description": "Mail：kirasamelonnet@gmail.com 在虚无中寻找自我价值",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/vHyyS3f",
+                "end": 23,
+                "expanded_url": "https://b23.tv/vHyyS3f",
+                "start": 0,
+                "url": "https://t.co/FNGo8KCP2C"
+              }
+            ]
+          }
+        },
+        "id": "1555888810700836865",
+        "location": "Shanghai",
+        "name": "Lonnet",
+        "pinned_tweet_id": "1961952208205042047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725707400030859264/C-NT6pZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 558,
+          "like_count": 4155,
+          "listed_count": 0,
+          "media_count": 772,
+          "tweet_count": 4370
+        },
+        "url": "https://t.co/FNGo8KCP2C",
+        "username": "Lonnet_Official",
+        "verified": false
+      }
+    ]
+  }
+}

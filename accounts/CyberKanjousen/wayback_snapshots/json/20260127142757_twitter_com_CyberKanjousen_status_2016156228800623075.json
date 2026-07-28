@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2016135021841752498",
+    "created_at": "2026-01-27T14:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T15:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016156228800623075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016156228800623075",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016135021841752498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 《粥的名声在墙内反倒真的是臭不可闻》\n真是这样的吗？最近不太清楚，没怎么接触墙内社交媒体；以前我看B站节奏最大的好像也就水陈皮肤了吧？\n和原神崩铁这些比起来，舟的名声感觉算好的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 386,
+        "media_key": "3_2016134985045213184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_rAFkLbgAAhnan.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2016135021841752498",
+        "created_at": "2026-01-27T14:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T15:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016156228800623075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016156228800623075",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016135021841752498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 《粥的名声在墙内反倒真的是臭不可闻》\n真是这样的吗？最近不太清楚，没怎么接触墙内社交媒体；以前我看B站节奏最大的好像也就水陈皮肤了吧？\n和原神崩铁这些比起来，舟的名声感觉算好的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016134985045213184"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016135021841752498",
+        "created_at": "2026-01-27T13:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T14:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016135021841752498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Bzed4yb62",
+              "end": 159,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2016135021841752498/photo/1",
+              "media_key": "3_2016134985045213184",
+              "start": 136,
+              "url": "https://t.co/2Bzed4yb62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016135021841752498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一说一，根据我在各大平台冲浪的经验，你粥游浓度最大的地方还真是推特。\n推上各种玉玉症南梁药娘到二次元粉红到萌萌岁静人，大多都沾点粥。\n虽然粥的名声在墙内反倒真的是臭不可闻，当初粥孝子说自己硬核不媚宅，抵制闪灵那个黑丝皮肤的时候我就绷不住。结果那个皮肤是方舟卖的最多的。\n二游的本质就是卖烧鸡给一堆压抑的不行的宅男，认清了这个本质就知道各种拽名词，装高大上，上升高度等各种行为有多奇异搞笑了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 700,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一，根据我在各大平台冲浪的经验，你粥游浓度最大的地方还真是推特。\n推上各种玉玉症南梁药娘到二次元粉红到萌萌岁静人，大多都沾点粥。\n虽然粥的名声在墙内反倒真的是臭不可闻，当初粥孝子说自己硬核不媚宅，抵制闪灵那个黑丝皮肤的时候我就绷不住。结果那个皮肤是方舟卖的最多的。 https://t.co/2Bzed4yb62"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CyberKanjousen",
+                "end": 23,
+                "expanded_url": "https://github.com/CyberKanjousen",
+                "start": 0,
+                "url": "https://t.co/t6dmiW4LzP"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 27,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/t6dmiW4LzP",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "1894341414131306854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16865,
+          "following_count": 541,
+          "like_count": 10543,
+          "listed_count": 58,
+          "media_count": 2340,
+          "tweet_count": 9991
+        },
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

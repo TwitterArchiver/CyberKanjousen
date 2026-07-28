@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2048045850040103022",
+    "created_at": "2026-04-26T03:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048242475916210333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797627843465125889",
+          "start": 0,
+          "username": "ericoolen_eric"
+        },
+        {
+          "end": 24,
+          "id": "1870336533342932992",
+          "start": 16,
+          "username": "alkx_ct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048242475916210333",
+    "in_reply_to_user_id": "1797627843465125889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048128684973007267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ericoolen_eric @alkx_ct Apple 设备即使不开 VPN 也可以收到 Discord 消息通知😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2048045850040103022",
+        "created_at": "2026-04-26T03:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048242475916210333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797627843465125889",
+              "start": 0,
+              "username": "ericoolen_eric"
+            },
+            {
+              "end": 24,
+              "id": "1870336533342932992",
+              "start": 16,
+              "username": "alkx_ct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048242475916210333",
+        "in_reply_to_user_id": "1797627843465125889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048128684973007267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ericoolen_eric @alkx_ct Apple 设备即使不开 VPN 也可以收到 Discord 消息通知😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797627843465125889",
+        "conversation_id": "2048045850040103022",
+        "created_at": "2026-04-25T19:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048128684973007267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1870336533342932992",
+              "start": 0,
+              "username": "alkx_ct"
+            },
+            {
+              "end": 24,
+              "id": "1918274202580467713",
+              "start": 9,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048128684973007267",
+        "in_reply_to_user_id": "1870336533342932992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048051503773200445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alkx_ct @CyberKanjousen 大陆用dc需要vpn，聊天的时候开一下vpn其实没什么，最坏的影响是一般收不到dc的消息通知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 580,
+          "like_count": 15208,
+          "listed_count": 5,
+          "media_count": 910,
+          "tweet_count": 4817
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-03T13:54:14.000Z",
+        "description": "crafting https://t.co/ogcTc1fTnh the remote agent controller.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Eric-Song-Nop/…",
+                "end": 32,
+                "expanded_url": "https://github.com/Eric-Song-Nop/mobvibe",
+                "start": 9,
+                "url": "https://t.co/ogcTc1fTnh"
+              }
+            ]
+          }
+        },
+        "id": "1797627843465125889",
+        "name": "Ericoolen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797630239930982400/Px3GmQrY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 52,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 170
+        },
+        "username": "ericoolen_eric",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "「静かな夜だけが、私を覚えている⋯」\nHome:Singapore🇸🇬/Sexual orientation:trans🏳️‍⚧️\nGames:Project Sekai/AB/MC\nLanguages:🇺🇸🇹🇼🇯🇵\nPresident of the Union Republic of Griffin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040272432788058113/m7xH-w8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 188,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "alkx_ct",
+        "verified": true
+      }
+    ]
+  }
+}

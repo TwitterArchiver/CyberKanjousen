@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2048965678204400051",
+    "created_at": "2026-04-28T11:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049091788645023780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572532372347953154",
+          "start": 0,
+          "username": "preferredwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049091788645023780",
+    "in_reply_to_user_id": "1572532372347953154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049091168399696096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@preferredwm 環状線没有任何对 DeepSeek 设置任何前置 prompt ，新开一个会话就问了这一个问题 \n（DeepSeek 应该没有跨会话记忆功能吧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048965678204400051",
+        "created_at": "2026-04-28T11:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049091788645023780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572532372347953154",
+              "start": 0,
+              "username": "preferredwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049091788645023780",
+        "in_reply_to_user_id": "1572532372347953154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049091168399696096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@preferredwm 環状線没有任何对 DeepSeek 设置任何前置 prompt ，新开一个会话就问了这一个问题 \n（DeepSeek 应该没有跨会话记忆功能吧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572532372347953154",
+        "conversation_id": "2048965678204400051",
+        "created_at": "2026-04-28T11:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049091168399696096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049091168399696096",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048965678204400051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 问这个问题的人基本都二次元小保,本身就是缺乏统战价值的群体,没必要为他们润色AI的输出了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 627,
+          "like_count": 15987,
+          "listed_count": 5,
+          "media_count": 930,
+          "tweet_count": 4990
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T10:25:18.000Z",
+        "description": "#genZ #Founder #AI #ENTP WELCOME TO MY WORLD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "genZ"
+              },
+              {
+                "end": 14,
+                "start": 6,
+                "tag": "Founder"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "AI"
+              },
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "ENTP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "2wood.cn",
+                "end": 23,
+                "expanded_url": "https://2wood.cn",
+                "start": 0,
+                "url": "https://t.co/Mk63NbFTTW"
+              }
+            ]
+          }
+        },
+        "id": "1572532372347953154",
+        "location": "Antarctica",
+        "name": "preferred",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035282905346580480/jZlfZe8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 968,
+          "like_count": 4820,
+          "listed_count": 0,
+          "media_count": 207,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/Mk63NbFTTW",
+        "username": "preferredwm",
+        "verified": true
+      }
+    ]
+  }
+}

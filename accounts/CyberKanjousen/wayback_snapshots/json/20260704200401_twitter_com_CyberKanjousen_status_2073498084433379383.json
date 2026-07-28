@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2073474636201992212",
+    "created_at": "2026-07-04T20:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073498084433379383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945566578327916544",
+          "start": 0,
+          "username": "2477Sion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073498084433379383",
+    "in_reply_to_user_id": "1945566578327916544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073495125624512655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2477Sion 好像……是这样的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2073474636201992212",
+        "created_at": "2026-07-04T20:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073498084433379383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945566578327916544",
+              "start": 0,
+              "username": "2477Sion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073498084433379383",
+        "in_reply_to_user_id": "1945566578327916544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073495125624512655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2477Sion 好像……是这样的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945566578327916544",
+        "conversation_id": "2073474636201992212",
+        "created_at": "2026-07-04T19:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T20:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073495125624512655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073495125624512655",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073474636201992212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 笨蛋环状线是不是忘记拆线了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9132,
+          "following_count": 879,
+          "like_count": 29395,
+          "listed_count": 13,
+          "media_count": 1872,
+          "tweet_count": 9573
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T19:30:22.000Z",
+        "description": "MTF/MATH/INTJ 5w4/茕茕孑立/键政负能勿扰/超天才短线战士/喜欢热爱生活的人/没进国集是一生的痛/现在的我坚韧得可怕/总有天我要到达那个地方然后取回我曾失去的东西/牛子销号进度22.0%",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2477sion",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2477sion",
+                "start": 0,
+                "url": "https://t.co/Y3Czy7Av5x"
+              }
+            ]
+          }
+        },
+        "id": "1945566578327916544",
+        "location": "这是个～秘密哟～",
+        "name": "Sion_诗🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065556793384902742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 20,
+          "like_count": 208,
+          "listed_count": 10,
+          "media_count": 91,
+          "tweet_count": 645
+        },
+        "url": "https://t.co/Y3Czy7Av5x",
+        "username": "2477Sion",
+        "verified": true
+      }
+    ]
+  }
+}

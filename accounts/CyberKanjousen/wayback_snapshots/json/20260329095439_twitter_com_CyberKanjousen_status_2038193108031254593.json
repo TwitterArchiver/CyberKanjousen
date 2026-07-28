@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2037742602402066715",
+    "created_at": "2026-03-29T09:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038193108031254593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224033596249382912",
+          "start": 0,
+          "username": "Uturo_Bune"
+        },
+        {
+          "end": 26,
+          "id": "1878040030834270209",
+          "start": 12,
+          "username": "shishan634852"
+        },
+        {
+          "end": 42,
+          "id": "1724316299663151104",
+          "start": 27,
+          "username": "LeclareMax6666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038193108031254593",
+    "in_reply_to_user_id": "1224033596249382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038192442143572226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uturo_Bune @shishan634852 @LeclareMax6666 以腾讯的效率或许仍然没修（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2037742602402066715",
+        "created_at": "2026-03-29T09:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038193108031254593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224033596249382912",
+              "start": 0,
+              "username": "Uturo_Bune"
+            },
+            {
+              "end": 26,
+              "id": "1878040030834270209",
+              "start": 12,
+              "username": "shishan634852"
+            },
+            {
+              "end": 42,
+              "id": "1724316299663151104",
+              "start": 27,
+              "username": "LeclareMax6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038193108031254593",
+        "in_reply_to_user_id": "1224033596249382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038192442143572226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uturo_Bune @shishan634852 @LeclareMax6666 以腾讯的效率或许仍然没修（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224033596249382912",
+        "conversation_id": "2037742602402066715",
+        "created_at": "2026-03-29T09:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038192442143572226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878040030834270209",
+              "start": 0,
+              "username": "shishan634852"
+            },
+            {
+              "end": 30,
+              "id": "1918274202580467713",
+              "start": 15,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 46,
+              "id": "1724316299663151104",
+              "start": 31,
+              "username": "LeclareMax6666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038192442143572226",
+        "in_reply_to_user_id": "1878040030834270209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038163742505185400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishan634852 @CyberKanjousen @LeclareMax6666 纸飞机是端到端加密，目的是不让纸飞机自己的服务器看到聊天内容，和QQ这个情况不一样，但QQ确实抓不到对面IP，网络层是腾讯服务器的IP头，应用层也不带对面的IP信息。很久以前有XML探针这个技术，是唯一可行的，现在不知道修了没。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 330,
+          "like_count": 8674,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-02T18:15:59.000Z",
+        "description": "因此，时间将来到，他们眼睛上的鳞片将脱落｜妹妹@suwanzi2333｜导师@CMWither｜糖糖@Kraehe_YukI & @xiaogozz｜小脑斧@hakisou_ureshi｜思考退网中……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "suwanzi2333"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "CMWither"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Kraehe_YukI"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "xiaogozz"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "hakisou_ureshi"
+              }
+            ]
+          }
+        },
+        "id": "1224033596249382912",
+        "location": "Narrenschiff",
+        "name": "兔兔牌皇室贵族小点心🥕（水晶萝卜版）",
+        "pinned_tweet_id": "2037890637861917010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033135194635706368/h5mbGu8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 349,
+          "like_count": 36043,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 8580
+        },
+        "username": "Uturo_Bune",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-11T11:23:40.000Z",
+        "description": "我是APFSDS-T尾翼稳定脱壳穿甲曳光弹🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ciallo.cc",
+                "end": 23,
+                "expanded_url": "http://ciallo.cc",
+                "start": 0,
+                "url": "https://t.co/JoKNjDMhmn"
+              }
+            ]
+          }
+        },
+        "id": "1878040030834270209",
+        "location": "你身后",
+        "name": "十三thirteen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009357893708267520/Ss8mx_CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 1616,
+          "like_count": 51552,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 3280
+        },
+        "url": "https://t.co/JoKNjDMhmn",
+        "username": "shishan634852",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T06:40:31.000Z",
+        "description": "",
+        "id": "1724316299663151104",
+        "name": "Kyotosa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002197216082210818/yuu7VKfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 308
+        },
+        "username": "LeclareMax6666",
+        "verified": false
+      }
+    ]
+  }
+}

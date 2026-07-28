@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1960654188414935332",
+    "created_at": "2025-08-27T15:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960726593523081543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960726593523081543",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960654188414935332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 你让我怎么上这个b班.jpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1960654175274197001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzWklZya4Akgyt7.jpg",
+        "width": 310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1960654188414935332",
+        "created_at": "2025-08-27T15:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960726593523081543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960726593523081543",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960654188414935332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 你让我怎么上这个b班.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960654175274197001"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1960654188414935332",
+        "created_at": "2025-08-27T10:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T11:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960654188414935332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I1ttq4Ej4o",
+              "end": 29,
+              "expanded_url": "https://x.com/codyhunk/status/1960654188414935332/photo/1",
+              "media_key": "3_1960654175274197001",
+              "start": 6,
+              "url": "https://t.co/I1ttq4Ej4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960654188414935332",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 40339,
+          "like_count": 296,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🫱🏻‍🫲🏼 https://t.co/I1ttq4Ej4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 70
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，很喜欢和大家成为朋友，平时分享梗图。没啥雷点，爱打游戏不红温，互fo记得在顶置留言",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏",
+        "pinned_tweet_id": "1947464239570161956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952336396066377728/lizJCy-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9043,
+          "following_count": 1745,
+          "like_count": 4715,
+          "listed_count": 21,
+          "media_count": 3761,
+          "tweet_count": 4052
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

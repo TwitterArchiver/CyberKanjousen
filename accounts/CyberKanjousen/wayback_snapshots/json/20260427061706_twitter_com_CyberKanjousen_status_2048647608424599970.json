@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047994804387401728"
+      ],
+      "media_source_tweet_id": [
+        "2047994810028745046"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2048647608424599970",
+    "created_at": "2026-04-27T06:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048647608424599970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258258262765387776",
+          "start": 3,
+          "username": "mimori_05"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OBWw5UDwg",
+          "end": 38,
+          "expanded_url": "https://x.com/mimori_05/status/2047994810028745046/photo/1",
+          "media_key": "3_2047994804387401728",
+          "start": 15,
+          "url": "https://t.co/3OBWw5UDwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048647608424599970",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047994810028745046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimori_05: https://t.co/3OBWw5UDwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047994804387401728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvwbIFbUAA5f3r.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047994804387401728"
+          ],
+          "media_source_tweet_id": [
+            "2047994810028745046"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048647608424599970",
+        "created_at": "2026-04-27T06:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048647608424599970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258258262765387776",
+              "start": 3,
+              "username": "mimori_05"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OBWw5UDwg",
+              "end": 38,
+              "expanded_url": "https://x.com/mimori_05/status/2047994810028745046/photo/1",
+              "media_key": "3_2047994804387401728",
+              "start": 15,
+              "url": "https://t.co/3OBWw5UDwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048647608424599970",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047994810028745046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimori_05: https://t.co/3OBWw5UDwg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047994804387401728"
+          ]
+        },
+        "author_id": "1258258262765387776",
+        "conversation_id": "2047994810028745046",
+        "created_at": "2026-04-25T11:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047994810028745046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OBWw5UDwg",
+              "end": 23,
+              "expanded_url": "https://x.com/mimori_05/status/2047994810028745046/photo/1",
+              "media_key": "3_2047994804387401728",
+              "start": 0,
+              "url": "https://t.co/3OBWw5UDwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047994810028745046",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 26310,
+          "like_count": 2939,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3OBWw5UDwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 599,
+          "like_count": 15609,
+          "listed_count": 5,
+          "media_count": 921,
+          "tweet_count": 4917
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-07T04:52:20.000Z",
+        "description": "お絵かき。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42228869",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42228869",
+                "start": 0,
+                "url": "https://t.co/t1jlF2GPnP"
+              }
+            ]
+          }
+        },
+        "id": "1258258262765387776",
+        "name": "ミモリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045318883742187521/JIgc9bYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14480,
+          "following_count": 103,
+          "like_count": 3194,
+          "listed_count": 118,
+          "media_count": 261,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/t1jlF2GPnP",
+        "username": "mimori_05",
+        "verified": false
+      }
+    ]
+  }
+}

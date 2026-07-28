@@ -1,0 +1,573 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052058404718510080"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1697053249440731136",
+          "name": "Apple Event 2023"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1717672666507730944",
+          "name": "Apple Event"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple AirPods",
+          "id": "972151914115710976",
+          "name": "Apple AirPods"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology",
+          "id": "857879456773357569",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2052058412654207458",
+    "created_at": "2026-05-06T16:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052058412654207458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/12WcFELUks",
+          "end": 114,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2052058412654207458/photo/1",
+          "media_key": "3_2052058404718510080",
+          "start": 91,
+          "url": "https://t.co/12WcFELUks"
+        },
+        {
+          "display_url": "x.com/oooodjdjd/stat…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/oooodjdjd/status/2051946830255337982",
+          "start": 115,
+          "url": "https://t.co/w9v87zBE4z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052058412654207458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051946830255337982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「戴耳机1个小时，人耳朵内的细菌会增加700倍」？\n\n環状線戴 AirPods Pro 日均 10 小时，環状線耳朵内的细菌日均增加 7,000 倍。\n\n新生化武器：環状線的耳道。 https://t.co/12WcFELUks https://t.co/w9v87zBE4z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2052058404718510080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpgPy-aAAA_--V.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2051946815940165632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn6weYbgAA2kmJ.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052058404718510080"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple AirPods",
+              "id": "972151914115710976",
+              "name": "Apple AirPods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology",
+              "id": "857879456773357569",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2052058412654207458",
+        "created_at": "2026-05-06T16:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052058412654207458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12WcFELUks",
+              "end": 114,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2052058412654207458/photo/1",
+              "media_key": "3_2052058404718510080",
+              "start": 91,
+              "url": "https://t.co/12WcFELUks"
+            },
+            {
+              "display_url": "x.com/oooodjdjd/stat…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/oooodjdjd/status/2051946830255337982",
+              "start": 115,
+              "url": "https://t.co/w9v87zBE4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052058412654207458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051946830255337982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「戴耳机1个小时，人耳朵内的细菌会增加700倍」？\n\n環状線戴 AirPods Pro 日均 10 小时，環状線耳朵内的细菌日均增加 7,000 倍。\n\n新生化武器：環状線的耳道。 https://t.co/12WcFELUks https://t.co/w9v87zBE4z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051946815940165632"
+          ]
+        },
+        "author_id": "1894548093905084416",
+        "conversation_id": "2051946830255337982",
+        "created_at": "2026-05-06T08:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051946830255337982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/veqJMu2pG1",
+              "end": 164,
+              "expanded_url": "https://x.com/oooodjdjd/status/2051946830255337982/photo/1",
+              "media_key": "3_2051946815940165632",
+              "start": 141,
+              "url": "https://t.co/veqJMu2pG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051946830255337982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没用的知识\n\n1.藏獒，一生只认一个主人。\n\n2.再烈的马，只要骑过一次，就能一直骑。\n\n3.开水烫碗，不能真正的杀菌消毒，其作用很小。\n\n4.七尺男儿，是指身高1米68的男性。\n\n5.戴耳机1个小时，人耳朵内的细菌会增加700倍。\n\n6.午休，睡30分钟就够了，睡太久人会变累。\n\n7.历史上的和珅，其实是个大帅哥，而且武功高强。\n\n8.你大拇指的高度与你鼻子的高度是完全一致的。\n\n9.久坐，会对膝盖造成损伤。\n\n10.古代人蹲坑时，用来擦屁 股的，不是厕纸而是竹片。\n\n11.一坐车就晕车的人，可以吃一块糖。\n\n12.一次性手套，是不防油的。\n\n13.当看完自己很喜欢的影视作品后，会有一种怅然若失的感觉，内心很失落，甚至有些难过，这种现象叫“电子失恋”。\n\n14.三斤花西子可以买一套房。\n\n15.吃惊表情都是转瞬即逝，吃惊表情太久，那很可能是装的。\n\n16.血管的长度，可以绕地球2周。\n\n17.在面对压力时，男人倾向于逃避，女人倾向于倾诉。\n\n18.每天最热是下午2点，最冷是凌晨4点。\n\n19.男人普遍比女人，更能吃辣。\n\n20.放屁时，夹紧屁股，声音反而会更大。\n\n21.水果当正餐，不仅不减肥，还催肥。\n\n22.吵架的时候，男人一般想的是未来，女生一般想的是过去。\n23.白色的花，往往比色彩鲜艳的花有着更为浓烈的香味。\n\n24.据说，有63%的男性曾对女朋友的闺蜜动心。\n\n25.照镜子久了，自己都觉得自己陌生。\n\n26.香蕉是一种草本植物，而不是树。\n\n27.出社会后很少联系家人的人，心理学中称为情感漠视。\n\n28.牛、羊都是反刍动物，胃分为四室，会倒嚼食物。\n\n29.多看恐怖片，有利于减肥。\n\n30.刷牙，把舌头也刷刷，防口臭。\n\n31.皮肤的敌人是各种糖，骨骼的敌人是碳酸饮料。\n\n32.照镜子的时间越长，你可能觉得自己越陌生。\n\n33.人不睡觉能撑11天，人不喝水只能撑3天。\n\n34.女装的扣子一般在左边，男装的一般在右边。\n\n35.绞肉机上面套个保鲜膜，这样肉馅就不会粘在盖子上面了。\n\n36.超过110岁的长寿老人，大多数是女性。\n\n37.西瓜的含水量高达92%，许多年前，西瓜是用来装水的。\n\n38.“退避三舍”不是退了三间屋，而是退了九十里。\n\n39.吃一根香蕉的辐射量，比玩一个小时手机要大。\n\n40.大出血的人，口渴也不能给他喝水。\n\n41.洗澡的最佳时间是晚上，在就寝之前洗澡可以促进睡眠。\n\n42.鸡爪看上去没啥肉，其实热量很高。\n\n43.榴莲不能和酒一起食用，可能会引发身体不适。\n\n44.特别喜欢美食的人，性格都单纯，容易满足。\n\n45.一杯600ml的奶茶，相当于四碗米饭。\n\n46.想要减肥，就多吃菠菜，掉秤快。\n\n47.膀胱最大容量0.6升，超过就会破裂，千万不要憋尿太久。\n\n48.空腹喝茶，可能会引发胃痛。\n\n49.柬埔寨的国花是“吴哥窟花”，这是一种象征着繁荣和富饶的黄色花卉。\n\n50.一斤500克，一两50克，一尺33.33厘米，你知道吗？\n\n51.吃甘蔗后，牙齿又白又干净，比刷十次牙还管用。\n\n52.小猫的喵喵叫声，是为了和人类交流产生的行为。\n\n53.挤压柠檬前先加热，可以挤压出更多的汁液。\n\n54.百分之99的人舌头伸到外面时，都不能快速呼吸。\n\n55.订金可退，定金不可退，这个得分清。\n\n56.ATM机用金属键盘可以防止密码泄漏。\n\n57.出车祸时，活蹦乱跳的那个人，可能是最严重的。\n\n58.金针菇，吃进去什么样，出来还是怎么样，基本不被消化。\n\n59.人不能憋气自杀，最多憋晕自己，然后你的肺就会自动开始呼吸。\n\n60.蒸包子时，笼屉中，上面的先熟，下面的后熟。\n\n61.50个人中，至少有两个人的生日相同的概率为97%。\n\n62.牙齿，会极大地影响一个人的颜值。\n\n63.1,111,111 x 1,111,111=1234567654321\n\n64.吃甘蔗后，牙齿又白又干净，比刷十次牙还管用。\n\n65.洗澡时，水温不要太高，会伤害皮肤。\n\n66.牙掉了及时去医院还可以装上。\n\n67.有时候，你越想找到某样东西，就是找不到，不想找了，反而会自己蹦出来。\n\n68.青蛙没有喝水的行为，它们吸收水分主要通过皮肤。\n\n69.蝴蝶的孩子，可不是叫蝴蝶，而是叫“毛毛虫”。\n\n70.我国第二长河黄河的年径流量，还不如长江的很多支流。\n\n71.什么动物的眼睛最大？所有在陆地上生活的生物中，从眼球的角度来计算，那么眼睛最大的动物就是马！\n\n72.多重的西瓜，都能漂浮在水面上。\n\n73.狗狗开心的时候往右摇尾巴，难过的时候往左摇。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 17604,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "没用的知识\n\n1.藏獒，一生只认一个主人。\n\n2.再烈的马，只要骑过一次，就能一直骑。\n\n3.开水烫碗，不能真正的杀菌消毒，其作用很小。\n\n4.七尺男儿，是指身高1米68的男性。\n\n5.戴耳机1个小时，人耳朵内的细菌会增加700倍。\n\n6.午休，睡30分钟就够了，睡太久人会变累。 https://t.co/veqJMu2pG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 804,
+          "like_count": 18307,
+          "listed_count": 9,
+          "media_count": 986,
+          "tweet_count": 5419
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T00:40:49.000Z",
+        "description": "🐱职业打工人，欢迎跟我一起进入web3 \n5年区块链经验丨投研分析丨知识成长分享丨专业HR/web3求职 \n\n🐾欢迎合作（小作文100%回复）：froussimis@gmail.com",
+        "id": "1894548093905084416",
+        "location": "Canyon Rim, UT",
+        "name": "meme",
+        "pinned_tweet_id": "2004720696245858745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949422290019790848/6cIshmX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15661,
+          "following_count": 288,
+          "like_count": 6431,
+          "listed_count": 54,
+          "media_count": 663,
+          "tweet_count": 3847
+        },
+        "username": "oooodjdjd",
+        "verified": true
+      }
+    ]
+  }
+}

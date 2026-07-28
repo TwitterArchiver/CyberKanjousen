@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006931046420619264"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2006931057707463121",
+    "created_at": "2026-01-02T03:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T04:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006931057707463121"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NhM91LDq3m",
+          "end": 28,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2006931057707463121/photo/1",
+          "media_key": "3_2006931046420619264",
+          "start": 5,
+          "url": "https://t.co/NhM91LDq3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006931057707463121",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/NhM91LDq3m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2006931046420619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9oNJ06aoAAT-FI.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006931046420619264"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2006931057707463121",
+        "created_at": "2026-01-02T03:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006931057707463121"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhM91LDq3m",
+              "end": 28,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2006931057707463121/photo/1",
+              "media_key": "3_2006931046420619264",
+              "start": 5,
+              "url": "https://t.co/NhM91LDq3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006931057707463121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/NhM91LDq3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 418
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

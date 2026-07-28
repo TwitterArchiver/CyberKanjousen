@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2004579994987889115",
+    "created_at": "2025-12-27T01:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004733896383234276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1290834854268022786",
+          "start": 0,
+          "username": "Lunexalith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004733896383234276",
+    "in_reply_to_user_id": "1290834854268022786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004579994987889115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lunexalith 显然游戏没有被杀后台，否则第二次启动的时候，应该是进入游戏登录页面，而不是继续上一场对局"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16346,
+        "height": 1138,
+        "media_key": "7_2004579512437080064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2004579512437080064/pu/img/9F7YqkOu9rw-346f.jpg",
+        "public_metrics": {
+          "view_count": 4433
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004579512437080064/pu/vid/avc1/320x568/ozlSeLph9Usy6rPY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004579512437080064/pu/vid/avc1/480x852/rBXJ1ljMVypYZUMJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2004579512437080064/pu/vid/avc1/640x1138/L2JEvsgGODujTDWC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2004579512437080064/pu/pl/_2LVih1gemnPEAFQ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2004579994987889115",
+        "created_at": "2025-12-27T01:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004733896383234276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1290834854268022786",
+              "start": 0,
+              "username": "Lunexalith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004733896383234276",
+        "in_reply_to_user_id": "1290834854268022786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004579994987889115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lunexalith 显然游戏没有被杀后台，否则第二次启动的时候，应该是进入游戏登录页面，而不是继续上一场对局"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2004579512437080064"
+          ]
+        },
+        "author_id": "1290834854268022786",
+        "conversation_id": "2004579994987889115",
+        "created_at": "2025-12-26T15:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004579994987889115"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Antutu",
+              "probability": 0.5317,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Zero latency",
+              "probability": 0.6259,
+              "start": 88,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bW3av2E37L",
+              "end": 125,
+              "expanded_url": "https://x.com/Lunexalith/status/2004579994987889115/video/1",
+              "media_key": "7_2004579512437080064",
+              "start": 102,
+              "url": "https://t.co/bW3av2E37L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004579994987889115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8552,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "You want proof that 5 million Antutu is useless? Watch this video, Instant game launch, Zero latency. https://t.co/bW3av2E37L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 363
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-05T02:19:58.000Z",
+        "description": "I share my own unpopular opinions.",
+        "id": "1290834854268022786",
+        "name": "Lunexa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996159901039570944/wFv_waeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1142,
+          "like_count": 35769,
+          "listed_count": 2,
+          "media_count": 394,
+          "tweet_count": 2510
+        },
+        "username": "Lunexalith",
+        "verified": false
+      }
+    ]
+  }
+}

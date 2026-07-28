@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2013107007876669741",
+    "created_at": "2026-01-19T11:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T12:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013205376259195010"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "iOS",
+          "probability": 0.9852,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 40,
+          "normalized_text": "Liquid Glass",
+          "probability": 0.7609,
+          "start": 29,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "iOS",
+          "probability": 0.9794,
+          "start": 53,
+          "type": "Other"
+        },
+        {
+          "end": 96,
+          "normalized_text": "Liquid Glass",
+          "probability": 0.8234,
+          "start": 85,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "iOS",
+          "probability": 0.9795,
+          "start": 121,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1571428991449567233",
+          "start": 0,
+          "username": "lakshyalark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013205376259195010",
+    "in_reply_to_user_id": "1571428991449567233",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013107007876669741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lakshyalark As iOS prompted Liquid Glass, following iOS, the other OS also released Liquid Glass (or something similar)\niOS is still the leader in some aspects"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013106989576966144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_-JCCXUAAtP9d.jpg",
+        "width": 1763
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2013107007876669741",
+        "created_at": "2026-01-19T11:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T12:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013205376259195010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "iOS",
+              "probability": 0.9852,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.7609,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "iOS",
+              "probability": 0.9794,
+              "start": 53,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Liquid Glass",
+              "probability": 0.8234,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "iOS",
+              "probability": 0.9795,
+              "start": 121,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1571428991449567233",
+              "start": 0,
+              "username": "lakshyalark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013205376259195010",
+        "in_reply_to_user_id": "1571428991449567233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013107007876669741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lakshyalark As iOS prompted Liquid Glass, following iOS, the other OS also released Liquid Glass (or something similar)\niOS is still the leader in some aspects"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013106989576966144"
+          ]
+        },
+        "author_id": "1571428991449567233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013107007876669741",
+        "created_at": "2026-01-19T04:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013107007876669741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1AP7HcRcm",
+              "end": 47,
+              "expanded_url": "https://x.com/lakshyalark/status/2013107007876669741/photo/1",
+              "media_key": "3_2013106989576966144",
+              "start": 24,
+              "url": "https://t.co/s1AP7HcRcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013107007876669741",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12432,
+          "like_count": 330,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "The tables have turned. https://t.co/s1AP7HcRcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 777
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-18T09:20:57.000Z",
+        "description": "Student | Interested in Tech | Learning",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lakshyalark/?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lakshyalark/?igsh=MTd6Z3I1aWR2aXY3Mg%3D%3D",
+                "start": 0,
+                "url": "https://t.co/XLrEWav96X"
+              }
+            ]
+          }
+        },
+        "id": "1571428991449567233",
+        "name": "Lakshya Lark",
+        "pinned_tweet_id": "1941355025546215549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672603197440163841/gGOrKaQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7212,
+          "following_count": 987,
+          "like_count": 117278,
+          "listed_count": 27,
+          "media_count": 5968,
+          "tweet_count": 40479
+        },
+        "url": "https://t.co/XLrEWav96X",
+        "username": "lakshyalark",
+        "verified": true
+      }
+    ]
+  }
+}

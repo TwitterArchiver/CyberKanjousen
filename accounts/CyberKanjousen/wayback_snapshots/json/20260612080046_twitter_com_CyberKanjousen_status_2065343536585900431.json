@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065343525387206656"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065328610081444167",
+    "created_at": "2026-06-12T08:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065343536585900431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1995056779433275392",
+          "start": 0,
+          "username": "Na3PO2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTHU4Jwla4",
+          "end": 33,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2065343536585900431/photo/1",
+          "media_key": "3_2065343525387206656",
+          "start": 10,
+          "url": "https://t.co/DTHU4Jwla4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065343536585900431",
+    "in_reply_to_user_id": "1995056779433275392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065328610081444167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Na3PO2 😁 https://t.co/DTHU4Jwla4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 285,
+        "media_key": "3_2065343525387206656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmS_mHbgAAbw8_.jpg",
+        "width": 420
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2065328597829828608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmFasoaQAAEWJu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2065328598425423872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmFau2aUAAPPje.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2065328601025953792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmFa4ibQAAvYjS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2065328602418409472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmFa9uacAA7ZPW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065343525387206656"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065328610081444167",
+        "created_at": "2026-06-12T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065343536585900431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1995056779433275392",
+              "start": 0,
+              "username": "Na3PO2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTHU4Jwla4",
+              "end": 33,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2065343536585900431/photo/1",
+              "media_key": "3_2065343525387206656",
+              "start": 10,
+              "url": "https://t.co/DTHU4Jwla4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065343536585900431",
+        "in_reply_to_user_id": "1995056779433275392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065328610081444167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Na3PO2 😁 https://t.co/DTHU4Jwla4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065328597829828608",
+            "3_2065328598425423872",
+            "3_2065328601025953792",
+            "3_2065328602418409472"
+          ]
+        },
+        "author_id": "1995056779433275392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065328610081444167",
+        "created_at": "2026-06-12T07:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065328610081444167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tsLYCd0vbs",
+              "end": 23,
+              "expanded_url": "https://x.com/Na3PO2/status/2065328610081444167/photo/1",
+              "media_key": "3_2065328597829828608",
+              "start": 0,
+              "url": "https://t.co/tsLYCd0vbs"
+            },
+            {
+              "display_url": "pic.x.com/tsLYCd0vbs",
+              "end": 23,
+              "expanded_url": "https://x.com/Na3PO2/status/2065328610081444167/photo/1",
+              "media_key": "3_2065328598425423872",
+              "start": 0,
+              "url": "https://t.co/tsLYCd0vbs"
+            },
+            {
+              "display_url": "pic.x.com/tsLYCd0vbs",
+              "end": 23,
+              "expanded_url": "https://x.com/Na3PO2/status/2065328610081444167/photo/1",
+              "media_key": "3_2065328601025953792",
+              "start": 0,
+              "url": "https://t.co/tsLYCd0vbs"
+            },
+            {
+              "display_url": "pic.x.com/tsLYCd0vbs",
+              "end": 23,
+              "expanded_url": "https://x.com/Na3PO2/status/2065328610081444167/photo/1",
+              "media_key": "3_2065328602418409472",
+              "start": 0,
+              "url": "https://t.co/tsLYCd0vbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065328610081444167",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tsLYCd0vbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 872,
+          "like_count": 25613,
+          "listed_count": 10,
+          "media_count": 1440,
+          "tweet_count": 7894
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T09:06:41.000Z",
+        "description": "这里，可以通往任何地方，是的吧",
+        "id": "1995056779433275392",
+        "name": "Na₃PO₂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053737565543641089/yBxl01o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 156,
+          "like_count": 19451,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1500
+        },
+        "username": "Na3PO2",
+        "verified": false
+      }
+    ]
+  }
+}

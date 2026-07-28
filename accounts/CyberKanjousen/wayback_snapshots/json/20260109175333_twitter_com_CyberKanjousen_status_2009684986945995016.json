@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009684980302274560"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2009636337587257359",
+    "created_at": "2026-01-09T17:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T18:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009684986945995016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 17,
+          "id": "1663749852965240834",
+          "start": 6,
+          "username": "Trader_S18"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aWAbMOZ3SO",
+          "end": 81,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2009684986945995016/photo/1",
+          "media_key": "3_2009684980302274560",
+          "start": 58,
+          "url": "https://t.co/aWAbMOZ3SO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009684986945995016",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009684061405446158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Trader_S18 和Gemini的回答有些许出入\n高市这个月的支持率的确较上月有所下降，虽然不多 https://t.co/aWAbMOZ3SO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009684980302274560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-PV14Fa4AAHv4n.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009684980302274560"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2009636337587257359",
+        "created_at": "2026-01-09T17:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009684986945995016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "1663749852965240834",
+              "start": 6,
+              "username": "Trader_S18"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWAbMOZ3SO",
+              "end": 81,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2009684986945995016/photo/1",
+              "media_key": "3_2009684980302274560",
+              "start": 58,
+              "url": "https://t.co/aWAbMOZ3SO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009684986945995016",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009684061405446158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Trader_S18 和Gemini的回答有些许出入\n高市这个月的支持率的确较上月有所下降，虽然不多 https://t.co/aWAbMOZ3SO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Reuters",
+              "id": "10047963346",
+              "name": "Reuters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reuters",
+              "id": "10047963346",
+              "name": "Reuters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2009636337587257359",
+        "created_at": "2026-01-09T17:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009684061405446158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 27,
+              "id": "1663749852965240834",
+              "start": 16,
+              "username": "Trader_S18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009684061405446158",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009683650217148651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @Trader_S18 根据最新可用数据，2025年12月的民调显示高市早苗内阁支持率小幅下降至67.5-68%（Kyodo和Asahi民调），较11月下降约1-2个百分点。但2026年1月报道（如SCMP、Reuters）称其支持率“飙升”或“接近70%”，并因高支持率考虑提前选举。无1月最新具体民调，无法确认持续下降。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 531
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7408725,
+          "following_count": 3,
+          "like_count": 82,
+          "listed_count": 5758,
+          "media_count": 7585092,
+          "tweet_count": 88145901
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-31T03:31:05.000Z",
+        "description": "Trader（缺德） DAO（道）人 / 野生宏观观察员 / 叉腰怪 / 链上小捕快 / 币圈老油条 / 灵魂画线师 / 肥猪流操盘手 / 基金制造者 / 出海老船长 / 拉盘委员会副会长 /超100%POR资金储备，安全首选。交易所&钱包，OKX就够 。🔗 https://t.co/idtBAtvFqH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com",
+                "end": 153,
+                "expanded_url": "http://okx.com",
+                "start": 130,
+                "url": "https://t.co/idtBAtvFqH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/web3blackdragon",
+                "end": 23,
+                "expanded_url": "https://t.me/web3blackdragon",
+                "start": 0,
+                "url": "https://t.co/iHamP1PJ9T"
+              }
+            ]
+          }
+        },
+        "id": "1663749852965240834",
+        "location": "月亮之上",
+        "name": "TraderS | 缺德道人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663755176581431296/KKbxA9BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55470,
+          "following_count": 740,
+          "like_count": 6936,
+          "listed_count": 1309,
+          "media_count": 1538,
+          "tweet_count": 11740
+        },
+        "url": "https://t.co/iHamP1PJ9T",
+        "username": "Trader_S18",
+        "verified": true
+      }
+    ]
+  }
+}

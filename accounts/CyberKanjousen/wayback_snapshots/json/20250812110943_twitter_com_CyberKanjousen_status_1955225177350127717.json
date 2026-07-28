@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1910668009137750166",
+    "created_at": "2025-08-12T11:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T12:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955225177350127717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1909285210761699328",
+          "start": 0,
+          "username": "yechaozhong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955225177350127717",
+    "in_reply_to_user_id": "1909285210761699328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910668009137750166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yechaozhong 文化输出这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18922,
+        "height": 640,
+        "media_key": "7_1747540147825262592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1747540147825262592/pu/img/8Y4IWCbWQBk4wksQ.jpg",
+        "public_metrics": {
+          "view_count": 372204
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1747540147825262592/pu/vid/avc1/320x418/UCptx_DuU4e2CZmZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1747540147825262592/pu/vid/avc1/488x640/e8MZf3nLoHMEUzKu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1747540147825262592/pu/pl/J6VuoTNy1di7ySBP.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1910668009137750166",
+        "created_at": "2025-08-12T11:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955225177350127717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1909285210761699328",
+              "start": 0,
+              "username": "yechaozhong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955225177350127717",
+        "in_reply_to_user_id": "1909285210761699328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910668009137750166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yechaozhong 文化输出这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1747540147825262592"
+          ],
+          "media_source_tweet_id": [
+            "1747540938216673588"
+          ]
+        },
+        "author_id": "1909285210761699328",
+        "conversation_id": "1910668009137750166",
+        "created_at": "2025-04-11T12:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T13:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910668009137750166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MV1d38gp69",
+              "end": 23,
+              "expanded_url": "https://x.com/Trumanchen4/status/1747540938216673588/video/1",
+              "media_key": "7_1747540147825262592",
+              "start": 0,
+              "url": "https://t.co/MV1d38gp69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910668009137750166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 942,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MV1d38gp69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 53
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T16:41:07.000Z",
+        "description": "不要仇恨言论",
+        "id": "1909285210761699328",
+        "name": "堂堂正正中国人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909285544313679872/7wrudkt1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 23,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1259
+        },
+        "username": "yechaozhong",
+        "verified": false
+      }
+    ]
+  }
+}

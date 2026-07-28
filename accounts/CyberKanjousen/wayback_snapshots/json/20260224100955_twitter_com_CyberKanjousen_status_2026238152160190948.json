@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2025953997807661172",
+    "created_at": "2026-02-24T10:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026238152160190948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484582068663521281",
+          "start": 0,
+          "username": "data_syuxchu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/data_syuxchu/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/data_syuxchu/status/2025954607369969720",
+          "start": 20,
+          "url": "https://t.co/RYIhXmVUz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026238152160190948",
+    "in_reply_to_user_id": "1484582068663521281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025954607369969720",
+        "type": "quoted"
+      },
+      {
+        "id": "2025953997807661172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@data_syuxchu 知らないよ https://t.co/RYIhXmVUz3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2025953997807661172",
+        "created_at": "2026-02-24T10:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026238152160190948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/data_syuxchu/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/data_syuxchu/status/2025954607369969720",
+              "start": 20,
+              "url": "https://t.co/RYIhXmVUz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026238152160190948",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025954607369969720",
+            "type": "quoted"
+          },
+          {
+            "id": "2025953997807661172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 知らないよ https://t.co/RYIhXmVUz3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "2025954607369969720",
+        "created_at": "2026-02-23T15:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025954607369969720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "日本"
+            },
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "中国"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025954607369969720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是日本人🇯🇵为什么中国人对日本人那么坏？🇨🇳#日本 #中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "2025953997807661172",
+        "created_at": "2026-02-23T15:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025953997807661172"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "中国人",
+              "probability": 0.5205,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "中国"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "日本"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025953997807661172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 935,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人です。🇨🇳どうして日本人は中国人を嫌いですか？🇯🇵#中国 #日本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 67,
+          "like_count": 1828,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 1456
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "成人 高三 **法￤@anblk984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/l1gz1zbqxgq4cb…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/l1gz1zbqxgq4cb5?t=jbuXs0&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5dOPDB7UPr"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "匿名信息▶︎",
+        "name": "繝槭Φ繧ｿ*荳?譫‼️",
+        "pinned_tweet_id": "1927681460472860814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915420112183844872/WriGAZAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 404,
+          "like_count": 30017,
+          "listed_count": 8,
+          "media_count": 480,
+          "tweet_count": 4343
+        },
+        "url": "https://t.co/5dOPDB7UPr",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

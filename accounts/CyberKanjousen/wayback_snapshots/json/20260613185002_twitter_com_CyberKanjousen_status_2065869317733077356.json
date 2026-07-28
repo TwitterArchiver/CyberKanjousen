@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2065448537190797324",
+    "created_at": "2026-06-13T18:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065869317733077356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826674695544209410",
+          "start": 0,
+          "username": "makalongnoob"
+        },
+        {
+          "end": 23,
+          "id": "1811384610749874176",
+          "start": 14,
+          "username": "wgddking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065869317733077356",
+    "in_reply_to_user_id": "1826674695544209410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065863307760935143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makalongnoob @wgddking 明天买一箱，環状線倒要尝尝有多好喝。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2065863296897740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtruR4bcAAEBAG.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2065448537190797324",
+        "created_at": "2026-06-13T18:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065869317733077356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826674695544209410",
+              "start": 0,
+              "username": "makalongnoob"
+            },
+            {
+              "end": 23,
+              "id": "1811384610749874176",
+              "start": 14,
+              "username": "wgddking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065869317733077356",
+        "in_reply_to_user_id": "1826674695544209410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065863307760935143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makalongnoob @wgddking 明天买一箱，環状線倒要尝尝有多好喝。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065863296897740800"
+          ]
+        },
+        "author_id": "1826674695544209410",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065448537190797324",
+        "created_at": "2026-06-13T18:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065863307760935143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 25,
+              "id": "1811384610749874176",
+              "start": 16,
+              "username": "wgddking"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxK1390gjU",
+              "end": 90,
+              "expanded_url": "https://x.com/makalongnoob/status/2065863307760935143/photo/1",
+              "media_key": "3_2065863296897740800",
+              "start": 67,
+              "url": "https://t.co/kxK1390gjU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065863307760935143",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065479901969588455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @wgddking 但是还好没有p上我最爱的苹果绿茶 可以试试苹果绿茶香港维他是我这辈子戒不掉的饮料 https://t.co/kxK1390gjU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6225,
+          "following_count": 870,
+          "like_count": 25905,
+          "listed_count": 10,
+          "media_count": 1473,
+          "tweet_count": 8003
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T17:36:23.000Z",
+        "description": "",
+        "id": "1826674695544209410",
+        "name": "macaroon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979220135723347968/UdDp9y_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 615,
+          "like_count": 5413,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 455
+        },
+        "username": "makalongnoob",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T12:58:52.000Z",
+        "description": "声明\n本人绝对支持中国特色社会主义\n本人绝对无条件支持中国共产党的领导\n本人绝对敬爱伟大的总书记习近平主席\n本人绝对坚持邓公的十个如果 支持改革开放\n本人绝对无条件支持中国共产党的任何决策\n绝对支持一个中国原则，坚决维护主权、安全、领土完整、国家统一。\n__所有键证内容均已删除__",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/CHVCxAFPQr"
+              }
+            ]
+          }
+        },
+        "id": "1811384610749874176",
+        "location": "Hitachi-shi, Ibaraki",
+        "name": "wgdd（祥压抑）",
+        "pinned_tweet_id": "2064867431143899637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046320430001377280/xPc4v9yE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 88,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 709,
+          "tweet_count": 3067
+        },
+        "url": "https://t.co/CHVCxAFPQr",
+        "username": "wgddking",
+        "verified": true
+      }
+    ]
+  }
+}

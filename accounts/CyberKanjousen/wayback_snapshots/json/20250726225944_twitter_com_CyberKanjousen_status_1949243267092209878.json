@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1948658119657357630",
+    "created_at": "2025-07-26T22:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T23:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949243267092209878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1161124412294217728",
+          "start": 0,
+          "username": "2039Knight"
+        },
+        {
+          "end": 21,
+          "id": "1613078020717416448",
+          "start": 12,
+          "username": "zxcb7788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949243267092209878",
+    "in_reply_to_user_id": "1161124412294217728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948669593993839071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2039Knight @zxcb7788 孝死我了哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1948658119657357630",
+        "created_at": "2025-07-26T22:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949243267092209878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1161124412294217728",
+              "start": 0,
+              "username": "2039Knight"
+            },
+            {
+              "end": 21,
+              "id": "1613078020717416448",
+              "start": 12,
+              "username": "zxcb7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949243267092209878",
+        "in_reply_to_user_id": "1161124412294217728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948669593993839071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2039Knight @zxcb7788 孝死我了哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161124412294217728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "1948658119657357630",
+        "created_at": "2025-07-25T09:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T10:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948669593993839071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1613078020717416448",
+              "start": 0,
+              "username": "zxcb7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948669593993839071",
+        "in_reply_to_user_id": "1613078020717416448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8640,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948661766075924604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxcb7788 「当該情報は全くの事実無根」ってその後の文章で打ち消してるんだからそのプライバシーに関する情報はデマだったってことでしょ。\n\n俺はこの声優さん知らないし今のところ興味無いけど、余計な火種増やすきっかけになりかねないから早く投稿消したほうがいいよ。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 30
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T03:56:47.000Z",
+        "description": "無言フォロー失礼します‼️\nファンタジーな物語、熱血バトル、メカが大好きです！ゲームもアニメも映画も本も創作物は全部好き！フォローしてくれると超うれしい！気になる話題にはすぐ首突っ込む癖があるので、その時はどうかお許しください！",
+        "id": "1161124412294217728",
+        "location": "関東のどこか",
+        "name": "ヒロタカ2039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914669507819470848/W5t444yv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 1156,
+          "like_count": 16525,
+          "listed_count": 6,
+          "media_count": 1737,
+          "tweet_count": 13627
+        },
+        "username": "2039Knight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:39:15.000Z",
+        "description": "20代、🚺。中国語、英語もok，日本語勉強中、頑張ります。歩夢単推し、あぐぽんは永遠の一番！すわわ/ペイちゃん/ちゅけ/こなち/理名ちゃん/茜さま/璃菜ちゃん/ほの氏も大好き！cp推し: ゆうぽむ❤️",
+        "id": "1613078020717416448",
+        "name": "ショザイ",
+        "pinned_tweet_id": "1678195277688188935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613078519508275203/iqKHpP6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 98,
+          "like_count": 13194,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1802
+        },
+        "username": "zxcb7788",
+        "verified": true
+      }
+    ]
+  }
+}

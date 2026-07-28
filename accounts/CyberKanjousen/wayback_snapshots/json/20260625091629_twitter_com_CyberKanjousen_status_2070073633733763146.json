@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2070040797098213642",
+    "created_at": "2026-06-25T09:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070073633733763146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419907046615306242",
+          "start": 0,
+          "username": "forokora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070073633733763146",
+    "in_reply_to_user_id": "1419907046615306242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070060427804135452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@forokora 乍一看还感觉不可思议，但仔细想想还真是这样：「工程」默认是「土木工程」的话，「工程软件」可不就是「土木工程相关的软件」了嘛😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2070040797098213642",
+        "created_at": "2026-06-25T09:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070073633733763146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419907046615306242",
+              "start": 0,
+              "username": "forokora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070073633733763146",
+        "in_reply_to_user_id": "1419907046615306242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070060427804135452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@forokora 乍一看还感觉不可思议，但仔细想想还真是这样：「工程」默认是「土木工程」的话，「工程软件」可不就是「土木工程相关的软件」了嘛😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419907046615306242",
+        "conversation_id": "2070040797098213642",
+        "created_at": "2026-06-25T08:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070060427804135452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070060427804135452",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070040797098213642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 还有哦\n软件工程是计算机方向的\n工程软件是土木"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7930,
+          "following_count": 872,
+          "like_count": 28016,
+          "listed_count": 12,
+          "media_count": 1694,
+          "tweet_count": 8908
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T06:26:55.000Z",
+        "description": "简体中文＆繁體中文＆English＆日本語\nACG・STEM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forokora.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://forokora.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/QMOZ60F541"
+              }
+            ]
+          }
+        },
+        "id": "1419907046615306242",
+        "location": "看看你後面",
+        "name": "Forokora",
+        "pinned_tweet_id": "1758610092662895003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644306591808897024/LBEX_RE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 182,
+          "like_count": 1843,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/QMOZ60F541",
+        "username": "forokora",
+        "verified": true
+      }
+    ]
+  }
+}

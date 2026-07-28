@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2028015885412401295",
+    "created_at": "2026-03-01T13:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028100962167259454"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "エマちゃん",
+          "probability": 0.6612,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1351867426191798273",
+          "start": 0,
+          "username": "ta9ton_502"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028100962167259454",
+    "in_reply_to_user_id": "1351867426191798273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028015885412401295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ta9ton_502 ああああ〜\nエマちゃん❤️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028015872850464769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCT1sQQbEAEoVDt.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028015885412401295",
+        "created_at": "2026-03-01T13:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028100962167259454"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "エマちゃん",
+              "probability": 0.6612,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1351867426191798273",
+              "start": 0,
+              "username": "ta9ton_502"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028100962167259454",
+        "in_reply_to_user_id": "1351867426191798273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028015885412401295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ta9ton_502 ああああ〜\nエマちゃん❤️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028015872850464769"
+          ]
+        },
+        "author_id": "1351867426191798273",
+        "conversation_id": "2028015885412401295",
+        "created_at": "2026-03-01T07:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T08:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028015885412401295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lu6mkfnluL",
+              "end": 33,
+              "expanded_url": "https://x.com/ta9ton_502/status/2028015885412401295/photo/1",
+              "media_key": "3_2028015872850464769",
+              "start": 10,
+              "url": "https://t.co/lu6mkfnluL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028015885412401295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 38242,
+          "like_count": 1188,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "一般桜羽エマを発見 https://t.co/lu6mkfnluL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 96,
+          "like_count": 2436,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-20T12:21:35.000Z",
+        "description": "描きたい絵を描いています(今はまのさば中心)\nまつ毛を盛りがち 日々精進\n\nPixiv:https://t.co/yUdf8hgA2L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17855474",
+                "end": 67,
+                "expanded_url": "https://www.pixiv.net/users/17855474",
+                "start": 44,
+                "url": "https://t.co/yUdf8hgA2L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lfmt0hduli175j…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/lfmt0hduli175jc?t=glGmf1&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FcNbMBgEl5"
+              }
+            ]
+          }
+        },
+        "id": "1351867426191798273",
+        "name": "たく",
+        "pinned_tweet_id": "1996060725618638863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009441292657532928/UkyZ_N7z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 540,
+          "like_count": 6897,
+          "listed_count": 7,
+          "media_count": 1557,
+          "tweet_count": 9599
+        },
+        "url": "https://t.co/FcNbMBgEl5",
+        "username": "ta9ton_502",
+        "verified": true
+      }
+    ]
+  }
+}

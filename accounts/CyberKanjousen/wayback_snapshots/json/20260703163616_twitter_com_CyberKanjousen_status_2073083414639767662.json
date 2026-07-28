@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2073082580635972019",
+    "created_at": "2026-07-03T16:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073083414639767662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1105278946168397824",
+          "start": 0,
+          "username": "iseki_zero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073083414639767662",
+    "in_reply_to_user_id": "1105278946168397824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073083124263911599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iseki_zero 说不上「开心」，但也说不上「伤心」。\n工作毕竟不是用来「开心」的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2073082580635972019",
+        "created_at": "2026-07-03T16:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073083414639767662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1105278946168397824",
+              "start": 0,
+              "username": "iseki_zero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073083414639767662",
+        "in_reply_to_user_id": "1105278946168397824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073083124263911599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iseki_zero 说不上「开心」，但也说不上「伤心」。\n工作毕竟不是用来「开心」的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1105278946168397824",
+        "conversation_id": "2073082580635972019",
+        "created_at": "2026-07-03T16:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073083124263911599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073083124263911599",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073082580635972019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这一切有什么意义呢，开心吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9047,
+          "following_count": 881,
+          "like_count": 29201,
+          "listed_count": 13,
+          "media_count": 1850,
+          "tweet_count": 9470
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-12T01:26:50.000Z",
+        "description": "26🚹中国人です | 愿能得到ミク的怀抱。鍵垢 @iseki_stderr\n退堂鼓国家一级演奏员",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "iseki_stderr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iseki.space",
+                "end": 23,
+                "expanded_url": "https://iseki.space",
+                "start": 0,
+                "url": "https://t.co/Rszp41wncX"
+              }
+            ]
+          }
+        },
+        "id": "1105278946168397824",
+        "location": "Next⇒神様いる場所",
+        "name": "iseki",
+        "pinned_tweet_id": "2034968369758445588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1223461934428614657/HelElVGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 1568,
+          "like_count": 33812,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 9761
+        },
+        "url": "https://t.co/Rszp41wncX",
+        "username": "iseki_zero",
+        "verified": true
+      }
+    ]
+  }
+}

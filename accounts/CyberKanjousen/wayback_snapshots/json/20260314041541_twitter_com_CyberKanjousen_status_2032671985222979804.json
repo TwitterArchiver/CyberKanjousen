@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2032638351862632726",
+    "created_at": "2026-03-14T04:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T05:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032671985222979804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "753297307",
+          "start": 0,
+          "username": "Lily0727K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032671985222979804",
+    "in_reply_to_user_id": "753297307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032638351862632726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily0727K 读起来像“要草人民咖啡馆”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2032638336322674688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDVhzClaoAAEzfE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2032638340516950016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDVhzSNaMAA87uJ.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2032638345420091396",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDVhzkeaMAQ7q6-.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2032638349195071488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDVhzyib0AAFYIE.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032638351862632726",
+        "created_at": "2026-03-14T04:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032671985222979804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "753297307",
+              "start": 0,
+              "username": "Lily0727K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032671985222979804",
+        "in_reply_to_user_id": "753297307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032638351862632726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily0727K 读起来像“要草人民咖啡馆”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032638336322674688",
+            "3_2032638340516950016",
+            "3_2032638345420091396",
+            "3_2032638349195071488"
+          ]
+        },
+        "author_id": "753297307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395077484278804482",
+              "name": "Latte art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418291134049120259",
+              "name": "Cafe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1235272242193285120",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395077484278804482",
+              "name": "Latte art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2032638351862632726",
+        "created_at": "2026-03-14T02:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T03:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032638351862632726"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.9103,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lE2MZoqp23",
+              "end": 169,
+              "expanded_url": "https://x.com/Lily0727K/status/2032638351862632726/photo/1",
+              "media_key": "3_2032638336322674688",
+              "start": 146,
+              "url": "https://t.co/lE2MZoqp23"
+            },
+            {
+              "display_url": "pic.x.com/lE2MZoqp23",
+              "end": 169,
+              "expanded_url": "https://x.com/Lily0727K/status/2032638351862632726/photo/1",
+              "media_key": "3_2032638340516950016",
+              "start": 146,
+              "url": "https://t.co/lE2MZoqp23"
+            },
+            {
+              "display_url": "pic.x.com/lE2MZoqp23",
+              "end": 169,
+              "expanded_url": "https://x.com/Lily0727K/status/2032638351862632726/photo/1",
+              "media_key": "3_2032638345420091396",
+              "start": 146,
+              "url": "https://t.co/lE2MZoqp23"
+            },
+            {
+              "display_url": "pic.x.com/lE2MZoqp23",
+              "end": 169,
+              "expanded_url": "https://x.com/Lily0727K/status/2032638351862632726/photo/1",
+              "media_key": "3_2032638349195071488",
+              "start": 146,
+              "url": "https://t.co/lE2MZoqp23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032638351862632726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 17731,
+          "like_count": 450,
+          "quote_count": 14,
+          "reply_count": 26,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "中国でいま大流行している、人民咖啡馆に来てみました！\n\n入口には軍人無料の看板が立てられ、店内に入ると赤一色の装飾！\n\n19.49元という意味ありげな値段の珈琲を注文すると、それはもう見事なラテアートが出てきました！\n\n中国好きには刺さりまくるコンセプトのカフェで、全身が感動で震えました！ https://t.co/lE2MZoqp23"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 144,
+          "like_count": 4422,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-12T15:25:01.000Z",
+        "description": "東京大学医学部卒。元血液内科専門医。令和元年Googleのソフトウェアエンジニアに転職しました。今は世界最強のポーカープレイヤーを目指しています。ツイートは個人の意見であり会社を代表しません。趣味はIIDX中伝。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.mu/nekochan0214",
+                "end": 23,
+                "expanded_url": "https://note.mu/nekochan0214",
+                "start": 0,
+                "url": "https://t.co/0xV3kNFxbu"
+              }
+            ]
+          }
+        },
+        "id": "753297307",
+        "location": "Travelling around the world",
+        "name": "Lillian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1118109707044917249/aMCIyW1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61514,
+          "following_count": 8,
+          "like_count": 15511,
+          "listed_count": 477,
+          "media_count": 3469,
+          "tweet_count": 41553
+        },
+        "url": "https://t.co/0xV3kNFxbu",
+        "username": "Lily0727K",
+        "verified": true
+      }
+    ]
+  }
+}

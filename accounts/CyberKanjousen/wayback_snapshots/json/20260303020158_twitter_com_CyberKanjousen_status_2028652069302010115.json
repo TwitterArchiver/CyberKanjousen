@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2028652069302010115",
+    "created_at": "2026-03-03T02:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028652069302010115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alibaba_qwen/s…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/alibaba_qwen/status/2028460046510965160",
+          "start": 60,
+          "url": "https://t.co/ZwIZPRRR51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028652069302010115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028460046510965160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前 Qwen 说 OpenCV 4.5 以上内置匈牙利算法的时候，我还笑 Qwen 吃菌子了呢\n这下不得不刮目相看了 https://t.co/ZwIZPRRR51"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 910,
+        "media_key": "3_2028459990722453504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaJnUQaoAAaMIc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028652069302010115",
+        "created_at": "2026-03-03T02:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028652069302010115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alibaba_qwen/s…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/alibaba_qwen/status/2028460046510965160",
+              "start": 60,
+              "url": "https://t.co/ZwIZPRRR51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028652069302010115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028460046510965160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前 Qwen 说 OpenCV 4.5 以上内置匈牙利算法的时候，我还笑 Qwen 吃菌子了呢\n这下不得不刮目相看了 https://t.co/ZwIZPRRR51"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028459990722453504"
+          ]
+        },
+        "author_id": "1753339277386342400",
+        "conversation_id": "2028460046510965160",
+        "created_at": "2026-03-02T13:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028460046510965160"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Qwen",
+              "probability": 0.4926,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90JfOM9k4T",
+              "end": 298,
+              "expanded_url": "https://x.com/Alibaba_Qwen/status/2028460046510965160/photo/1",
+              "media_key": "3_2028459990722453504",
+              "start": 275,
+              "url": "https://t.co/90JfOM9k4T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028460046510965160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/collections/Qw…",
+                "end": 620,
+                "expanded_url": "https://huggingface.co/collections/Qwen/qwen35",
+                "start": 597,
+                "url": "https://t.co/wFMdX5pDjU"
+              },
+              {
+                "display_url": "modelscope.cn/collections/Qw…",
+                "end": 656,
+                "expanded_url": "https://modelscope.cn/collections/Qwen/Qwen35",
+                "start": 633,
+                "url": "https://t.co/9NGXcIdCWI"
+              }
+            ]
+          },
+          "text": "🚀 Introducing the Qwen 3.5 Small Model Series\nQwen3.5-0.8B · Qwen3.5-2B · Qwen3.5-4B · Qwen3.5-9B\n\n✨ More intelligence, less compute.\nThese small models are built on the same Qwen3.5 foundation — native multimodal, improved architecture, scaled RL:\n• 0.8B / 2B → tiny, fast, great for edge device\n• 4B → a surprisingly strong multimodal base for lightweight agents\n• 9B → compact, but already closing the gap with much larger models\nAnd yes — we’re also releasing the Base models as well.\nWe hope this better supports research, experimentation, and real-world industrial innovation.\nHugging Face: https://t.co/wFMdX5pDjU\nModelScope: https://t.co/9NGXcIdCWI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8037,
+          "impression_count": 3479288,
+          "like_count": 12630,
+          "quote_count": 790,
+          "reply_count": 526,
+          "retweet_count": 1664
+        },
+        "reply_settings": "everyone",
+        "text": "🚀 Introducing the Qwen 3.5 Small Model Series\nQwen3.5-0.8B · Qwen3.5-2B · Qwen3.5-4B · Qwen3.5-9B\n\n✨ More intelligence, less compute.\nThese small models are built on the same Qwen3.5 foundation — native multimodal, improved architecture, scaled RL:\n• 0.8B / 2B → tiny, fast, https://t.co/90JfOM9k4T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 103,
+          "like_count": 2586,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 1772
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T08:47:32.000Z",
+        "description": "Open foundation models for AGI.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qwen.ai",
+                "end": 23,
+                "expanded_url": "https://qwen.ai/",
+                "start": 0,
+                "url": "https://t.co/f8hrbNCQR4"
+              }
+            ]
+          }
+        },
+        "id": "1753339277386342400",
+        "name": "Qwen",
+        "pinned_tweet_id": "2028460046510965160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894073235379273728/0ROUmdkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162325,
+          "following_count": 5,
+          "like_count": 404,
+          "listed_count": 1822,
+          "media_count": 425,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/f8hrbNCQR4",
+        "username": "Alibaba_Qwen",
+        "verified": true
+      }
+    ]
+  }
+}

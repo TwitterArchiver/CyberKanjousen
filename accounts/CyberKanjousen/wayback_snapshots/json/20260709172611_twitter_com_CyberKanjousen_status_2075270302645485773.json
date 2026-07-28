@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2075165953135092051",
+    "created_at": "2026-07-09T17:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075270302645485773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616306294851514368",
+          "start": 0,
+          "username": "UccelliACN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075270302645485773",
+    "in_reply_to_user_id": "1616306294851514368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075259982963195976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UccelliACN 環状線更倾向于认为其是一种「面子工程」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2075165953135092051",
+        "created_at": "2026-07-09T17:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075270302645485773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616306294851514368",
+              "start": 0,
+              "username": "UccelliACN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075270302645485773",
+        "in_reply_to_user_id": "1616306294851514368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075259982963195976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UccelliACN 環状線更倾向于认为其是一种「面子工程」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616306294851514368",
+        "conversation_id": "2075165953135092051",
+        "created_at": "2026-07-09T16:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T17:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075259982963195976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075259982963195976",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075165953135092051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 认真的说，类似这种带有表演性质+自作主张的关心方式，比起帮助更像是一种霸凌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9439,
+          "following_count": 879,
+          "like_count": 30205,
+          "listed_count": 12,
+          "media_count": 1969,
+          "tweet_count": 9992
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-20T05:27:13.000Z",
+        "description": "中国人です。日本語勉強中、変な日本語があったらすみません！\n素敵な作品には積極的にリプで感想を伝えたい派です。\n好きな作品：ローゼンメイデン/東方Project\n推し：真紅/さとり/レミリア\nMBTI：INFJ\n※雑多垢。時々中国語で政治関連のツイートに反応します。苦手な方は自衛をお願いします。",
+        "id": "1616306294851514368",
+        "location": "China",
+        "name": "藤原アスカ",
+        "pinned_tweet_id": "2067927291586552224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067681913645785088/Owm2wj4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 2348,
+          "like_count": 15368,
+          "listed_count": 3,
+          "media_count": 46,
+          "tweet_count": 3827
+        },
+        "url": "",
+        "username": "UccelliACN",
+        "verified": false
+      }
+    ]
+  }
+}

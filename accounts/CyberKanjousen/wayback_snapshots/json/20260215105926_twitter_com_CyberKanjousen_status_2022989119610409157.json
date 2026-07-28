@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2022989119610409157",
+    "created_at": "2026-02-15T10:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022989119610409157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 35,
+          "id": "1383647008544591874",
+          "start": 20,
+          "username": "ruichan_taakun"
+        },
+        {
+          "end": 46,
+          "id": "1508241671049269255",
+          "start": 36,
+          "username": "Eichan_GZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022989119610409157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022989039281004753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: @ruichan_taakun @Eichan_GZ 现在许多家庭的春节聚会的目的已经不是团聚，而是为亲戚提供一个互相攀比的舞台\n老一辈基本盘是“不可能输的”，而年轻人又“赢”不过老一辈，于是愈发厌恶起这种“军备竞赛式”的春节聚会\n我就是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022989119610409157",
+        "created_at": "2026-02-15T10:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022989119610409157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 35,
+              "id": "1383647008544591874",
+              "start": 20,
+              "username": "ruichan_taakun"
+            },
+            {
+              "end": 46,
+              "id": "1508241671049269255",
+              "start": 36,
+              "username": "Eichan_GZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022989119610409157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022989039281004753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: @ruichan_taakun @Eichan_GZ 现在许多家庭的春节聚会的目的已经不是团聚，而是为亲戚提供一个互相攀比的舞台\n老一辈基本盘是“不可能输的”，而年轻人又“赢”不过老一辈，于是愈发厌恶起这种“军备竞赛式”的春节聚会\n我就是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022969207709917258",
+        "created_at": "2026-02-15T10:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022989039281004753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383647008544591874",
+              "start": 0,
+              "username": "ruichan_taakun"
+            },
+            {
+              "end": 26,
+              "id": "1508241671049269255",
+              "start": 16,
+              "username": "Eichan_GZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022989039281004753",
+        "in_reply_to_user_id": "1383647008544591874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022969207709917258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruichan_taakun @Eichan_GZ 现在许多家庭的春节聚会的目的已经不是团聚，而是为亲戚提供一个互相攀比的舞台\n老一辈基本盘是“不可能输的”，而年轻人又“赢”不过老一辈，于是愈发厌恶起这种“军备竞赛式”的春节聚会\n我就是这些年轻人之一。如果不是过年能收红包，我很可能就不打算回来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 36,
+          "like_count": 1165,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-18T05:02:20.000Z",
+        "description": "中国広東出身の中国茶芸師 🌱 台湾茶ブランド瑠香Ruko Tea主宰🍵茶文化講座@横浜・東京🌱 日本遠州流茶道の美と中国茶の伝統を融合した茶席、 広東語を楽しむお茶会を開催📌⚫︎ 広東語と粤文化 ⚫︎ 中国茶とお菓子ベアリング🥮 一児のママ👶 インスタでは日中文化や国際夫婦の日常を漫画で発信👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ruichan_taakun…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ruichan_taakun?igshid=YmMyMTA2M2Y=",
+                "start": 0,
+                "url": "https://t.co/tp1qg380S5"
+              }
+            ]
+          }
+        },
+        "id": "1383647008544591874",
+        "location": "日本",
+        "name": "ルイルイ・中国茶講座@東京(中国茶芸師・広東語先生)",
+        "pinned_tweet_id": "2017199560213573830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450709506456178688/Y43lHN19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3447,
+          "following_count": 741,
+          "like_count": 15333,
+          "listed_count": 39,
+          "media_count": 2480,
+          "tweet_count": 9284
+        },
+        "url": "https://t.co/tp1qg380S5",
+        "username": "ruichan_taakun",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-28T00:37:36.000Z",
+        "description": "上海在住。色々な所に遊びにでたり、生活の様子とか感じたことを適当に書いています YouTube https://t.co/eWKEBCmGo8 ではVtuberえいちゃん（燕醤）の活動をしています。note で様々な中国お役立ち情報をまとめています",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Eichan_GZ",
+                "end": 71,
+                "expanded_url": "https://youtube.com/@Eichan_GZ",
+                "start": 48,
+                "url": "https://t.co/eWKEBCmGo8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/eichan_sh",
+                "end": 23,
+                "expanded_url": "https://note.com/eichan_sh",
+                "start": 0,
+                "url": "https://t.co/wQWzkbTlOB"
+              }
+            ]
+          }
+        },
+        "id": "1508241671049269255",
+        "name": "上海在住のえいちゃん",
+        "pinned_tweet_id": "2021490417167167659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870250714351710211/lKDppqhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14678,
+          "following_count": 811,
+          "like_count": 505312,
+          "listed_count": 162,
+          "media_count": 7302,
+          "tweet_count": 27127
+        },
+        "url": "https://t.co/wQWzkbTlOB",
+        "username": "Eichan_GZ",
+        "verified": true
+      }
+    ]
+  }
+}

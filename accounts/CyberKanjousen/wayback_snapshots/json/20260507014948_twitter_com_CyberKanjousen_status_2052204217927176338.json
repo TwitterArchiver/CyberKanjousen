@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2052058412654207458",
+    "created_at": "2026-05-07T01:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052204217927176338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002416069601083393",
+          "start": 0,
+          "username": "RiaruBlazor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052204217927176338",
+    "in_reply_to_user_id": "2002416069601083393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052070520749969473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RiaruBlazor 中日语境里都以「環状線（kanjōsen）」为第一人称"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2052058412654207458",
+        "created_at": "2026-05-07T01:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052204217927176338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002416069601083393",
+              "start": 0,
+              "username": "RiaruBlazor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052204217927176338",
+        "in_reply_to_user_id": "2002416069601083393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052070520749969473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiaruBlazor 中日语境里都以「環状線（kanjōsen）」为第一人称"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002416069601083393",
+        "conversation_id": "2052058412654207458",
+        "created_at": "2026-05-06T16:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052070520749969473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052070520749969473",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052058412654207458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 好奇环状线在中文语境里自称的时候会怎么叫，是日语还是中文呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 803,
+          "like_count": 18338,
+          "listed_count": 9,
+          "media_count": 986,
+          "tweet_count": 5426
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-20T16:29:38.000Z",
+        "description": "多言語垢。ちゅうごくご/한본말/日本话/CHN/apprentissage du francais  Go/Java crud master　(parody)  平成 마지막 카리스마 학생이었어요",
+        "id": "2002416069601083393",
+        "name": "蝴蝶 不忍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016945380383133696/bKRWfvUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 102,
+          "like_count": 4242,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 1093
+        },
+        "url": "",
+        "username": "RiaruBlazor",
+        "verified": false
+      }
+    ]
+  }
+}

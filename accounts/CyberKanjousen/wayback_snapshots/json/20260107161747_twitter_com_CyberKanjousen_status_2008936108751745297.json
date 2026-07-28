@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2008934905288544295",
+    "created_at": "2026-01-07T16:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008936108751745297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008936108751745297",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008935368578732138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然被屏蔽了，无法直接引用推文，但是如果复制帖子的url并把域名替换成twitter的话就可以正常发😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2008934905288544295",
+        "created_at": "2026-01-07T16:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008936108751745297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008936108751745297",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008935368578732138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然被屏蔽了，无法直接引用推文，但是如果复制帖子的url并把域名替换成twitter的话就可以正常发😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2008934905288544295",
+        "created_at": "2026-01-07T16:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008935368578732138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangyan6010717…",
+              "end": 23,
+              "expanded_url": "https://x.com/yangyan60107172/status/2008901253774897271?s=46",
+              "start": 0,
+              "url": "https://t.co/B54eP1sQ6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008935368578732138",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008901253774897271",
+            "type": "quoted"
+          },
+          {
+            "id": "2008934905288544295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/B54eP1sQ6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 507
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

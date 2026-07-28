@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2056911616659349607",
+    "created_at": "2026-05-21T00:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T01:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057264718251987127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3018975387",
+          "start": 0,
+          "username": "hanawa_hinata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057264718251987127",
+    "in_reply_to_user_id": "3018975387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057263946017689824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hanawa_hinata 如果你不嫌弃纸上的石楠花味的话可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2056911616659349607",
+        "created_at": "2026-05-21T00:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057264718251987127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3018975387",
+              "start": 0,
+              "username": "hanawa_hinata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057264718251987127",
+        "in_reply_to_user_id": "3018975387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057263946017689824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hanawa_hinata 如果你不嫌弃纸上的石楠花味的话可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3018975387",
+        "conversation_id": "2056911616659349607",
+        "created_at": "2026-05-21T00:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057263946017689824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057263946017689824",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056911616659349607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 可以给我也打一点纸巾吗，没有被子盖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 843,
+          "like_count": 21068,
+          "listed_count": 9,
+          "media_count": 1118,
+          "tweet_count": 6254
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-04T23:58:21.000Z",
+        "description": "心弦之音，余韵寥寥。The founder of @nebula_soft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "nebula_soft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanawa.me",
+                "end": 23,
+                "expanded_url": "https://hanawa.me",
+                "start": 0,
+                "url": "https://t.co/wz4zjqKiRT"
+              }
+            ]
+          }
+        },
+        "id": "3018975387",
+        "location": "万达广场",
+        "name": "日向花和 Hanawa Hinata",
+        "pinned_tweet_id": "1967131247333044249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004354883609415681/o7a20K81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13124,
+          "following_count": 2052,
+          "like_count": 133419,
+          "listed_count": 47,
+          "media_count": 6856,
+          "tweet_count": 44184
+        },
+        "url": "https://t.co/wz4zjqKiRT",
+        "username": "hanawa_hinata",
+        "verified": true
+      }
+    ]
+  }
+}

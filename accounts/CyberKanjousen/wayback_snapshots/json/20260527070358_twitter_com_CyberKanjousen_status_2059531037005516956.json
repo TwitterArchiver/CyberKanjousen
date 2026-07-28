@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2059528339136881144",
+    "created_at": "2026-05-27T07:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059531037005516956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039397494413561856",
+          "start": 0,
+          "username": "JLiao120724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059531037005516956",
+    "in_reply_to_user_id": "2039397494413561856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059528339136881144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLiao120724 特朗普进不去中推圈，华川粉还是太不给力了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2059528339136881144",
+        "created_at": "2026-05-27T07:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059531037005516956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039397494413561856",
+              "start": 0,
+              "username": "JLiao120724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059531037005516956",
+        "in_reply_to_user_id": "2039397494413561856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059528339136881144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLiao120724 特朗普进不去中推圈，华川粉还是太不给力了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039397494413561856",
+        "conversation_id": "2059528339136881144",
+        "created_at": "2026-05-27T06:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059528339136881144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2059499771073859868",
+              "start": 10,
+              "url": "https://t.co/wFyITZs2Ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059528339136881144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059499771073859868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一名不是特朗普？ https://t.co/wFyITZs2Ui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 850,
+          "like_count": 22471,
+          "listed_count": 11,
+          "media_count": 1195,
+          "tweet_count": 6670
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-01T17:40:51.000Z",
+        "description": "09年生人/可私信，不会泄漏/无敌暴龙兽宇宙霹雳爆炸超级无敌牛逼666/重度键政的不要来😂，键政可以但要适度",
+        "id": "2039397494413561856",
+        "location": "地球村",
+        "name": "金属废料「official」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058558854708023298/3KP7cfcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 118,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 3806
+        },
+        "username": "JLiao120724",
+        "verified": false
+      }
+    ]
+  }
+}

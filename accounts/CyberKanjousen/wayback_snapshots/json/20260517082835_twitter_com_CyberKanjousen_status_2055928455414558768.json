@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2055918191638175784",
+    "created_at": "2026-05-17T08:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055928455414558768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835916332447199232",
+          "start": 0,
+          "username": "C173F263Y084"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055928455414558768",
+    "in_reply_to_user_id": "1835916332447199232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055927996138369335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@C173F263Y084 玩单方块生存结果掉虚空里了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055918191638175784",
+        "created_at": "2026-05-17T08:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055928455414558768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835916332447199232",
+              "start": 0,
+              "username": "C173F263Y084"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055928455414558768",
+        "in_reply_to_user_id": "1835916332447199232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055927996138369335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@C173F263Y084 玩单方块生存结果掉虚空里了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835916332447199232",
+        "conversation_id": "2055918191638175784",
+        "created_at": "2026-05-17T08:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055927996138369335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055927996138369335",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055918191638175784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 比起海岛奇兵，我更喜欢玩单方块生存~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3515,
+          "following_count": 834,
+          "like_count": 20316,
+          "listed_count": 8,
+          "media_count": 1079,
+          "tweet_count": 6042
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T05:39:45.000Z",
+        "description": "普普通通日子人，就爱拍点不能发的东西。\nban我的是废物，我ban的是贱畜；航空摄影内容转帖与转载之前请与本人取得联系☺️不欢迎“不问自取”😤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/jnfFGD9Tf1"
+              }
+            ]
+          }
+        },
+        "id": "1835916332447199232",
+        "location": "成都市青羊区快活村&沈阳市皇姑区陵北街一号Tel:12339",
+        "name": "崔奉壹",
+        "pinned_tweet_id": "1969638563454337101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836261422113890305/8OkSLq-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 703,
+          "like_count": 7970,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 6678
+        },
+        "url": "https://t.co/jnfFGD9Tf1",
+        "username": "C173F263Y084",
+        "verified": false
+      }
+    ]
+  }
+}

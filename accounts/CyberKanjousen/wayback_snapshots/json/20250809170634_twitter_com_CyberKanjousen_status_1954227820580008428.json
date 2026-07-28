@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954227812837265408",
+        "3_1954227812816306176"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "1954227820580008428",
+    "created_at": "2025-08-09T17:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T18:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954227820580008428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZFK1IZD8sN",
+          "end": 41,
+          "expanded_url": "https://x.com/CyberKanjousen/status/1954227820580008428/photo/1",
+          "media_key": "3_1954227812837265408",
+          "start": 18,
+          "url": "https://t.co/ZFK1IZD8sN"
+        },
+        {
+          "display_url": "pic.x.com/ZFK1IZD8sN",
+          "end": 41,
+          "expanded_url": "https://x.com/CyberKanjousen/status/1954227820580008428/photo/1",
+          "media_key": "3_1954227812816306176",
+          "start": 18,
+          "url": "https://t.co/ZFK1IZD8sN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954227820580008428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们DeepSeek的情商遥遥领先 https://t.co/ZFK1IZD8sN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1517,
+        "media_key": "3_1954227812837265408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7P14JakAA-PA6.jpg",
+        "width": 720
+      },
+      {
+        "height": 1519,
+        "media_key": "3_1954227812816306176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7P14EawAAjLwn.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954227812837265408",
+            "3_1954227812816306176"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "1954227820580008428",
+        "created_at": "2025-08-09T17:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T18:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954227820580008428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZFK1IZD8sN",
+              "end": 41,
+              "expanded_url": "https://x.com/CyberKanjousen/status/1954227820580008428/photo/1",
+              "media_key": "3_1954227812837265408",
+              "start": 18,
+              "url": "https://t.co/ZFK1IZD8sN"
+            },
+            {
+              "display_url": "pic.x.com/ZFK1IZD8sN",
+              "end": 41,
+              "expanded_url": "https://x.com/CyberKanjousen/status/1954227820580008428/photo/1",
+              "media_key": "3_1954227812816306176",
+              "start": 18,
+              "url": "https://t.co/ZFK1IZD8sN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954227820580008428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们DeepSeek的情商遥遥领先 https://t.co/ZFK1IZD8sN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 45
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

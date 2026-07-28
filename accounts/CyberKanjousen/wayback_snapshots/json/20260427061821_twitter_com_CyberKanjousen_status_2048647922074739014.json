@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2048578178948685886",
+    "created_at": "2026-04-27T06:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T07:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048647922074739014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048647922074739014",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048578178948685886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 好细的岗赛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_2048578174888673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4C_wjbgAAYBW0.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2048578172330082304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4C_nBagAAld0C.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2048578164767805440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4C_K2bUAA7bUF.jpg",
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048578178948685886",
+        "created_at": "2026-04-27T06:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048647922074739014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048647922074739014",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048578178948685886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 好细的岗赛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048578174888673280",
+            "3_2048578172330082304",
+            "3_2048578164767805440"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2048578178948685886",
+        "created_at": "2026-04-27T01:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T02:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048578178948685886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u9t1CPaeq",
+              "end": 51,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048578178948685886/photo/1",
+              "media_key": "3_2048578174888673280",
+              "start": 28,
+              "url": "https://t.co/7u9t1CPaeq"
+            },
+            {
+              "display_url": "pic.x.com/7u9t1CPaeq",
+              "end": 51,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048578178948685886/photo/1",
+              "media_key": "3_2048578172330082304",
+              "start": 28,
+              "url": "https://t.co/7u9t1CPaeq"
+            },
+            {
+              "display_url": "pic.x.com/7u9t1CPaeq",
+              "end": 51,
+              "expanded_url": "https://x.com/Rococo90933671/status/2048578178948685886/photo/1",
+              "media_key": "3_2048578164767805440",
+              "start": 28,
+              "url": "https://t.co/7u9t1CPaeq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048578178948685886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3159,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上世纪50年代的一些神秘老物件……\n老一辈玩得花啊…… https://t.co/7u9t1CPaeq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 599,
+          "like_count": 15610,
+          "listed_count": 5,
+          "media_count": 921,
+          "tweet_count": 4918
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10648,
+          "following_count": 2968,
+          "like_count": 36597,
+          "listed_count": 33,
+          "media_count": 3793,
+          "tweet_count": 21006
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

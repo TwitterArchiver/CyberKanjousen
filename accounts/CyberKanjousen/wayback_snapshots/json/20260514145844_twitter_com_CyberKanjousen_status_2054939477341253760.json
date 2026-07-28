@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2054921630066122814",
+    "created_at": "2026-05-14T14:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054939477341253760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2037251271187718144",
+          "start": 0,
+          "username": "BO7730"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054939477341253760",
+    "in_reply_to_user_id": "2037251271187718144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054930803852034539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BO7730 環状線的关注者和他们关注的人可回复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2054921630066122814",
+        "created_at": "2026-05-14T14:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054939477341253760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2037251271187718144",
+              "start": 0,
+              "username": "BO7730"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054939477341253760",
+        "in_reply_to_user_id": "2037251271187718144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054930803852034539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BO7730 環状線的关注者和他们关注的人可回复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037251271187718144",
+        "conversation_id": "2054921630066122814",
+        "created_at": "2026-05-14T14:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054930803852034539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054930803852034539",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054921630066122814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 突然有点好奇环状线贴文的回覆门槛是什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3174,
+          "following_count": 822,
+          "like_count": 19694,
+          "listed_count": 8,
+          "media_count": 1051,
+          "tweet_count": 5856
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-26T19:32:31.000Z",
+        "description": "zho C2/eng B2-/jpn A1+/deu A1-/kor A1-",
+        "id": "2037251271187718144",
+        "location": "Taipei City, Taiwan",
+        "name": "四語勉強中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047920487427457024/RgieFJ_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 58,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 135
+        },
+        "username": "BO7730",
+        "verified": false
+      }
+    ]
+  }
+}

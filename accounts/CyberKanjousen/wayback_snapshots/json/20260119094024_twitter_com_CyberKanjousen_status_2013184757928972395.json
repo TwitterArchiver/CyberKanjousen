@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013132435119054849"
+      ],
+      "media_source_tweet_id": [
+        "2013132445030498558"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2013184757928972395",
+    "created_at": "2026-01-19T09:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T10:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013184757928972395"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "堂さん",
+          "probability": 0.3275,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721954257031839744",
+          "start": 3,
+          "username": "wan_wan_00xx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MhYZgGIPuv",
+          "end": 69,
+          "expanded_url": "https://x.com/wan_wan_00xx/status/2013132445030498558/photo/1",
+          "media_key": "3_2013132435119054849",
+          "start": 46,
+          "url": "https://t.co/MhYZgGIPuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013184757928972395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 113
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013132445030498558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wan_wan_00xx: 一旦過去絵再掲。洗脳二階堂さん、消しちゃってたからね。 https://t.co/MhYZgGIPuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013132435119054849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_AVSKEWoAEqKwb.jpg",
+        "width": 1611
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013132435119054849"
+          ],
+          "media_source_tweet_id": [
+            "2013132445030498558"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2013184757928972395",
+        "created_at": "2026-01-19T09:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T10:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013184757928972395"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "堂さん",
+              "probability": 0.3275,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721954257031839744",
+              "start": 3,
+              "username": "wan_wan_00xx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhYZgGIPuv",
+              "end": 69,
+              "expanded_url": "https://x.com/wan_wan_00xx/status/2013132445030498558/photo/1",
+              "media_key": "3_2013132435119054849",
+              "start": 46,
+              "url": "https://t.co/MhYZgGIPuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013184757928972395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 113
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013132445030498558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wan_wan_00xx: 一旦過去絵再掲。洗脳二階堂さん、消しちゃってたからね。 https://t.co/MhYZgGIPuv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013132435119054849"
+          ]
+        },
+        "author_id": "1721954257031839744",
+        "conversation_id": "2013132445030498558",
+        "created_at": "2026-01-19T06:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013132445030498558"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "堂さん",
+              "probability": 0.3013,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhYZgGIPuv",
+              "end": 51,
+              "expanded_url": "https://x.com/wan_wan_00xx/status/2013132445030498558/photo/1",
+              "media_key": "3_2013132435119054849",
+              "start": 28,
+              "url": "https://t.co/MhYZgGIPuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013132445030498558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 9640,
+          "like_count": 1052,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "一旦過去絵再掲。洗脳二階堂さん、消しちゃってたからね。 https://t.co/MhYZgGIPuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 758
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T18:14:27.000Z",
+        "description": "二次創作する人種。20⬆️♀ 。無断転載、使用、AI学習厳禁",
+        "id": "1721954257031839744",
+        "name": "みゅあ",
+        "pinned_tweet_id": "2009440720902607212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003448007820541952/Gxfzb6lQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8139,
+          "following_count": 63,
+          "like_count": 2032,
+          "listed_count": 28,
+          "media_count": 327,
+          "tweet_count": 5544
+        },
+        "username": "wan_wan_00xx",
+        "verified": false
+      }
+    ]
+  }
+}

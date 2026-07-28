@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050065519068520448",
+        "3_2050065519353741312"
+      ],
+      "media_source_tweet_id": [
+        "2050065523204116861",
+        "2050065523204116861"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2050065597934002516",
+    "created_at": "2026-05-01T04:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050065597934002516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778850117933838337",
+          "start": 3,
+          "username": "TBduyu"
+        },
+        {
+          "end": 27,
+          "id": "1918274202580467713",
+          "start": 12,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R2aahlcK8b",
+          "end": 59,
+          "expanded_url": "https://x.com/TBduyu/status/2050065523204116861/photo/1",
+          "media_key": "3_2050065519068520448",
+          "start": 36,
+          "url": "https://t.co/R2aahlcK8b"
+        },
+        {
+          "display_url": "pic.x.com/R2aahlcK8b",
+          "end": 59,
+          "expanded_url": "https://x.com/TBduyu/status/2050065523204116861/photo/1",
+          "media_key": "3_2050065519353741312",
+          "start": 36,
+          "url": "https://t.co/R2aahlcK8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050065597934002516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050065523204116861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TBduyu: @CyberKanjousen 对了还有完整版 https://t.co/R2aahlcK8b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050065519068520448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNLulZbIAAZqOA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050065519353741312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNLumdbQAAaNLQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050065519068520448",
+            "3_2050065519353741312"
+          ],
+          "media_source_tweet_id": [
+            "2050065523204116861",
+            "2050065523204116861"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2050065597934002516",
+        "created_at": "2026-05-01T04:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050065597934002516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778850117933838337",
+              "start": 3,
+              "username": "TBduyu"
+            },
+            {
+              "end": 27,
+              "id": "1918274202580467713",
+              "start": 12,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2aahlcK8b",
+              "end": 59,
+              "expanded_url": "https://x.com/TBduyu/status/2050065523204116861/photo/1",
+              "media_key": "3_2050065519068520448",
+              "start": 36,
+              "url": "https://t.co/R2aahlcK8b"
+            },
+            {
+              "display_url": "pic.x.com/R2aahlcK8b",
+              "end": 59,
+              "expanded_url": "https://x.com/TBduyu/status/2050065523204116861/photo/1",
+              "media_key": "3_2050065519353741312",
+              "start": 36,
+              "url": "https://t.co/R2aahlcK8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050065597934002516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050065523204116861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TBduyu: @CyberKanjousen 对了还有完整版 https://t.co/R2aahlcK8b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050065519068520448",
+            "3_2050065519353741312"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "conversation_id": "2049725491247251805",
+        "created_at": "2026-05-01T04:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050065523204116861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2aahlcK8b",
+              "end": 47,
+              "expanded_url": "https://x.com/TBduyu/status/2050065523204116861/photo/1",
+              "media_key": "3_2050065519068520448",
+              "start": 24,
+              "url": "https://t.co/R2aahlcK8b"
+            },
+            {
+              "display_url": "pic.x.com/R2aahlcK8b",
+              "end": 47,
+              "expanded_url": "https://x.com/TBduyu/status/2050065523204116861/photo/1",
+              "media_key": "3_2050065519353741312",
+              "start": 24,
+              "url": "https://t.co/R2aahlcK8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050065523204116861",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049725491247251805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 对了还有完整版 https://t.co/R2aahlcK8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "HuamanX09"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 113,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 90,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 693,
+          "like_count": 16675,
+          "listed_count": 5,
+          "media_count": 945,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生\n 喜欢毛茸茸 \n  目前：在学英语，在学画画（画毛茸茸\n@supernovaArcaea 成员\n //  @aoim33良师益友\n\n梗图搬运机（等我过了创作者收益之后一定不搬了！）\n图片来源网络，真假自辩，如侵权请联系删除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "My home/school",
+        "name": "tabiame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 1527,
+          "like_count": 13678,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 1148
+        },
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012550611384795479",
+    "created_at": "2026-01-18T10:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012828653990863036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1788343326585806848",
+          "start": 0,
+          "username": "SGZH99"
+        },
+        {
+          "end": 13,
+          "id": "1720665183188922368",
+          "start": 8,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012828653990863036",
+    "in_reply_to_user_id": "1788343326585806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012550611384795479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SGZH99 @grok 是AI生成吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10900,
+        "height": 1280,
+        "media_key": "13_2012550259700842496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012550259700842496/img/mdzBc4ydutAbuCo6.jpg",
+        "public_metrics": {
+          "view_count": 604
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012550259700842496/vid/avc1/320x568/ZuwP3d1XN3ykJHYk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012550259700842496/vid/avc1/480x852/bv9dF3L1TK8evyEa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012550259700842496/vid/avc1/720x1280/fU4cfIvL1dHeoCCO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012550259700842496/pl/9MqQ-pgBe8fwZkmS.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012550611384795479",
+        "created_at": "2026-01-18T10:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012828653990863036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1788343326585806848",
+              "start": 0,
+              "username": "SGZH99"
+            },
+            {
+              "end": 13,
+              "id": "1720665183188922368",
+              "start": 8,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012828653990863036",
+        "in_reply_to_user_id": "1788343326585806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012550611384795479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGZH99 @grok 是AI生成吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012550259700842496"
+          ]
+        },
+        "author_id": "1788343326585806848",
+        "conversation_id": "2012550611384795479",
+        "created_at": "2026-01-17T15:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012550611384795479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TYSuSgxYMg",
+              "end": 75,
+              "expanded_url": "https://x.com/SGZH99/status/2012550611384795479/video/1",
+              "media_key": "13_2012550259700842496",
+              "start": 52,
+              "url": "https://t.co/TYSuSgxYMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012550611384795479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 151876,
+          "like_count": 732,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "我去，男女失调比例这么大吗？部队里也开始搞基！\n大家讨论一下，这与当年的计划生育男女比例失调有关系吗？ https://t.co/TYSuSgxYMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 25,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 676
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-08T23:01:08.000Z",
+        "description": "",
+        "id": "1788343326585806848",
+        "location": "纽约布鲁克林",
+        "name": "圣光之辉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943378292188282880/u1TFip5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56796,
+          "following_count": 2902,
+          "like_count": 42498,
+          "listed_count": 150,
+          "media_count": 5955,
+          "tweet_count": 13471
+        },
+        "username": "SGZH99",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7568339,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5829,
+          "media_count": 7793821,
+          "tweet_count": 91898234
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

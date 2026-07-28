@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012520153892667688",
+    "created_at": "2026-01-18T02:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T03:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012718333544513838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916755437535604736",
+          "start": 0,
+          "username": "dongbeibisima89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012718333544513838",
+    "in_reply_to_user_id": "1916755437535604736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012520153892667688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongbeibisima89 不要骂我✋😭✋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012520153892667688",
+        "created_at": "2026-01-18T02:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012718333544513838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916755437535604736",
+              "start": 0,
+              "username": "dongbeibisima89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012718333544513838",
+        "in_reply_to_user_id": "1916755437535604736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012520153892667688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongbeibisima89 不要骂我✋😭✋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916755437535604736",
+        "conversation_id": "2012520153892667688",
+        "created_at": "2026-01-17T13:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012520153892667688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012520153892667688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12101,
+          "like_count": 232,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你推规则怪谈：在中国不能骂中国，在日本不能骂日本，不然就会有一群粉蛆/精日让你滚出去\n所以我在中国骂日本，在日本骂中国，在两个地方都骂东百逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 644
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T07:24:50.000Z",
+        "description": "管东百逼叫满洲人等于祝福它们死🐴",
+        "id": "1916755437535604736",
+        "location": "哈尔滨，中华人民共和国",
+        "name": "曲婉婷",
+        "pinned_tweet_id": "1956228089849241648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983106609485393920/VFM474AJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 45,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 55,
+          "tweet_count": 1135
+        },
+        "username": "dongbeibisima89",
+        "verified": false
+      }
+    ]
+  }
+}

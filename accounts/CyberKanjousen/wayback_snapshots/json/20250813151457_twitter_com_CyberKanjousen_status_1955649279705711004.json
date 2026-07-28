@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954777367697850368"
+      ],
+      "media_source_tweet_id": [
+        "1954777634073874918"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1955649279705711004",
+    "created_at": "2025-08-13T15:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T16:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955649279705711004"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "momoka²",
+          "probability": 0.5476,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "GirlsBandCry",
+          "probability": 0.6259,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 24,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 45,
+          "start": 32,
+          "tag": "GirlsBandCry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939224661398798336",
+          "start": 3,
+          "username": "kawagawaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rE2ZNV1KIQ",
+          "end": 69,
+          "expanded_url": "https://x.com/kawagawaaa/status/1954777634073874918/photo/1",
+          "media_key": "3_1954777367697850368",
+          "start": 46,
+          "url": "https://t.co/rE2ZNV1KIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955649279705711004",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954777634073874918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawagawaaa: momoka²\n#アークナイツ #GirlsBandCry https://t.co/rE2ZNV1KIQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955649279705711004].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955649279705711004",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955649279705711004"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1954777367697850368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDDqLiagAARATB.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954777367697850368"
+          ]
+        },
+        "author_id": "1939224661398798336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1954777634073874918",
+        "created_at": "2025-08-11T05:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954777634073874918"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "momoka²",
+              "probability": 0.741,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "GirlsBandCry",
+              "probability": 0.653,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "GirlsBandCry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rE2ZNV1KIQ",
+              "end": 53,
+              "expanded_url": "https://x.com/kawagawaaa/status/1954777634073874918/photo/1",
+              "media_key": "3_1954777367697850368",
+              "start": 30,
+              "url": "https://t.co/rE2ZNV1KIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954777634073874918",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 601,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "momoka²\n#アークナイツ #GirlsBandCry https://t.co/rE2ZNV1KIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 58
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T07:29:33.000Z",
+        "description": "AI used!!!   中/日/English OK\n正在尝试做点喜欢角色的色色插画、漫画(　ﾟ∀ﾟ) ﾉ♡\nPixiv: https://t.co/MQy3fejU2L\nPatreon: https://t.co/tkZU2Guyx6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/117534671",
+                "end": 86,
+                "expanded_url": "http://pixiv.net/users/117534671",
+                "start": 63,
+                "url": "https://t.co/MQy3fejU2L"
+              },
+              {
+                "display_url": "patreon.com/KawaGawa",
+                "end": 119,
+                "expanded_url": "http://patreon.com/KawaGawa",
+                "start": 96,
+                "url": "https://t.co/tkZU2Guyx6"
+              }
+            ]
+          }
+        },
+        "id": "1939224661398798336",
+        "name": "KawaGawa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944771249063772160/F_nSoZNn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 131,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 22
+        },
+        "username": "kawagawaaa",
+        "verified": false
+      }
+    ]
+  }
+}

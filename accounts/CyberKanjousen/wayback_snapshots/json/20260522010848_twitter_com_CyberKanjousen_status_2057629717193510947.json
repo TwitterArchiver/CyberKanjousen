@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057629701682991104"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2057629717193510947",
+    "created_at": "2026-05-22T01:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T02:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057629717193510947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7LXHi2mNKE",
+          "end": 39,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2057629717193510947/video/1",
+          "media_key": "13_2057629701682991104",
+          "start": 16,
+          "url": "https://t.co/7LXHi2mNKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057629717193510947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "张老师评价他在天国吃的巧乐兹： https://t.co/7LXHi2mNKE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8775,
+        "height": 720,
+        "media_key": "13_2057629701682991104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057629701682991104/img/vWBAg8jCSj_t5YAF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057629701682991104/vid/avc1/490x270/EiTvsvsEQPQmQuHO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057629701682991104/vid/avc1/654x360/L0XgycA8lu9Tvffi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057629701682991104/vid/avc1/1308x720/Yh-5-sXNO9vMe68H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057629701682991104/pl/rq_q7klspE8Qks-O.m3u8"
+          }
+        ],
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057629701682991104"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2057629717193510947",
+        "created_at": "2026-05-22T01:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T02:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057629717193510947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LXHi2mNKE",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2057629717193510947/video/1",
+              "media_key": "13_2057629701682991104",
+              "start": 16,
+              "url": "https://t.co/7LXHi2mNKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057629717193510947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "张老师评价他在天国吃的巧乐兹： https://t.co/7LXHi2mNKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3910,
+          "following_count": 844,
+          "like_count": 21262,
+          "listed_count": 9,
+          "media_count": 1126,
+          "tweet_count": 6316
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

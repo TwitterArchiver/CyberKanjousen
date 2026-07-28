@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10046538538",
+          "name": "iTunes"
+        }
+      }
+    ],
+    "conversation_id": "2023560044722483491",
+    "created_at": "2026-02-17T02:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T03:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023591462857044347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1416959432576184320",
+          "start": 0,
+          "username": "HoshinoStarry"
+        },
+        {
+          "end": 22,
+          "id": "1613079089879076864",
+          "start": 15,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023591462857044347",
+    "in_reply_to_user_id": "1416959432576184320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023585111275676067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoStarry @Cldeop 主要是现在几乎没人用iTunes Store了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023585101775597569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBU37bwbcAEhMeC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046538538",
+              "name": "iTunes"
+            }
+          }
+        ],
+        "conversation_id": "2023560044722483491",
+        "created_at": "2026-02-17T02:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023591462857044347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1416959432576184320",
+              "start": 0,
+              "username": "HoshinoStarry"
+            },
+            {
+              "end": 22,
+              "id": "1613079089879076864",
+              "start": 15,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023591462857044347",
+        "in_reply_to_user_id": "1416959432576184320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023585111275676067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoStarry @Cldeop 主要是现在几乎没人用iTunes Store了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023585101775597569"
+          ]
+        },
+        "author_id": "1416959432576184320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046538538",
+              "name": "iTunes"
+            }
+          }
+        ],
+        "conversation_id": "2023560044722483491",
+        "created_at": "2026-02-17T02:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T03:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023585111275676067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/54eLIvAipi",
+              "end": 52,
+              "expanded_url": "https://x.com/HoshinoStarry/status/2023585111275676067/photo/1",
+              "media_key": "3_2023585101775597569",
+              "start": 29,
+              "url": "https://t.co/54eLIvAipi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023585111275676067",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023560044722483491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop iTunes Store甚至还是远古UI https://t.co/54eLIvAipi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 41,
+          "like_count": 1261,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-19T03:14:39.000Z",
+        "description": "当局者迷 旁观者清 / 音游苦手 / python是什么垃圾语言 / dotnet 享受者 / Alt. @HsnStyAlt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "HsnStyAlt"
+              }
+            ]
+          }
+        },
+        "id": "1416959432576184320",
+        "name": "HoshinoStarry",
+        "pinned_tweet_id": "1894762099173363890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010435033107238913/0kQW6wv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 264,
+          "like_count": 12316,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 423
+        },
+        "username": "HoshinoStarry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99950,
+          "following_count": 702,
+          "like_count": 34215,
+          "listed_count": 283,
+          "media_count": 16012,
+          "tweet_count": 22961
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

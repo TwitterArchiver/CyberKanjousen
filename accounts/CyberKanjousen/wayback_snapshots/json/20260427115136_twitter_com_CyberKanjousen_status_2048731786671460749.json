@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2048697546659500346",
+    "created_at": "2026-04-27T11:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048731786671460749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752627811490361344",
+          "start": 0,
+          "username": "FallingLine404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048731786671460749",
+    "in_reply_to_user_id": "1752627811490361344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048726224508444913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FallingLine404 还有终末地玩家（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048697546659500346",
+        "created_at": "2026-04-27T11:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048731786671460749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752627811490361344",
+              "start": 0,
+              "username": "FallingLine404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048731786671460749",
+        "in_reply_to_user_id": "1752627811490361344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048726224508444913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FallingLine404 还有终末地玩家（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752627811490361344",
+        "conversation_id": "2048697546659500346",
+        "created_at": "2026-04-27T11:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048726224508444913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048726224508444913",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048697546659500346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 没事的朋友，虽然只有正态分布但是我们还可以研究洛茜极限"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 608,
+          "like_count": 15705,
+          "listed_count": 5,
+          "media_count": 923,
+          "tweet_count": 4934
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T09:40:21.000Z",
+        "description": "https://t.co/5tQ05FEdyx\n\nhttps://t.co/wl8bX7eMpF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/7eyUeqHA",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/7eyUeqHA",
+                "start": 0,
+                "url": "https://t.co/5tQ05FEdyx"
+              },
+              {
+                "display_url": "t.me/pvz3A",
+                "end": 48,
+                "expanded_url": "https://t.me/pvz3A",
+                "start": 25,
+                "url": "https://t.co/wl8bX7eMpF"
+              }
+            ]
+          }
+        },
+        "id": "1752627811490361344",
+        "location": "China",
+        "name": "坠落线条FallingLine🇨🇳(国籍指示用)",
+        "pinned_tweet_id": "1794562175346098355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930637089143750656/ph1ART7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 139,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 597
+        },
+        "username": "FallingLine404",
+        "verified": false
+      }
+    ]
+  }
+}

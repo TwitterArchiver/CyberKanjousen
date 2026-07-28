@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057613768994197504"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2057613776372052368",
+    "created_at": "2026-05-22T00:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057613776372052368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tt6x0KQuFr",
+          "end": 64,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2057613776372052368/photo/1",
+          "media_key": "3_2057613768994197504",
+          "start": 41,
+          "url": "https://t.co/tt6x0KQuFr"
+        },
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2057448435851440431",
+          "start": 65,
+          "url": "https://t.co/vkHSldziEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057613776372052368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057448435851440431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "環状線没有找到此图片的可靠来源，为避免可能虚假的信息进一步传播，因此已删除此推文 https://t.co/tt6x0KQuFr https://t.co/vkHSldziEP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [2057448435851440431].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057448435851440431",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057448435851440431"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_2057613768994197504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4c0jnaEAAc6WN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057613768994197504"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2057613776372052368",
+        "created_at": "2026-05-22T00:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057613776372052368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tt6x0KQuFr",
+              "end": 64,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2057613776372052368/photo/1",
+              "media_key": "3_2057613768994197504",
+              "start": 41,
+              "url": "https://t.co/tt6x0KQuFr"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2057448435851440431",
+              "start": 65,
+              "url": "https://t.co/vkHSldziEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057613776372052368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057448435851440431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "環状線没有找到此图片的可靠来源，为避免可能虚假的信息进一步传播，因此已删除此推文 https://t.co/tt6x0KQuFr https://t.co/vkHSldziEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3908,
+          "following_count": 844,
+          "like_count": 21262,
+          "listed_count": 9,
+          "media_count": 1125,
+          "tweet_count": 6315
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

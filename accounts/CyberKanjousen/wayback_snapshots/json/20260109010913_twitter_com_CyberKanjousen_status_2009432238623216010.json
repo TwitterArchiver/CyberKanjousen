@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009432231253827584"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2009262373735940159",
+    "created_at": "2026-01-09T01:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T02:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009432238623216010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1619666446719807488",
+          "start": 0,
+          "username": "twinewss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQVQH030PT",
+          "end": 33,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2009432238623216010/photo/1",
+          "media_key": "3_2009432231253827584",
+          "start": 10,
+          "url": "https://t.co/PQVQH030PT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009432238623216010",
+    "in_reply_to_user_id": "1619666446719807488",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009262373735940159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twinewss https://t.co/PQVQH030PT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2009432231253827584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Lv98ga4AA3Sey.jpg",
+        "width": 972
+      },
+      {
+        "duration_ms": 18692,
+        "height": 720,
+        "media_key": "13_1985531419918217216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985531419918217216/img/w3PXar_nXUH2dGrm.jpg",
+        "public_metrics": {
+          "view_count": 2925668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985531419918217216/vid/avc1/366x270/MmJc4vDsSDbY20jf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985531419918217216/vid/avc1/488x360/BCGz9uQ35EhYQhXc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985531419918217216/vid/avc1/976x720/MCZdEOnshVHD27Ir.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985531419918217216/pl/MxVY4ZMngHy1TFU7.m3u8?v=cfc"
+          }
+        ],
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009432231253827584"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2009262373735940159",
+        "created_at": "2026-01-09T01:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T02:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009432238623216010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1619666446719807488",
+              "start": 0,
+              "username": "twinewss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQVQH030PT",
+              "end": 33,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2009432238623216010/photo/1",
+              "media_key": "3_2009432231253827584",
+              "start": 10,
+              "url": "https://t.co/PQVQH030PT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009432238623216010",
+        "in_reply_to_user_id": "1619666446719807488",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009262373735940159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twinewss https://t.co/PQVQH030PT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985531419918217216"
+          ],
+          "media_source_tweet_id": [
+            "1985532956027588973"
+          ]
+        },
+        "author_id": "1619666446719807488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2009262373735940159",
+        "created_at": "2026-01-08T13:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009262373735940159"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "韓国",
+              "probability": 0.9608,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 21,
+              "normalized_text": "習近平",
+              "probability": 0.7697,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "韓国",
+              "probability": 0.871,
+              "start": 36,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dgbWYYR3A6",
+              "end": 86,
+              "expanded_url": "https://x.com/zmx8067/status/1985532956027588973/video/1",
+              "media_key": "13_1985531419918217216",
+              "start": 63,
+              "url": "https://t.co/dgbWYYR3A6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009262373735940159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 429318,
+          "like_count": 2218,
+          "quote_count": 64,
+          "reply_count": 261,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "韓国の伝統的な酒「マッコリ」で乾杯した習近平、まずかったのかこの表情\n\n韓国では「失礼すぎる」とSNSで話題になった動画。\n\nhttps://t.co/dgbWYYR3A6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 519
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:59:20.000Z",
+        "description": "日本が大好きです☀️メディア・世論・時事世界のニュースからネタまで話題になっている出来事を引用元を明記してツイートしています📣📣※ポスト内容は過去の出来事もポストする事があります",
+        "id": "1619666446719807488",
+        "location": "ご用件のある方はお手数ですがDMまで✉️",
+        "name": "報道Japan🇯🇵",
+        "pinned_tweet_id": "1961008616460136725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758410246090084352/9CDhp80k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178039,
+          "following_count": 25300,
+          "like_count": 857,
+          "listed_count": 470,
+          "media_count": 79,
+          "tweet_count": 5174
+        },
+        "username": "twinewss",
+        "verified": true
+      }
+    ]
+  }
+}

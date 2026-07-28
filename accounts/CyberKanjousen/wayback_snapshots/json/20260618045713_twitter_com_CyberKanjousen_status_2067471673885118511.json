@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2067437273856254100",
+    "created_at": "2026-06-18T04:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T05:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067471673885118511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1560959425",
+          "start": 0,
+          "username": "RhenCloud_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067471673885118511",
+    "in_reply_to_user_id": "1560959425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067463414268747908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RhenCloud_ 你的意思是把图中的屈原包成粽子吗？那很不好了😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2067437273856254100",
+        "created_at": "2026-06-18T04:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067471673885118511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1560959425",
+              "start": 0,
+              "username": "RhenCloud_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067471673885118511",
+        "in_reply_to_user_id": "1560959425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067463414268747908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhenCloud_ 你的意思是把图中的屈原包成粽子吗？那很不好了😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560959425",
+        "conversation_id": "2067437273856254100",
+        "created_at": "2026-06-18T04:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T05:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067463414268747908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067463414268747908",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067437273856254100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 都有屈原了，再出个粽子不过分吧（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6970,
+          "following_count": 871,
+          "like_count": 26743,
+          "listed_count": 12,
+          "media_count": 1550,
+          "tweet_count": 8320
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-01T16:34:33.000Z",
+        "description": "🏳️‍⚧️MTF HRT: 2026.05.24\n家长反对党\nhttps://t.co/QQ1gFO9AHS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/rhencloud_chat…",
+                "end": 54,
+                "expanded_url": "https://t.me/rhencloud_chat_bot",
+                "start": 31,
+                "url": "https://t.co/QQ1gFO9AHS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rhen.cloud",
+                "end": 23,
+                "expanded_url": "http://rhen.cloud",
+                "start": 0,
+                "url": "https://t.co/KJAcAPOQ3g"
+              }
+            ]
+          }
+        },
+        "id": "1560959425",
+        "location": "世界的尽头",
+        "name": "泠云",
+        "pinned_tweet_id": "2049168373322596425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047200196996784128/Qstb92OW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 175,
+          "like_count": 3129,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/KJAcAPOQ3g",
+        "username": "RhenCloud_",
+        "verified": false
+      }
+    ]
+  }
+}

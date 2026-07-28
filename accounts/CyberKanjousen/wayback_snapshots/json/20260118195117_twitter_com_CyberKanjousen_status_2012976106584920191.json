@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012730267375681623",
+    "created_at": "2026-01-18T19:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T20:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012976106584920191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998006140286935041",
+          "start": 0,
+          "username": "QingQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012976106584920191",
+    "in_reply_to_user_id": "1998006140286935041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012730267375681623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingQ77 不如买个主动降噪耳机\n而且双倍噪音的话，对环境的不良影响也是双倍的😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2012730208759971840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6ndgHWAAAnjJ_.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012730267375681623",
+        "created_at": "2026-01-18T19:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012976106584920191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998006140286935041",
+              "start": 0,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012976106584920191",
+        "in_reply_to_user_id": "1998006140286935041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012730267375681623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingQ77 不如买个主动降噪耳机\n而且双倍噪音的话，对环境的不良影响也是双倍的😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012730208759971840"
+          ]
+        },
+        "author_id": "1998006140286935041",
+        "conversation_id": "2012730267375681623",
+        "created_at": "2026-01-18T03:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012730267375681623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2x2eNwgLR",
+              "end": 155,
+              "expanded_url": "https://x.com/QingQ77/status/2012730267375681623/photo/1",
+              "media_key": "3_2012730208759971840",
+              "start": 132,
+              "url": "https://t.co/q2x2eNwgLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012730267375681623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/Pankajtanwarba…",
+                "end": 201,
+                "expanded_url": "https://github.com/Pankajtanwarbanna/stfu",
+                "start": 178,
+                "url": "https://t.co/uJ1PnPxefn"
+              },
+              {
+                "display_url": "stfu.pankajtanwar.in",
+                "end": 236,
+                "expanded_url": "https://stfu.pankajtanwar.in",
+                "start": 213,
+                "url": "https://t.co/UHbzqRAlXo"
+              }
+            ]
+          },
+          "text": "有个叫 Pankaj 的老哥在孟买机场被外放短视频的现世宝整破防了，心态直接崩了。本来想当个文明人讲道理，结果发现跟这种三季人讲道理纯属对牛弹琴。于是这哥们灵机一动，写了个叫 \"STFU\" 的神器。\n\n这玩意儿原理简单粗暴：它就是个复读机，把你听到的声音延迟 2 秒再喷回去，这波操作属实是把物理超度玩明白了，建议列入机场防噪音必备神器。\n\nGitHub https://t.co/uJ1PnPxefn\n\n快用手机打开试试吧\nhttps://t.co/UHbzqRAlXo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 30289,
+          "like_count": 82,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "有个叫 Pankaj 的老哥在孟买机场被外放短视频的现世宝整破防了，心态直接崩了。本来想当个文明人讲道理，结果发现跟这种三季人讲道理纯属对牛弹琴。于是这哥们灵机一动，写了个叫 \"STFU\" 的神器。\n\n这玩意儿原理简单粗暴：它就是个复读机，把你听到的声音延迟 2 https://t.co/q2x2eNwgLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 25,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 731
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨不要等待 | 🌱持续创作 | 👨‍💻分享互动 | 🔋快版Geek |",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 206,
+          "like_count": 98,
+          "listed_count": 18,
+          "media_count": 266,
+          "tweet_count": 378
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}

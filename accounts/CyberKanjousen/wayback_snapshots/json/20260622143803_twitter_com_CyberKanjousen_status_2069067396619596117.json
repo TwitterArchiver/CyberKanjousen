@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2068944757242703902",
+    "created_at": "2026-06-22T14:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069067396619596117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "384706950",
+          "start": 0,
+          "username": "Classpads"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069067396619596117",
+    "in_reply_to_user_id": "384706950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068973651077279868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Classpads 可惜赶不上美服先进，美服有热武器可以用呢（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2068973645997953025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ4kbNaUAEpcjj.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2068944757242703902",
+        "created_at": "2026-06-22T14:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069067396619596117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "384706950",
+              "start": 0,
+              "username": "Classpads"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069067396619596117",
+        "in_reply_to_user_id": "384706950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068973651077279868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Classpads 可惜赶不上美服先进，美服有热武器可以用呢（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068973645997953025"
+          ]
+        },
+        "author_id": "384706950",
+        "conversation_id": "2068944757242703902",
+        "created_at": "2026-06-22T08:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068973651077279868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmTW5pyCMv",
+              "end": 39,
+              "expanded_url": "https://x.com/Classpads/status/2068973651077279868/photo/1",
+              "media_key": "3_2068973645997953025",
+              "start": 16,
+              "url": "https://t.co/fmTW5pyCMv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068973651077279868",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5936,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068944757242703902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/fmTW5pyCMv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7540,
+          "following_count": 872,
+          "like_count": 27676,
+          "listed_count": 11,
+          "media_count": 1641,
+          "tweet_count": 8714
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2011-10-04T05:24:33.000Z",
+        "description": "专业发表神回复",
+        "id": "384706950",
+        "name": "oneLove",
+        "pinned_tweet_id": "2060734374786806148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572066476/____normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1315,
+          "like_count": 2496,
+          "listed_count": 1,
+          "media_count": 1122,
+          "tweet_count": 2920
+        },
+        "url": "",
+        "username": "Classpads",
+        "verified": true
+      }
+    ]
+  }
+}

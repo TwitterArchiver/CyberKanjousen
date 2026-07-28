@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2080422263124537587",
+    "created_at": "2026-07-24T02:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T03:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080473169740333294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1149305803796467712",
+          "start": 0,
+          "username": "reu_kastel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080473169740333294",
+    "in_reply_to_user_id": "1149305803796467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080422263124537587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reu_kastel 生日快乐喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 423,
+        "media_key": "3_2080422257780994048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8lBVnaMAA0jrA.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2080422263124537587",
+        "created_at": "2026-07-24T02:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T03:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080473169740333294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1149305803796467712",
+              "start": 0,
+              "username": "reu_kastel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080473169740333294",
+        "in_reply_to_user_id": "1149305803796467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080422263124537587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reu_kastel 生日快乐喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080422257780994048"
+          ]
+        },
+        "author_id": "1149305803796467712",
+        "conversation_id": "2080422263124537587",
+        "created_at": "2026-07-23T22:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T23:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080422263124537587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0DgtldRyZ",
+              "end": 27,
+              "expanded_url": "https://x.com/reu_kastel/status/2080422263124537587/photo/1",
+              "media_key": "3_2080422257780994048",
+              "start": 4,
+              "url": "https://t.co/p0DgtldRyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080422263124537587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 https://t.co/p0DgtldRyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11752,
+          "following_count": 882,
+          "like_count": 31477,
+          "listed_count": 20,
+          "media_count": 2220,
+          "tweet_count": 10936
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-11T13:13:51.000Z",
+        "description": "用輕鬆的心情看待世界。\n\nTRPG / Shadowverse / Trickcal / Arcaea / AIGC / etc.\n\n中文⭕/ ENG🔺/ 日本語🔰\n\nAvatar author：궁벵이 @ganbaree_3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "ganbaree_3"
+              }
+            ]
+          }
+        },
+        "id": "1149305803796467712",
+        "location": "Taiwan",
+        "name": "Reu.",
+        "pinned_tweet_id": "2054851774780166316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023384799952637953/LTXSSJDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 1177,
+          "like_count": 23905,
+          "listed_count": 2,
+          "media_count": 727,
+          "tweet_count": 4900
+        },
+        "url": "",
+        "username": "reu_kastel",
+        "verified": true
+      }
+    ]
+  }
+}

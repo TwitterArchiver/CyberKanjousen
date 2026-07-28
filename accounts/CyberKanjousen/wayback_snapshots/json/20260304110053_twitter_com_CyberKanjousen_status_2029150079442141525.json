@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029149890300002307"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2029018674976440696",
+    "created_at": "2026-03-04T11:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029150079442141525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915186065968689152",
+          "start": 0,
+          "username": "endfield_stu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QHtAPVt4g",
+          "end": 43,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2029150079442141525/photo/1",
+          "media_key": "3_2029149890300002307",
+          "start": 20,
+          "url": "https://t.co/4QHtAPVt4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029150079442141525",
+    "in_reply_to_user_id": "1915186065968689152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029018674976440696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endfield_stu これ？() https://t.co/4QHtAPVt4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_2029149890300002307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCj9EwdawAMapca.jpg",
+        "width": 2559
+      },
+      {
+        "height": 600,
+        "media_key": "3_2029018441592762368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiFhb3acAApCCB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029149890300002307"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2029018674976440696",
+        "created_at": "2026-03-04T11:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029150079442141525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915186065968689152",
+              "start": 0,
+              "username": "endfield_stu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QHtAPVt4g",
+              "end": 43,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2029150079442141525/photo/1",
+              "media_key": "3_2029149890300002307",
+              "start": 20,
+              "url": "https://t.co/4QHtAPVt4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029150079442141525",
+        "in_reply_to_user_id": "1915186065968689152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029018674976440696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endfield_stu これ？() https://t.co/4QHtAPVt4g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029018441592762368"
+          ]
+        },
+        "author_id": "1915186065968689152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029018674976440696",
+        "created_at": "2026-03-04T02:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029018674976440696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "エンドフィールド"
+            },
+            {
+              "end": 52,
+              "start": 34,
+              "tag": "ArknightsEndfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNWqkYSXk9",
+              "end": 76,
+              "expanded_url": "https://x.com/endfield_stu/status/2029018674976440696/photo/1",
+              "media_key": "3_2029018441592762368",
+              "start": 53,
+              "url": "https://t.co/uNWqkYSXk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029018674976440696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2323,
+          "impression_count": 835673,
+          "like_count": 24213,
+          "quote_count": 338,
+          "reply_count": 103,
+          "retweet_count": 4329
+        },
+        "reply_settings": "everyone",
+        "text": "何だこのバグめっちゃ笑ったwww\n\n©️猫尾草\n#エンドフィールド #ArknightsEndfield https://t.co/uNWqkYSXk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜ CN/EN/JP ｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 105,
+          "like_count": 2746,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T23:28:42.000Z",
+        "description": "「アークナイツ：エンドフィールド」非公式アカウント｜ドフィー＆アクナイの二次創作を紹介  \n🏷️#アークナイツエンドフィールド #エンドフィールド #ArknightsEndfield #Endfield #明日方舟 #アークナイツ #Arknights",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 48,
+                "tag": "アークナイツエンドフィールド"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "tag": "エンドフィールド"
+              },
+              {
+                "end": 92,
+                "start": 74,
+                "tag": "ArknightsEndfield"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "tag": "Endfield"
+              },
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "明日方舟"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "tag": "Arknights"
+              }
+            ]
+          }
+        },
+        "id": "1915186065968689152",
+        "name": "エンドフィールド工房",
+        "pinned_tweet_id": "2014661388317147281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930165802348752898/NN2a5TZy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5261,
+          "following_count": 166,
+          "like_count": 1000,
+          "listed_count": 28,
+          "media_count": 243,
+          "tweet_count": 514
+        },
+        "username": "endfield_stu",
+        "verified": false
+      }
+    ]
+  }
+}

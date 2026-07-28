@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012554066585682166",
+    "created_at": "2026-01-18T07:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T08:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012784637672640995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1332712954047856641",
+          "start": 0,
+          "username": "xinwendiaocha"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012784637672640995",
+    "in_reply_to_user_id": "1332712954047856641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012554066585682166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinwendiaocha @grok 事实核查"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37336,
+        "height": 1280,
+        "media_key": "13_2012554009060458496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012554009060458496/img/qGTbiklM45EgAAqG.jpg",
+        "public_metrics": {
+          "view_count": 753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012554009060458496/vid/avc1/320x568/iAGcSPXptKEH6G4D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012554009060458496/vid/avc1/480x852/PvUsgBQ2fH97Giuz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012554009060458496/vid/avc1/720x1280/5dAAyxoad_PKiXcu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012554009060458496/pl/HlSqPhUNNv4VQik7.m3u8?v=4cd"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012554066585682166",
+        "created_at": "2026-01-18T07:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T08:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012784637672640995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1332712954047856641",
+              "start": 0,
+              "username": "xinwendiaocha"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012784637672640995",
+        "in_reply_to_user_id": "1332712954047856641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012554066585682166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinwendiaocha @grok 事实核查"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012554009060458496"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2012554066585682166",
+        "created_at": "2026-01-17T15:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T16:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012554066585682166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhzyNxPLdS",
+              "end": 89,
+              "expanded_url": "https://x.com/xinwendiaocha/status/2012554066585682166/video/1",
+              "media_key": "13_2012554009060458496",
+              "start": 66,
+              "url": "https://t.co/BhzyNxPLdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012554066585682166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 183600,
+          "like_count": 511,
+          "quote_count": 9,
+          "reply_count": 46,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "让你们看看，习近平150岁工程，中共老首长们用的器官移植APP《换了嘛》，已经先进到这一步了。\n上线几天又引发恐慌热议，紧急下架了 https://t.co/BhzyNxPLdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 655
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com threads:https://t.co/vWaJQJxkd5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "threads.com/@caijingshujuk…",
+                "end": 76,
+                "expanded_url": "https://www.threads.com/@caijingshujuku?igshid=NTc4MTIwNjQ2YQ==",
+                "start": 53,
+                "url": "https://t.co/vWaJQJxkd5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "2002218646790447599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623865,
+          "following_count": 90,
+          "like_count": 3871,
+          "listed_count": 1621,
+          "media_count": 36685,
+          "tweet_count": 55733
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7566146,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5829,
+          "media_count": 7792152,
+          "tweet_count": 91853048
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

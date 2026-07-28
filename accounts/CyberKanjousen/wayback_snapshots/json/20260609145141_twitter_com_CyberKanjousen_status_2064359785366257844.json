@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2064058940758151335",
+    "created_at": "2026-06-09T14:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064359785366257844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1183920784009351168",
+          "start": 0,
+          "username": "mea_soratane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064359785366257844",
+    "in_reply_to_user_id": "1183920784009351168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064358621576863962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mea_soratane 環状線不应当在文末说出那句带有浓重「事不关己高高挂起」感觉的话的……对不起喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2064058940758151335",
+        "created_at": "2026-06-09T14:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064359785366257844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1183920784009351168",
+              "start": 0,
+              "username": "mea_soratane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064359785366257844",
+        "in_reply_to_user_id": "1183920784009351168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064358621576863962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mea_soratane 環状線不应当在文末说出那句带有浓重「事不关己高高挂起」感觉的话的……对不起喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1183920784009351168",
+        "conversation_id": "2064058940758151335",
+        "created_at": "2026-06-09T14:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064358621576863962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064358621576863962",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064058940758151335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 其实我也赞成。正因为是过来人才深知未成年人对外界的渴望，一旦处理不当很容易翻车。\n虽然有点过来人的语气，但现实如此。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5425,
+          "following_count": 871,
+          "like_count": 25137,
+          "listed_count": 9,
+          "media_count": 1391,
+          "tweet_count": 7667
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-15T01:41:39.000Z",
+        "description": "正在写小说。能说中文、日语、英语。 | 小説を書いています。中国語、日本語、英語ができます。 | I'm writing novel. I can speek Chinese, Japanese and English.",
+        "id": "1183920784009351168",
+        "location": "Internet",
+        "name": "mea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057186735894007808/hZqS1mBa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 109,
+          "like_count": 84,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 196
+        },
+        "username": "mea_soratane",
+        "verified": false
+      }
+    ]
+  }
+}

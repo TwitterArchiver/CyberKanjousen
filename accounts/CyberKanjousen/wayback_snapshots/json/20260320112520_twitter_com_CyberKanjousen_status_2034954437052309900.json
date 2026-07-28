@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034954427736723456"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2034938006348734591",
+    "created_at": "2026-03-20T11:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034954437052309900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FOwWNFEP0F",
+          "end": 52,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2034954437052309900/photo/1",
+          "media_key": "3_2034954427736723456",
+          "start": 29,
+          "url": "https://t.co/FOwWNFEP0F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034954437052309900",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034938006348734591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH 谁来做環状線的ごしゅじん😁😅 https://t.co/FOwWNFEP0F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034954427736723456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2cRTdbEAAGRmu.jpg",
+        "width": 945
+      },
+      {
+        "duration_ms": 7660,
+        "height": 2796,
+        "media_key": "13_2034937932315074561",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034937932315074561/img/82ALO9TK4EUQj4OE.jpg",
+        "public_metrics": {
+          "view_count": 214
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034937932315074561/vid/avc1/1290x2796/i6iuOf_wbcbi7UKc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034937932315074561/vid/avc1/480x1040/zoPDD6Na5-GypND7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034937932315074561/vid/avc1/720x1560/CestGHu-mTq50dMQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034937932315074561/pl/CpDreBGVQwZDMZXS.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034937932315074561/vid/avc1/320x692/hkONJ32M6jGhlSw5.mp4"
+          }
+        ],
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034954427736723456"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2034938006348734591",
+        "created_at": "2026-03-20T11:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034954437052309900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOwWNFEP0F",
+              "end": 52,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2034954437052309900/photo/1",
+              "media_key": "3_2034954427736723456",
+              "start": 29,
+              "url": "https://t.co/FOwWNFEP0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034954437052309900",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034938006348734591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH 谁来做環状線的ごしゅじん😁😅 https://t.co/FOwWNFEP0F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034937932315074561"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2034938006348734591",
+        "created_at": "2026-03-20T10:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034938006348734591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "X",
+              "probability": 0.6991,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OyMcd43fjI",
+              "end": 50,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2034938006348734591/video/1",
+              "media_key": "13_2034937932315074561",
+              "start": 27,
+              "url": "https://t.co/OyMcd43fjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034938006348734591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 774,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "X really needs to fix this https://t.co/OyMcd43fjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 195,
+          "like_count": 5824,
+          "listed_count": 2,
+          "media_count": 589,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 850,
+          "like_count": 24562,
+          "listed_count": 31,
+          "media_count": 1467,
+          "tweet_count": 19615
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2037410645289947283",
+    "created_at": "2026-03-27T06:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037412760871739736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556187726558515201",
+          "start": 0,
+          "username": "__Lucas04__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037412760871739736",
+    "in_reply_to_user_id": "1556187726558515201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037412397833765206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Lucas04__ 对，最开始默认 APN 是 3HK 的时候就自动选的中国联通"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2037412364870635520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZXwE0aUAApq5M.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2037412364963000320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZXwFKbsAANCJi.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2037410645289947283",
+        "created_at": "2026-03-27T06:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037412760871739736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556187726558515201",
+              "start": 0,
+              "username": "__Lucas04__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037412760871739736",
+        "in_reply_to_user_id": "1556187726558515201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037412397833765206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Lucas04__ 对，最开始默认 APN 是 3HK 的时候就自动选的中国联通"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037412364870635520",
+            "3_2037412364963000320"
+          ]
+        },
+        "author_id": "1556187726558515201",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037410645289947283",
+        "created_at": "2026-03-27T06:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037412397833765206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/meLwSgBDsZ",
+              "end": 162,
+              "expanded_url": "https://x.com/__Lucas04__/status/2037412397833765206/photo/1",
+              "media_key": "3_2037412364870635520",
+              "start": 139,
+              "url": "https://t.co/meLwSgBDsZ"
+            },
+            {
+              "display_url": "pic.x.com/meLwSgBDsZ",
+              "end": 162,
+              "expanded_url": "https://x.com/__Lucas04__/status/2037412397833765206/photo/1",
+              "media_key": "3_2037412364963000320",
+              "start": 139,
+              "url": "https://t.co/meLwSgBDsZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037412397833765206",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037410645289947283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我的 RedteaGO 套餐可以选择运营商，对于我所在的地理位置来说一般移动/电信会比联通稳定的多得多）\n\n不过缺点就是可能联通跟众多境外运营商有协议，实测 csl., 3HK 等香港运营商在“自动选择运营商”开关开启时总是优先走联通的网络…… https://t.co/meLwSgBDsZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 309,
+          "like_count": 8045,
+          "listed_count": 3,
+          "media_count": 650,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T07:59:28.000Z",
+        "description": "A student studying bioinformatics. | 一个学生信的废柴大学生 | Bluesky 👉 https://t.co/uIcugYtObC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/lucas.…",
+                "end": 84,
+                "expanded_url": "https://bsky.app/profile/lucas.lucas04.top",
+                "start": 61,
+                "url": "https://t.co/uIcugYtObC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/_lucas04_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/_lucas04_",
+                "start": 0,
+                "url": "https://t.co/UDukV0lC1f"
+              }
+            ]
+          }
+        },
+        "id": "1556187726558515201",
+        "location": "Copenhagen, Denmark",
+        "name": "Lucas",
+        "pinned_tweet_id": "1987810975643553877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904211985593729027/rtm-FcDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 330,
+          "like_count": 5653,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 220
+        },
+        "url": "https://t.co/UDukV0lC1f",
+        "username": "__Lucas04__",
+        "verified": true
+      }
+    ]
+  }
+}

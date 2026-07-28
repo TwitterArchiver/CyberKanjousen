@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2055835769240252766",
+    "created_at": "2026-05-17T11:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055977957999686126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552587744576057345",
+          "start": 0,
+          "username": "zhinarensb8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055977957999686126",
+    "in_reply_to_user_id": "1552587744576057345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055975919152709835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@zhinarensb8964 理论上可以，原则上不行（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055835769240252766",
+        "created_at": "2026-05-17T11:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055977957999686126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552587744576057345",
+              "start": 0,
+              "username": "zhinarensb8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055977957999686126",
+        "in_reply_to_user_id": "1552587744576057345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055975919152709835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@zhinarensb8964 理论上可以，原则上不行（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552587744576057345",
+        "conversation_id": "2055835769240252766",
+        "created_at": "2026-05-17T11:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055975919152709835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055975919152709835",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055835769240252766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 可以三人行吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 835,
+          "like_count": 20384,
+          "listed_count": 8,
+          "media_count": 1080,
+          "tweet_count": 6064
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T09:32:29.000Z",
+        "description": "大号@zhinarencnm8964\n小号@zhinarensml8964\n此账号作为被制裁后的逃生舱使用，究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 74,
+                "start": 59,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1552587744576057345",
+        "location": "支那",
+        "name": "Father you were stronger🌸（内格夫小姐的逃生舱）",
+        "pinned_tweet_id": "2055252906228789565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055580842878271488/mTqAheFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 566,
+          "like_count": 19440,
+          "listed_count": 1,
+          "media_count": 226,
+          "tweet_count": 1864
+        },
+        "username": "zhinarensb8964",
+        "verified": false
+      }
+    ]
+  }
+}

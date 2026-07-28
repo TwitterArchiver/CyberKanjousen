@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009657012049874944"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2009657527504617789",
+    "created_at": "2026-01-09T16:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009657527504617789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3zfrmArWmO",
+          "end": 75,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2009657527504617789/photo/1",
+          "media_key": "3_2009657012049874944",
+          "start": 52,
+          "url": "https://t.co/3zfrmArWmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009657527504617789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看得出来，Gemini很喜欢《鹿乃子》\n我只进行了上下文训练，没有提出要求，Gemini自己选了这个😁 https://t.co/3zfrmArWmO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_2009657012049874944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-O8Z6ObEAAfDCT.jpg",
+        "width": 2021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009657012049874944"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2009657527504617789",
+        "created_at": "2026-01-09T16:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009657527504617789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3zfrmArWmO",
+              "end": 75,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2009657527504617789/photo/1",
+              "media_key": "3_2009657012049874944",
+              "start": 52,
+              "url": "https://t.co/3zfrmArWmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009657527504617789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看得出来，Gemini很喜欢《鹿乃子》\n我只进行了上下文训练，没有提出要求，Gemini自己选了这个😁 https://t.co/3zfrmArWmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 527
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

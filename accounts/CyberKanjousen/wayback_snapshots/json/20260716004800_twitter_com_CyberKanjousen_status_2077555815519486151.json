@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077435225874067456"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2077555815519486151",
+    "created_at": "2026-07-16T00:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077555815519486151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1BR5DEPY0Y",
+          "end": 37,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2077555815519486151/photo/1",
+          "media_key": "3_2077435225874067456",
+          "start": 14,
+          "url": "https://t.co/1BR5DEPY0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077555815519486151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这洒水车后面怎么还有字啊。 https://t.co/1BR5DEPY0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2077435225874067456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSIVMobcAAZoE0.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077435225874067456"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2077555815519486151",
+        "created_at": "2026-07-16T00:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077555815519486151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1BR5DEPY0Y",
+              "end": 37,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2077555815519486151/photo/1",
+              "media_key": "3_2077435225874067456",
+              "start": 14,
+              "url": "https://t.co/1BR5DEPY0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077555815519486151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这洒水车后面怎么还有字啊。 https://t.co/1BR5DEPY0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文由 @yameta_www 代发\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "yameta_www"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 121,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 98,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10617,
+          "following_count": 883,
+          "like_count": 30881,
+          "listed_count": 15,
+          "media_count": 2089,
+          "tweet_count": 10467
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

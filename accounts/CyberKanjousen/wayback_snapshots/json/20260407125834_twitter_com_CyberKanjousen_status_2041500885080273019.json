@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2041123706290975110",
+    "created_at": "2026-04-07T12:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041500885080273019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1686236993959964672",
+          "start": 0,
+          "username": "nsbzzhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041500885080273019",
+    "in_reply_to_user_id": "1686236993959964672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041500373760762310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nsbzzhg 環状線都这么爱国了可以不要骂環状線了吗🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2041123706290975110",
+        "created_at": "2026-04-07T12:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041500885080273019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1686236993959964672",
+              "start": 0,
+              "username": "nsbzzhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041500885080273019",
+        "in_reply_to_user_id": "1686236993959964672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041500373760762310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nsbzzhg 環状線都这么爱国了可以不要骂環状線了吗🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686236993959964672",
+        "conversation_id": "2041123706290975110",
+        "created_at": "2026-04-07T12:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041500373760762310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041500373760762310",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041123706290975110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 难绷了，X推送机制吃大份了，这都能被我刷到的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 101,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 78,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 131,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 108,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 382,
+          "like_count": 11098,
+          "listed_count": 3,
+          "media_count": 767,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-01T04:47:09.000Z",
+        "description": "",
+        "id": "1686236993959964672",
+        "name": "486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890373096860999680/GJFcwavA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 283
+        },
+        "username": "nsbzzhg",
+        "verified": false
+      }
+    ]
+  }
+}

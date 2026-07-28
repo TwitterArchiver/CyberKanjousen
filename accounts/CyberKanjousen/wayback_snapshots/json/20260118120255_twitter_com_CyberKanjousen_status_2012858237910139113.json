@@ -1,0 +1,622 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012292867608428545",
+        "3_2012292867600093184"
+      ],
+      "media_source_tweet_id": [
+        "2012292883039273452",
+        "2012292883039273452"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2012858237910139113",
+    "created_at": "2026-01-18T12:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012858237910139113"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 45,
+          "tag": "millsage"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "汐見蛍"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "琴平凪"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2008973208003952641",
+          "start": 3,
+          "username": "nanamiruaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pBm0eevhwD",
+          "end": 94,
+          "expanded_url": "https://x.com/nanamiruaaaaa/status/2012292883039273452/photo/1",
+          "media_key": "3_2012292867608428545",
+          "start": 71,
+          "url": "https://t.co/pBm0eevhwD"
+        },
+        {
+          "display_url": "pic.x.com/pBm0eevhwD",
+          "end": 94,
+          "expanded_url": "https://x.com/nanamiruaaaaa/status/2012292883039273452/photo/1",
+          "media_key": "3_2012292867600093184",
+          "start": 71,
+          "url": "https://t.co/pBm0eevhwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012858237910139113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012292883039273452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanamiruaaaaa: 本当疲れて😮‍💨でもみなもかわいいそれでわいい😭😭　#millsage #バンドリ #汐見蛍 #琴平凪 https://t.co/pBm0eevhwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012292867608428545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0Zs5XaQAEhjl-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012292867600093184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-0Zs5VbEAAVD7P.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012292867608428545",
+            "3_2012292867600093184"
+          ],
+          "media_source_tweet_id": [
+            "2012292883039273452",
+            "2012292883039273452"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2012858237910139113",
+        "created_at": "2026-01-18T12:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012858237910139113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "millsage"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "汐見蛍"
+            },
+            {
+              "end": 70,
+              "start": 66,
+              "tag": "琴平凪"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2008973208003952641",
+              "start": 3,
+              "username": "nanamiruaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBm0eevhwD",
+              "end": 94,
+              "expanded_url": "https://x.com/nanamiruaaaaa/status/2012292883039273452/photo/1",
+              "media_key": "3_2012292867608428545",
+              "start": 71,
+              "url": "https://t.co/pBm0eevhwD"
+            },
+            {
+              "display_url": "pic.x.com/pBm0eevhwD",
+              "end": 94,
+              "expanded_url": "https://x.com/nanamiruaaaaa/status/2012292883039273452/photo/1",
+              "media_key": "3_2012292867600093184",
+              "start": 71,
+              "url": "https://t.co/pBm0eevhwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012858237910139113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012292883039273452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanamiruaaaaa: 本当疲れて😮‍💨でもみなもかわいいそれでわいい😭😭　#millsage #バンドリ #汐見蛍 #琴平凪 https://t.co/pBm0eevhwD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012292867608428545",
+            "3_2012292867600093184"
+          ]
+        },
+        "author_id": "2008973208003952641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2012292883039273452",
+        "created_at": "2026-01-16T22:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T23:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012292883039273452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 26,
+              "tag": "millsage"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "汐見蛍"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "琴平凪"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pBm0eevhwD",
+              "end": 75,
+              "expanded_url": "https://x.com/nanamiruaaaaa/status/2012292883039273452/photo/1",
+              "media_key": "3_2012292867608428545",
+              "start": 52,
+              "url": "https://t.co/pBm0eevhwD"
+            },
+            {
+              "display_url": "pic.x.com/pBm0eevhwD",
+              "end": 75,
+              "expanded_url": "https://x.com/nanamiruaaaaa/status/2012292883039273452/photo/1",
+              "media_key": "3_2012292867600093184",
+              "start": 52,
+              "url": "https://t.co/pBm0eevhwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012292883039273452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 28171,
+          "like_count": 1438,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "本当疲れて😮‍💨でもみなもかわいいそれでわいい😭😭　#millsage #バンドリ #汐見蛍 #琴平凪 https://t.co/pBm0eevhwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 687
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T18:46:38.000Z",
+        "description": "るあ/ゆり どちもでいい ｜汉語/簡単な日本語/En🆗 | 歡迎創作者互關！！",
+        "id": "2008973208003952641",
+        "location": "💙🩵",
+        "name": "ルアChan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008973777850236928/KCH1tDFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 44,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "username": "nanamiruaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

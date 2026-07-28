@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1998583187916861847",
+    "created_at": "2025-12-10T08:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998677410070573435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "764741798753251328",
+          "start": 0,
+          "username": "sa31523"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998677410070573435",
+    "in_reply_to_user_id": "764741798753251328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998583187916861847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sa31523 DeepSeek：这个是《MaiMai》的长条"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998583179192778752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xk0AHbQAAanPj.jpg",
+        "width": 1881
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1998583187916861847",
+        "created_at": "2025-12-10T08:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998677410070573435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "764741798753251328",
+              "start": 0,
+              "username": "sa31523"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998677410070573435",
+        "in_reply_to_user_id": "764741798753251328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998583187916861847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sa31523 DeepSeek：这个是《MaiMai》的长条"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998583179192778752"
+          ]
+        },
+        "author_id": "764741798753251328",
+        "conversation_id": "1998583187916861847",
+        "created_at": "2025-12-10T02:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998583187916861847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "MyGO"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "あのそよ"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "ansy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JsGVoGxOWQ",
+              "end": 49,
+              "expanded_url": "https://x.com/sa31523/status/1998583187916861847/photo/1",
+              "media_key": "3_1998583179192778752",
+              "start": 26,
+              "url": "https://t.co/JsGVoGxOWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998583187916861847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 402,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#MyGO #あのそよ #ansy\n畫ㄌ那個梗圖（ https://t.co/JsGVoGxOWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 226
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-14T08:33:48.000Z",
+        "description": "20↑｜台湾人｜百合厨\n中文◉英語○日本語○ \nプロセカ ｜ヒメヒナ ｜MyGo!!!!!  ｜学マス\n 日本語まだ勉強中。 無言フォロー失礼します🙏 たまに絵を描く人です。\nあのそよ推し。",
+        "id": "764741798753251328",
+        "name": "アキハ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819029639865733120/Rp0w_Yvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 321,
+          "like_count": 54862,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 8654
+        },
+        "username": "sa31523",
+        "verified": false
+      }
+    ]
+  }
+}

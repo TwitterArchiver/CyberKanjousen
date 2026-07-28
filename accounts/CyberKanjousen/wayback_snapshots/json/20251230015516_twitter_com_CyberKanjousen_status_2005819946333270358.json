@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005263289945927680"
+      ],
+      "media_source_tweet_id": [
+        "2005549346666992053"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2005819946333270358",
+    "created_at": "2025-12-30T01:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T02:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005819946333270358"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 17,
+          "tag": "今年も残りわずかなので今年一番伸びた作品を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1143097578721910784",
+          "start": 3,
+          "username": "Sky_Kirsche"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a1Jv39i4sU",
+          "end": 92,
+          "expanded_url": "https://x.com/Sky_Kirsche/status/2005549346666992053/video/1",
+          "media_key": "13_2005263289945927680",
+          "start": 69,
+          "url": "https://t.co/a1Jv39i4sU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005819946333270358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 674
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005549346666992053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sky_Kirsche: #今年も残りわずかなので今年一番伸びた作品を貼る \nこの絵から背景も頑張って描くようになった気がします https://t.co/a1Jv39i4sU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 694,
+        "media_key": "13_2005263289945927680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005263289945927680/img/anP6zR44nHaqQz0x.jpg",
+        "public_metrics": {
+          "view_count": 27817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005263289945927680/vid/avc1/496x270/iZxjifffWBzztmhS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005263289945927680/vid/avc1/662x360/0QXs22IH_ODyiTg_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005263289945927680/vid/avc1/1280x694/UsiMMzPmla8nkDko.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005263289945927680/pl/SfutFec5cS2rfN3e.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005263289945927680"
+          ],
+          "media_source_tweet_id": [
+            "2005549346666992053"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2005819946333270358",
+        "created_at": "2025-12-30T01:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T02:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005819946333270358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 17,
+              "tag": "今年も残りわずかなので今年一番伸びた作品を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1143097578721910784",
+              "start": 3,
+              "username": "Sky_Kirsche"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1Jv39i4sU",
+              "end": 92,
+              "expanded_url": "https://x.com/Sky_Kirsche/status/2005549346666992053/video/1",
+              "media_key": "13_2005263289945927680",
+              "start": 69,
+              "url": "https://t.co/a1Jv39i4sU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005819946333270358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 674
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005549346666992053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sky_Kirsche: #今年も残りわずかなので今年一番伸びた作品を貼る \nこの絵から背景も頑張って描くようになった気がします https://t.co/a1Jv39i4sU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005263289945927680"
+          ]
+        },
+        "author_id": "1143097578721910784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "2005549346666992053",
+        "created_at": "2025-12-29T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005549346666992053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 0,
+              "tag": "今年も残りわずかなので今年一番伸びた作品を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1Jv39i4sU",
+              "end": 75,
+              "expanded_url": "https://x.com/Sky_Kirsche/status/2005549346666992053/video/1",
+              "media_key": "13_2005263289945927680",
+              "start": 52,
+              "url": "https://t.co/a1Jv39i4sU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005549346666992053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 703,
+          "impression_count": 79123,
+          "like_count": 5947,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 674
+        },
+        "reply_settings": "everyone",
+        "text": "#今年も残りわずかなので今年一番伸びた作品を貼る \nこの絵から背景も頑張って描くようになった気がします https://t.co/a1Jv39i4sU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 394
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-24T10:04:35.000Z",
+        "description": "ドット絵とイラスト書いてる人\n依頼募集中\nskeb→https://t.co/mKrQXBCiKp \n連絡先→kirschehartman.sky2019514@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Sky_Kirsche",
+                "end": 49,
+                "expanded_url": "http://skeb.jp/@Sky_Kirsche",
+                "start": 26,
+                "url": "https://t.co/mKrQXBCiKp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=36580294",
+                "start": 0,
+                "url": "https://t.co/Yy10MAcKwA"
+              }
+            ]
+          }
+        },
+        "id": "1143097578721910784",
+        "location": "座椅子",
+        "name": "Sky_kirsche@依頼募集中",
+        "pinned_tweet_id": "1610561580001034240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774410663781363712/qkiYFLtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28781,
+          "following_count": 467,
+          "like_count": 23740,
+          "listed_count": 244,
+          "media_count": 743,
+          "tweet_count": 10253
+        },
+        "url": "https://t.co/Yy10MAcKwA",
+        "username": "Sky_Kirsche",
+        "verified": false
+      }
+    ]
+  }
+}

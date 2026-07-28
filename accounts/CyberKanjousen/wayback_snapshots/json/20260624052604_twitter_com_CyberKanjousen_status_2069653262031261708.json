@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2069651439392117177",
+    "created_at": "2026-06-24T05:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069653262031261708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069653262031261708",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069651439392117177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 環状線或许也可以给自己的女装图打上此盲水印以防无断转载🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "这张图嵌入了文字水印",
+        "height": 1500,
+        "media_key": "3_2069649214775173120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLje_tBXIAAeyWB.jpg",
+        "width": 1500
+      },
+      {
+        "alt_text": "这张图嵌入了图片水印",
+        "height": 1500,
+        "media_key": "3_2069649377845542912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjfJMgXgAA3Est.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2069651439392117177",
+        "created_at": "2026-06-24T05:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069653262031261708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069653262031261708",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069651439392117177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 環状線或许也可以给自己的女装图打上此盲水印以防无断转载🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069649214775173120",
+            "3_2069649377845542912"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069651439392117177",
+        "created_at": "2026-06-24T05:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069651439392117177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！. Contribute to guofei9987/blind_watermark development by creating an account on GitHub.",
+              "display_url": "github.com/guofei9987/bli…",
+              "end": 124,
+              "expanded_url": "https://github.com/guofei9987/blind_watermark",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2067558652903604224/wEXR70vg?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067558652903604224/wEXR70vg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "GitHub - guofei9987/blind_watermark: Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！",
+              "unwound_url": "https://github.com/guofei9987/blind_watermark",
+              "url": "https://t.co/so18rFF482"
+            },
+            {
+              "display_url": "pic.x.com/T3VxR1sxqX",
+              "end": 178,
+              "expanded_url": "https://x.com/auspiceshirley/status/2069651439392117177/photo/1",
+              "media_key": "3_2069649214775173120",
+              "start": 155,
+              "url": "https://t.co/T3VxR1sxqX"
+            },
+            {
+              "display_url": "pic.x.com/T3VxR1sxqX",
+              "end": 178,
+              "expanded_url": "https://x.com/auspiceshirley/status/2069651439392117177/photo/1",
+              "media_key": "3_2069649377845542912",
+              "start": 155,
+              "url": "https://t.co/T3VxR1sxqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069651439392117177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/guofei9987/bli…",
+                "end": 124,
+                "expanded_url": "https://github.com/guofei9987/blind_watermark",
+                "start": 101,
+                "url": "https://t.co/frKh8Utpjn"
+              }
+            ]
+          },
+          "text": "温馨提示：\n\n大家不要搬运我的的帖子里面的图片哦，有些图片您自己是可以找到来源的，不过搬来搬去对你我都没有好处的\n\n之后的帖子里面的所有图片我会用这个工具打盲水印的（不仅有文字水印，还会有图片水印哦）\nhttps://t.co/frKh8Utpjn\n\n以下为示例，水印类型祥见图片描述\n我一开始并不想这么做的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温馨提示：\n\n大家不要搬运我的的帖子里面的图片哦，有些图片您自己是可以找到来源的，不过搬来搬去对你我都没有好处的\n\n之后的帖子里面的所有图片我会用这个工具打盲水印的（不仅有文字水印，还会有图片水印哦）\nhttps://t.co/so18rFF482\n\n以下为示例，水印类型祥见图片描述\n我一开始并不想这么做的 https://t.co/T3VxR1sxqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7811,
+          "following_count": 871,
+          "like_count": 27878,
+          "listed_count": 11,
+          "media_count": 1668,
+          "tweet_count": 8804
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 488,
+          "like_count": 762,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

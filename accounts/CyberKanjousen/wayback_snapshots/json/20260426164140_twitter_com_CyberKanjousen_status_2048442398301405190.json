@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2048330738781835538",
+    "created_at": "2026-04-26T16:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048442398301405190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1153921233445986304",
+          "start": 0,
+          "username": "shirumesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 53,
+          "expanded_url": "https://x.com/cyberkanjousen/status/2048441953210290577?s=61",
+          "start": 30,
+          "url": "https://t.co/ADcRjykbBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048442398301405190",
+    "in_reply_to_user_id": "1153921233445986304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048441953210290577",
+        "type": "quoted"
+      },
+      {
+        "id": "2048439801448452148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirumesu 其实那是多击脱离\n这个才叫一击脱离：\nhttps://t.co/ADcRjykbBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 423,
+        "media_key": "3_2048441946432278528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2HGOAbEAAlNg_.jpg",
+        "width": 1475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048330738781835538",
+        "created_at": "2026-04-26T16:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048442398301405190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1153921233445986304",
+              "start": 0,
+              "username": "shirumesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 53,
+              "expanded_url": "https://x.com/cyberkanjousen/status/2048441953210290577?s=61",
+              "start": 30,
+              "url": "https://t.co/ADcRjykbBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048442398301405190",
+        "in_reply_to_user_id": "1153921233445986304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048441953210290577",
+            "type": "quoted"
+          },
+          {
+            "id": "2048439801448452148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirumesu 其实那是多击脱离\n这个才叫一击脱离：\nhttps://t.co/ADcRjykbBq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048441946432278528"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048441953210290577",
+        "created_at": "2026-04-26T16:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048441953210290577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/euY4w0abuH",
+              "end": 51,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2048441953210290577/photo/1",
+              "media_key": "3_2048441946432278528",
+              "start": 28,
+              "url": "https://t.co/euY4w0abuH"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2048432739716825248",
+              "start": 52,
+              "url": "https://t.co/DjzlkRLOZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048441953210290577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048432739716825248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一天之内被收到两个人的野爹证吗……\n環状線还真受欢迎呢 https://t.co/euY4w0abuH https://t.co/DjzlkRLOZr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153921233445986304",
+        "conversation_id": "2048330738781835538",
+        "created_at": "2026-04-26T16:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048439801448452148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048439801448452148",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048330738781835538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 如果不想讨论了那就回复到此为止然后划走就是了\n这种一击脱离不是纯小丑（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 594,
+          "like_count": 15509,
+          "listed_count": 5,
+          "media_count": 919,
+          "tweet_count": 4888
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-24T06:53:55.000Z",
+        "description": "我oc，希露梅斯·莉莉丝·菲利欧露，巡礼魔女，愿歌赫姆的星光永不消逝/是infp～包健全的/fo无依据随缘看心情/祝你开心～",
+        "id": "1153921233445986304",
+        "location": "琉璃离院",
+        "name": "希露梅斯",
+        "pinned_tweet_id": "1936780239897870805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010647803731865601/_NAbQ5vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 29,
+          "like_count": 29185,
+          "listed_count": 8,
+          "media_count": 526,
+          "tweet_count": 17356
+        },
+        "username": "shirumesu",
+        "verified": true
+      }
+    ]
+  }
+}

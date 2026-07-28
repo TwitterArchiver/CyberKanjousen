@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072742420912214016"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2072868542517760016",
+    "created_at": "2026-07-03T02:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T03:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072868542517760016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MBfxT9vV4c",
+          "end": 56,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2072868542517760016/photo/1",
+          "media_key": "3_2072742420912214016",
+          "start": 33,
+          "url": "https://t.co/MBfxT9vV4c"
+        },
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2072195315915268360",
+          "start": 57,
+          "url": "https://t.co/9eYatWW73t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072868542517760016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072195315915268360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「周丰川祥子」的原神版本：李哥伦比娅\n（公式做题就是快啊（不是） https://t.co/MBfxT9vV4c https://t.co/9eYatWW73t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_2072742420912214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMPcP_1bEAASLY3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1514,
+        "media_key": "3_2072193560322174976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHpEGza8AA_p5r.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072742420912214016"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2072868542517760016",
+        "created_at": "2026-07-03T02:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T03:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072868542517760016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MBfxT9vV4c",
+              "end": 56,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2072868542517760016/photo/1",
+              "media_key": "3_2072742420912214016",
+              "start": 33,
+              "url": "https://t.co/MBfxT9vV4c"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2072195315915268360",
+              "start": 57,
+              "url": "https://t.co/9eYatWW73t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072868542517760016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072195315915268360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「周丰川祥子」的原神版本：李哥伦比娅\n（公式做题就是快啊（不是） https://t.co/MBfxT9vV4c https://t.co/9eYatWW73t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072193560322174976"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2072195315915268360",
+        "created_at": "2026-07-01T05:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072195315915268360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ipL8ifa7TS",
+              "end": 167,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2072195315915268360/photo/1",
+              "media_key": "3_2072193560322174976",
+              "start": 144,
+              "url": "https://t.co/ipL8ifa7TS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072195315915268360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于周丰川祥子先生的其他情况：\n\n由于自己的父母反对自己改名，于是把自己全家的盒发到了网上。有网友通过盒里提供的电话号码联系了他的母亲曾女士，曾女士表示周丰川祥子「就是个神经病」。\n\n周丰川祥子在邦批群聊里面亦素质低下，到处骂人，被踢除后又用小号加群继续骂人……\n\n总之，允许父母逃离原 生家庭。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 216963,
+          "like_count": 881,
+          "quote_count": 10,
+          "reply_count": 98,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "关于周丰川祥子先生的其他情况：\n\n由于自己的父母反对自己改名，于是把自己全家的盒发到了网上。有网友通过盒里提供的电话号码联系了他的母亲曾女士，曾女士表示周丰川祥子「就是个神经病」。\n\n周丰川祥子在邦批群聊里面亦素质低下，到处骂人，被踢除后又用小号加群继续骂人……\n\n总之，允许父母逃离原 https://t.co/ipL8ifa7TS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8986,
+          "following_count": 880,
+          "like_count": 29079,
+          "listed_count": 14,
+          "media_count": 1836,
+          "tweet_count": 9396
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

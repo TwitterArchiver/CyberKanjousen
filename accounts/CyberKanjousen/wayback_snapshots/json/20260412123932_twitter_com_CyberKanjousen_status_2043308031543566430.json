@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2043266195391139937",
+    "created_at": "2026-04-12T12:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043308031543566430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 18,
+          "id": "1105022594242174976",
+          "start": 6,
+          "username": "scopenumber"
+        },
+        {
+          "end": 26,
+          "id": "277445029",
+          "start": 19,
+          "username": "xkajon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043308031543566430",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043279255295987834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @scopenumber @xkajon 其他条件相同，美区 Apple 账户订阅 Claude 服务被封的概率大还是用一个美国怀俄明州空壳公司的银行卡支付被封的概率大？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2043266195391139937",
+        "created_at": "2026-04-12T12:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043308031543566430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 18,
+              "id": "1105022594242174976",
+              "start": 6,
+              "username": "scopenumber"
+            },
+            {
+              "end": 26,
+              "id": "277445029",
+              "start": 19,
+              "username": "xkajon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043308031543566430",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043279255295987834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @scopenumber @xkajon 其他条件相同，美区 Apple 账户订阅 Claude 服务被封的概率大还是用一个美国怀俄明州空壳公司的银行卡支付被封的概率大？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2043266195391139937",
+        "created_at": "2026-04-12T10:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043279255295987834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1105022594242174976",
+              "start": 0,
+              "username": "scopenumber"
+            },
+            {
+              "end": 20,
+              "id": "277445029",
+              "start": 13,
+              "username": "xkajon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043279255295987834",
+        "in_reply_to_user_id": "1105022594242174976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "两人都有部分道理，但x kajon 的观点更接近实际可行性。\n\n怀俄明LLC成立成本低（州费100刀+注册代理50-150刀/年，年报60刀），零收入无需缴税，但外国单人LLC必须每年提交Form 5472+pro forma 1120（即使零流水，自助或顾问200-500刀/年，不报罚款可达2.5万刀）。\n\nAI订阅（如Claude/OpenAI）支付需美国卡+匹配账单地址，IP不符或公司看似“空壳”确实易被风控（常见于中国用户），但无需伪造流水——真实小额使用或合规开户（如Mercury）就能过多数情况。不是“地狱”，但需按规操作，不是零门槛。建议按IRS官网和银行要求走，别听极端故事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043279108826907078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scopenumber @xkajon 两人都有部分道理，但x kajon 的观点更接近实际可行性。\n\n怀俄明LLC成立成本低（州费100刀+注册代理50-150刀/年，年报60刀），零收入无需缴税，但外国单人LLC必须每年提交Form 5472+pro forma 1120（即使零流水，自助或顾问200-500刀/年，不报罚款可达2.5万刀）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 415,
+          "like_count": 12371,
+          "listed_count": 4,
+          "media_count": 819,
+          "tweet_count": 4300
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8499892,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6590,
+          "media_count": 8811315,
+          "tweet_count": 122331910
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-11T08:28:11.000Z",
+        "description": "在德州扑克，A股，币圈上赚到1000w rmb的人。正在通过咨询服务，只是付费构建现金流。会写一点点代码，猪场前公关。在说服他人达成目标或者做出改变方面有一些心得。现在学习做自媒体，试图解答普通人在赚钱和两性方面的困惑。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pokerpxx.replit.app",
+                "end": 23,
+                "expanded_url": "https://pokerpxx.replit.app/",
+                "start": 0,
+                "url": "https://t.co/achwGG61QG"
+              }
+            ]
+          }
+        },
+        "id": "1105022594242174976",
+        "name": "pokerpxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019376869674725376/f03orJ_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1309,
+          "like_count": 736,
+          "listed_count": 3,
+          "media_count": 22,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/achwGG61QG",
+        "username": "scopenumber",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-05T11:39:17.000Z",
+        "description": "🇬🇧UCL本硕｜计算机专业｜雅思7｜中转站站长-只做tob不做toc",
+        "id": "277445029",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "Kai",
+        "pinned_tweet_id": "2042944828758200368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012851255509471233/PG2nwivW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 824,
+          "like_count": 3239,
+          "listed_count": 12,
+          "media_count": 9,
+          "tweet_count": 383
+        },
+        "username": "xkajon",
+        "verified": true
+      }
+    ]
+  }
+}

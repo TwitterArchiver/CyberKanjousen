@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2079738447376363769",
+    "created_at": "2026-07-22T03:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079771454435106993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1751290211345330176",
+          "start": 0,
+          "username": "AwP0rt0h1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079771454435106993",
+    "in_reply_to_user_id": "1751290211345330176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079768788833312886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AwP0rt0h1ty 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2079738447376363769",
+        "created_at": "2026-07-22T03:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079771454435106993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751290211345330176",
+              "start": 0,
+              "username": "AwP0rt0h1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079771454435106993",
+        "in_reply_to_user_id": "1751290211345330176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079768788833312886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AwP0rt0h1ty 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751290211345330176",
+        "conversation_id": "2079738447376363769",
+        "created_at": "2026-07-22T03:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079768788833312886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079768788833312886",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079768586890199328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 那 環状線 呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11493,
+          "following_count": 882,
+          "like_count": 31330,
+          "listed_count": 19,
+          "media_count": 2189,
+          "tweet_count": 10829
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T17:05:09.000Z",
+        "description": "Koishi 聊天机器人插件 Minecraft Fishtime开发者\n正在开发 独立应用 OCC-OpenClassCooperation\n技术栈：JavaScript/TypeScript  Python C# Vue\n偏好开源协议 MIT\n友跨  双\n自家笨宝@kuailebang2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 134,
+                "username": "kuailebang2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zxblog.online",
+                "end": 23,
+                "expanded_url": "http://zxblog.online",
+                "start": 0,
+                "url": "https://t.co/IPXodbSOSV"
+              }
+            ]
+          }
+        },
+        "id": "1751290211345330176",
+        "location": "Shandong Province",
+        "name": "AwP0rt0h1ty",
+        "pinned_tweet_id": "1989981176040476672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076818751006330880/a5h9vXJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 345,
+          "like_count": 4929,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/IPXodbSOSV",
+        "username": "AwP0rt0h1ty",
+        "verified": false
+      }
+    ]
+  }
+}

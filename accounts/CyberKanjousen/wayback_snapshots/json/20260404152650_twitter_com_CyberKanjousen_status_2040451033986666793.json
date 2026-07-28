@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2040429956531204150",
+    "created_at": "2026-04-04T15:26:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T16:26:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040451033986666793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2036746034005831680",
+          "start": 0,
+          "username": "Yuki8964Uncanny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 40,
+          "expanded_url": "https://x.com/cyberkanjousen/status/2027334889104867819?s=46",
+          "start": 17,
+          "url": "https://t.co/iMTfkGHERP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040451033986666793",
+    "in_reply_to_user_id": "2036746034005831680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027334889104867819",
+        "type": "quoted"
+      },
+      {
+        "id": "2040449045542650274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki8964Uncanny https://t.co/iMTfkGHERP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_2027334659399733248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKKIaZb0AABf-3.jpg",
+        "width": 2432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2040429956531204150",
+        "created_at": "2026-04-04T15:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040451033986666793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036746034005831680",
+              "start": 0,
+              "username": "Yuki8964Uncanny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 40,
+              "expanded_url": "https://x.com/cyberkanjousen/status/2027334889104867819?s=46",
+              "start": 17,
+              "url": "https://t.co/iMTfkGHERP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040451033986666793",
+        "in_reply_to_user_id": "2036746034005831680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027334889104867819",
+            "type": "quoted"
+          },
+          {
+            "id": "2040449045542650274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki8964Uncanny https://t.co/iMTfkGHERP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027334659399733248"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2027334889104867819",
+        "created_at": "2026-02-27T10:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027334889104867819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1657588281163517952",
+              "start": 2,
+              "username": "Kanjousen0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 44,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2027329173480714324?s=20",
+              "start": 21,
+              "url": "https://t.co/SAes0BD5Fj"
+            },
+            {
+              "display_url": "pic.x.com/S9WcX9hDMF",
+              "end": 68,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2027334889104867819/photo/1",
+              "media_key": "3_2027334659399733248",
+              "start": 45,
+              "url": "https://t.co/S9WcX9hDMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027334889104867819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 711,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027329173480714324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和 @Kanjousen0 的情侣头像！\nhttps://t.co/SAes0BD5Fj https://t.co/S9WcX9hDMF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036746034005831680",
+        "conversation_id": "2040429956531204150",
+        "created_at": "2026-04-04T15:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040449045542650274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040449045542650274",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040429956531204150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 所以说旧头像我还没保存……还想看看😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 0,
+                "start": 0,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 0,
+                "start": 0,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 0,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 0,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 0,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 0,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 0,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 367,
+          "like_count": 10405,
+          "listed_count": 3,
+          "media_count": 739,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T10:04:45.000Z",
+        "description": "18 years old. Student.\n上帝赐予我双手，耶稣赐予我灵魂，世界将因我而改变。",
+        "id": "2036746034005831680",
+        "name": "Uncanny",
+        "pinned_tweet_id": "2039669553878138922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036811668966268928/k4Zod_oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 584
+        },
+        "username": "Yuki8964Uncanny",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 367,
+          "like_count": 10405,
+          "listed_count": 3,
+          "media_count": 739,
+          "tweet_count": 3820
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

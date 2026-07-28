@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2078118775581266308",
+    "created_at": "2026-07-18T08:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078392726442434930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "595841286",
+          "start": 0,
+          "username": "BedivereZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078392726442434930",
+    "in_reply_to_user_id": "595841286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078392573169910174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BedivereZero 白嫖？（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2078118775581266308",
+        "created_at": "2026-07-18T08:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078392726442434930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "595841286",
+              "start": 0,
+              "username": "BedivereZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078392726442434930",
+        "in_reply_to_user_id": "595841286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078392573169910174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BedivereZero 白嫖？（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "595841286",
+        "conversation_id": "2078118775581266308",
+        "created_at": "2026-07-18T08:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078392573169910174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078392573169910174",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078118775581266308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 高考完买了个上网本，到校报道之后，要不你还是别带了容易丢，我给你带回去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10863,
+          "following_count": 883,
+          "like_count": 31176,
+          "listed_count": 16,
+          "media_count": 2143,
+          "tweet_count": 10670
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-31T19:30:42.000Z",
+        "description": "失业|程序员|k8s初学者|GolangBugWriter|学不动了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BedivereZero.github.io",
+                "end": 23,
+                "expanded_url": "https://BedivereZero.github.io",
+                "start": 0,
+                "url": "https://t.co/3CwKXYiPIF"
+              }
+            ]
+          }
+        },
+        "id": "595841286",
+        "name": "神楽坂 豚",
+        "pinned_tweet_id": "1188115693390024704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885792839895875584/bb7PhhA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 3975,
+          "like_count": 66287,
+          "listed_count": 6,
+          "media_count": 164,
+          "tweet_count": 5536
+        },
+        "url": "https://t.co/3CwKXYiPIF",
+        "username": "BedivereZero",
+        "verified": false
+      }
+    ]
+  }
+}

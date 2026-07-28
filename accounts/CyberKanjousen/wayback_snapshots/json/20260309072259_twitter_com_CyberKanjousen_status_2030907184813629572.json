@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2030658776664269113",
+    "created_at": "2026-03-09T07:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T08:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030907184813629572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565231003987505153",
+          "start": 0,
+          "username": "Kirishima_Arash"
+        },
+        {
+          "end": 27,
+          "id": "1411967927855640578",
+          "start": 17,
+          "username": "maletofox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030907184813629572",
+    "in_reply_to_user_id": "1565231003987505153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030905078392234125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirishima_Arash @maletofox 也就是可信执行环境\n一加等部分安卓厂商在解锁 BootLoader 以后会强制销毁 tee ，使 root 以后的手机丧失可信执行环境，出现诸如指纹、面容无法用于支付验证的限制\ntee 的销毁是不可逆的，所以不推荐在除小米（ root 不销毁 tee ）以外的其他国产安卓手机上进行 root"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2030658776664269113",
+        "created_at": "2026-03-09T07:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030907184813629572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565231003987505153",
+              "start": 0,
+              "username": "Kirishima_Arash"
+            },
+            {
+              "end": 27,
+              "id": "1411967927855640578",
+              "start": 17,
+              "username": "maletofox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030907184813629572",
+        "in_reply_to_user_id": "1565231003987505153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030905078392234125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirishima_Arash @maletofox 也就是可信执行环境\n一加等部分安卓厂商在解锁 BootLoader 以后会强制销毁 tee ，使 root 以后的手机丧失可信执行环境，出现诸如指纹、面容无法用于支付验证的限制\ntee 的销毁是不可逆的，所以不推荐在除小米（ root 不销毁 tee ）以外的其他国产安卓手机上进行 root"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565231003987505153",
+        "conversation_id": "2030658776664269113",
+        "created_at": "2026-03-09T07:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T08:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030905078392234125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1411967927855640578",
+              "start": 0,
+              "username": "maletofox"
+            },
+            {
+              "end": 26,
+              "id": "1918274202580467713",
+              "start": 11,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030905078392234125",
+        "in_reply_to_user_id": "1411967927855640578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030870076593951002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maletofox @CyberKanjousen 话说tee是什么 没了解安卓刷机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | LBGTQ+包容 | 露骨政治不涉及\n里推：@Kanjousen_dwb\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 135,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 112,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 165,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 142,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 117,
+          "like_count": 3596,
+          "listed_count": 1,
+          "media_count": 456,
+          "tweet_count": 2066
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T06:52:35.000Z",
+        "description": "是重度正太控~  🏳️‍⚧️🏳️‍🌈 好想变成可爱的正太呜哇",
+        "id": "1565231003987505153",
+        "location": "广州",
+        "name": "小雾岛岚",
+        "pinned_tweet_id": "2030286612824051894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817574608364781568/YWrCGDIZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6667,
+          "following_count": 7028,
+          "like_count": 112167,
+          "listed_count": 10,
+          "media_count": 992,
+          "tweet_count": 80754
+        },
+        "username": "Kirishima_Arash",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T08:39:44.000Z",
+        "description": "GMT+8 | amab | Computer Science | 🚗🏍️📷🎮💻🎹 | 中文&English | Rhythm Games",
+        "id": "1411967927855640578",
+        "location": "Kowloon City District",
+        "name": "0x000",
+        "pinned_tweet_id": "1439608558551658496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974476702823989248/qeT_MASN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 333,
+          "like_count": 496,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "maletofox",
+        "verified": false
+      }
+    ]
+  }
+}

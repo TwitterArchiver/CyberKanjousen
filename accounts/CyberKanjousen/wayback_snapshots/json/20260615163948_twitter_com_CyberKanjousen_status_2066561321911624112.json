@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2066487962981032200",
+    "created_at": "2026-06-15T16:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066561321911624112"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinxi9981/stat…",
+          "end": 37,
+          "expanded_url": "https://x.com/rinxi9981/status/2066560887125877236",
+          "start": 14,
+          "url": "https://t.co/dGc8ca21eW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066561321911624112",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066560887125877236",
+        "type": "quoted"
+      },
+      {
+        "id": "2066487962981032200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "……莫名有点失望怎么回事😭\nhttps://t.co/dGc8ca21eW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_2066560880662482944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3mK_6bEAAu1aU.jpg",
+        "width": 963
+      },
+      {
+        "height": 1022,
+        "media_key": "3_2066487947839627264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2j1v-bYAAJIwd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066487962981032200",
+        "created_at": "2026-06-15T16:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066561321911624112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinxi9981/stat…",
+              "end": 37,
+              "expanded_url": "https://x.com/rinxi9981/status/2066560887125877236",
+              "start": 14,
+              "url": "https://t.co/dGc8ca21eW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066561321911624112",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066560887125877236",
+            "type": "quoted"
+          },
+          {
+            "id": "2066487962981032200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "……莫名有点失望怎么回事😭\nhttps://t.co/dGc8ca21eW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066560880662482944"
+          ]
+        },
+        "author_id": "1639843924758937600",
+        "conversation_id": "2066487962981032200",
+        "created_at": "2026-06-15T16:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066560887125877236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7l73W945L",
+              "end": 49,
+              "expanded_url": "https://x.com/RinXi9981/status/2066560887125877236/photo/1",
+              "media_key": "3_2066560880662482944",
+              "start": 26,
+              "url": "https://t.co/R7l73W945L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066560887125877236",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066487962981032200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 孩子们，情报系假的 https://t.co/R7l73W945L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066487947839627264"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066487962981032200",
+        "created_at": "2026-06-15T11:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066487962981032200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOsDL6KsAt",
+              "end": 32,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2066487962981032200/photo/1",
+              "media_key": "3_2066487947839627264",
+              "start": 9,
+              "url": "https://t.co/gOsDL6KsAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066487962981032200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6814,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁来了？！😨😰😱 https://t.co/gOsDL6KsAt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6625,
+          "following_count": 868,
+          "like_count": 26324,
+          "listed_count": 11,
+          "media_count": 1509,
+          "tweet_count": 8139
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-26T04:17:24.000Z",
+        "description": "_(:зゝ∠)_",
+        "id": "1639843924758937600",
+        "name": "RXDarꉂ(ˊᗜˋ*)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030038457670905856/5X3KUaSb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 1561,
+          "like_count": 22810,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1089
+        },
+        "username": "RinXi9981",
+        "verified": false
+      }
+    ]
+  }
+}

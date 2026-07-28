@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical",
+          "id": "1035186638777802752",
+          "name": "Musicals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "2040074403896242585",
+    "created_at": "2026-04-03T14:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040074403896242585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liberte__2024/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/liberte__2024/status/2040052413273608343",
+          "start": 23,
+          "url": "https://t.co/WYP4M6uPxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040074403896242585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040052413273608343",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "林鼓子已退演《和妻子飞行的神风特工兵》音乐剧 https://t.co/WYP4M6uPxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 735,
+        "media_key": "3_2040052124219011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-4mSta8AAl35X.jpg",
+        "width": 1147
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2040074403896242585",
+        "created_at": "2026-04-03T14:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040074403896242585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liberte__2024/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/liberte__2024/status/2040052413273608343",
+              "start": 23,
+              "url": "https://t.co/WYP4M6uPxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040074403896242585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040052413273608343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "林鼓子已退演《和妻子飞行的神风特工兵》音乐剧 https://t.co/WYP4M6uPxD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040052124219011072"
+          ]
+        },
+        "author_id": "1871582349923868672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical",
+              "id": "1035186638777802752",
+              "name": "Musicals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2040052413273608343",
+        "created_at": "2026-04-03T13:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040052413273608343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUvek8ESU1",
+              "end": 106,
+              "expanded_url": "https://x.com/LIBERTE__2024/status/2040052413273608343/photo/1",
+              "media_key": "3_2040052124219011072",
+              "start": 83,
+              "url": "https://t.co/vUvek8ESU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040052413273608343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 760903,
+          "like_count": 1969,
+          "quote_count": 353,
+          "reply_count": 1,
+          "retweet_count": 840
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【林鼓子に関しまして御報告とお詫び】\n諸般の事情により、ミュージカル「妻と飛んだ特攻兵」への出演を辞退させていただくこととなりましたこと、謹んでご報告申し上げます。 https://t.co/vUvek8ESU1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 356,
+          "like_count": 10104,
+          "listed_count": 3,
+          "media_count": 730,
+          "tweet_count": 3748
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-24T15:43:12.000Z",
+        "description": "株式会社LIBERTE公式X。木村花代/田川景一/荒田至法/林鼓子/西村実莉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liberte2024.com",
+                "end": 23,
+                "expanded_url": "https://liberte2024.com",
+                "start": 0,
+                "url": "https://t.co/iXJ5FiOR6s"
+              }
+            ]
+          }
+        },
+        "id": "1871582349923868672",
+        "name": "株式会社LIBERTE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871586922235297794/o6tdwPi3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 93,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/iXJ5FiOR6s",
+        "username": "LIBERTE__2024",
+        "verified": false
+      }
+    ]
+  }
+}

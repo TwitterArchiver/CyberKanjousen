@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2029415816761126912"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2029378242390716908",
+    "created_at": "2026-03-05T04:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T05:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029415826437357600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "994934170429243394",
+          "start": 0,
+          "username": "Hiya_sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6wBZkxM25",
+          "end": 39,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2029415826437357600/photo/1",
+          "media_key": "16_2029415816761126912",
+          "start": 16,
+          "url": "https://t.co/z6wBZkxM25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029415826437357600",
+    "in_reply_to_user_id": "994934170429243394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029378242390716908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiya_sama なにこれ https://t.co/z6wBZkxM25"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 234,
+        "media_key": "16_2029415816761126912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCnu7tubMAAhjem.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCnu7tubMAAhjem.mp4"
+          }
+        ],
+        "width": 220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029378239635050496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCnMwcBa0AAFqYj.jpg",
+        "width": 1399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029415816761126912"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2029378242390716908",
+        "created_at": "2026-03-05T04:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029415826437357600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "994934170429243394",
+              "start": 0,
+              "username": "Hiya_sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6wBZkxM25",
+              "end": 39,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2029415826437357600/photo/1",
+              "media_key": "16_2029415816761126912",
+              "start": 16,
+              "url": "https://t.co/z6wBZkxM25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029415826437357600",
+        "in_reply_to_user_id": "994934170429243394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029378242390716908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiya_sama なにこれ https://t.co/z6wBZkxM25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029378239635050496"
+          ]
+        },
+        "author_id": "994934170429243394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029378242390716908",
+        "created_at": "2026-03-05T02:07:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:07:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029378242390716908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHCSywGThk",
+              "end": 33,
+              "expanded_url": "https://x.com/Hiya_sama/status/2029378242390716908/photo/1",
+              "media_key": "3_2029378239635050496",
+              "start": 10,
+              "url": "https://t.co/SHCSywGThk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029378242390716908",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1183,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Who am I？ https://t.co/SHCSywGThk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜ CN/EN/JP ｜ 互fo可能 ｜ 崩舟终玩家 ｜ まのさば好き ｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 147,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 124,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 105,
+          "like_count": 2870,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-11T13:36:06.000Z",
+        "description": "你好呀，欢迎你点进我的主页 可以叫我雪雪～ ｜偶尔会发点自己跑的AI图，最近染上了cosplay（但是不好看呜呜）｜常驻020｜\n私の日本語はまだ上手ではありませんが、どうぞよろしくお願いします\n美少女ゲームが好き～\n⚠️私が送信した画像はすべてAIで生成されたものです⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/8fg8Sqe",
+                "end": 23,
+                "expanded_url": "https://b23.tv/8fg8Sqe",
+                "start": 0,
+                "url": "https://t.co/pmchVFvR6v"
+              }
+            ]
+          }
+        },
+        "id": "994934170429243394",
+        "location": "月ヶ咲",
+        "name": "白羽雪々❄️",
+        "pinned_tweet_id": "2018196793365029225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949713590757539840/x8nQYpjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13332,
+          "following_count": 1020,
+          "like_count": 14379,
+          "listed_count": 52,
+          "media_count": 772,
+          "tweet_count": 3415
+        },
+        "url": "https://t.co/pmchVFvR6v",
+        "username": "Hiya_sama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068223266184155136"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2068223279199138265",
+    "created_at": "2026-06-20T06:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T07:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068223279199138265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBqpeuwmlV",
+          "end": 43,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2068223279199138265/photo/1",
+          "media_key": "3_2068223266184155136",
+          "start": 20,
+          "url": "https://t.co/mBqpeuwmlV"
+        },
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2068184314299273365",
+          "start": 44,
+          "url": "https://t.co/hhNgPwaewB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068223279199138265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068184314299273365",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一切责任都在高市早苗\n一切责任都在日方 https://t.co/mBqpeuwmlV https://t.co/hhNgPwaewB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 685,
+        "media_key": "3_2068223266184155136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLPOGkka0AAyk5n.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2068179155381075970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOl-_BbQAId_6I.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068223266184155136"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2068223279199138265",
+        "created_at": "2026-06-20T06:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068223279199138265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBqpeuwmlV",
+              "end": 43,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2068223279199138265/photo/1",
+              "media_key": "3_2068223266184155136",
+              "start": 20,
+              "url": "https://t.co/mBqpeuwmlV"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2068184314299273365",
+              "start": 44,
+              "url": "https://t.co/hhNgPwaewB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068223279199138265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068184314299273365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一切责任都在高市早苗\n一切责任都在日方 https://t.co/mBqpeuwmlV https://t.co/hhNgPwaewB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068179155381075970"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2068184314299273365",
+        "created_at": "2026-06-20T04:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068184314299273365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7a9hkbjw7Q",
+              "end": 67,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2068184314299273365/photo/1",
+              "media_key": "3_2068179155381075970",
+              "start": 44,
+              "url": "https://t.co/7a9hkbjw7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068184314299273365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1713,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "盲猜有些人一看到这个日期又要说「辱华」了😁\n粉红二次元现在还想看超时空辉夜姬大电影吗？ https://t.co/7a9hkbjw7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7255,
+          "following_count": 875,
+          "like_count": 27149,
+          "listed_count": 12,
+          "media_count": 1595,
+          "tweet_count": 8471
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

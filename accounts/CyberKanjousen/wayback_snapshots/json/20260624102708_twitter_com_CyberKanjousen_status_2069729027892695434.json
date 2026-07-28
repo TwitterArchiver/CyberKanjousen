@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2069724966044741752",
+    "created_at": "2026-06-24T10:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069729027892695434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "967449427664257024",
+          "start": 0,
+          "username": "mylife_foraiur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069729027892695434",
+    "in_reply_to_user_id": "967449427664257024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069726315704713278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylife_foraiur 環状線生活在北方，北方的西瓜在環状線印象里差不多都是这个价……（也有可能是環状線记得不对，但总之不可能在 200 JPY 以下）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2069724966044741752",
+        "created_at": "2026-06-24T10:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069729027892695434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "967449427664257024",
+              "start": 0,
+              "username": "mylife_foraiur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069729027892695434",
+        "in_reply_to_user_id": "967449427664257024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069726315704713278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylife_foraiur 環状線生活在北方，北方的西瓜在環状線印象里差不多都是这个价……（也有可能是環状線记得不对，但总之不可能在 200 JPY 以下）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967449427664257024",
+        "conversation_id": "2069724966044741752",
+        "created_at": "2026-06-24T10:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069726315704713278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069726315704713278",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069724966044741752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 没吧，我最近买了两次西瓜，都是3kg左右，一次12一次15，折合250~300日元这样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7831,
+          "following_count": 870,
+          "like_count": 27920,
+          "listed_count": 11,
+          "media_count": 1675,
+          "tweet_count": 8825
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-24T17:21:32.000Z",
+        "description": "“沙子”",
+        "id": "967449427664257024",
+        "name": "清热解毒冰牛奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703144873770225664/-O1GfrxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 734,
+          "like_count": 201,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "mylife_foraiur",
+        "verified": false
+      }
+    ]
+  }
+}

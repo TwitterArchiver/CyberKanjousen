@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2042853711756878104",
+    "created_at": "2026-04-11T07:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T08:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042873087453265944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2592646267",
+          "start": 0,
+          "username": "riz001400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042873087453265944",
+    "in_reply_to_user_id": "2592646267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042872344344248637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riz001400 实际上策略网络更多还是中心化训练与去中心化执行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042853711756878104",
+        "created_at": "2026-04-11T07:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042873087453265944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2592646267",
+              "start": 0,
+              "username": "riz001400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042873087453265944",
+        "in_reply_to_user_id": "2592646267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042872344344248637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riz001400 实际上策略网络更多还是中心化训练与去中心化执行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2592646267",
+        "conversation_id": "2042853711756878104",
+        "created_at": "2026-04-11T07:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042872344344248637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042872344344248637",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042853711756878104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 看是什么规模的集权，适度将集权与放权相结合"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 399,
+          "like_count": 12042,
+          "listed_count": 4,
+          "media_count": 810,
+          "tweet_count": 4229
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-28T06:50:21.000Z",
+        "description": "姑且是个虚拟人类，Eden所属，半死不活中。\n本账号亦为riz中之人即riztech的发言渠道。\n汉语，英语皆可直接对话，日本語の対話はGPTによる変換+Rizの意訳エンジンによる校正によって行われました。。バンドリーマー。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Riztech.xyz",
+                "end": 23,
+                "expanded_url": "http://Riztech.xyz",
+                "start": 0,
+                "url": "https://t.co/NQf5CzTgmz"
+              }
+            ]
+          }
+        },
+        "id": "2592646267",
+        "name": "Riz/リズ(=Riztech）@六年后了，还活着",
+        "pinned_tweet_id": "1475036828302385154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486664734430547974/tOO5E35P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 522,
+          "like_count": 2980,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 1385
+        },
+        "url": "https://t.co/NQf5CzTgmz",
+        "username": "riz001400",
+        "verified": false
+      }
+    ]
+  }
+}

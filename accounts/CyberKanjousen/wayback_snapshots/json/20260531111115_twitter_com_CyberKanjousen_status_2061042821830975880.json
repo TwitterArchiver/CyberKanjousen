@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2061000113351516233",
+    "created_at": "2026-05-31T11:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061042821830975880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826674695544209410",
+          "start": 0,
+          "username": "makalongnoob"
+        },
+        {
+          "end": 29,
+          "id": "1802734544006811648",
+          "start": 14,
+          "username": "Shahmuj_b_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061042821830975880",
+    "in_reply_to_user_id": "1826674695544209410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061042350428995778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@makalongnoob @Shahmuj_b_8964 環状線会调查对方的出身是武大文学院还是理学部。\n如果是理学部的话，環状線会观察一段时间。\n如果是文学院的话，環状線也会立刻跑路😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2061000113351516233",
+        "created_at": "2026-05-31T11:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061042821830975880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826674695544209410",
+              "start": 0,
+              "username": "makalongnoob"
+            },
+            {
+              "end": 29,
+              "id": "1802734544006811648",
+              "start": 14,
+              "username": "Shahmuj_b_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061042821830975880",
+        "in_reply_to_user_id": "1826674695544209410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061042350428995778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makalongnoob @Shahmuj_b_8964 環状線会调查对方的出身是武大文学院还是理学部。\n如果是理学部的话，環状線会观察一段时间。\n如果是文学院的话，環状線也会立刻跑路😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826674695544209410",
+        "conversation_id": "2061000113351516233",
+        "created_at": "2026-05-31T11:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061042350428995778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 31,
+              "id": "1802734544006811648",
+              "start": 16,
+              "username": "Shahmuj_b_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061042350428995778",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061027458317771232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @Shahmuj_b_8964 这么同情你愿意接盘吗 正常人都会趋利避害减少自己损失吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 870,
+          "like_count": 23559,
+          "listed_count": 11,
+          "media_count": 1253,
+          "tweet_count": 7019
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T17:36:23.000Z",
+        "description": "",
+        "id": "1826674695544209410",
+        "name": "macaroon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979220135723347968/UdDp9y_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 597,
+          "like_count": 5073,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 410
+        },
+        "username": "makalongnoob",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T16:06:50.000Z",
+        "description": "t退休医生的苦逼，我是福建省人民医院骨科的医生陈鹏，我和同事石树培，林海仙治愈了患者黄田武，事后却把我搞得半死不活。谎称在做腰椎手术之后左腿很痛伸不直，右腿的大腿内侧明明能伸直。现在又诽谤腿一边长一边短，右腰一直痛，关节和全身都痛而软。这样的军人留着有何用。",
+        "id": "1802734544006811648",
+        "location": "2 Zhengyi Rd, Dongcheng",
+        "name": "Shanyuuu_A",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802857464733577216/TLGJWvJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 66,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "Shahmuj_b_8964",
+        "verified": false
+      }
+    ]
+  }
+}

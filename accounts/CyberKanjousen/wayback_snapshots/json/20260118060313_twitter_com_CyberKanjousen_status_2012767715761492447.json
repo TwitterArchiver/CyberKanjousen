@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012564021346746544",
+    "created_at": "2026-01-18T06:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012767715761492447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1302984963805999104",
+          "start": 0,
+          "username": "littlelambqwq"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012767715761492447",
+    "in_reply_to_user_id": "1302984963805999104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012564021346746544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlelambqwq @grok 再多加一些牛肉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2012564010734923777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4QTgOXMAEwkuY.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012564021346746544",
+        "created_at": "2026-01-18T06:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012767715761492447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1302984963805999104",
+              "start": 0,
+              "username": "littlelambqwq"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012767715761492447",
+        "in_reply_to_user_id": "1302984963805999104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012564021346746544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlelambqwq @grok 再多加一些牛肉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012564010734923777"
+          ]
+        },
+        "author_id": "1302984963805999104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2012564021346746544",
+        "created_at": "2026-01-17T16:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012564021346746544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9fBgFhvAIw",
+              "end": 67,
+              "expanded_url": "https://x.com/littlelambqwq/status/2012564021346746544/photo/1",
+              "media_key": "3_2012564010734923777",
+              "start": 44,
+              "url": "https://t.co/9fBgFhvAIw"
+            },
+            {
+              "display_url": "x.com/littlelambqwq/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/littlelambqwq/status/2012517966655438890",
+              "start": 68,
+              "url": "https://t.co/iQDf4X4U5k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012564021346746544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1529,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012517966655438890",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嫌吃的不够豪华，让grok帮我加了几块牛肉上去咩，这下大家都知道我是富裕的教主了咩。 https://t.co/9fBgFhvAIw https://t.co/iQDf4X4U5k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 648
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/大龄跨女/控制欲强的变态/幼稚小鬼/性格暴躁/暴力dom/bluesky的id和Twitter一样/欢迎找我私信咩/简介和置顶有个人tg频道链接/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2dG0HZQuXcA2N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2dG0HZQuXcA2NjQ1",
+                "start": 0,
+                "url": "https://t.co/si7tu8rD2I"
+              }
+            ]
+          }
+        },
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "小咩咩🐑🍥8964",
+        "pinned_tweet_id": "2012363069645582583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008560122407383046/maSzC5df_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 1045,
+          "like_count": 70386,
+          "listed_count": 16,
+          "media_count": 1368,
+          "tweet_count": 13579
+        },
+        "url": "https://t.co/si7tu8rD2I",
+        "username": "littlelambqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7565401,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5828,
+          "media_count": 7791588,
+          "tweet_count": 91836328
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

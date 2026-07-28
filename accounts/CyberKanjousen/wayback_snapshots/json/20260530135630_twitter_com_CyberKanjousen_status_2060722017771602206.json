@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2060672868195955128",
+    "created_at": "2026-05-30T13:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060722017771602206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1503710587901014016",
+          "start": 0,
+          "username": "chy224025"
+        },
+        {
+          "end": 20,
+          "id": "1989517742127652866",
+          "start": 11,
+          "username": "AGNK_553"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060722017771602206",
+    "in_reply_to_user_id": "1503710587901014016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060721443298841075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chy224025 @AGNK_553 照这个趋势下去，马斯克再不管 spam bots 问题的话推特真的要臭了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060721435979677698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJknOlSaAAIoFYt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060672868195955128",
+        "created_at": "2026-05-30T13:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060722017771602206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1503710587901014016",
+              "start": 0,
+              "username": "chy224025"
+            },
+            {
+              "end": 20,
+              "id": "1989517742127652866",
+              "start": 11,
+              "username": "AGNK_553"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060722017771602206",
+        "in_reply_to_user_id": "1503710587901014016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060721443298841075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chy224025 @AGNK_553 照这个趋势下去，马斯克再不管 spam bots 问题的话推特真的要臭了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060721435979677698"
+          ]
+        },
+        "author_id": "1503710587901014016",
+        "conversation_id": "2060672868195955128",
+        "created_at": "2026-05-30T13:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060721443298841075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 25,
+              "id": "1989517742127652866",
+              "start": 16,
+              "username": "AGNK_553"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/39Rd67vxLA",
+              "end": 60,
+              "expanded_url": "https://x.com/chy224025/status/2060721443298841075/photo/1",
+              "media_key": "3_2060721435979677698",
+              "start": 37,
+              "url": "https://t.co/39Rd67vxLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060721443298841075",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060675563912827169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @AGNK_553 都进军外国人推了难搞 https://t.co/39Rd67vxLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 868,
+          "like_count": 23360,
+          "listed_count": 11,
+          "media_count": 1242,
+          "tweet_count": 6959
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T12:32:11.000Z",
+        "description": "06，喜欢打音游的无聊大学生，平常也喜欢数码，刷机一类，喜欢玩Minecraft，使用Linux (Debian GNU/Linux 13)",
+        "id": "1503710587901014016",
+        "name": "chy224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004261535129260032/NpeqKixU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 1516,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 342,
+          "tweet_count": 1881
+        },
+        "username": "chy224025",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "2025.11 重生喵~\n一般路过 553/Ag/any\n09 MTX？\n（负能量预警）\n查成分回fo\n逃生舱@agsg_553",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "agsg_553"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agnk_553",
+                "end": 23,
+                "expanded_url": "http://ngl.link/agnk_553",
+                "start": 0,
+                "url": "https://t.co/nKx3eptIuF"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "REMEMBER MAZE",
+        "name": "AG553🏳️‍⚧️",
+        "pinned_tweet_id": "2055235631958389230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009425649296134149/7XVRu4Xs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 1631,
+          "like_count": 36487,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 3322
+        },
+        "url": "https://t.co/nKx3eptIuF",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

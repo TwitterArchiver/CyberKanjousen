@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016447813119533056",
+        "13_2016447813157376000"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2016447826948153458",
+    "created_at": "2026-01-28T09:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016447826948153458"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4oLsbattfi",
+          "end": 103,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2016447826948153458/video/1",
+          "media_key": "3_2016447813119533056",
+          "start": 80,
+          "url": "https://t.co/4oLsbattfi"
+        },
+        {
+          "display_url": "pic.x.com/4oLsbattfi",
+          "end": 103,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2016447826948153458/video/1",
+          "media_key": "13_2016447813157376000",
+          "start": 80,
+          "url": "https://t.co/4oLsbattfi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016447826948153458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我：嘿格劳克，用我的纯文本Logo生成一个由几何图形组成的白底黑色Logo，但是不要忘了一定要上下对称老伙计！\nGrok：*生成图像*\n我：？*中国语粗口*😅 https://t.co/4oLsbattfi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 229,
+        "media_key": "3_2016447813119533056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vcmjkaYAATW37.jpg",
+        "width": 306
+      },
+      {
+        "duration_ms": 6041,
+        "height": 480,
+        "media_key": "13_2016447813157376000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016447813157376000/img/_lqsx6GPKUcWi0fZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016447813157376000/vid/avc1/640x480/Hn5t6CnFdKjTkC9-.mp4?tag=23"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016447813157376000/pl/enAEWldguEf_-T0f.m3u8?tag=23"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016447813119533056",
+            "13_2016447813157376000"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2016447826948153458",
+        "created_at": "2026-01-28T09:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016447826948153458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oLsbattfi",
+              "end": 103,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2016447826948153458/video/1",
+              "media_key": "3_2016447813119533056",
+              "start": 80,
+              "url": "https://t.co/4oLsbattfi"
+            },
+            {
+              "display_url": "pic.x.com/4oLsbattfi",
+              "end": 103,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2016447826948153458/video/1",
+              "media_key": "13_2016447813157376000",
+              "start": 80,
+              "url": "https://t.co/4oLsbattfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016447826948153458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：嘿格劳克，用我的纯文本Logo生成一个由几何图形组成的白底黑色Logo，但是不要忘了一定要上下对称老伙计！\nGrok：*生成图像*\n我：？*中国语粗口*😅 https://t.co/4oLsbattfi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CyberKanjousen",
+                "end": 23,
+                "expanded_url": "https://github.com/CyberKanjousen",
+                "start": 0,
+                "url": "https://t.co/t6dmiW4LzP"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 27,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/t6dmiW4LzP",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2079948221657616764",
+    "created_at": "2026-07-23T05:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080164631574925662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "940403420766150656",
+          "start": 0,
+          "username": "Necokeine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080164631574925662",
+    "in_reply_to_user_id": "940403420766150656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080086836052217953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Necokeine APP 和自助点餐机是 5 位数，柜台点单是 4 位数好像。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2079948221657616764",
+        "created_at": "2026-07-23T05:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080164631574925662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "940403420766150656",
+              "start": 0,
+              "username": "Necokeine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080164631574925662",
+        "in_reply_to_user_id": "940403420766150656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080086836052217953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Necokeine APP 和自助点餐机是 5 位数，柜台点单是 4 位数好像。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "940403420766150656",
+        "conversation_id": "2079948221657616764",
+        "created_at": "2026-07-23T00:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080086836052217953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080086836052217953",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079948221657616764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这应该是柜台点单和app点单？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11635,
+          "following_count": 883,
+          "like_count": 31391,
+          "listed_count": 20,
+          "media_count": 2204,
+          "tweet_count": 10875
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-12T02:10:22.000Z",
+        "description": "Go, Dream, Deliver\n我会中文  Can speak English  少しの日本语も話しできます\n到处出现，到处消失\n旅が大好き、色々な場に行きたいです\n三观比较硬，立场偏左\nPowtain 开发者 https://t.co/sDGm3Br3wf\nTelegram: https://t.co/xaFd1fKnqO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "powtain.com",
+                "end": 132,
+                "expanded_url": "http://powtain.com",
+                "start": 109,
+                "url": "https://t.co/sDGm3Br3wf"
+              },
+              {
+                "display_url": "t.me/necokeine",
+                "end": 166,
+                "expanded_url": "https://t.me/necokeine",
+                "start": 143,
+                "url": "https://t.co/xaFd1fKnqO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.powtain.com/home",
+                "end": 23,
+                "expanded_url": "http://web.powtain.com/home",
+                "start": 0,
+                "url": "https://t.co/yf7pbmpfJG"
+              }
+            ]
+          }
+        },
+        "id": "940403420766150656",
+        "location": "上海",
+        "name": "慧音-知识和历史的半兽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501095595838439427/ANgAmBua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 728,
+          "like_count": 20121,
+          "listed_count": 8,
+          "media_count": 130,
+          "tweet_count": 10529
+        },
+        "url": "https://t.co/yf7pbmpfJG",
+        "username": "Necokeine",
+        "verified": true
+      }
+    ]
+  }
+}

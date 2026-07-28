@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042603442787717120"
+      ],
+      "media_source_tweet_id": [
+        "2042603456167579692"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2042962479589003352",
+    "created_at": "2026-04-11T13:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042962479589003352"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "prsk"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870336533342932992",
+          "start": 3,
+          "username": "alkx_ct"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YLOmtUiCOb",
+          "end": 95,
+          "expanded_url": "https://x.com/alkx_ct/status/2042603456167579692/photo/1",
+          "media_key": "3_2042603442787717120",
+          "start": 72,
+          "url": "https://t.co/YLOmtUiCOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042962479589003352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042603456167579692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alkx_ct: If you can’t get a girlfriend,become the girlfriend. #prsk https://t.co/YLOmtUiCOb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2042603442787717120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjJAlBaEAAMdPf.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042603442787717120"
+          ],
+          "media_source_tweet_id": [
+            "2042603456167579692"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2042962479589003352",
+        "created_at": "2026-04-11T13:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042962479589003352"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "prsk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870336533342932992",
+              "start": 3,
+              "username": "alkx_ct"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLOmtUiCOb",
+              "end": 95,
+              "expanded_url": "https://x.com/alkx_ct/status/2042603456167579692/photo/1",
+              "media_key": "3_2042603442787717120",
+              "start": 72,
+              "url": "https://t.co/YLOmtUiCOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042962479589003352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042603456167579692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alkx_ct: If you can’t get a girlfriend,become the girlfriend. #prsk https://t.co/YLOmtUiCOb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042603442787717120"
+          ]
+        },
+        "author_id": "1870336533342932992",
+        "conversation_id": "2042603456167579692",
+        "created_at": "2026-04-10T13:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042603456167579692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "prsk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLOmtUiCOb",
+              "end": 82,
+              "expanded_url": "https://x.com/alkx_ct/status/2042603456167579692/photo/1",
+              "media_key": "3_2042603442787717120",
+              "start": 59,
+              "url": "https://t.co/YLOmtUiCOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042603456167579692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "If you can’t get a girlfriend,become the girlfriend. #prsk https://t.co/YLOmtUiCOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 403,
+          "like_count": 12113,
+          "listed_count": 4,
+          "media_count": 812,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T05:12:44.000Z",
+        "description": "「静かな夜だけが、私を覚えている⋯」\nI’m Singaporean,also the president of the Union Republic of Griffin(a micronation)\nGames:Project Sekai,Arena Breakout\nLanguages:🇺🇸🇹🇼🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://www.gov-urg.net",
+                "start": 0,
+                "url": "https://t.co/hX5y0S4sur"
+              }
+            ]
+          }
+        },
+        "id": "1870336533342932992",
+        "location": "Central Region, Singapore🇸🇬",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040272432788058113/m7xH-w8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 143,
+          "like_count": 679,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/hX5y0S4sur",
+        "username": "alkx_ct",
+        "verified": true
+      }
+    ]
+  }
+}

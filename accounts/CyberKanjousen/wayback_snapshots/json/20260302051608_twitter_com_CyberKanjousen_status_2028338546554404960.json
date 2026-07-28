@@ -1,0 +1,823 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028337388263743488",
+        "3_2028338097445040128"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2028093189589229729",
+    "created_at": "2026-03-02T05:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028338546554404960"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Windows 11",
+          "probability": 0.9732,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "CMD",
+          "probability": 0.7827,
+          "start": 83,
+          "type": "Other"
+        },
+        {
+          "end": 96,
+          "normalized_text": "Linux",
+          "probability": 0.9626,
+          "start": 92,
+          "type": "Other"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Hiro-chan",
+          "probability": 0.9168,
+          "start": 103,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1484021424050565125",
+          "start": 0,
+          "username": "olivertzeng"
+        },
+        {
+          "end": 22,
+          "id": "1446085940435320834",
+          "start": 13,
+          "username": "gruppeos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ycg9og8ss",
+          "end": 144,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2028338546554404960/photo/1",
+          "media_key": "3_2028337388263743488",
+          "start": 121,
+          "url": "https://t.co/4ycg9og8ss"
+        },
+        {
+          "display_url": "pic.x.com/4ycg9og8ss",
+          "end": 144,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2028338546554404960/photo/1",
+          "media_key": "3_2028338097445040128",
+          "start": 121,
+          "url": "https://t.co/4ycg9og8ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028338546554404960",
+    "in_reply_to_user_id": "1484021424050565125",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028336930266779946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@olivertzeng @gruppeos On Windows 11, you can enable sudo in Setting and run it on CMD like Linux.\nAnd Hiro-chan saikou😁 https://t.co/4ycg9og8ss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2028337388263743488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYaG6gaoAAvxbn.jpg",
+        "width": 916
+      },
+      {
+        "height": 696,
+        "media_key": "3_2028338097445040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYawMaacAADxcH.png",
+        "width": 1177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028337388263743488",
+            "3_2028338097445040128"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2028093189589229729",
+        "created_at": "2026-03-02T05:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028338546554404960"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Windows 11",
+              "probability": 0.9732,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "CMD",
+              "probability": 0.7827,
+              "start": 83,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Linux",
+              "probability": 0.9626,
+              "start": 92,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Hiro-chan",
+              "probability": 0.9168,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1484021424050565125",
+              "start": 0,
+              "username": "olivertzeng"
+            },
+            {
+              "end": 22,
+              "id": "1446085940435320834",
+              "start": 13,
+              "username": "gruppeos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ycg9og8ss",
+              "end": 144,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2028338546554404960/photo/1",
+              "media_key": "3_2028337388263743488",
+              "start": 121,
+              "url": "https://t.co/4ycg9og8ss"
+            },
+            {
+              "display_url": "pic.x.com/4ycg9og8ss",
+              "end": 144,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2028338546554404960/photo/1",
+              "media_key": "3_2028338097445040128",
+              "start": 121,
+              "url": "https://t.co/4ycg9og8ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028338546554404960",
+        "in_reply_to_user_id": "1484021424050565125",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028336930266779946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@olivertzeng @gruppeos On Windows 11, you can enable sudo in Setting and run it on CMD like Linux.\nAnd Hiro-chan saikou😁 https://t.co/4ycg9og8ss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484021424050565125",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2028093189589229729",
+        "created_at": "2026-03-02T05:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028336930266779946"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "Windows",
+              "probability": 0.9718,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 205,
+              "normalized_text": "Edge",
+              "probability": 0.8164,
+              "start": 202,
+              "type": "Other"
+            },
+            {
+              "end": 230,
+              "normalized_text": "Windows 11",
+              "probability": 0.9542,
+              "start": 221,
+              "type": "Other"
+            },
+            {
+              "end": 254,
+              "normalized_text": "GitHub",
+              "probability": 0.9401,
+              "start": 249,
+              "type": "Other"
+            },
+            {
+              "end": 288,
+              "normalized_text": "Hiro-",
+              "probability": 0.7886,
+              "start": 284,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 25,
+              "id": "1446085940435320834",
+              "start": 16,
+              "username": "gruppeos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028336930266779946",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028303416683123089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @gruppeos There’s probably no sudo on Windows and you probably need an executable that is called setup in the current directory + have those flags actually work\n\nYou can force uninstall Edge with a lot of Windows 11 bloat remover on GitHub \n\nAlso nice pfp choice btw, Hiro-can is based"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 97,
+          "like_count": 2494,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-20T04:34:30.000Z",
+        "description": "🇹🇼 Taiwanese HSNU 1627-15 Interested in: iOS Jailbreak/Sideload Arch Linux Python Shellscript Origami Piano Accordion Politics Vexillology Chess Reversi Zsh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/olivertzeng",
+                "end": 23,
+                "expanded_url": "https://github.com/olivertzeng",
+                "start": 0,
+                "url": "https://t.co/PxOTXYpzRc"
+              }
+            ]
+          }
+        },
+        "id": "1484021424050565125",
+        "location": "Taiwan",
+        "name": "Oliver Tzeng",
+        "pinned_tweet_id": "1983855653425934376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954220960728719360/yh_fdIYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 2064,
+          "like_count": 26158,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 8642
+        },
+        "url": "https://t.co/PxOTXYpzRc",
+        "username": "olivertzeng",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T12:12:24.000Z",
+        "description": "女の子を描きたい￤▒ BSKY : https://t.co/jKkOWnyxOC ￤▒ PIXIV : https://t.co/daR2Z3JFkL￤▒ SKEB : https://t.co/gAPAjBpTNC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/gruppe…",
+                "end": 41,
+                "expanded_url": "https://bsky.app/profile/gruppeos.bsky.social",
+                "start": 18,
+                "url": "https://t.co/jKkOWnyxOC"
+              },
+              {
+                "display_url": "pixiv.net/users/78513929",
+                "end": 76,
+                "expanded_url": "http://pixiv.net/users/78513929",
+                "start": 53,
+                "url": "https://t.co/daR2Z3JFkL"
+              },
+              {
+                "display_url": "skeb.jp/@gruppeos",
+                "end": 109,
+                "expanded_url": "http://skeb.jp/@gruppeos",
+                "start": 86,
+                "url": "https://t.co/gAPAjBpTNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gruppeos?utm_m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gruppeos?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Lc9xOf4njI"
+              }
+            ]
+          }
+        },
+        "id": "1446085940435320834",
+        "location": "Meridiano",
+        "name": "Gruppe",
+        "pinned_tweet_id": "1905199701592621112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998444026081751040/0TTZb0PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7129,
+          "following_count": 385,
+          "like_count": 39144,
+          "listed_count": 54,
+          "media_count": 563,
+          "tweet_count": 14001
+        },
+        "url": "https://t.co/Lc9xOf4njI",
+        "username": "gruppeos",
+        "verified": false
+      }
+    ]
+  }
+}

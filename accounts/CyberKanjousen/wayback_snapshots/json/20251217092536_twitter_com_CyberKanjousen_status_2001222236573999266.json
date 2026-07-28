@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2000938501945352377",
+    "created_at": "2025-12-17T09:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T10:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001222236573999266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1656459254856052737",
+          "start": 0,
+          "username": "zwkuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001222236573999266",
+    "in_reply_to_user_id": "1656459254856052737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000938501945352377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwkuu 难道不应该从国粹开始学起吗（笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2000938501945352377",
+        "created_at": "2025-12-17T09:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001222236573999266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1656459254856052737",
+              "start": 0,
+              "username": "zwkuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001222236573999266",
+        "in_reply_to_user_id": "1656459254856052737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000938501945352377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwkuu 难道不应该从国粹开始学起吗（笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656459254856052737",
+        "conversation_id": "2000938501945352377",
+        "created_at": "2025-12-16T14:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T15:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000938501945352377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000938501945352377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 19165,
+          "like_count": 332,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "「中国語できるの？なんかしゃべってみて〜」\n我：你好。我是日本人🥺\n2年後\n我：一开始只是出于好奇学中文，没想到越学越开心，现在学中文已经成了我生活的一部分了😝\n3年後\n我：燕子去了，有再来的时候。杨柳枯了，有再青的时候……😌\n5年後\n我：天地玄黃，宇宙洪荒。日月盈昃，辰宿列張……🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 254
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T00:40:45.000Z",
+        "description": "中国をまなぶねずみ。ときおり《千字文》、《孝經》をそらんずる。 神保町SOLIDAでの棚主アカウント → @zwnuma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "zwnuma"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/zwkuu",
+                "end": 23,
+                "expanded_url": "https://note.com/zwkuu",
+                "start": 0,
+                "url": "https://t.co/TIgZmwRdoQ"
+              }
+            ]
+          }
+        },
+        "id": "1656459254856052737",
+        "location": "神保町",
+        "name": "くう🐭《千字文》《孝經》学習中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993306376148492288/-4iwUVIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 535,
+          "like_count": 9184,
+          "listed_count": 8,
+          "media_count": 948,
+          "tweet_count": 4807
+        },
+        "url": "https://t.co/TIgZmwRdoQ",
+        "username": "zwkuu",
+        "verified": false
+      }
+    ]
+  }
+}

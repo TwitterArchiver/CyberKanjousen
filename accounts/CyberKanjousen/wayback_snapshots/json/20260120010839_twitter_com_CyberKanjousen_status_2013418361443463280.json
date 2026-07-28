@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2013172257149911389",
+    "created_at": "2026-01-20T01:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T02:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013418361443463280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "489233083",
+          "start": 0,
+          "username": "discountifu"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013418361443463280",
+    "in_reply_to_user_id": "489233083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013172257149911389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@discountifu @grok AI在诸如Google之类的AI公司的工作的占比真的很小吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2013172257149911389",
+        "created_at": "2026-01-20T01:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T02:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013418361443463280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "489233083",
+              "start": 0,
+              "username": "discountifu"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013418361443463280",
+        "in_reply_to_user_id": "489233083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013172257149911389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@discountifu @grok AI在诸如Google之类的AI公司的工作的占比真的很小吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "489233083",
+        "conversation_id": "2013172257149911389",
+        "created_at": "2026-01-19T08:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013172257149911389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013172257149911389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 46025,
+          "like_count": 75,
+          "quote_count": 7,
+          "reply_count": 148,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "就是说\n假如AI真的很厉害很有用的话\n各大AI厂商为什么不自己用AI赚钱\n而是要包月卖给你赚会员费呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 31,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 844
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-11T09:47:06.000Z",
+        "description": "区块链｜AI｜玄学命理｜全沾工程师 🔮一站式加密货币看板 @ritmex_crypto 🕹️Sea·星海漫游 Co-Founder @Seaxing777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ritmex_crypto"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Seaxing777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ritmex.one",
+                "end": 23,
+                "expanded_url": "https://ritmex.one",
+                "start": 0,
+                "url": "https://t.co/nyYytqql9Q"
+              }
+            ]
+          }
+        },
+        "id": "489233083",
+        "location": "Japan",
+        "name": "大梦想家迪士尼",
+        "pinned_tweet_id": "1974870806892331228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993334087940292609/WEd8L0BX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12009,
+          "following_count": 679,
+          "like_count": 7850,
+          "listed_count": 168,
+          "media_count": 1284,
+          "tweet_count": 9641
+        },
+        "url": "https://t.co/nyYytqql9Q",
+        "username": "discountifu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7593053,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5842,
+          "media_count": 7821283,
+          "tweet_count": 92634495
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

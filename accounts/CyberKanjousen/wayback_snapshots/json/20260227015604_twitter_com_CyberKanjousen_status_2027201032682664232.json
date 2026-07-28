@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027201024906465280"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2027201032682664232",
+    "created_at": "2026-02-27T01:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T02:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027201032682664232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWZcDeS310",
+          "end": 23,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2027201032682664232/photo/1",
+          "media_key": "3_2027201024906465280",
+          "start": 0,
+          "url": "https://t.co/SWZcDeS310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027201032682664232",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SWZcDeS310"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2027201024906465280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIQl3HbkAAAe3f.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027201024906465280"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2027201032682664232",
+        "created_at": "2026-02-27T01:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T02:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027201032682664232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWZcDeS310",
+              "end": 23,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2027201032682664232/photo/1",
+              "media_key": "3_2027201024906465280",
+              "start": 0,
+              "url": "https://t.co/SWZcDeS310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027201032682664232",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SWZcDeS310"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanjousen_dwb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 84,
+          "like_count": 2110,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 1589
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2036510917475836209",
+    "created_at": "2026-03-25T04:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036665247738773698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1503722074686242817",
+          "start": 0,
+          "username": "moe_hacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036665247738773698",
+    "in_reply_to_user_id": "1503722074686242817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036664860151255223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moe_hacker いよこいよ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2036510917475836209",
+        "created_at": "2026-03-25T04:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036665247738773698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1503722074686242817",
+              "start": 0,
+              "username": "moe_hacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036665247738773698",
+        "in_reply_to_user_id": "1503722074686242817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036664860151255223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moe_hacker いよこいよ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503722074686242817",
+        "conversation_id": "2036510917475836209",
+        "created_at": "2026-03-25T04:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036664860151255223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036664860151255223",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036510917475836209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 不行，我缅怀了-114514秒呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 287,
+          "like_count": 7389,
+          "listed_count": 3,
+          "media_count": 629,
+          "tweet_count": 2975
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T13:17:59.000Z",
+        "description": "Github@Moe-hacker, 箱崎萌（哲萌帝）/沨鸾/惜尘法师 | English/中文 | I'm moe therefore I am.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakozaki.moe",
+                "end": 23,
+                "expanded_url": "https://hakozaki.moe",
+                "start": 0,
+                "url": "https://t.co/TkkgxyCl43"
+              }
+            ]
+          }
+        },
+        "id": "1503722074686242817",
+        "name": "Moe Hakozaki",
+        "pinned_tweet_id": "2025807956743180545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010756651360665601/ZUM7uTL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 292,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/TkkgxyCl43",
+        "username": "moe_hacker",
+        "verified": false
+      }
+    ]
+  }
+}

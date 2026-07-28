@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012215739273330689",
+        "3_2012215739294388224"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012215749461639591",
+    "created_at": "2026-01-16T17:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T18:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012215749461639591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/joFQV6nBMX",
+          "end": 86,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2012215749461639591/photo/1",
+          "media_key": "3_2012215739273330689",
+          "start": 63,
+          "url": "https://t.co/joFQV6nBMX"
+        },
+        {
+          "display_url": "pic.x.com/joFQV6nBMX",
+          "end": 86,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2012215749461639591/photo/1",
+          "media_key": "3_2012215739294388224",
+          "start": 63,
+          "url": "https://t.co/joFQV6nBMX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012215749461639591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特真的炸了，我竟然在我的时间线上看到了已被我屏蔽的用户的推文\n第一张图片这个页面是我直接从第二张这个推文里点击头像进来的😅 https://t.co/joFQV6nBMX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_2012215739273330689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zTjb7WQAEmNE4.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012215739294388224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zTjcAXkAAlHuV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012215739273330689",
+            "3_2012215739294388224"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012215749461639591",
+        "created_at": "2026-01-16T17:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T18:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012215749461639591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/joFQV6nBMX",
+              "end": 86,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2012215749461639591/photo/1",
+              "media_key": "3_2012215739273330689",
+              "start": 63,
+              "url": "https://t.co/joFQV6nBMX"
+            },
+            {
+              "display_url": "pic.x.com/joFQV6nBMX",
+              "end": 86,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2012215749461639591/photo/1",
+              "media_key": "3_2012215739294388224",
+              "start": 63,
+              "url": "https://t.co/joFQV6nBMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012215749461639591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特真的炸了，我竟然在我的时间线上看到了已被我屏蔽的用户的推文\n第一张图片这个页面是我直接从第二张这个推文里点击头像进来的😅 https://t.co/joFQV6nBMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 615
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

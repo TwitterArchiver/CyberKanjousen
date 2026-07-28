@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2058749691551203674",
+    "created_at": "2026-05-25T03:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058753747262820716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035644902445547520",
+          "start": 0,
+          "username": "Mapplepie8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058753747262820716",
+    "in_reply_to_user_id": "2035644902445547520",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058753371868381492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Mapplepie8964 😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2058749691551203674",
+        "created_at": "2026-05-25T03:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058753747262820716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035644902445547520",
+              "start": 0,
+              "username": "Mapplepie8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058753747262820716",
+        "in_reply_to_user_id": "2035644902445547520",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058753371868381492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Mapplepie8964 😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035644902445547520",
+        "conversation_id": "2058749691551203674",
+        "created_at": "2026-05-25T03:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058753371868381492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058753371868381492",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058753144226812062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 为什么要和我说这些啊啊啊（昨天刚被甲沟炎做局过）😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 847,
+          "like_count": 22010,
+          "listed_count": 11,
+          "media_count": 1166,
+          "tweet_count": 6526
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T09:09:47.000Z",
+        "description": "在新西兰的中国人🇳🇿🇨🇳🇹🇼/战雷闹钟⏰单推人/自由(?)左/思想混乱ing/🏳️‍🌈🏳️‍🌈🏳️‍🌈/8964为防止被搬回墙内",
+        "id": "2035644902445547520",
+        "location": "A点 废弃工厂 俄螺丝联邦 安东星 盖金星系",
+        "name": "Mika_Mica_8964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035646782848585728/zPNAdONj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 87,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 385
+        },
+        "username": "Mapplepie8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065111959083839489"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1491542428901265409",
+          "name": "Xenoblade Chronicles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491542428901265409",
+          "name": "Xenoblade Chronicles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2065238151572971993",
+    "created_at": "2026-06-12T01:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065238151572971993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CKFJb4vCQ",
+          "end": 53,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2065238151572971993/photo/1",
+          "media_key": "3_2065111959083839489",
+          "start": 30,
+          "url": "https://t.co/0CKFJb4vCQ"
+        },
+        {
+          "display_url": "x.com/nintendo_cs/st…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/nintendo_cs/status/2064503618150281596",
+          "start": 54,
+          "url": "https://t.co/vhZNheZEk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065238151572971993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064503618150281596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Grok 你看看你翻译了个什么出来：\n「导管版」是什么？😅 https://t.co/0CKFJb4vCQ https://t.co/vhZNheZEk6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065111959083839489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjAYqaacAEuBfM.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2064503601897320448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKaXFnSasAA5eXT.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065111959083839489"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1491542428901265409",
+              "name": "Xenoblade Chronicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491542428901265409",
+              "name": "Xenoblade Chronicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2065238151572971993",
+        "created_at": "2026-06-12T01:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065238151572971993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CKFJb4vCQ",
+              "end": 53,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2065238151572971993/photo/1",
+              "media_key": "3_2065111959083839489",
+              "start": 30,
+              "url": "https://t.co/0CKFJb4vCQ"
+            },
+            {
+              "display_url": "x.com/nintendo_cs/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/nintendo_cs/status/2064503618150281596",
+              "start": 54,
+              "url": "https://t.co/vhZNheZEk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065238151572971993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064503618150281596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Grok 你看看你翻译了个什么出来：\n「导管版」是什么？😅 https://t.co/0CKFJb4vCQ https://t.co/vhZNheZEk6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064503601897320448"
+          ]
+        },
+        "author_id": "968297567720153089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1491542428901265409",
+              "name": "Xenoblade Chronicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491542428901265409",
+              "name": "Xenoblade Chronicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2064503618150281596",
+        "created_at": "2026-06-10T00:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064503618150281596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "『Xenoblade Definitive Edition（ゼノブレイド　ディフィニティブ・エディション）』の更新データに関するサポート情報をご案内します。",
+              "display_url": "support.nintendo.com/jp/switch/soft…",
+              "end": 158,
+              "expanded_url": "https://support.nintendo.com/jp/switch/software_support/aubqa/200.html?utm_source=twitter&utm_medium=social&utm_content=20260610&utm_campaign=support",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2064503661729067008/07c9nURq?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2064503661729067008/07c9nURq?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 135,
+              "status": 200,
+              "title": "Xenoblade Definitive Edition（ゼノブレイド　ディフィニティブ・エディション） 更新データ｜Nintendo Switch サポート情報｜任天堂サポート",
+              "unwound_url": "https://support.nintendo.com/jp/switch/software_support/aubqa/200.html?utm_source=twitter&utm_medium=social&utm_content=20260610&utm_campaign=support",
+              "url": "https://t.co/vuGjkANIli"
+            },
+            {
+              "display_url": "pic.x.com/rWwWUWWtl7",
+              "end": 182,
+              "expanded_url": "https://x.com/nintendo_cs/status/2064503618150281596/photo/1",
+              "media_key": "3_2064503601897320448",
+              "start": 159,
+              "url": "https://t.co/rWwWUWWtl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064503618150281596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 91699,
+          "like_count": 1310,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "『Xenoblade Definitive Edition（ゼノブレイド　ディフィニティブ・エディション）』の更新データVer.2.0.0を配信しています。『Nintendo Switch 2 Edition』をご利用の方は、本更新データのダウンロードをお願いします。 https://t.co/vuGjkANIli https://t.co/rWwWUWWtl7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 871,
+          "like_count": 25497,
+          "listed_count": 9,
+          "media_count": 1429,
+          "tweet_count": 7828
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-27T01:31:45.000Z",
+        "description": "任天堂の商品・サービスの「サポート情報」をお伝えするアカウントです。ご質問・ご意見に対する回答は行っておりません。お問い合わせは任天堂サポートのウェブサイトをご利用ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "support.nintendo.com/jp/index.html",
+                "end": 23,
+                "expanded_url": "https://support.nintendo.com/jp/index.html",
+                "start": 0,
+                "url": "https://t.co/JjuZkm2KK8"
+              }
+            ]
+          }
+        },
+        "id": "968297567720153089",
+        "name": "任天堂サポート",
+        "pinned_tweet_id": "2052639637425041792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1146582355244486656/iVkNv-DL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305030,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 1854,
+          "media_count": 1725,
+          "tweet_count": 4846
+        },
+        "url": "https://t.co/JjuZkm2KK8",
+        "username": "nintendo_cs",
+        "verified": true
+      }
+    ]
+  }
+}

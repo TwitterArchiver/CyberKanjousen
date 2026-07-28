@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041694233241976832",
+        "3_2041694233229455364",
+        "3_2041694233242079233"
+      ],
+      "media_source_tweet_id": [
+        "2041694251751489670",
+        "2041694251751489670",
+        "2041694251751489670"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041729739656982568",
+    "created_at": "2026-04-08T04:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T05:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041729739656982568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1982449259774656512",
+          "start": 3,
+          "username": "smiroyama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NFLWDFgqMS",
+          "end": 75,
+          "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+          "media_key": "3_2041694233241976832",
+          "start": 52,
+          "url": "https://t.co/NFLWDFgqMS"
+        },
+        {
+          "display_url": "pic.x.com/NFLWDFgqMS",
+          "end": 75,
+          "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+          "media_key": "3_2041694233229455364",
+          "start": 52,
+          "url": "https://t.co/NFLWDFgqMS"
+        },
+        {
+          "display_url": "pic.x.com/NFLWDFgqMS",
+          "end": 75,
+          "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+          "media_key": "3_2041694233242079233",
+          "start": 52,
+          "url": "https://t.co/NFLWDFgqMS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041729739656982568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041694251751489670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @smiroyama: 凭证 = token = 词元\n这下看懂了😅\n创了个野鸡中文名就乱用是吧 https://t.co/NFLWDFgqMS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2041694233241976832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWOFnhaAAAOeDR.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041694233229455364",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWOFnea8AQHHwv.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041694233242079233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWOFnhbkAEcIaV.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041694233241976832",
+            "3_2041694233229455364",
+            "3_2041694233242079233"
+          ],
+          "media_source_tweet_id": [
+            "2041694251751489670",
+            "2041694251751489670",
+            "2041694251751489670"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041729739656982568",
+        "created_at": "2026-04-08T04:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041729739656982568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1982449259774656512",
+              "start": 3,
+              "username": "smiroyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFLWDFgqMS",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+              "media_key": "3_2041694233241976832",
+              "start": 52,
+              "url": "https://t.co/NFLWDFgqMS"
+            },
+            {
+              "display_url": "pic.x.com/NFLWDFgqMS",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+              "media_key": "3_2041694233229455364",
+              "start": 52,
+              "url": "https://t.co/NFLWDFgqMS"
+            },
+            {
+              "display_url": "pic.x.com/NFLWDFgqMS",
+              "end": 75,
+              "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+              "media_key": "3_2041694233242079233",
+              "start": 52,
+              "url": "https://t.co/NFLWDFgqMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041729739656982568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041694251751489670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @smiroyama: 凭证 = token = 词元\n这下看懂了😅\n创了个野鸡中文名就乱用是吧 https://t.co/NFLWDFgqMS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041694233241976832",
+            "3_2041694233229455364",
+            "3_2041694233242079233"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041694251751489670",
+        "created_at": "2026-04-08T01:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041694251751489670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NFLWDFgqMS",
+              "end": 60,
+              "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+              "media_key": "3_2041694233241976832",
+              "start": 37,
+              "url": "https://t.co/NFLWDFgqMS"
+            },
+            {
+              "display_url": "pic.x.com/NFLWDFgqMS",
+              "end": 60,
+              "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+              "media_key": "3_2041694233229455364",
+              "start": 37,
+              "url": "https://t.co/NFLWDFgqMS"
+            },
+            {
+              "display_url": "pic.x.com/NFLWDFgqMS",
+              "end": 60,
+              "expanded_url": "https://x.com/smiroyama/status/2041694251751489670/photo/1",
+              "media_key": "3_2041694233242079233",
+              "start": 37,
+              "url": "https://t.co/NFLWDFgqMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041694251751489670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "凭证 = token = 词元\n这下看懂了😅\n创了个野鸡中文名就乱用是吧 https://t.co/NFLWDFgqMS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 149,
+                "start": 135,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 101,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 78,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 131,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 108,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 384,
+          "like_count": 11184,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 4025
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student |Dev @HRTtracker🍥 @KeenLib |  User | 🐱 Lover | 好朋友 🥰: @Huang_Yut1ng @fukui_p26 @qianxunchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 48,
+                "start": 40,
+                "username": "KeenLib"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "fukui_p26"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "qianxunchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDopW0"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "Smirnova 🍡",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041377830597246976/UX0FQmaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 1761,
+          "like_count": 6779,
+          "listed_count": 2,
+          "media_count": 894,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/YPl1rDopW0",
+        "username": "smiroyama",
+        "verified": true
+      }
+    ]
+  }
+}

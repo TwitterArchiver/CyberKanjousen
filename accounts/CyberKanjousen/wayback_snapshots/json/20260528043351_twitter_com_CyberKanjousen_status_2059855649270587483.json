@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2059647284229378126",
+    "created_at": "2026-05-28T04:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059855649270587483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "856089450777948160",
+          "start": 0,
+          "username": "LensG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059855649270587483",
+    "in_reply_to_user_id": "856089450777948160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059854731821113401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LensG1 不过现在对我英的抨击主要还是在「志贺丸太」问题上，对于之前的无脑粉丝反而几乎不提了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2059647284229378126",
+        "created_at": "2026-05-28T04:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059855649270587483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "856089450777948160",
+              "start": 0,
+              "username": "LensG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059855649270587483",
+        "in_reply_to_user_id": "856089450777948160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059854731821113401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LensG1 不过现在对我英的抨击主要还是在「志贺丸太」问题上，对于之前的无脑粉丝反而几乎不提了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "856089450777948160",
+        "conversation_id": "2059647284229378126",
+        "created_at": "2026-05-28T04:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059854731821113401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059854731821113401",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059647284229378126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这个只是引子。在中国爆了的原因90%是粉圈无脑爱恨导致的，贺志丸太只是一些人需要一个更正确符合历史观的理由反对而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4237,
+          "following_count": 859,
+          "like_count": 22750,
+          "listed_count": 11,
+          "media_count": 1210,
+          "tweet_count": 6767
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-23T10:16:45.000Z",
+        "description": "搞黄的(大概),主要成分是 覆面/罐头\n\nhttps://t.co/uNPH4SQxyi\n\n←这里可以看到我写的东西",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "furrynovel.xyz/pixiv/user/169…",
+                "end": 44,
+                "expanded_url": "https://www.furrynovel.xyz/pixiv/user/16952298",
+                "start": 21,
+                "url": "https://t.co/uNPH4SQxyi"
+              }
+            ]
+          }
+        },
+        "id": "856089450777948160",
+        "location": "中国 北京",
+        "name": "Lens_G",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230039089002319872/O6yCF1Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 1233,
+          "like_count": 20797,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2205
+        },
+        "username": "LensG1",
+        "verified": false
+      }
+    ]
+  }
+}

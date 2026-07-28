@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2060667714923036828",
+    "created_at": "2026-05-30T10:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060668552823382509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1149305803796467712",
+          "start": 0,
+          "username": "reu_kastel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060668552823382509",
+    "in_reply_to_user_id": "1149305803796467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060667714923036828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reu_kastel 其实也不一定。同样的 API 成本，DeepSeek v4 的 tokens 肯定比 Claude opus 4.7 多，但是 DeepSeek 在代码方面真的能赢过 Claude 吗？在環状線看来这是不一定的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060667714923036828",
+        "created_at": "2026-05-30T10:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060668552823382509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1149305803796467712",
+              "start": 0,
+              "username": "reu_kastel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060668552823382509",
+        "in_reply_to_user_id": "1149305803796467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060667714923036828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reu_kastel 其实也不一定。同样的 API 成本，DeepSeek v4 的 tokens 肯定比 Claude opus 4.7 多，但是 DeepSeek 在代码方面真的能赢过 Claude 吗？在環状線看来这是不一定的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1149305803796467712",
+        "conversation_id": "2060667714923036828",
+        "created_at": "2026-05-30T10:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060667714923036828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060667714923036828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vibe Coding 最大的秘密，就是 Token 多的贏，Token 少的輸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4438,
+          "following_count": 867,
+          "like_count": 23291,
+          "listed_count": 11,
+          "media_count": 1239,
+          "tweet_count": 6934
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-11T13:13:51.000Z",
+        "description": "用輕鬆的心情看待世界。\n\nTRPG / Shadowverse / Trickcal / Arcaea / AIGC / etc.\n\n中文⭕/ ENG🔺/ 日本語🔰",
+        "id": "1149305803796467712",
+        "location": "Taiwan",
+        "name": "Reu.",
+        "pinned_tweet_id": "2054851774780166316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023384799952637953/LTXSSJDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 1152,
+          "like_count": 23437,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 4679
+        },
+        "username": "reu_kastel",
+        "verified": false
+      }
+    ]
+  }
+}

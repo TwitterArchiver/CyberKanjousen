@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1780768002621030400"
+      ],
+      "media_source_tweet_id": [
+        "1780768085739487538"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995016636676673867",
+    "created_at": "2025-11-30T06:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T07:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995016636676673867"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "駅員さん",
+          "probability": 0.5142,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552868350115454976",
+          "start": 3,
+          "username": "buzsokk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XP0okviuo",
+          "end": 64,
+          "expanded_url": "https://x.com/hanazawanako/status/1780768085739487538/video/1",
+          "media_key": "7_1780768002621030400",
+          "start": 41,
+          "url": "https://t.co/7XP0okviuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995016636676673867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994911399542501572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @buzsokk: 駅員さん？間違えてなのかの髪と握手してるのほんと草\n\n https://t.co/7XP0okviuo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12033,
+        "height": 720,
+        "media_key": "7_1780768002621030400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1780768002621030400/pu/img/Ex5dGGkASPdat9vt.jpg",
+        "public_metrics": {
+          "view_count": 8401923
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1780768002621030400/pu/vid/avc1/474x270/eSQnzAssRFIDWHRu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1780768002621030400/pu/vid/avc1/632x360/ZN-YsD5yaICc18dP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1780768002621030400/pu/vid/avc1/1264x720/uqMDDUjNtb7Z5q1Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1780768002621030400/pu/pl/5fz87c6Xgo7oAVvJ.m3u8?tag=12"
+          }
+        ],
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1780768002621030400"
+          ],
+          "media_source_tweet_id": [
+            "1780768085739487538"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995016636676673867",
+        "created_at": "2025-11-30T06:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995016636676673867"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "駅員さん",
+              "probability": 0.5142,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552868350115454976",
+              "start": 3,
+              "username": "buzsokk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XP0okviuo",
+              "end": 64,
+              "expanded_url": "https://x.com/hanazawanako/status/1780768085739487538/video/1",
+              "media_key": "7_1780768002621030400",
+              "start": 41,
+              "url": "https://t.co/7XP0okviuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995016636676673867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994911399542501572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @buzsokk: 駅員さん？間違えてなのかの髪と握手してるのほんと草\n\n https://t.co/7XP0okviuo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1780768002621030400"
+          ],
+          "media_source_tweet_id": [
+            "1780768085739487538"
+          ]
+        },
+        "author_id": "1552868350115454976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994911399542501572",
+        "created_at": "2025-11-29T23:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T00:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994911399542501572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XP0okviuo",
+              "end": 51,
+              "expanded_url": "https://x.com/hanazawanako/status/1780768085739487538/video/1",
+              "media_key": "7_1780768002621030400",
+              "start": 28,
+              "url": "https://t.co/7XP0okviuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994911399542501572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 349,
+          "impression_count": 578651,
+          "like_count": 3896,
+          "quote_count": 10,
+          "reply_count": 22,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "駅員さん？間違えてなのかの髪と握手してるのほんと草\n\n https://t.co/7XP0okviuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 174
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T04:07:25.000Z",
+        "description": "今話題のツイート・ニュースをネットの声と共にいち早く分かりやすくWeb記事にします。※ポストは過去の出来事も含みます。動画は規約に従い全て引用する形で投稿。フォローバックは順次通知から3日以内にしています。（DMがスパムで荒れているので3日以上返信ない場合はスタンプをお願いします）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twibuz.com",
+                "end": 23,
+                "expanded_url": "http://twibuz.com/",
+                "start": 0,
+                "url": "https://t.co/Ajde6VTqc4"
+              }
+            ]
+          }
+        },
+        "id": "1552868350115454976",
+        "location": "タレ込み・提供・その他ご要望はDMまで",
+        "name": "ツイッター速報〜Buzznews🇯🇵",
+        "pinned_tweet_id": "1981564896643870995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622789961773912064/Tl57TF44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192686,
+          "following_count": 27945,
+          "like_count": 1295,
+          "listed_count": 502,
+          "media_count": 77,
+          "tweet_count": 6530
+        },
+        "url": "https://t.co/Ajde6VTqc4",
+        "username": "buzsokk",
+        "verified": true
+      }
+    ]
+  }
+}

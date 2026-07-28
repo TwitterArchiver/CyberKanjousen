@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028297578098692097"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2028297585572868223",
+    "created_at": "2026-03-02T02:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028297585572868223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9eTxkjSWJP",
+          "end": 23,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2028297585572868223/photo/1",
+          "media_key": "3_2028297578098692097",
+          "start": 0,
+          "url": "https://t.co/9eTxkjSWJP"
+        },
+        {
+          "display_url": "x.com/shywaffer/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/shywaffer/status/2027977694495813834",
+          "start": 24,
+          "url": "https://t.co/Uwpk93XkEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028297585572868223",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027977694495813834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/9eTxkjSWJP https://t.co/Uwpk93XkEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 788,
+        "media_key": "3_2028297578098692097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX15qFbkAE-Jg0.jpg",
+        "width": 940
+      },
+      {
+        "height": 788,
+        "media_key": "3_2027977692042137600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTS91qWkAAfCrC.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028297578098692097"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028297585572868223",
+        "created_at": "2026-03-02T02:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028297585572868223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9eTxkjSWJP",
+              "end": 23,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2028297585572868223/photo/1",
+              "media_key": "3_2028297578098692097",
+              "start": 0,
+              "url": "https://t.co/9eTxkjSWJP"
+            },
+            {
+              "display_url": "x.com/shywaffer/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/shywaffer/status/2027977694495813834",
+              "start": 24,
+              "url": "https://t.co/Uwpk93XkEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028297585572868223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027977694495813834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9eTxkjSWJP https://t.co/Uwpk93XkEw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027977692042137600"
+          ]
+        },
+        "author_id": "811752068717350912",
+        "conversation_id": "2027977694495813834",
+        "created_at": "2026-03-01T05:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027977694495813834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLj2FgdpW6",
+              "end": 23,
+              "expanded_url": "https://x.com/ShyWaffer/status/2027977694495813834/photo/1",
+              "media_key": "3_2027977692042137600",
+              "start": 0,
+              "url": "https://t.co/dLj2FgdpW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027977694495813834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 53567,
+          "like_count": 6943,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dLj2FgdpW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 97,
+          "like_count": 2478,
+          "listed_count": 1,
+          "media_count": 395,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-22T01:55:49.000Z",
+        "description": "Cutest Nerd 💥 I love college, rock and femboys. I post random stuff. -23 years old-",
+        "id": "811752068717350912",
+        "location": "Femboy Hooters",
+        "name": "Femboy Nerd",
+        "pinned_tweet_id": "1570863329945718784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009278683173842945/gto6U9Ih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7128,
+          "following_count": 137,
+          "like_count": 8924,
+          "listed_count": 12,
+          "media_count": 300,
+          "tweet_count": 876
+        },
+        "username": "ShyWaffer",
+        "verified": false
+      }
+    ]
+  }
+}

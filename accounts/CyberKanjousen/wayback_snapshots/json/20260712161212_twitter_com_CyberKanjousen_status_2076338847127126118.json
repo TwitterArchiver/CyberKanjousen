@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2076302774154002523",
+    "created_at": "2026-07-12T16:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076338847127126118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076338847127126118",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "也许是可行的\n不过在使用 cv2.phaseCorrelate() 方法之前，或许可以把二值化后的两帧图像中非文字的部分切割出一块矩形然后进行 Phase Correlate 计算每帧图像移动的位移。環状線的这个图像的图层移动速度为 120px/s（不是推特里压缩后的，是原视频文件），不知道 Phase Correlate 所算出的速度准不准\n\n另外二值化以后的图像矩阵的元素不应该是 0 和 1 吗（）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076328758924197914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks @grok 也许是可行的\n不过在使用 cv2.phaseCorrelate() 方法之前，或许可以把二值化后的两帧图像中非文字的部分切割出一块矩形然后进行 Phase Correlate 计算每帧图像移动的位移。環状線的这个图像的图层移动速度为 120px/s（不是推特里压缩后的，是原视频文件），不知道 Phase Correlate 所算出的速度准不准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2076302774154002523",
+        "created_at": "2026-07-12T16:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076338847127126118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076338847127126118",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "也许是可行的\n不过在使用 cv2.phaseCorrelate() 方法之前，或许可以把二值化后的两帧图像中非文字的部分切割出一块矩形然后进行 Phase Correlate 计算每帧图像移动的位移。環状線的这个图像的图层移动速度为 120px/s（不是推特里压缩后的，是原视频文件），不知道 Phase Correlate 所算出的速度准不准\n\n另外二值化以后的图像矩阵的元素不应该是 0 和 1 吗（）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076328758924197914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks @grok 也许是可行的\n不过在使用 cv2.phaseCorrelate() 方法之前，或许可以把二值化后的两帧图像中非文字的部分切割出一块矩形然后进行 Phase Correlate 计算每帧图像移动的位移。環状線的这个图像的图层移动速度为 120px/s（不是推特里压缩后的，是原视频文件），不知道 Phase Correlate 所算出的速度准不准"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2076302774154002523",
+        "created_at": "2026-07-12T15:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076328758924197914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 124,
+              "id": "1720665183188922368",
+              "start": 119,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076328758924197914",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 108,
+                "id": "1720665183188922368",
+                "start": 103,
+                "username": "grok"
+              }
+            ]
+          },
+          "text": "AI的纯截取特定帧OCR看不到，但是如果套上个鼠标上用的位移搜寻算法再和相邻帧比对就能看到了。可以让grok按这个思路验证一下，得到字符边框后再OCR。就是不知道帖子里的grok支持不支持toolcall。@grok你在你的工作区按这个思路写个python脚本取相邻两帧计算位移后吧能match的chunk都丢掉，给两个部分match的地方做识别。import cv2\nimport numpy as np\n\ndef process_frames(frame1, frame2):\n    \"\"\"处理前后两帧，提取移动的文字孔洞边界并重新上色\n\n    frame1, frame2: 单通道的二值化图像 (0 或 255)\n    \"\"\"\n    # 确保输入是二值图\n    _, t1 = cv2.threshold(frame1, 127, 255, cv2.THRESH_BINARY)\n    _, t2 = cv2.threshold(frame2, 127, 255, cv2.THRESH_BINARY)\n\n    # 1. 使用相位相关法（Phase Correlation）精确计算前图层（大面积背景）的相对位移\n    # 转换为 float32 供 FFT 计算\n    f1_f = np.float32(t1)\n    f2_f = np.float32(t2)\n    shift, _ = cv2.phaseCorrelate(f1_f, f2_f)\n    dx1, dy1 = shift  # 前图层从 frame1 到 frame2 的位移\n\n    # 2. 将 frame2 逆向平移（对齐前图层）\n    # M 是仿射变换矩阵\n    M_fore = np.float32([[1, 0, -dx1], [0, 1, -dy1]])\n    frame2_aligned_fore = cv2.warpAffine(\n        t2, M_fore, (t1.shape[1], t1.shape[0]), borderMode=cv2.BORDER_REPLICATE\n    )\n\n    # 3. 找出因后图层移动而发生变化的区域\n    # 在前图层完全对齐的情况下，只有孔洞内部透出的后图层内容会因为自身位移发生变化\n    diff_fore = cv2.absdiff(t1, frame2_aligned_fore)\n\n    # 4. 通过光流或局部匹配获取文字内部（后图层）的运动矢量\n    # 寻找 diff_fore 活跃区域周围的运动\n    # 这里采用简化的高通滤波和形态学恢复边缘\n    kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (3, 3))\n    motion_mask = cv2.dilate(diff_fore, kernel, iterations=2)\n\n    # 5. 提取孔洞边界（结合原始边缘与运动差分）\n    # 文字边缘一定位于“当前帧边缘”与“运动变化区域”的交集附近\n    edges_t1 = cv2.Canny(t1, 50, 150)\n    text_bound_mask = cv2.bitwise_and(edges_t1, motion_mask)\n\n    # 闭合孔洞边界以形成完整的文字轮廓\n    closing_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (5, 5))\n    closed_mask = cv2.morphologyEx(\n        text_bound_mask, cv2.MORPH_CLOSE, closing_kernel\n    )\n\n    # 6. 连通域填充：找出完整的孔洞闭合区域\n    contours, _ = cv2.findContours(\n        closed_mask, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE\n    )\n\n    # 7. 渲染输出：创建纯色底，把孔洞（文字）涂成另一种纯色\n    # 比如：前图层渲染为黑色(0)，后图层文字渲染为白色(255)，极度利于OCR\n    ocr_ready_image = np.zeros_like(t1)  # 全黑背景（前图层）\n\n    # 在黑底上把文字轮廓内部填满白色（255）\n    cv2.drawContours(ocr_ready_image, contours, -1, (255), thickness=cv2.FILLED)\n\n    return ocr_ready_image\n\n# ------ 使用示例 ------\n# frame_a = cv2.imread('frame_001.png', cv2.IMREAD_GRAYSCALE)\n# frame_b = cv2.imread('frame_002.png', cv2.IMREAD_GRAYSCALE)\n# ocr_result_image = process_frames(frame_a, frame_b)\n# cv2.imwrite('ocr_ready.png', ocr_result_image) grok你调调这个伪代码然后用你的模型识别输出的result或者让cv给ocr这个result。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076302774154002523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen AI的纯截取特定帧OCR看不到，但是如果套上个鼠标上用的位移搜寻算法再和相邻帧比对就能看到了。可以让grok按这个思路验证一下，得到字符边框后再OCR。就是不知道帖子里的grok支持不支持toolcall。@grok你在你的工作区按这个思路写个python脚本取相邻两帧计算位移后吧能match的chunk都丢掉，给两个部分m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9881,
+          "following_count": 880,
+          "like_count": 30458,
+          "listed_count": 15,
+          "media_count": 2027,
+          "tweet_count": 10210
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxianact｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "maoxianact"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 611,
+          "like_count": 8514,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 5601
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8853320,
+          "following_count": 5,
+          "like_count": 118,
+          "listed_count": 7159,
+          "media_count": 9150647,
+          "tweet_count": 131254069
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

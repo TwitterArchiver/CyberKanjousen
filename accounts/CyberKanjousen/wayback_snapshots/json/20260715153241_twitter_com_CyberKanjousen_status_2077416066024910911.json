@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077416056856150016"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2077416066024910911",
+    "created_at": "2026-07-15T15:32:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:32:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077416066024910911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MtcdOoLort",
+          "end": 40,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2077416066024910911/photo/1",
+          "media_key": "3_2077416056856150016",
+          "start": 17,
+          "url": "https://t.co/MtcdOoLort"
+        },
+        {
+          "display_url": "x.com/qziyn463297/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/qziyn463297/status/2077414491021783088",
+          "start": 41,
+          "url": "https://t.co/FSlsfl5M0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077416066024910911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077414491021783088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起，環状線不是顺直，是逆迭。 https://t.co/MtcdOoLort https://t.co/FSlsfl5M0j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077416056856150016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR25aeagAA83Gy.jpg",
+        "width": 1286
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077416056856150016"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2077416066024910911",
+        "created_at": "2026-07-15T15:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077416066024910911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtcdOoLort",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2077416066024910911/photo/1",
+              "media_key": "3_2077416056856150016",
+              "start": 17,
+              "url": "https://t.co/MtcdOoLort"
+            },
+            {
+              "display_url": "x.com/qziyn463297/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/qziyn463297/status/2077414491021783088",
+              "start": 41,
+              "url": "https://t.co/FSlsfl5M0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077416066024910911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077414491021783088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起，環状線不是顺直，是逆迭。 https://t.co/MtcdOoLort https://t.co/FSlsfl5M0j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649467740086996992",
+        "conversation_id": "2077364303724978687",
+        "created_at": "2026-07-15T15:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077414491021783088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 30,
+              "id": "1873831784498262016",
+              "start": 16,
+              "username": "richloy389329"
+            },
+            {
+              "end": 42,
+              "id": "1261868309852549120",
+              "start": 31,
+              "username": "cyborgIORI"
+            },
+            {
+              "end": 56,
+              "id": "1685228424506626048",
+              "start": 43,
+              "username": "potassium391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077414491021783088",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077413844557931007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @richloy389329 @cyborgIORI @potassium391 在你把主页“友跨”两字删去前没资格自称顺直哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文由 @yameta_www 代发\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "yameta_www"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 121,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 98,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10578,
+          "following_count": 883,
+          "like_count": 30861,
+          "listed_count": 14,
+          "media_count": 2087,
+          "tweet_count": 10454
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T17:39:03.000Z",
+        "description": "",
+        "id": "1649467740086996992",
+        "name": "abjjzjhtg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901149357145219072/fFKkyOBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 58,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "qziyn463297",
+        "verified": false
+      }
+    ]
+  }
+}

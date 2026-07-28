@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014556445178789890"
+      ],
+      "media_source_tweet_id": [
+        "2014556448383238490"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2014563768702050675",
+    "created_at": "2026-01-23T05:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014563768702050675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253165636210978817",
+          "start": 3,
+          "username": "Exusiai159"
+        },
+        {
+          "end": 30,
+          "id": "1501136041956487171",
+          "start": 16,
+          "username": "AKEndfieldZHT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpcIzZeoCL",
+          "end": 54,
+          "expanded_url": "https://x.com/Exusiai159/status/2014556448383238490/photo/1",
+          "media_key": "3_2014556445178789890",
+          "start": 31,
+          "url": "https://t.co/tpcIzZeoCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014563768702050675",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014556448383238490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Exusiai159: @AKEndfieldZHT https://t.co/tpcIzZeoCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2014556445178789890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Ukac7bAAIXSbC.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014556445178789890"
+          ],
+          "media_source_tweet_id": [
+            "2014556448383238490"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2014563768702050675",
+        "created_at": "2026-01-23T05:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014563768702050675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1253165636210978817",
+              "start": 3,
+              "username": "Exusiai159"
+            },
+            {
+              "end": 30,
+              "id": "1501136041956487171",
+              "start": 16,
+              "username": "AKEndfieldZHT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpcIzZeoCL",
+              "end": 54,
+              "expanded_url": "https://x.com/Exusiai159/status/2014556448383238490/photo/1",
+              "media_key": "3_2014556445178789890",
+              "start": 31,
+              "url": "https://t.co/tpcIzZeoCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014563768702050675",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014556448383238490",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Exusiai159: @AKEndfieldZHT https://t.co/tpcIzZeoCL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014556445178789890"
+          ]
+        },
+        "author_id": "1253165636210978817",
+        "conversation_id": "2014188689757257937",
+        "created_at": "2026-01-23T04:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014556448383238490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1501136041956487171",
+              "start": 0,
+              "username": "AKEndfieldZHT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpcIzZeoCL",
+              "end": 38,
+              "expanded_url": "https://x.com/Exusiai159/status/2014556448383238490/photo/1",
+              "media_key": "3_2014556445178789890",
+              "start": 15,
+              "url": "https://t.co/tpcIzZeoCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014556448383238490",
+        "in_reply_to_user_id": "1501136041956487171",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014188689757257937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKEndfieldZHT https://t.co/tpcIzZeoCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CyberKanjousen",
+                "end": 23,
+                "expanded_url": "https://github.com/CyberKanjousen",
+                "start": 0,
+                "url": "https://t.co/t6dmiW4LzP"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 27,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 911
+        },
+        "url": "https://t.co/t6dmiW4LzP",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "粥批，正太控，中推鹿野灸和能天使粉丝头子｜会转发正太黄推🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品迷，Windows平板爱好者，半个车迷｜编程一生黑｜禁极端歧视仇恨言论｜包含微量政治元素｜有大量政治内容的账号恕不回fo｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1sxus"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使🔜期末考试",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202665618526208/AijwsiNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5030,
+          "following_count": 6495,
+          "like_count": 161352,
+          "listed_count": 11,
+          "media_count": 4814,
+          "tweet_count": 48594
+        },
+        "url": "https://t.co/z598x1sxus",
+        "username": "Exusiai159",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T10:01:44.000Z",
+        "description": "《明日方舟：終末地》官方Twitter。《明日方舟：終末地》是一款由鷹角網絡出品的3D即時策略RPG。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "endfield.gryphline.com/zh-tw/",
+                "end": 23,
+                "expanded_url": "https://endfield.gryphline.com/zh-tw/",
+                "start": 0,
+                "url": "https://t.co/dj2hcd5U8O"
+              }
+            ]
+          }
+        },
+        "id": "1501136041956487171",
+        "name": "明日方舟：終末地",
+        "pinned_tweet_id": "2012127693215764521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984225639407529984/2_3-HRTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57635,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 99,
+          "media_count": 267,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/dj2hcd5U8O",
+        "username": "AKEndfieldZHT",
+        "verified": true
+      }
+    ]
+  }
+}

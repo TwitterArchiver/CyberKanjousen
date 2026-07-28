@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2066588801095582035",
+    "created_at": "2026-06-16T04:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066738449319968864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066738449319968864",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066736629889556913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu 居民素质低，大部分地区基建相对落后，收入也相对低，经济不断衰退……在东北过日子就是一眼望到头的感觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2066588801095582035",
+        "created_at": "2026-06-16T04:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066738449319968864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066738449319968864",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066736629889556913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu 居民素质低，大部分地区基建相对落后，收入也相对低，经济不断衰退……在东北过日子就是一眼望到头的感觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778850117933838337",
+        "conversation_id": "2066588801095582035",
+        "created_at": "2026-06-16T04:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066736629889556913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066736629889556913",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066588801095582035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 不过我对东北不太了解，只是挺好奇为啥你们这么讨厌东北，这地方物价低。冬天还有雪玩。人还挺朴实热情（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6667,
+          "following_count": 869,
+          "like_count": 26377,
+          "listed_count": 11,
+          "media_count": 1513,
+          "tweet_count": 8163
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生，顺直友跨\n ケモノ大好き❤ \n  目标：成为英专生 //  在学画画(画毛茸茸)\n\n@supernovaArcaea 成员\n //  @aoim33良师益友\n@Unexist_Sakura 好推油❤️😘\n\n文案/梗图搬运机（几乎懒得搞了现在）\n开个蓝v，加点曝光，想过5M浏览量赚点钱补贴生活费",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "Unexist_Sakura"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "location": "野鸡中学",
+        "name": "tabiame",
+        "pinned_tweet_id": "2064440870691368960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 1216,
+          "like_count": 16759,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 1607
+        },
+        "username": "TBduyu",
+        "verified": true
+      }
+    ]
+  }
+}

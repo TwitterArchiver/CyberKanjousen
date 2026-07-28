@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2043195208033280133",
+    "created_at": "2026-04-12T05:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043195208033280133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xkajon/status/…",
+          "end": 199,
+          "expanded_url": "https://twitter.com/xkajon/status/2042966832794210815",
+          "start": 176,
+          "url": "https://t.co/8W0Ol70Cp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043195208033280133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "環状線花 60 USD 搞了一个美国怀俄明州空壳公司，没过几个月就因为税务问题罚了几万 USD……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，结果因为 IP 不是美国怀俄明州真实 IP 于是公司被 Anthropic（以及 OpenAI 等其他 AI 提供商，以及 Wise 、Revolute 等银行等）拉入黑名单……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，又花大力气搞定了美国怀俄明州 IP ，结果因为公司流水不像真实公司而被一大堆 AI 提供商和银行拉清单……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，又花大力气搞定了美国怀俄明州 IP ，又花大力气伪造流水，总算搞定了 AI 提供商和银行，回头发现自己已经花了四位数的 USD 才刚搞定 AI 订阅……\n環状線不是说这个思路完全不可行，但是很难。如果環状線要美国公司银行卡只是为了支付 Claude 订阅的话，还不如用外区 Apple 账户支付。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042966832794210815",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "環状線花 60 USD 搞了一个美国怀俄明州空壳公司，没过几个月就因为税务问题罚了几万 USD……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，结果因为 IP 不是美国怀俄明州真实 IP 于是公司被 Anthropic（以及 OpenAI 等其他 AI 提供商，以及 Wise 、Revolute https://t.co/8W0Ol70Cp5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2043195208033280133",
+        "created_at": "2026-04-12T05:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043195208033280133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xkajon/status/…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/xkajon/status/2042966832794210815",
+              "start": 176,
+              "url": "https://t.co/8W0Ol70Cp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043195208033280133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線花 60 USD 搞了一个美国怀俄明州空壳公司，没过几个月就因为税务问题罚了几万 USD……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，结果因为 IP 不是美国怀俄明州真实 IP 于是公司被 Anthropic（以及 OpenAI 等其他 AI 提供商，以及 Wise 、Revolute 等银行等）拉入黑名单……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，又花大力气搞定了美国怀俄明州 IP ，结果因为公司流水不像真实公司而被一大堆 AI 提供商和银行拉清单……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，又花大力气搞定了美国怀俄明州 IP ，又花大力气伪造流水，总算搞定了 AI 提供商和银行，回头发现自己已经花了四位数的 USD 才刚搞定 AI 订阅……\n環状線不是说这个思路完全不可行，但是很难。如果環状線要美国公司银行卡只是为了支付 Claude 订阅的话，还不如用外区 Apple 账户支付。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042966832794210815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "環状線花 60 USD 搞了一个美国怀俄明州空壳公司，没过几个月就因为税务问题罚了几万 USD……\n環状線花 60 USD 搞了一个美国怀俄明州空壳公司，又花了几百 USD 请税务顾问解决税务问题，结果因为 IP 不是美国怀俄明州真实 IP 于是公司被 Anthropic（以及 OpenAI 等其他 AI 提供商，以及 Wise 、Revolute https://t.co/8W0Ol70Cp5"
+      },
+      {
+        "article": {
+          "title": "比注册个小红书店铺还简单：花六十美金办张美国公司卡-附秒拿 EIN 的野路子"
+        },
+        "attachments": {},
+        "author_id": "277445029",
+        "conversation_id": "2042966832794210815",
+        "created_at": "2026-04-11T14:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042966832794210815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2042…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2042962834053902336",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2042962834053902336",
+              "url": "https://t.co/BCdbhEPJ8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042966832794210815",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2332,
+          "impression_count": 140467,
+          "like_count": 965,
+          "quote_count": 14,
+          "reply_count": 61,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BCdbhEPJ8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 410,
+          "like_count": 12295,
+          "listed_count": 4,
+          "media_count": 818,
+          "tweet_count": 4271
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-05T11:39:17.000Z",
+        "description": "🇬🇧UCL本硕｜计算机专业｜雅思7｜中转站站长-只做tob不做toc",
+        "id": "277445029",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "Kai",
+        "pinned_tweet_id": "2042944828758200368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012851255509471233/PG2nwivW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 823,
+          "like_count": 3230,
+          "listed_count": 13,
+          "media_count": 8,
+          "tweet_count": 371
+        },
+        "username": "xkajon",
+        "verified": true
+      }
+    ]
+  }
+}

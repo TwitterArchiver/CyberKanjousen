@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2075764763775168959",
+    "created_at": "2026-07-11T04:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075798757975957716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972497129550860288",
+          "start": 0,
+          "username": "Isolation8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075798757975957716",
+    "in_reply_to_user_id": "1972497129550860288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075781641835049003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isolation8964 pjsk 的 17 级環状線用脚都能 AP（确信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2075764763775168959",
+        "created_at": "2026-07-11T04:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075798757975957716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972497129550860288",
+              "start": 0,
+              "username": "Isolation8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075798757975957716",
+        "in_reply_to_user_id": "1972497129550860288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075781641835049003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isolation8964 pjsk 的 17 级環状線用脚都能 AP（确信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972497129550860288",
+        "conversation_id": "2075764763775168959",
+        "created_at": "2026-07-11T03:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075781641835049003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075781641835049003",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075764763775168959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 也有可能是pjsk的17级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9673,
+          "following_count": 882,
+          "like_count": 30377,
+          "listed_count": 13,
+          "media_count": 1994,
+          "tweet_count": 10088
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "负能注意 成分互fo\n偶尔用支系词但不是真支黑\n目前只ban乱骂/b我的/粉红\nINTP / 简体-繁體-English / 性少数友好 / 自由派 / 音游人 / CPTSD\n小号 @Isolation1126\n防丢 @Isoantiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Isoantiloss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInHu2K"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "location": "127.0.0.1",
+        "name": "𝓘𝓼𝓸.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050975410301849600/VTYUpb2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 93,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/lEYNInHu2K",
+        "username": "Isolation8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2029435572906017233",
+    "created_at": "2026-03-05T05:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029435572906017233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karasan_itips/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/karasan_itips/status/2029158671121563752",
+          "start": 23,
+          "url": "https://t.co/kB099YpMHs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029435572906017233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029158671121563752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Google ：Claude 给得太多了…… https://t.co/kB099YpMHs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_2029158542171860992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkE8XMacAAqYGd.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2029435572906017233",
+        "created_at": "2026-03-05T05:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029435572906017233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karasan_itips/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/karasan_itips/status/2029158671121563752",
+              "start": 23,
+              "url": "https://t.co/kB099YpMHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029435572906017233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029158671121563752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Google ：Claude 给得太多了…… https://t.co/kB099YpMHs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029158542171860992"
+          ]
+        },
+        "author_id": "52646143",
+        "conversation_id": "2029158671121563752",
+        "created_at": "2026-03-04T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029158671121563752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxgQizACGv",
+              "end": 36,
+              "expanded_url": "https://x.com/karasan_itips/status/2029158671121563752/photo/1",
+              "media_key": "3_2029158542171860992",
+              "start": 13,
+              "url": "https://t.co/NxgQizACGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029158671121563752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 556,
+          "impression_count": 1004569,
+          "like_count": 4368,
+          "quote_count": 55,
+          "reply_count": 29,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "や、やりやがった・・・。 https://t.co/NxgQizACGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜ CN/EN/JP ｜ 互fo可能 ｜ 崩舟终邦烤玩家 ｜ まのさば好き ｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 104,
+          "like_count": 2882,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-01T05:41:22.000Z",
+        "description": "SEかDSかコンサルのようなIT的な何か\n比較的フォロバする者\nガジェット、フィギュア、ガンプラ、鉄道模型、旅行、風景など色々好き。\n人の欲に付け込む商材屋は嫌い。\n#情報商材屋あるある\n※Amazonアソシエイト参加中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 83,
+                "tag": "情報商材屋あるある"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "itips.krsw.biz",
+                "end": 23,
+                "expanded_url": "https://itips.krsw.biz/",
+                "start": 0,
+                "url": "https://t.co/OQlGGD69gb"
+              }
+            ]
+          }
+        },
+        "id": "52646143",
+        "location": "ドラクエウォーク",
+        "name": "からさん",
+        "pinned_tweet_id": "1680048461671174144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946779956048179200/4w0J75FN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12952,
+          "following_count": 9497,
+          "like_count": 324705,
+          "listed_count": 36,
+          "media_count": 11001,
+          "tweet_count": 93358
+        },
+        "url": "https://t.co/OQlGGD69gb",
+        "username": "karasan_itips",
+        "verified": true
+      }
+    ]
+  }
+}

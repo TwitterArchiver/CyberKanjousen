@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065718801291960320"
+      ],
+      "media_source_tweet_id": [
+        "2065718823307895206"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2065747504801718453",
+    "created_at": "2026-06-13T10:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T11:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065747504801718453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2037575598730584064",
+          "start": 3,
+          "username": "SerenAzuma_HK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ywvd36T40U",
+          "end": 61,
+          "expanded_url": "https://x.com/SerenAzuma_HK/status/2065718823307895206/photo/1",
+          "media_key": "3_2065718801291960320",
+          "start": 38,
+          "url": "https://t.co/ywvd36T40U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065747504801718453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065718823307895206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SerenAzuma_HK: 好了孩子们我彻底被弹钢琴大将军击落了 https://t.co/ywvd36T40U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065718801291960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKroThzaYAAXscO.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065718801291960320"
+          ],
+          "media_source_tweet_id": [
+            "2065718823307895206"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2065747504801718453",
+        "created_at": "2026-06-13T10:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065747504801718453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2037575598730584064",
+              "start": 3,
+              "username": "SerenAzuma_HK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywvd36T40U",
+              "end": 61,
+              "expanded_url": "https://x.com/SerenAzuma_HK/status/2065718823307895206/photo/1",
+              "media_key": "3_2065718801291960320",
+              "start": 38,
+              "url": "https://t.co/ywvd36T40U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065747504801718453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065718823307895206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SerenAzuma_HK: 好了孩子们我彻底被弹钢琴大将军击落了 https://t.co/ywvd36T40U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065718801291960320"
+          ]
+        },
+        "author_id": "2037575598730584064",
+        "conversation_id": "2065718823307895206",
+        "created_at": "2026-06-13T08:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065718823307895206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywvd36T40U",
+              "end": 42,
+              "expanded_url": "https://x.com/SerenAzuma_HK/status/2065718823307895206/photo/1",
+              "media_key": "3_2065718801291960320",
+              "start": 19,
+              "url": "https://t.co/ywvd36T40U"
+            },
+            {
+              "display_url": "x.com/serenazuma_hk/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/serenazuma_hk/status/2060290847657349609",
+              "start": 43,
+              "url": "https://t.co/tyLJgaZ5Yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065718823307895206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 815,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060290847657349609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了孩子们我彻底被弹钢琴大将军击落了 https://t.co/ywvd36T40U https://t.co/tyLJgaZ5Yf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6094,
+          "following_count": 868,
+          "like_count": 25825,
+          "listed_count": 9,
+          "media_count": 1466,
+          "tweet_count": 7980
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "一般通过社民入🌹🇪🇺坚定的进步主义战士|友跨暂未翻车 激挺LGBT🏳️‍🌈🏳️‍⚧️|大号@RenChan_VmV打官司中ing\n此号为纯良清水交友号 绝不键政🚫❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "RenChan_VmV"
+              }
+            ]
+          }
+        },
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️互fo寻回",
+        "pinned_tweet_id": "2065718823307895206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 177,
+          "like_count": 2434,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 260
+        },
+        "username": "SerenAzuma_HK",
+        "verified": false
+      }
+    ]
+  }
+}

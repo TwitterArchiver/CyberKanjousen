@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2057106993555575180",
+    "created_at": "2026-05-20T14:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057108646644031493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002416069601083393",
+          "start": 0,
+          "username": "RiaruBlazor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057108646644031493",
+    "in_reply_to_user_id": "2002416069601083393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057108336794009741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@RiaruBlazor 不可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2057106993555575180",
+        "created_at": "2026-05-20T14:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057108646644031493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002416069601083393",
+              "start": 0,
+              "username": "RiaruBlazor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057108646644031493",
+        "in_reply_to_user_id": "2002416069601083393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057108336794009741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@RiaruBlazor 不可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002416069601083393",
+        "conversation_id": "2057106993555575180",
+        "created_at": "2026-05-20T14:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057108336794009741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057108336794009741",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057106993555575180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 期待会是个he😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3840,
+          "following_count": 842,
+          "like_count": 21021,
+          "listed_count": 9,
+          "media_count": 1115,
+          "tweet_count": 6236
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-20T16:29:38.000Z",
+        "description": "多言語垢。ちゅうごくご/한본말/日本话/CHN/apprentissage du francais  Go/Java crud master　(parody)  平成 마지막 카리스마 학생이었어요",
+        "id": "2002416069601083393",
+        "name": "蝴蝶 不忍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016945380383133696/bKRWfvUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 106,
+          "like_count": 4636,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1139
+        },
+        "username": "RiaruBlazor",
+        "verified": false
+      }
+    ]
+  }
+}

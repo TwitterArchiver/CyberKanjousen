@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2068623457894724068",
+    "created_at": "2026-06-21T10:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068638256837873751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4897555697",
+          "start": 0,
+          "username": "icecream_brick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068638256837873751",
+    "in_reply_to_user_id": "4897555697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068637528970928300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icecream_brick 谷歌搜索的 AI 欺骗了環状線😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2068623457894724068",
+        "created_at": "2026-06-21T10:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068638256837873751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4897555697",
+              "start": 0,
+              "username": "icecream_brick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068638256837873751",
+        "in_reply_to_user_id": "4897555697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068637528970928300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icecream_brick 谷歌搜索的 AI 欺骗了環状線😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4897555697",
+        "conversation_id": "2068623457894724068",
+        "created_at": "2026-06-21T10:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068637528970928300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068637528970928300",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068623457894724068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 2026 - 192 = 1834\n350234 ÷ 365.25 = 958.9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7349,
+          "following_count": 875,
+          "like_count": 27424,
+          "listed_count": 11,
+          "media_count": 1613,
+          "tweet_count": 8599
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-11T11:06:32.000Z",
+        "description": "",
+        "id": "4897555697",
+        "name": "冰激凌砖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1192993291450499072/OvAvJQva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 2015,
+          "like_count": 1442,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "icecream_brick",
+        "verified": false
+      }
+    ]
+  }
+}

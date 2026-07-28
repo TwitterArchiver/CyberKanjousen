@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2075480666373054910",
+    "created_at": "2026-07-10T08:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T09:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075491137331274123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "286418121",
+          "start": 0,
+          "username": "CyberHono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075491137331274123",
+    "in_reply_to_user_id": "286418121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075489805253984694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberHono 那環状線非常幸运了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2075480666373054910",
+        "created_at": "2026-07-10T08:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T09:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075491137331274123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075491137331274123",
+        "in_reply_to_user_id": "286418121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075489805253984694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberHono 那環状線非常幸运了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "286418121",
+        "conversation_id": "2075480666373054910",
+        "created_at": "2026-07-10T07:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075489805253984694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075489805253984694",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075480666373054910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 其实这个当时是随手截的图 就交给 App Review 了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9483,
+          "following_count": 880,
+          "like_count": 30255,
+          "listed_count": 14,
+          "media_count": 1980,
+          "tweet_count": 10033
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "Swiss Matchups - https://t.co/umirD0SdsT\nGlobal Travel eSIM - https://t.co/C3f08Y0PKT\nF1 Manager Setup - https://t.co/o2bjbLhx0P\n\n🕘 GMT+9\n🔠 en, zh, ja",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 40,
+                "expanded_url": "https://majors.im",
+                "start": 17,
+                "url": "https://t.co/umirD0SdsT"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 85,
+                "expanded_url": "https://esim.gg",
+                "start": 62,
+                "url": "https://t.co/C3f08Y0PKT"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 128,
+                "expanded_url": "https://f1setup.it",
+                "start": 105,
+                "url": "https://t.co/o2bjbLhx0P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlUFN"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "location": "Fukuoka",
+        "name": "ieb",
+        "pinned_tweet_id": "2074995793749266588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951073169326026752/Q-vmpzsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 408,
+          "like_count": 2821,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/i6C0PXlUFN",
+        "username": "CyberHono",
+        "verified": true
+      }
+    ]
+  }
+}

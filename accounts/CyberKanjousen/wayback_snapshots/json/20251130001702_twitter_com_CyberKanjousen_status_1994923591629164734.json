@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1994651340308713799",
+    "created_at": "2025-11-30T00:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T01:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994923591629164734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1992467730176565248",
+          "start": 0,
+          "username": "sugarofAzathoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994923591629164734",
+    "in_reply_to_user_id": "1992467730176565248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994651340308713799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugarofAzathoth 可愛い"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_1994651331819442180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65s0XPbkAQkHaG.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1994651340308713799",
+        "created_at": "2025-11-30T00:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T01:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994923591629164734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1992467730176565248",
+              "start": 0,
+              "username": "sugarofAzathoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994923591629164734",
+        "in_reply_to_user_id": "1992467730176565248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994651340308713799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugarofAzathoth 可愛い"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994651331819442180"
+          ]
+        },
+        "author_id": "1992467730176565248",
+        "conversation_id": "1994651340308713799",
+        "created_at": "2025-11-29T06:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994651340308713799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJk89QseEp",
+              "end": 32,
+              "expanded_url": "https://x.com/sugarofAzathoth/status/1994651340308713799/photo/1",
+              "media_key": "3_1994651331819442180",
+              "start": 9,
+              "url": "https://t.co/JJk89QseEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994651340308713799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 646764,
+          "like_count": 2168,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "辽宁共青团相思了 https://t.co/JJk89QseEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 168
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T05:38:41.000Z",
+        "description": "Nuclear Chaos,Sultan Demon",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com.cn",
+                "end": 23,
+                "expanded_url": "http://google.com.cn",
+                "start": 0,
+                "url": "https://t.co/pGVyJirCh2"
+              }
+            ]
+          }
+        },
+        "id": "1992467730176565248",
+        "location": "R’lyeh",
+        "name": "Su azatos🚩🇪🇺⚖️{E486}",
+        "pinned_tweet_id": "1992493873533460648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994321020266926080/sxx02b1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 186,
+          "like_count": 1241,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/pGVyJirCh2",
+        "username": "sugarofAzathoth",
+        "verified": false
+      }
+    ]
+  }
+}

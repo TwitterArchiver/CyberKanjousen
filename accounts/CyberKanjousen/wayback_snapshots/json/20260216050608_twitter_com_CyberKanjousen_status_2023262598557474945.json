@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023262588692533248"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2022903687639957721",
+    "created_at": "2026-02-16T05:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023262598557474945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450730882738786305",
+          "start": 0,
+          "username": "Yusuke_Takigawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iANufJHz11",
+          "end": 66,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2023262598557474945/photo/1",
+          "media_key": "3_2023262588692533248",
+          "start": 43,
+          "url": "https://t.co/iANufJHz11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023262598557474945",
+    "in_reply_to_user_id": "1450730882738786305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022903687639957721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yusuke_Takigawa 我那吃灰2年的Discord账号终于可以重见天日了 https://t.co/iANufJHz11"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023262588692533248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQSms5bEAAt879.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022903679368810496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLMLbeb0AAbScZ.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022903681470074881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLMLjTakAEJP6w.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022903683604975618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLMLrQakAIy-jO.jpg",
+        "width": 922
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2022903683097538560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLMLpXbsAA2PRQ.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023262588692533248"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2022903687639957721",
+        "created_at": "2026-02-16T05:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023262598557474945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450730882738786305",
+              "start": 0,
+              "username": "Yusuke_Takigawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iANufJHz11",
+              "end": 66,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2023262598557474945/photo/1",
+              "media_key": "3_2023262588692533248",
+              "start": 43,
+              "url": "https://t.co/iANufJHz11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023262598557474945",
+        "in_reply_to_user_id": "1450730882738786305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022903687639957721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yusuke_Takigawa 我那吃灰2年的Discord账号终于可以重见天日了 https://t.co/iANufJHz11"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022903679368810496",
+            "3_2022903681470074881",
+            "3_2022903683604975618",
+            "3_2022903683097538560"
+          ]
+        },
+        "author_id": "1450730882738786305",
+        "conversation_id": "2022903687639957721",
+        "created_at": "2026-02-15T05:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022903687639957721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQJDsexXhE",
+              "end": 61,
+              "expanded_url": "https://x.com/Yusuke_Takigawa/status/2022903687639957721/photo/1",
+              "media_key": "3_2022903679368810496",
+              "start": 38,
+              "url": "https://t.co/kQJDsexXhE"
+            },
+            {
+              "display_url": "pic.x.com/kQJDsexXhE",
+              "end": 61,
+              "expanded_url": "https://x.com/Yusuke_Takigawa/status/2022903687639957721/photo/1",
+              "media_key": "3_2022903681470074881",
+              "start": 38,
+              "url": "https://t.co/kQJDsexXhE"
+            },
+            {
+              "display_url": "pic.x.com/kQJDsexXhE",
+              "end": 61,
+              "expanded_url": "https://x.com/Yusuke_Takigawa/status/2022903687639957721/photo/1",
+              "media_key": "3_2022903683604975618",
+              "start": 38,
+              "url": "https://t.co/kQJDsexXhE"
+            },
+            {
+              "display_url": "pic.x.com/kQJDsexXhE",
+              "end": 61,
+              "expanded_url": "https://x.com/Yusuke_Takigawa/status/2022903687639957721/photo/1",
+              "media_key": "3_2022903683097538560",
+              "start": 38,
+              "url": "https://t.co/kQJDsexXhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022903687639957721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5220,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "これで少しは入りやすいでしょうか？\nWelcome my server!! https://t.co/kQJDsexXhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 38,
+          "like_count": 1207,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T07:49:36.000Z",
+        "description": "エロゲー\nDiscord(エロゲメイン) https://t.co/XjJqQoqht7\n無言フォローＯＫ、その代わり無言フォローします。\n中日・F1・NBA・国際交流\n保守派ですが外国人に対する差別は許さないです。\nかなり酷いクローン病に苦しんでいます。\n最近覚えた言葉は「日華友好」。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9jcrhmFtvh",
+                "end": 44,
+                "expanded_url": "https://discord.gg/9jcrhmFtvh",
+                "start": 21,
+                "url": "https://t.co/XjJqQoqht7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/37069291761196…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3706929176119663",
+                "start": 0,
+                "url": "https://t.co/b3pWCwciIi"
+              }
+            ]
+          }
+        },
+        "id": "1450730882738786305",
+        "location": "愛知県豊川市",
+        "name": "滝川雄介",
+        "pinned_tweet_id": "2022903687639957721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999958166348644353/_LYuSP8k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4680,
+          "following_count": 2757,
+          "like_count": 1243,
+          "listed_count": 13,
+          "media_count": 685,
+          "tweet_count": 6803
+        },
+        "url": "https://t.co/b3pWCwciIi",
+        "username": "Yusuke_Takigawa",
+        "verified": true
+      }
+    ]
+  }
+}

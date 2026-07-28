@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2007003243180892478",
+    "created_at": "2026-01-02T08:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T09:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007003243180892478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3178231",
+          "start": 3,
+          "username": "dotey"
+        }
+      ],
+      "urls": [
+        {
+          "description": "16 years of experience shipping innovative software products, some impacted millions… · Location: Cambridge. 500+ connections on LinkedIn. View Terry Xu’s profile on LinkedIn, a professional community of 1 billion members.",
+          "display_url": "linkedin.com/in/coolnalu",
+          "end": 139,
+          "expanded_url": "https://www.linkedin.com/in/coolnalu",
+          "start": 125,
+          "status": 200,
+          "title": "Terry Xu - Cambridge, Massachusetts, United States | Professional Profile | LinkedIn",
+          "unwound_url": "https://www.linkedin.com/in/coolnalu",
+          "url": "https://t.co/X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007003243180892478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006977088843120923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dotey: Reddit 神贴（转译）：\n\n我是一家大型外卖应用的开发者。“优先配送费”和“司机福利费” 100% 都进了公司的腰包，司机一分钱也拿不到。\n\n我现在躲在图书馆连着公用 Wi-Fi，用一台“一次性笔记本电脑”（Burner… https://t.co/X…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2176,
+        "media_key": "3_2006976181929734144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9o2NDyXcAASae7.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2007003243180892478",
+        "created_at": "2026-01-02T08:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T09:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007003243180892478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3178231",
+              "start": 3,
+              "username": "dotey"
+            }
+          ],
+          "urls": [
+            {
+              "description": "16 years of experience shipping innovative software products, some impacted millions… · Location: Cambridge. 500+ connections on LinkedIn. View Terry Xu’s profile on LinkedIn, a professional community of 1 billion members.",
+              "display_url": "linkedin.com/in/coolnalu",
+              "end": 139,
+              "expanded_url": "https://www.linkedin.com/in/coolnalu",
+              "start": 125,
+              "status": 200,
+              "title": "Terry Xu - Cambridge, Massachusetts, United States | Professional Profile | LinkedIn",
+              "unwound_url": "https://www.linkedin.com/in/coolnalu",
+              "url": "https://t.co/X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007003243180892478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006977088843120923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dotey: Reddit 神贴（转译）：\n\n我是一家大型外卖应用的开发者。“优先配送费”和“司机福利费” 100% 都进了公司的腰包，司机一分钱也拿不到。\n\n我现在躲在图书馆连着公用 Wi-Fi，用一台“一次性笔记本电脑”（Burner… https://t.co/X…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006976181929734144"
+          ]
+        },
+        "author_id": "3178231",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2006977088843120923",
+        "created_at": "2026-01-02T06:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T07:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006977088843120923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xe4TRVFBJo",
+              "end": 136,
+              "expanded_url": "https://x.com/dotey/status/2006977088843120923/photo/1",
+              "media_key": "3_2006976181929734144",
+              "start": 113,
+              "url": "https://t.co/Xe4TRVFBJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006977088843120923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/confession/c…",
+                "end": 1589,
+                "expanded_url": "https://www.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/?share_id=gRlCAu9qyctMocXM8R9-H&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1",
+                "start": 1566,
+                "url": "https://t.co/5swzxUdkM1"
+              }
+            ]
+          },
+          "text": "Reddit 神贴（转译）：\n\n我是一家大型外卖应用的开发者。“优先配送费”和“司机福利费” 100% 都进了公司的腰包，司机一分钱也拿不到。\n\n我现在躲在图书馆连着公用 Wi-Fi，用一台“一次性笔记本电脑”（Burner Laptop，指为了隐匿身份、用完即弃的廉价电脑）发这篇帖子，因为严格来说，我背着一份巨额的保密协议（NDA）。但我不在乎了。昨天我提了离职，说实话，我甚至希望他们来告我。这些秘密在我心里憋了八个月，眼看着那些代码被推上线（Production，指正式向用户开放的生产环境），一想到我亲手帮着造出了这台机器，我就整夜睡不着觉。\n\n你们总觉得算法在针对你们，在搞鬼，其实真相远比阴谋论更让人压抑。我是个后端工程师。每周的冲刺规划会（Sprint Planning，敏捷开发中的周期性计划会议）我都得参加，听着那些产品经理（PM）讨论如何从“人力资产”（Human Assets）身上再榨出 0.4% 的利润——没错，数据库架构里真的是这么称呼司机的。他们谈论这些人时，就像在聊电子游戏里的资源采集点，完全忘了那是为了付房租而奔波的父亲和母亲。\n\n首先，“优先配送”完全是个骗局。在内部宣传时，它被称为“心理附加值”。就像我在标题里说的，当你多付那 2.99 美元时，订单的 JSON 数据里确实有个布尔标记（Boolean flag，只有真或假两种状态的代码变量）变了，但派单逻辑（Dispatch Logic）完全无视它。它根本不会加快你的配送速度。\n\n实际上，去年我们做过一次 A/B 测试（A/B Test，对比两种方案效果的测试方法）。我们没有加快优先订单的速度，而是故意把非优先订单延迟了 5 到 10 分钟，这样一对比，优先订单就“感觉”快了。管理层对结果满意得不得了。我们不需要提升服务质量，只需要把标准服务搞得更烂，就能凭空多赚几百万纯利润。\n\n但真正让我作呕——也是我辞职的主要原因——是“绝望评分”（Desperation Score）。我们有一个针对司机的隐形指标，通过分析他们的接单行为，来追踪他们到底有多缺钱。\n\n如果一个司机通常在晚上 10 点上线，并且毫不犹豫地秒接每一个只有 3 美元的垃圾订单，算法（Algo）就会给他打上“高度绝望”的标签。一旦被打上标签，系统就会故意不再给他们展示高价订单。逻辑很简单：“既然我们知道这人缺钱缺到 6 美元都肯干，干嘛要花 15 美元让他跑这一趟？”我们把小费丰厚的好单子留给那些“偶尔跑跑”的司机，以此把他们钓住，让他们的体验像玩游戏一样爽，而那些全职司机则被彻底榨干。\n\n然后是“福利费”。在最近的劳动法通过后，你可能在账单上见过 1.50 美元的“监管应对费”或“司机福利费”。这种措辞就是为了让你觉得自己在帮助劳动者。\n\n实际上，这笔钱直接进了一个企业的秘密基金，专门用来游说反对司机工会。我们在内部有一个专门的成本中心叫“政策防御”（Policy Defense），这笔费用就是直接输血给它的。说白了，你付的钱，其实是雇了顶级律师，去跟你的外卖小哥作对，让他们继续无家可归。\n\n至于小费，我们基本上是在搞“偷小费 2.0 版”。我们现在不再通过法律上定义的“偷”来拿小费了，因为那样被起诉过。相反，我们利用预测建模（Predictive Modeling）来动态降低基础薪资。\n\n如果算法预测你是个“豪爽的给小费者”，很可能会给 10 美元小费，系统就会只给司机区区 2 美元的基础运费。如果你不给小费，系统就会开出 8 美元的基础运费，只为了有人肯接单把饭送出去。结果就是，你的慷慨并没有奖励给司机，而是补贴了我们。你在帮我们给司机发工资，这样我们就不用掏钱了。\n\n我喝高了，也很愤怒。在帖子被删之前，有什么想问的尽管问。\n\nhttps://t.co/5swzxUdkM1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 13103,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Reddit 神贴（转译）：\n\n我是一家大型外卖应用的开发者。“优先配送费”和“司机福利费” 100% 都进了公司的腰包，司机一分钱也拿不到。\n\n我现在躲在图书馆连着公用 Wi-Fi，用一台“一次性笔记本电脑”（Burner https://t.co/Xe4TRVFBJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 420
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4A3Ae"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "location": "Chicago, IL",
+        "name": "宝玉",
+        "pinned_tweet_id": "1996285439867556304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163997,
+          "following_count": 1503,
+          "like_count": 42082,
+          "listed_count": 2793,
+          "media_count": 5137,
+          "tweet_count": 28719
+        },
+        "url": "https://t.co/icobX4A3Ae",
+        "username": "dotey",
+        "verified": true
+      }
+    ]
+  }
+}

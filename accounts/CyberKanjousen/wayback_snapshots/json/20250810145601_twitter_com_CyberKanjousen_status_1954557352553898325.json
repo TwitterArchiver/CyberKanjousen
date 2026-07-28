@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954557176716136448"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954557352553898325",
+    "created_at": "2025-08-10T14:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954557352553898325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Uy03zDMOAd",
+          "end": 35,
+          "expanded_url": "https://x.com/CyberKanjousen/status/1954557352553898325/photo/1",
+          "media_key": "3_1954557176716136448",
+          "start": 12,
+          "url": "https://t.co/Uy03zDMOAd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954557352553898325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "挖空置域，才刚到海平面 https://t.co/Uy03zDMOAd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1954557176716136448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_7ZYNbEAARXdw.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954557176716136448"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954557352553898325",
+        "created_at": "2025-08-10T14:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954557352553898325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uy03zDMOAd",
+              "end": 35,
+              "expanded_url": "https://x.com/CyberKanjousen/status/1954557352553898325/photo/1",
+              "media_key": "3_1954557176716136448",
+              "start": 12,
+              "url": "https://t.co/Uy03zDMOAd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954557352553898325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挖空置域，才刚到海平面 https://t.co/Uy03zDMOAd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 50
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

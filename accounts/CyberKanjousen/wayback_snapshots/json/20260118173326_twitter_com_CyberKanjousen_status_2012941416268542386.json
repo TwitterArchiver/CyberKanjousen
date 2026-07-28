@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012833954571882860",
+    "created_at": "2026-01-18T17:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T18:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012941416268542386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "460161884",
+          "start": 0,
+          "username": "green443630"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012941416268542386",
+    "in_reply_to_user_id": "460161884",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012833954571882860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@green443630 @grok 「家虎」はどういう意味ですか？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2012833513179873280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8FanEWgAANK2i.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012833954571882860",
+        "created_at": "2026-01-18T17:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012941416268542386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "460161884",
+              "start": 0,
+              "username": "green443630"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012941416268542386",
+        "in_reply_to_user_id": "460161884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012833954571882860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@green443630 @grok 「家虎」はどういう意味ですか？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012833513179873280"
+          ]
+        },
+        "author_id": "460161884",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2012833954571882860",
+        "created_at": "2026-01-18T10:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012833954571882860"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "木谷社長",
+              "probability": 0.6972,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "BLACK SHOUT",
+              "probability": 0.4364,
+              "start": 61,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "拡散希望"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 129,
+              "start": 121,
+              "tag": "Roselia"
+            },
+            {
+              "end": 155,
+              "start": 131,
+              "tag": "Neuweltfahrt_大阪追加公演DAY1"
+            },
+            {
+              "end": 181,
+              "start": 157,
+              "tag": "Neuweltfahrt_大阪追加公演DAY2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6OmcuiBK8",
+              "end": 205,
+              "expanded_url": "https://x.com/green443630/status/2012833954571882860/photo/1",
+              "media_key": "3_2012833513179873280",
+              "start": 182,
+              "url": "https://t.co/O6OmcuiBK8"
+            },
+            {
+              "display_url": "x.com/kidanit/status…",
+              "end": 229,
+              "expanded_url": "https://twitter.com/kidanit/status/1223651551031377921",
+              "start": 206,
+              "url": "https://t.co/eDq2fzLaNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012833954571882860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 46566,
+          "like_count": 333,
+          "quote_count": 20,
+          "reply_count": 14,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1223651551031377921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "木谷社長も昔ポストしていますが、対策をお願いしたいです🙇\n最近増えた気がします😣\n\n開演前に注意動画を流すetc.\n\nBLACK SHOUTやFIRE BIRDでの家虎は、曲の静けさを妨害する行為だと思います😡\n\n#拡散希望 \n#バンドリ \n#Roselia \n#Neuweltfahrt_大阪追加公演DAY1 \n#Neuweltfahrt_大阪追加公演DAY2 https://t.co/O6OmcuiBK8 https://t.co/eDq2fzLaNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 25,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 717
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-10T13:12:43.000Z",
+        "description": "好きな音楽→B'z、Roselia、ポピパ、GLAY、MyGO✨\n好きなゲーム→FGO、ガルパ、ウマ娘✨\n推し→志崎樺音さん、工藤晴香さん、大橋彩香さん✨\n\n好きなもの、熱中するものに、年齢は関係なし👍\nよろしくお願いします😊\n\n#青薔薇の民\n#バンドリーマーさんと繋がりたい \n#ウマ娘好きな人と繋がりたい",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 115,
+                "tag": "青薔薇の民"
+              },
+              {
+                "end": 138,
+                "start": 122,
+                "tag": "バンドリーマーさんと繋がりたい"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "tag": "ウマ娘好きな人と繋がりたい"
+              }
+            ]
+          }
+        },
+        "id": "460161884",
+        "location": "北海道札幌市",
+        "name": "翡翠GREEN@次は…1/16,17 Roselia Neuweltfahrt 大阪追加公演",
+        "pinned_tweet_id": "2007366466203725903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554334110130192384/ZXBZJfuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 1904,
+          "like_count": 78521,
+          "listed_count": 23,
+          "media_count": 1439,
+          "tweet_count": 30385
+        },
+        "username": "green443630",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7574587,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5833,
+          "media_count": 7799634,
+          "tweet_count": 92049185
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

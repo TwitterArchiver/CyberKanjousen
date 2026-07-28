@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2041155534024515815",
+    "created_at": "2026-04-06T14:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041157301349015695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770506396515340288",
+          "start": 0,
+          "username": "yameta_www"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041157301349015695",
+    "in_reply_to_user_id": "1770506396515340288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041155534024515815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yameta_www 合影喵dwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2041155529628954624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOkI8LbsAAf191.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2041155534024515815",
+        "created_at": "2026-04-06T14:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041157301349015695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770506396515340288",
+              "start": 0,
+              "username": "yameta_www"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041157301349015695",
+        "in_reply_to_user_id": "1770506396515340288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041155534024515815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yameta_www 合影喵dwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041155529628954624"
+          ]
+        },
+        "author_id": "1770506396515340288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2041155534024515815",
+        "created_at": "2026-04-06T14:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041155534024515815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/ozOvs2CXLS"
+            },
+            {
+              "display_url": "pic.x.com/9qj7aTeWV9",
+              "end": 64,
+              "expanded_url": "https://x.com/yameta_www/status/2041155534024515815/photo/1",
+              "media_key": "3_2041155529628954624",
+              "start": 41,
+              "url": "https://t.co/9qj7aTeWV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041155534024515815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/ozOvs2CXLS https://t.co/9qj7aTeWV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 0,
+                "start": 0,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 0,
+                "start": 0,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 0,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 0,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 0,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 0,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 0,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 377,
+          "like_count": 10907,
+          "listed_count": 3,
+          "media_count": 758,
+          "tweet_count": 3929
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-20T17:43:21.000Z",
+        "description": "読み方は「はにゅう」「Haniu」｜来年大阪に引っ越す予定です｜今は東京に住んでいる｜日本語学校の2年生です｜大阪経済大学を目指します｜友達を探して一緒に楽しんで下さい！『海外の方も大歓迎です！』",
+        "id": "1770506396515340288",
+        "location": "Tokyo-to, Japan",
+        "name": "羽生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777566343484837888/AMSKrpM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 284,
+          "like_count": 2581,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1154
+        },
+        "username": "yameta_www",
+        "verified": true
+      }
+    ]
+  }
+}

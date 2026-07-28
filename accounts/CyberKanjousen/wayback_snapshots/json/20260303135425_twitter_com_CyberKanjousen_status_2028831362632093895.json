@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2028831281153527809"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2028821268011843741",
+    "created_at": "2026-03-03T13:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028831362632093895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "68677850",
+          "start": 0,
+          "username": "nekotou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o2Tx4kbCz6",
+          "end": 32,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2028831362632093895/photo/1",
+          "media_key": "16_2028831281153527809",
+          "start": 9,
+          "url": "https://t.co/o2Tx4kbCz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028831362632093895",
+    "in_reply_to_user_id": "68677850",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028821268011843741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekotou https://t.co/o2Tx4kbCz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2028831281153527809",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCfbTQ5bUAETKH7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCfbTQ5bUAETKH7.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 709,
+        "media_key": "3_2028821052105887744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCfR_2ubEAAv98f.png",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028831281153527809"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028821268011843741",
+        "created_at": "2026-03-03T13:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028831362632093895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "68677850",
+              "start": 0,
+              "username": "nekotou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2Tx4kbCz6",
+              "end": 32,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2028831362632093895/photo/1",
+              "media_key": "16_2028831281153527809",
+              "start": 9,
+              "url": "https://t.co/o2Tx4kbCz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028831362632093895",
+        "in_reply_to_user_id": "68677850",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028821268011843741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekotou https://t.co/o2Tx4kbCz6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028821052105887744"
+          ]
+        },
+        "author_id": "68677850",
+        "conversation_id": "2028821268011843741",
+        "created_at": "2026-03-03T13:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028821268011843741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQyM3We9G9",
+              "end": 23,
+              "expanded_url": "https://x.com/nekotou/status/2028821268011843741/photo/1",
+              "media_key": "3_2028821052105887744",
+              "start": 0,
+              "url": "https://t.co/sQyM3We9G9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028821268011843741",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 12680,
+          "like_count": 1426,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sQyM3We9G9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜ CN/EN/JP ｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 104,
+          "like_count": 2668,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 1809
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-25T12:18:11.000Z",
+        "description": "GRINPの中の人 「お兄ちゃんはおしまい！」商業版第10巻＆アンソロ6巻発売中！家庭菜園日記漫画も。 一部投稿にAmazonアフィリンクを含みます。Pixiv：https://t.co/G6BGgCiQji BOOTH：https://t.co/qtxJERtSy4 FANBOX：https://t.co/uAJp9Qvx5W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.sc/WaU4KBZ",
+                "end": 104,
+                "expanded_url": "http://onl.sc/WaU4KBZ",
+                "start": 81,
+                "url": "https://t.co/G6BGgCiQji"
+              },
+              {
+                "display_url": "grinp.booth.pm",
+                "end": 134,
+                "expanded_url": "http://grinp.booth.pm",
+                "start": 111,
+                "url": "https://t.co/qtxJERtSy4"
+              },
+              {
+                "display_url": "grinp.fanbox.cc",
+                "end": 165,
+                "expanded_url": "http://grinp.fanbox.cc",
+                "start": 142,
+                "url": "https://t.co/uAJp9Qvx5W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grin.oops.jp",
+                "end": 23,
+                "expanded_url": "http://grin.oops.jp/",
+                "start": 0,
+                "url": "https://t.co/4cmunr6T70"
+              }
+            ]
+          }
+        },
+        "id": "68677850",
+        "location": "都内某所",
+        "name": "ねことうふ@おにまいアニメご視聴感謝！",
+        "pinned_tweet_id": "1944687639845912998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3780734142/b049cc1a277b2a12648d4eaa7ccfef02_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149496,
+          "following_count": 247,
+          "like_count": 54204,
+          "listed_count": 1373,
+          "media_count": 2004,
+          "tweet_count": 32109
+        },
+        "url": "https://t.co/4cmunr6T70",
+        "username": "nekotou",
+        "verified": true
+      }
+    ]
+  }
+}

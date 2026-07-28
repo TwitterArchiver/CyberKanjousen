@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2013937015616937989",
+    "created_at": "2026-01-21T12:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013959316017934383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507705239507329034",
+          "start": 0,
+          "username": "xinzoruo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013959316017934383",
+    "in_reply_to_user_id": "1507705239507329034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013937015616937989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzoruo 这个画风和Lyytoaoitori的很像\n会是玩原神版的Lyy老师吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2084,
+        "media_key": "3_2013936994913767424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LxBs3aUAAAJCZ.jpg",
+        "width": 1400
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013937001452744704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LxCFObMAADqAr.jpg",
+        "width": 873
+      },
+      {
+        "height": 2084,
+        "media_key": "3_2013937007073112064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LxCaKbMAASklI.jpg",
+        "width": 1380
+      },
+      {
+        "height": 2084,
+        "media_key": "3_2013937012399849473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_LxCuAawAEzoyM.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2013937015616937989",
+        "created_at": "2026-01-21T12:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013959316017934383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507705239507329034",
+              "start": 0,
+              "username": "xinzoruo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013959316017934383",
+        "in_reply_to_user_id": "1507705239507329034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013937015616937989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzoruo 这个画风和Lyytoaoitori的很像\n会是玩原神版的Lyy老师吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013936994913767424",
+            "3_2013937001452744704",
+            "3_2013937007073112064",
+            "3_2013937012399849473"
+          ]
+        },
+        "author_id": "1507705239507329034",
+        "conversation_id": "2013937015616937989",
+        "created_at": "2026-01-21T11:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013937015616937989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "Sandrone"
+            },
+            {
+              "end": 23,
+              "start": 13,
+              "tag": "Columbina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8howrn9W3s",
+              "end": 47,
+              "expanded_url": "https://x.com/xinzoruo/status/2013937015616937989/photo/1",
+              "media_key": "3_2013936994913767424",
+              "start": 24,
+              "url": "https://t.co/8howrn9W3s"
+            },
+            {
+              "display_url": "pic.x.com/8howrn9W3s",
+              "end": 47,
+              "expanded_url": "https://x.com/xinzoruo/status/2013937015616937989/photo/1",
+              "media_key": "3_2013937001452744704",
+              "start": 24,
+              "url": "https://t.co/8howrn9W3s"
+            },
+            {
+              "display_url": "pic.x.com/8howrn9W3s",
+              "end": 47,
+              "expanded_url": "https://x.com/xinzoruo/status/2013937015616937989/photo/1",
+              "media_key": "3_2013937007073112064",
+              "start": 24,
+              "url": "https://t.co/8howrn9W3s"
+            },
+            {
+              "display_url": "pic.x.com/8howrn9W3s",
+              "end": 47,
+              "expanded_url": "https://x.com/xinzoruo/status/2013937015616937989/photo/1",
+              "media_key": "3_2013937012399849473",
+              "start": 24,
+              "url": "https://t.co/8howrn9W3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013937015616937989",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1171,
+          "impression_count": 185202,
+          "like_count": 18852,
+          "quote_count": 23,
+          "reply_count": 45,
+          "retweet_count": 2416
+        },
+        "reply_settings": "everyone",
+        "text": "😡🕊\n#Sandrone #Columbina https://t.co/8howrn9W3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 24,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 874
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T13:05:29.000Z",
+        "description": "原神、zzzeroやってます、夜蘭推し、yelanhaver，悲催等兰人→快乐等兰人→开心有兰人→开心6命有兰人 →愉悦6影rua鲨人       (头像 /アイコン/PFP☞OK)",
+        "id": "1507705239507329034",
+        "location": "璃月港    岩上茶室",
+        "name": "心臓弱眞君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507705872868249603/XTEK56bE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265565,
+          "following_count": 21,
+          "like_count": 2495,
+          "listed_count": 2659,
+          "media_count": 847,
+          "tweet_count": 1481
+        },
+        "username": "xinzoruo",
+        "verified": false
+      }
+    ]
+  }
+}

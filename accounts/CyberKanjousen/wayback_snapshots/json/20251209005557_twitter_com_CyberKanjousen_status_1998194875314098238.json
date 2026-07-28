@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1997976826652811416",
+    "created_at": "2025-12-09T00:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T01:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998194875314098238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882443604469420033",
+          "start": 0,
+          "username": "te_rumo52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998194875314098238",
+    "in_reply_to_user_id": "1882443604469420033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997976826652811416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@te_rumo52 我的天啊是简易长矛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18304,
+        "height": 720,
+        "media_key": "7_1997976780108640257",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1997976780108640257/pu/img/NMzs5oKaRZ7AzOyo.jpg",
+        "public_metrics": {
+          "view_count": 24623
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997976780108640257/pu/vid/avc1/478x270/Uax_I7RfRgahlw6i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997976780108640257/pu/vid/avc1/638x360/QMDVb_7ICK1gC1wi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1997976780108640257/pu/vid/avc1/1278x720/5Z1479OVtfMacsWc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1997976780108640257/pu/pl/ROKZxbRh5cPCZbPT.m3u8?tag=12&v=771"
+          }
+        ],
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1997976826652811416",
+        "created_at": "2025-12-09T00:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998194875314098238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882443604469420033",
+              "start": 0,
+              "username": "te_rumo52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998194875314098238",
+        "in_reply_to_user_id": "1882443604469420033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997976826652811416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@te_rumo52 我的天啊是简易长矛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1997976780108640257"
+          ]
+        },
+        "author_id": "1882443604469420033",
+        "conversation_id": "1997976826652811416",
+        "created_at": "2025-12-08T10:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997976826652811416"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlxDMRrTfB",
+              "end": 168,
+              "expanded_url": "https://x.com/te_rumo52/status/1997976826652811416/video/1",
+              "media_key": "7_1997976780108640257",
+              "start": 145,
+              "url": "https://t.co/jlxDMRrTfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997976826652811416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 47566,
+          "like_count": 938,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "#まのさばネタバレ\n2周目レイアが人気ですが、1周目のここ良くないですか？\n\n犯行の自白という、最も犯人が目立てる場面でわざわざ「カーテンコール」等の役者を思わせる言葉を使って気取り、声も恍惚としてて、最高に気持ち良くて自分に酔ってたんだろうな……って感じで。\n\n顛末も含めて大好きです！ https://t.co/jlxDMRrTfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 218
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T15:01:57.000Z",
+        "description": "↑18 ♂\nまのさばクリア（推しはレイア、ヒロ、ミリア、ナノカ等） \n無言フォロー失礼します \n フロム、鬱ゲー、ダンロン、ハズビンホテル、にじさんじ等が好きです。 半雑多\nhttps://t.co/7uYqygUwVy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/119723074",
+                "end": 110,
+                "expanded_url": "https://www.pixiv.net/users/119723074",
+                "start": 87,
+                "url": "https://t.co/7uYqygUwVy"
+              }
+            ]
+          }
+        },
+        "id": "1882443604469420033",
+        "name": "テルモ",
+        "pinned_tweet_id": "1997147185562243584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961379815065620481/gyeeYLZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 624,
+          "like_count": 14128,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 3195
+        },
+        "username": "te_rumo52",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2032157782838034662",
+    "created_at": "2026-03-12T18:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T19:10:42.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032157351760056595",
+      "2032157782838034662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/itscatroll/sta…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/itscatroll/status/2032135106295710135",
+          "start": 148,
+          "url": "https://t.co/yT3Zlowp09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032157782838034662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 465,
+            "id": "1918274202580467713",
+            "start": 450,
+            "username": "CyberKanjousen"
+          }
+        ]
+      },
+      "text": "但環状線并不认为“解锁 bootloader会 越来越严”是合理的\n首先，真正的安全威胁几乎从来不是“用户自己解锁 bl ”，绝大部分手机信息安全受到破坏的案例都是因为点击钓鱼链接（前几天还有诈骗分子给我们学校的许多学生发了含有钓鱼链接的邮件）、安装恶意 APP 等，而这些一般都不需要解 bl 。实际上，我自出生起就从未听说过有人因为解 bl 然后 root 安卓手机结果信息泄露的。\n其次，在解锁 bl 以后，手机的指纹或人脸识别就无法用于支付了。除小米外，国内安卓厂商在解锁 bl 以后会强制销毁生物信息验证支付所必需的 TEE ；而且，生物信息用于支付要求设备满足 MEETS_STRONG_INTEGRITY 条件，而 Root 以后的手机想要满足这一条件难如登天（即使是 Root 起来很方便的 Pixel 也是如此）\n厂商之所以要越来越严格地限制 bl ，是为了“用户安全”吗？显然不是的。原因之一是厂商要把用户锁死在生态内，更方便推送广告、收集数据、强制预装软件；至于原因之二，由于 @CyberKanjousen 这个账号不发表露骨的政治敏感言论，所以不讲\n更何况，Pixel 等部分海外厂商一直都没有严格限制 bl 解锁。Pixel 的安全事故发生率难道就因此比严格限制 bl 的国内厂商高很多吗？\n而且，用户购买的是手机的所有权，不是部分使用权。只要合乎法律合乎道德的，我想怎么搞就怎么搞，关厂商什么事？我掏钱买的手机是消费品，不是厂商借给我的租借品\n環状線不否认，小米发律师函完全是合乎法律的，而夏日晴海因给买家解 bl 而被起诉也是合乎法律的。但是，環状線坚持认为，解锁 bl 不应当越来越严。这也是環状線对国内厂商没有什么好感的原因之一"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032135106295710135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但環状線并不认为“解锁 bootloader会 越来越严”是合理的\n首先，真正的安全威胁几乎从来不是“用户自己解锁 bl ”，绝大部分手机信息安全受到破坏的案例都是因为点击钓鱼链接（前几天还有诈骗分子给我们学校的许多学生发了含有钓鱼链接的邮件）、安装恶意 APP 等，而这些一般都不需要解 bl https://t.co/yT3Zlowp09"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032157351760056595",
+        "created_at": "2026-03-12T18:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:10:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032157351760056595",
+          "2032157782838034662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itscatroll/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/itscatroll/status/2032135106295710135",
+              "start": 148,
+              "url": "https://t.co/yT3Zlowp09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032157351760056595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 465,
+                "id": "1918274202580467713",
+                "start": 450,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "text": "但環状線并不认为“解锁 bootloader会 越来越严”是合理的\n首先，真正的安全威胁几乎从来不是“用户自己解锁 bl ”，绝大部分手机信息安全受到破坏的案例都是因为点击钓鱼链接（前几天还有诈骗分子给我们学校的许多学生发了含有钓鱼链接的邮件）、安装恶意 APP 等，而这些一般都不需要解 bl 。实际上，我自出生起就从未听说过有人因为解 bl 然后 root 安卓手机结果信息泄露的。\n其次，在解锁 bl 以后，手机的指纹或人脸识别就无法用于支付了。除小米外，国内安卓厂商在解锁 bl 以后会强制销毁生物信息验证支付所必需的 TEE ；而且，生物信息用于支付要求设备满足 MEETS_STRONG_INTEGRITY 条件，而 Root 以后的手机想要满足这一条件难如登天（即使是 Root 起来很方便的 Pixel 也是如此）\n厂商之所以要越来越严格地限制 bl ，是为了“用户安全”吗？显然不是的。原因之一是厂商要把用户锁死在生态内，更方便推送广告、收集数据、强制预装软件；至于原因之二，由于 @CyberKanjousen 这个账号不发表露骨的政治敏感言论，所以不讲\n更何况，Pixel 等部分海外厂商一直都没有严格限制 bl 解锁。Pixel 的安全事故发生率难道就因此比严格限制 bl 的国内厂商高很多吗？\n而且，用户购买的是手机的所有权，不是部分使用权。只要合乎法律合乎道德的，我想怎么搞就怎么搞，关厂商什么事？我掏钱买的手机是消费品，不是厂商借给我的租借品\n環状線不否认，小米发律师函完全是合乎法律的，而夏日雨晴因给买家解 bl 而被起诉也是合乎法律的。但是，環状線坚持认为，解锁 bl 不应当越来越严。这也是環状線对国内厂商没有什么好感的原因之一"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032135106295710135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但環状線并不认为“解锁 bootloader会 越来越严”是合理的\n首先，真正的安全威胁几乎从来不是“用户自己解锁 bl ”，绝大部分手机信息安全受到破坏的案例都是因为点击钓鱼链接（前几天还有诈骗分子给我们学校的许多学生发了含有钓鱼链接的邮件）、安装恶意 APP 等，而这些一般都不需要解 bl https://t.co/yT3Zlowp09"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032157782838034662",
+        "created_at": "2026-03-12T18:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:10:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032157351760056595",
+          "2032157782838034662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itscatroll/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/itscatroll/status/2032135106295710135",
+              "start": 148,
+              "url": "https://t.co/yT3Zlowp09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032157782838034662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 465,
+                "id": "1918274202580467713",
+                "start": 450,
+                "username": "CyberKanjousen"
+              }
+            ]
+          },
+          "text": "但環状線并不认为“解锁 bootloader会 越来越严”是合理的\n首先，真正的安全威胁几乎从来不是“用户自己解锁 bl ”，绝大部分手机信息安全受到破坏的案例都是因为点击钓鱼链接（前几天还有诈骗分子给我们学校的许多学生发了含有钓鱼链接的邮件）、安装恶意 APP 等，而这些一般都不需要解 bl 。实际上，我自出生起就从未听说过有人因为解 bl 然后 root 安卓手机结果信息泄露的。\n其次，在解锁 bl 以后，手机的指纹或人脸识别就无法用于支付了。除小米外，国内安卓厂商在解锁 bl 以后会强制销毁生物信息验证支付所必需的 TEE ；而且，生物信息用于支付要求设备满足 MEETS_STRONG_INTEGRITY 条件，而 Root 以后的手机想要满足这一条件难如登天（即使是 Root 起来很方便的 Pixel 也是如此）\n厂商之所以要越来越严格地限制 bl ，是为了“用户安全”吗？显然不是的。原因之一是厂商要把用户锁死在生态内，更方便推送广告、收集数据、强制预装软件；至于原因之二，由于 @CyberKanjousen 这个账号不发表露骨的政治敏感言论，所以不讲\n更何况，Pixel 等部分海外厂商一直都没有严格限制 bl 解锁。Pixel 的安全事故发生率难道就因此比严格限制 bl 的国内厂商高很多吗？\n而且，用户购买的是手机的所有权，不是部分使用权。只要合乎法律合乎道德的，我想怎么搞就怎么搞，关厂商什么事？我掏钱买的手机是消费品，不是厂商借给我的租借品\n環状線不否认，小米发律师函完全是合乎法律的，而夏日晴海因给买家解 bl 而被起诉也是合乎法律的。但是，環状線坚持认为，解锁 bl 不应当越来越严。这也是環状線对国内厂商没有什么好感的原因之一"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032135106295710135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但環状線并不认为“解锁 bootloader会 越来越严”是合理的\n首先，真正的安全威胁几乎从来不是“用户自己解锁 bl ”，绝大部分手机信息安全受到破坏的案例都是因为点击钓鱼链接（前几天还有诈骗分子给我们学校的许多学生发了含有钓鱼链接的邮件）、安装恶意 APP 等，而这些一般都不需要解 bl https://t.co/yT3Zlowp09"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2032135106295710135",
+        "created_at": "2026-03-12T16:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032135106295710135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsCatRoll/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/itsCatRoll/status/2032065715529007292",
+              "start": 144,
+              "url": "https://t.co/CNVEFJbyox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032135106295710135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我再说点你们可能更不爱听的（下面是我手写的，不是AI写的）：\n\n如果你们真的觉得小米在这件事情上的处理有问题，那只有两种可能：1、你是基本盘，是类似于A股股民一样明明身为投资人却把自己当消费者一样的基本盘，只会被大众情绪裹挟，你不理解现代社会的监管体系等等是如何运作的，你没有能力see the different side and the bigger picture；2、你在工作上没有任何职业道德和职业操守，合同和协议对你来说如同废纸，你上班就跟打游戏一样，想干什么就干什么。\n\n当然，从推文来看，我一直觉得雨晴姐姐是好人，大概是因为年轻、没经验才卷入这种麻烦；而且岗位是基层员工，所以大概率没有受过更严格的相关培训；同时动机也仅仅是为了讨论技术而已。这么看来“没有职业道德”这种话会太重了。但是有些网友啊，我觉得可能工作了是真的会没有任何底线的……\n\n再话说回来，哪怕你只是一个没有签过NDA的普通员工，合同里也一定有Employee shall not disclose...等等类似的话，别说“接远程免拆机免授权漏洞解锁bootloader”这种贴脸开大（公开承认利用漏洞）的推文了，哪怕只说句“可以解锁”，也可以被认定为unauthorized disclosure的，法律上来讲确实根本不用走NDA违约也可以起诉。\n\n而且在现实层面上来讲，别的同行知道了，都会觉得你不够professional，口风不严，以后谁还敢用你？谁还敢给你核心项目？谁知道你以后会不会捅出来什么个更大的乱子？以后打算推出什么新产品、定价方案是什么，这些会不会也被发出去？\n\n再提一个：解锁bootloader会越来越严，而且是合理的。\n\n我只提一个角度，从RegTech来看，如果随便就能解锁的话，银行类软件还装不装？AML和KYC还做不做？举个例子，假设万一有人利用了什么漏洞，比如说能让人脸识别（liveness check）不调用本机的摄像头而是用什么接口直接传一个AI合成的人脸视频过去，那造成的经济损失手机厂商有没有责任呢？被查下来以后不可能就一句“我的手机能root”就带过去吧？\n\n不要觉得自己玩机玩的很牛逼，很专业能掌控一切、绝对不对出任何差错。再牛逼也绝对不如大厂做security的天天靠这个吃饭的人牛逼。\n\n政府监管政策要求->银行和金融等App不支持在不安全的设备上运行->厂商被迫收紧，虽然说能解锁bootloader不代表就没法做安全了，比如其实总可以有更好的硬件隔离、attestation以及服务端的各种风控（比如更严格的security patch、解锁可以但需要KYC等等），但是厂商宁愿把本来自己应该承担的以上这些工程代价转嫁到了用户身上（这也是你们唯一可以合理批评的地方）。但是实际上这部分用户的占比真的太少太少了，绝大多数人买手机都是没有拿来玩的需求的，所以厂商不可能选择更复杂更昂贵的方案而而是不如直接把系统做的封闭一些。\n\n但是上面说的那些，终归还是小圈子的“技术自由”“用户应该对自己购买的产品有full rights”这种哲学问题，跟职业伦理问题是两码事。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3205,
+          "like_count": 56,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032065715529007292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我再说点你们可能更不爱听的（下面是我手写的，不是AI写的）：\n\n如果你们真的觉得小米在这件事情上的处理有问题，那只有两种可能：1、你是基本盘，是类似于A股股民一样明明身为投资人却把自己当消费者一样的基本盘，只会被大众情绪裹挟，你不理解现代社会的监管体系等等是如何运作的，你没有能力see https://t.co/CNVEFJbyox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 134,
+          "like_count": 4133,
+          "listed_count": 1,
+          "media_count": 488,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "🍬相关私信下方tg或@astykxs // 你还年轻 都会出人头地 // @hobartr6 @_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "astykxs"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "hobartr6"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x00000b",
+                "end": 23,
+                "expanded_url": "https://t.me/x00000b",
+                "start": 0,
+                "url": "https://t.co/mRz7zqinvM"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷不是猪卷",
+        "pinned_tweet_id": "2031143090506052023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019893963415851008/GaYGREEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3479,
+          "following_count": 840,
+          "like_count": 2787,
+          "listed_count": 7,
+          "media_count": 65,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/mRz7zqinvM",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

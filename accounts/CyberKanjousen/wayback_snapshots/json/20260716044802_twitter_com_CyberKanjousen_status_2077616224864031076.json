@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2077609166982807963",
+    "created_at": "2026-07-16T04:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T05:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077616224864031076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794569354597793792",
+          "start": 0,
+          "username": "lockloveovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077616224864031076",
+    "in_reply_to_user_id": "1794569354597793792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077610805869314067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lockloveovo 血脉纯正苹果人，能量巨大（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2077609166982807963",
+        "created_at": "2026-07-16T04:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077616224864031076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794569354597793792",
+              "start": 0,
+              "username": "lockloveovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077616224864031076",
+        "in_reply_to_user_id": "1794569354597793792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077610805869314067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lockloveovo 血脉纯正苹果人，能量巨大（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794569354597793792",
+        "conversation_id": "2077609166982807963",
+        "created_at": "2026-07-16T04:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T05:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077610805869314067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077610805869314067",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077609166982807963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 纯正苹果人来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文由 @yameta_www 代发\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "yameta_www"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 121,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 98,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10637,
+          "following_count": 883,
+          "like_count": 30921,
+          "listed_count": 15,
+          "media_count": 2095,
+          "tweet_count": 10488
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T03:21:00.000Z",
+        "description": "喜怒无常乐子人\nqq空间（bushi）：https://t.co/lUzu6rW4L0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/locklove947",
+                "end": 43,
+                "expanded_url": "https://telegram.me/locklove947",
+                "start": 20,
+                "url": "https://t.co/lUzu6rW4L0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lockloveovo",
+                "end": 23,
+                "expanded_url": "http://telegram.me/lockloveovo",
+                "start": 0,
+                "url": "https://t.co/YnKeIlxkHT"
+              }
+            ]
+          }
+        },
+        "id": "1794569354597793792",
+        "location": "你家",
+        "name": "不知道起啥名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075495501156290560/d4HzXytJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 154,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/YnKeIlxkHT",
+        "username": "lockloveovo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2007020627958583713",
+    "created_at": "2026-01-02T09:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007020627958583713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "6782882",
+          "start": 3,
+          "username": "oran_ge"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2005…",
+          "end": 36,
+          "expanded_url": "http://x.com/i/article/2005417027629162496",
+          "start": 13,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2005417027629162496",
+          "url": "https://t.co/0FaxxcEvS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007020627958583713",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 943
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005419365450252425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oran_ge: https://t.co/0FaxxcEvS0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2007020627958583713",
+        "created_at": "2026-01-02T09:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007020627958583713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "6782882",
+              "start": 3,
+              "username": "oran_ge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2005…",
+              "end": 36,
+              "expanded_url": "http://x.com/i/article/2005417027629162496",
+              "start": 13,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2005417027629162496",
+              "url": "https://t.co/0FaxxcEvS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007020627958583713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 943
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005419365450252425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oran_ge: https://t.co/0FaxxcEvS0"
+      },
+      {
+        "article": {
+          "title": "开源模型质变：Claude Code 超级小白入门指南 "
+        },
+        "attachments": {},
+        "author_id": "6782882",
+        "conversation_id": "2005419365450252425",
+        "created_at": "2025-12-28T23:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T00:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005419365450252425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2005…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2005417027629162496",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2005417027629162496",
+              "url": "https://t.co/0FaxxcEvS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005419365450252425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6799,
+          "impression_count": 2156647,
+          "like_count": 3725,
+          "quote_count": 102,
+          "reply_count": 125,
+          "retweet_count": 943
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0FaxxcEvS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 423
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2007-06-13T05:03:33.000Z",
+        "description": "聊硅基 AI，看有机大橘子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "listenhub.ai",
+                "end": 23,
+                "expanded_url": "https://listenhub.ai",
+                "start": 0,
+                "url": "https://t.co/vbXB95311n"
+              }
+            ]
+          }
+        },
+        "id": "6782882",
+        "location": "Mars",
+        "name": "Orange AI",
+        "pinned_tweet_id": "2006538283246039333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760074488073629696/ceSsuVCY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147986,
+          "following_count": 793,
+          "like_count": 2145,
+          "listed_count": 1907,
+          "media_count": 6165,
+          "tweet_count": 134531
+        },
+        "url": "https://t.co/vbXB95311n",
+        "username": "oran_ge",
+        "verified": true
+      }
+    ]
+  }
+}

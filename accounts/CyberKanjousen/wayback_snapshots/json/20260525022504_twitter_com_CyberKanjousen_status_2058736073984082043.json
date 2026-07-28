@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2058584934038810913",
+    "created_at": "2026-05-25T02:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058736073984082043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809845899851624451",
+          "start": 0,
+          "username": "hironakaiori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058736073984082043",
+    "in_reply_to_user_id": "1809845899851624451",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058593183127498900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hironakaiori テメ…😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2058584934038810913",
+        "created_at": "2026-05-25T02:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058736073984082043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809845899851624451",
+              "start": 0,
+              "username": "hironakaiori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058736073984082043",
+        "in_reply_to_user_id": "1809845899851624451",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058593183127498900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hironakaiori テメ…😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809845899851624451",
+        "conversation_id": "2058584934038810913",
+        "created_at": "2026-05-24T16:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058593183127498900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058593183127498900",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058584934038810913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 環状線はばーか！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 847,
+          "like_count": 21997,
+          "listed_count": 11,
+          "media_count": 1165,
+          "tweet_count": 6520
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-07T07:04:44.000Z",
+        "description": "https://t.co/lFZOrt3Lue\n社会自由主义｜全性别平权｜务实左｜性解放｜反毒反赌反废死\n中日韩友谊万岁\n中日韓友誼萬歲\n中日韓友好万歳\n한중일 우호 만세\n中文（普通话）｜吳語（太湖片上海小片/蘇嘉湖小片）｜ENGLISH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/hironaka-iori",
+                "end": 23,
+                "expanded_url": "https://github.com/hironaka-iori",
+                "start": 0,
+                "url": "https://t.co/lFZOrt3Lue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hironakaiori.site",
+                "end": 23,
+                "expanded_url": "http://hironakaiori.site",
+                "start": 0,
+                "url": "https://t.co/xZ9GnmqZPf"
+              }
+            ]
+          }
+        },
+        "id": "1809845899851624451",
+        "location": "花咲川女子学園",
+        "name": "広中依緒璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051342606807031808/B26uQG3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 1862,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/xZ9GnmqZPf",
+        "username": "hironakaiori",
+        "verified": false
+      }
+    ]
+  }
+}

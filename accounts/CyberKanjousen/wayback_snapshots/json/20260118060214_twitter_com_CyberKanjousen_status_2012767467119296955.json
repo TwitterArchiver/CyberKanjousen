@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2012729549994307717",
+    "created_at": "2026-01-18T06:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T07:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012767467119296955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1638554225709035521",
+          "start": 0,
+          "username": "tokyokuma1998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012767467119296955",
+    "in_reply_to_user_id": "1638554225709035521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012729549994307717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokyokuma1998 精日难道不是先at一下grok问AIGCですか然后和grok杠上了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2012729549994307717",
+        "created_at": "2026-01-18T06:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012767467119296955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638554225709035521",
+              "start": 0,
+              "username": "tokyokuma1998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012767467119296955",
+        "in_reply_to_user_id": "1638554225709035521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012729549994307717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokyokuma1998 精日难道不是先at一下grok问AIGCですか然后和grok杠上了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638554225709035521",
+        "conversation_id": "2012729549994307717",
+        "created_at": "2026-01-18T03:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T04:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012729549994307717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012729549994307717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1517,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精日支：说日本坏话的支那猪都是社会底层，混不下去的垃圾。（晒一顿大餐照片）\n我：你说的没错。我这种底层确实没有会社敢收，只能混吃等死。（晒了一些四处旅行照片）\n精日支：切！你日本老婆是假的，或者就是个日本大妈！我早就看穿你这种滞日支了！\n我：（晒照片）\n精日支：假的！都是假的！😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 647
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-22T14:53:13.000Z",
+        "description": "嫁は日本人です。嫁のおかげで俺も日本国籍ゲットだわ。中国の小粉紅も日本のネトウヨも大嫌い。互いの国に行ったこともないくせにネットで罵り合ってるやつら、全員社会の底辺ゴミだと思う。",
+        "id": "1638554225709035521",
+        "name": "くま",
+        "pinned_tweet_id": "1846907029409112145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894203042876018688/jMp_Vu47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 72,
+          "like_count": 1675,
+          "listed_count": 9,
+          "media_count": 342,
+          "tweet_count": 2573
+        },
+        "username": "tokyokuma1998",
+        "verified": false
+      }
+    ]
+  }
+}

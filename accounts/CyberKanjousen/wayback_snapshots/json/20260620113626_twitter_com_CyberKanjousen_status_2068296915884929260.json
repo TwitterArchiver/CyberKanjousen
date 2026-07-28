@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2068294289143050443",
+    "created_at": "2026-06-20T11:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T12:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068296915884929260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "757398339167981568",
+          "start": 0,
+          "username": "MankindFuture88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068296915884929260",
+    "in_reply_to_user_id": "757398339167981568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068296647835373614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MankindFuture88 「请问，你就是我的 Master 吗？」（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2068294289143050443",
+        "created_at": "2026-06-20T11:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068296915884929260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "757398339167981568",
+              "start": 0,
+              "username": "MankindFuture88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068296915884929260",
+        "in_reply_to_user_id": "757398339167981568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068296647835373614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MankindFuture88 「请问，你就是我的 Master 吗？」（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757398339167981568",
+        "conversation_id": "2068294289143050443",
+        "created_at": "2026-06-20T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068296647835373614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068296647835373614",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068294289143050443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 五個人同時拉，中間應該可以召喚什麼出來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7279,
+          "following_count": 876,
+          "like_count": 27204,
+          "listed_count": 12,
+          "media_count": 1601,
+          "tweet_count": 8499
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-25T02:13:30.000Z",
+        "description": "香港🇭🇰出身，以邏輯和人性琢磨人類的未來，與及和極權戰鬥，求互fo；HongKonger, Shaping the human future and fighting against totalitarianism with logic and humanity, will follows back.",
+        "id": "757398339167981568",
+        "location": "Earth",
+        "name": "人類存活研究所 Mankind future",
+        "pinned_tweet_id": "1712109336338846029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740059195020599296/TbJ9LMgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 2061,
+          "like_count": 8078,
+          "listed_count": 21,
+          "media_count": 1749,
+          "tweet_count": 12896
+        },
+        "url": "",
+        "username": "MankindFuture88",
+        "verified": true
+      }
+    ]
+  }
+}

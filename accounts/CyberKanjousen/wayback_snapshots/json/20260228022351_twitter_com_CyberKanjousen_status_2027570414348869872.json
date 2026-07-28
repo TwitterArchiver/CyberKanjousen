@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026898564543295639",
+    "created_at": "2026-02-28T02:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T03:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027570414348869872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027570414348869872",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026898564543295639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH AI 真是太好用了*赞叹*"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20300,
+        "height": 1918,
+        "media_key": "13_2026898244316614656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026898244316614656/img/YNmgsJbYTnFNysxy.jpg",
+        "public_metrics": {
+          "view_count": 28826
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026898244316614656/vid/avc1/1080x1918/vIXJl5Ej23T-7Vxk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026898244316614656/vid/avc1/320x568/C3aw_TOO6ttZc1uf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026898244316614656/vid/avc1/720x1278/etU-UQekE-iCeYsj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026898244316614656/vid/avc1/480x852/nrvB4FgwhKDS2nzF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026898244316614656/pl/98roTKrvK1ftY5_f.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026898564543295639",
+        "created_at": "2026-02-28T02:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027570414348869872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027570414348869872",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026898564543295639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH AI 真是太好用了*赞叹*"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026898244316614656"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2026898564543295639",
+        "created_at": "2026-02-26T05:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026898564543295639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7NuyxzcBeQ",
+              "end": 36,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2026898564543295639/video/1",
+              "media_key": "13_2026898244316614656",
+              "start": 13,
+              "url": "https://t.co/7NuyxzcBeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026898564543295639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 70426,
+          "like_count": 348,
+          "quote_count": 10,
+          "reply_count": 104,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "你好，我来拯救这个世界了 https://t.co/7NuyxzcBeQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Kanjousen_dwb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 90,
+          "like_count": 2235,
+          "listed_count": 2,
+          "media_count": 388,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5397,
+          "following_count": 684,
+          "like_count": 24543,
+          "listed_count": 27,
+          "media_count": 1400,
+          "tweet_count": 18065
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

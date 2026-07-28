@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029961330623664135"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1339371525225377792",
+          "name": "Toei Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352163508600832",
+          "name": "Animation studios"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339371525225377792",
+          "name": "Toei Animation"
+        }
+      }
+    ],
+    "conversation_id": "2029961338659950727",
+    "created_at": "2026-03-06T16:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029961338659950727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o8dvZpCS2F",
+          "end": 40,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2029961338659950727/photo/1",
+          "media_key": "3_2029961330623664135",
+          "start": 17,
+          "url": "https://t.co/o8dvZpCS2F"
+        },
+        {
+          "display_url": "x.com/girlsbandcry/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/girlsbandcry/status/2029753849230004402",
+          "start": 41,
+          "url": "https://t.co/ugVJoWKX5j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029961338659950727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029753849230004402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我胰岛素用光了，推友能卖我几支吗 https://t.co/o8dvZpCS2F https://t.co/ugVJoWKX5j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_2029961330623664135",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvfEzOaUAcxG-P.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1754,
+        "media_key": "3_2028641323662901248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcuiSGbAAAhp7R.jpg",
+        "width": 1240
+      },
+      {
+        "height": 1754,
+        "media_key": "3_2028641340901502976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcujSUbMAAZLkx.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029961330623664135"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1339371525225377792",
+              "name": "Toei Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339371525225377792",
+              "name": "Toei Animation"
+            }
+          }
+        ],
+        "conversation_id": "2029961338659950727",
+        "created_at": "2026-03-06T16:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029961338659950727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8dvZpCS2F",
+              "end": 40,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2029961338659950727/photo/1",
+              "media_key": "3_2029961330623664135",
+              "start": 17,
+              "url": "https://t.co/o8dvZpCS2F"
+            },
+            {
+              "display_url": "x.com/girlsbandcry/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/girlsbandcry/status/2029753849230004402",
+              "start": 41,
+              "url": "https://t.co/ugVJoWKX5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029961338659950727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029753849230004402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我胰岛素用光了，推友能卖我几支吗 https://t.co/o8dvZpCS2F https://t.co/ugVJoWKX5j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028641323662901248",
+            "3_2028641340901502976"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1339371525225377792",
+              "name": "Toei Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352163508600832",
+              "name": "Animation studios"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339371525225377792",
+              "name": "Toei Animation"
+            }
+          }
+        ],
+        "conversation_id": "2029753849230004402",
+        "created_at": "2026-03-06T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029753849230004402"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "ガールズバンドクライ",
+              "probability": 0.5381,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "ホワイトフォーカス",
+              "probability": 0.4435,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGOM4WTU9D",
+              "end": 170,
+              "expanded_url": "https://x.com/girlsbandcry/status/2029753849230004402/photo/1",
+              "media_key": "3_2028641323662901248",
+              "start": 147,
+              "url": "https://t.co/JGOM4WTU9D"
+            },
+            {
+              "display_url": "pic.x.com/JGOM4WTU9D",
+              "end": 170,
+              "expanded_url": "https://x.com/girlsbandcry/status/2029753849230004402/photo/1",
+              "media_key": "3_2028641340901502976",
+              "start": 147,
+              "url": "https://t.co/JGOM4WTU9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029753849230004402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 96,
+                "tag": "トゲナシトゲアリ"
+              },
+              {
+                "end": 210,
+                "start": 205,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 224,
+                "start": 211,
+                "tag": "GirlsBandCry"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vvstore.jp/feature/detail…",
+                "end": 170,
+                "expanded_url": "https://vvstore.jp/feature/detail/22145",
+                "start": 147,
+                "url": "https://t.co/rGyp7Obog5"
+              },
+              {
+                "display_url": "village-v.co.jp/popup/030490/",
+                "end": 203,
+                "expanded_url": "https://www.village-v.co.jp/popup/030490/",
+                "start": 180,
+                "url": "https://t.co/8OLxoGMUaT"
+              }
+            ]
+          },
+          "text": "／\n『ガールズバンドクライ』\nヴィレッジヴァンガード限定グッズが発売決定📢\n＼\n\n東映アニメーション新規描き下ろし\n「ホワイトフォーカス」シリーズ📸⟡˖ ࣪⊹\n\nキラめく装飾が散りばめられた\n#トゲナシトゲアリ のグッズが登場✨\n\nヴィレッジヴァンガードオンラインストアにて\n先行受注販売中🛒\nhttps://t.co/rGyp7Obog5\n\n詳細はこちら🔻\nhttps://t.co/8OLxoGMUaT\n\n#ガルクラ #GirlsBandCry"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1118,
+          "impression_count": 673580,
+          "like_count": 7405,
+          "quote_count": 499,
+          "reply_count": 46,
+          "retweet_count": 1710
+        },
+        "reply_settings": "everyone",
+        "text": "／\n『ガールズバンドクライ』\nヴィレッジヴァンガード限定グッズが発売決定📢\n＼\n\n東映アニメーション新規描き下ろし\n「ホワイトフォーカス」シリーズ📸⟡˖ ࣪⊹\n\nキラめく装飾が散りばめられた\n#トゲナシトゲアリ のグッズが登場✨\n\nヴィレッジヴァンガードオンラインストアにて\n先行受注販売中🛒 https://t.co/JGOM4WTU9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | LBGTQ+包容 | 露骨政治不涉及\n里推：@Kanjousen_dwb\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 135,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 112,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 165,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 142,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 108,
+          "like_count": 3176,
+          "listed_count": 1,
+          "media_count": 447,
+          "tweet_count": 1973
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1970458122259972378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249384,
+          "following_count": 32,
+          "like_count": 3261,
+          "listed_count": 914,
+          "media_count": 2446,
+          "tweet_count": 5945
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

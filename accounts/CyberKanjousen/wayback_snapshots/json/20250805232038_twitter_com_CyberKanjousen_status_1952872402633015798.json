@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1952347650344550455",
+    "created_at": "2025-08-05T23:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T00:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952872402633015798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923032975614279681",
+          "start": 0,
+          "username": "zein_mania"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952872402633015798",
+    "in_reply_to_user_id": "1923032975614279681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952347650344550455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zein_mania 大胃袋这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1952347644917125120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxgh1s1bEAAIPSj.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1952347650344550455",
+        "created_at": "2025-08-05T23:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T00:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952872402633015798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923032975614279681",
+              "start": 0,
+              "username": "zein_mania"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952872402633015798",
+        "in_reply_to_user_id": "1923032975614279681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952347650344550455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zein_mania 大胃袋这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952347644917125120"
+          ]
+        },
+        "author_id": "1923032975614279681",
+        "conversation_id": "1952347650344550455",
+        "created_at": "2025-08-04T12:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T13:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952347650344550455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIaOd1CWtd",
+              "end": 31,
+              "expanded_url": "https://x.com/zein_mania/status/1952347650344550455/photo/1",
+              "media_key": "3_1952347644917125120",
+              "start": 8,
+              "url": "https://t.co/NIaOd1CWtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952347650344550455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2027,
+          "impression_count": 2801448,
+          "like_count": 92621,
+          "quote_count": 433,
+          "reply_count": 300,
+          "retweet_count": 5757
+        },
+        "reply_settings": "everyone",
+        "text": "無惨？食べたよ https://t.co/NIaOd1CWtd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T15:09:57.000Z",
+        "description": "不定期にツイート/無言フォロー/フォロバ100 旧バーガンディチェリーキン_mania",
+        "id": "1923032975614279681",
+        "location": "hikakin box buy",
+        "name": "zein_mania",
+        "pinned_tweet_id": "1939704214437126338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937793074262122497/1RWyXT_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 656,
+          "like_count": 884,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 427
+        },
+        "username": "zein_mania",
+        "verified": false
+      }
+    ]
+  }
+}

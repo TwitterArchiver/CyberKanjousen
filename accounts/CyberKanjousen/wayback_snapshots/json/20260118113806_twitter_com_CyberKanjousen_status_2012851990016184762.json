@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012779520541982932",
+    "created_at": "2026-01-18T11:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T12:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012851990016184762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "169480493",
+          "start": 0,
+          "username": "nikkei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012851990016184762",
+    "in_reply_to_user_id": "169480493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012779520541982932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikkei 日本最大的敌人不是外国人，而是*中国语粗口*的ネトウヨ\nMake Japan Great Again 的最佳办法就是将ネトウヨ全部开除日本籍😊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012779520541982932",
+        "created_at": "2026-01-18T11:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012851990016184762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "169480493",
+              "start": 0,
+              "username": "nikkei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012851990016184762",
+        "in_reply_to_user_id": "169480493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012779520541982932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikkei 日本最大的敌人不是外国人，而是*中国语粗口*的ネトウヨ\nMake Japan Great Again 的最佳办法就是将ネトウヨ全部开除日本籍😊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "169480493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2012779520541982932",
+        "created_at": "2026-01-18T06:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T07:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012779520541982932"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "苅谷剛彦",
+              "probability": 0.2635,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "上智大学特任教授",
+              "probability": 0.3138,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 94,
+              "normalized_text": "中国",
+              "probability": 0.6496,
+              "start": 93,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ポイント○排外主義の裏で外国人労働への依存高く○中国出身人材はAIやDX技術に不可欠○感情の曇りを除く教育は事実の伝達から「排外主義」という言葉が日本の政治の世界でも使われるようになった。英語のxenophobiaの訳語だが、「主義」という言葉が付いているため、何らかの思想をあらわす言葉に聞こえるかもしれない。だがもとの英語は「外国人嫌い」という感情を意味する。感情があたかも思想として扱われ、",
+              "display_url": "nikkei.com/article/DGXZQO…",
+              "end": 47,
+              "expanded_url": "https://www.nikkei.com/article/DGXZQOCD245MF0U5A221C2000000/?n_cid=SNSTW005&n_tw=1768718828",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2012779523129888768/BA3J3PA7?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012779523129888768/BA3J3PA7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "外国人に頼る日本、排外主義を言える状況ではない　苅谷剛彦氏",
+              "unwound_url": "https://www.nikkei.com/article/DGXZQOCD245MF0U5A221C2000000/?n_cid=SNSTW005&n_tw=1768718828",
+              "url": "https://t.co/OSGVdQEA16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012779520541982932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 141563,
+          "like_count": 1664,
+          "quote_count": 131,
+          "reply_count": 235,
+          "retweet_count": 590
+        },
+        "reply_settings": "everyone",
+        "text": "外国人に頼る日本、排外主義を言える状況ではない\nhttps://t.co/OSGVdQEA16\n\n苅谷剛彦・上智大学特任教授の経済教室です。\n\n■排外主義の裏で外国人労働への依存高く\n■中国出身人材はAIやDX技術に不可欠\n■感情の曇りを除く教育は事実の伝達から"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 680
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-22T12:58:30.000Z",
+        "description": "日経電子版の公式アカウントです。トップページで報じたニュースを中心に注目コンテンツを24時間発信。画像・映像・テキストの改変およびAIを用いた加工処理等は日経の著作権ポリシーで禁じています。\n\n▶「著作権に対する姿勢」https://t.co/KY97qzNECm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nikkei.co.jp/nikkeiinfo/cop…",
+                "end": 132,
+                "expanded_url": "https://www.nikkei.co.jp/nikkeiinfo/copyright/",
+                "start": 109,
+                "url": "https://t.co/KY97qzNECm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikkei.com",
+                "end": 23,
+                "expanded_url": "http://www.nikkei.com",
+                "start": 0,
+                "url": "https://t.co/Iajvc1grcc"
+              }
+            ]
+          }
+        },
+        "id": "169480493",
+        "name": "日本経済新聞 電子版（日経電子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161879315933351936/CQbpby6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3877320,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 45750,
+          "media_count": 18194,
+          "tweet_count": 501234
+        },
+        "url": "https://t.co/Iajvc1grcc",
+        "username": "nikkei",
+        "verified": true
+      }
+    ]
+  }
+}

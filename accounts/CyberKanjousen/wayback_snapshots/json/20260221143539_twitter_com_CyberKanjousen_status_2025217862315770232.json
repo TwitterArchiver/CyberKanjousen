@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2025165224408744150",
+    "created_at": "2026-02-21T14:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T15:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025217862315770232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013082274561220608",
+          "start": 0,
+          "username": "Lain75442"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025217862315770232",
+    "in_reply_to_user_id": "2013082274561220608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025165224408744150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lain75442 5G Adventure\n大概等于5.5G\n（但我用起来速度还不如5G😵）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2025165217282621443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrVCQubgAMgsuH.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2025165224408744150",
+        "created_at": "2026-02-21T14:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T15:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025217862315770232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013082274561220608",
+              "start": 0,
+              "username": "Lain75442"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025217862315770232",
+        "in_reply_to_user_id": "2013082274561220608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025165224408744150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lain75442 5G Adventure\n大概等于5.5G\n（但我用起来速度还不如5G😵）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025165217282621443"
+          ]
+        },
+        "author_id": "2013082274561220608",
+        "conversation_id": "2025165224408744150",
+        "created_at": "2026-02-21T11:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025165224408744150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DeWYPJWaNx",
+              "end": 32,
+              "expanded_url": "https://x.com/Lain75442/status/2025165224408744150/photo/1",
+              "media_key": "3_2025165217282621443",
+              "start": 9,
+              "url": "https://t.co/DeWYPJWaNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025165224408744150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2245,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次见到5GA https://t.co/DeWYPJWaNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 59,
+          "like_count": 1622,
+          "listed_count": 2,
+          "media_count": 335,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T02:53:19.000Z",
+        "description": "飞蛾总是飞向有光的地方。大一某211哲学本科在读，梦想是成为哲学家。🌈｜168｜51。🈲NSFW、🈲政治。友好讨论，欢迎交流。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asutaka.ink",
+                "end": 23,
+                "expanded_url": "https://www.asutaka.ink",
+                "start": 0,
+                "url": "https://t.co/lLTJa5d9Zv"
+              }
+            ]
+          }
+        },
+        "id": "2013082274561220608",
+        "location": "Anhui",
+        "name": "Lain_玲音",
+        "pinned_tweet_id": "2019402530883797134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013621867152560129/GYatXa4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 643,
+          "like_count": 1327,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/lLTJa5d9Zv",
+        "username": "Lain75442",
+        "verified": true
+      }
+    ]
+  }
+}

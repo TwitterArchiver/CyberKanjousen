@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2045709600629158074",
+    "created_at": "2026-04-19T11:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045830998827712850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "131794734",
+          "start": 0,
+          "username": "bilibili"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045830998827712850",
+    "in_reply_to_user_id": "131794734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045829263170191818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bilibili 不要哇哔哩哔哩大人呜呜呜呜😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2045709600629158074",
+        "created_at": "2026-04-19T11:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045830998827712850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "131794734",
+              "start": 0,
+              "username": "bilibili"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045830998827712850",
+        "in_reply_to_user_id": "131794734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045829263170191818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bilibili 不要哇哔哩哔哩大人呜呜呜呜😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "131794734",
+        "conversation_id": "2045709600629158074",
+        "created_at": "2026-04-19T11:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045829263170191818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045829263170191818",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045709600629158074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 你赶紧去自首吧😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@CyberRazuberii 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "CyberRazuberii"
+              },
+              {
+                "end": 164,
+                "start": 150,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 116,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 93,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 123,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 523,
+          "like_count": 13907,
+          "listed_count": 5,
+          "media_count": 871,
+          "tweet_count": 4591
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-11T10:25:30.000Z",
+        "description": "",
+        "id": "131794734",
+        "name": "bilibili",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2499224856/909FCCAB-A5FF-4E55-9ED4-57759B1271B9_normal",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 77,
+          "like_count": 171,
+          "listed_count": 5,
+          "media_count": 187,
+          "tweet_count": 4441
+        },
+        "username": "bilibili",
+        "verified": false
+      }
+    ]
+  }
+}

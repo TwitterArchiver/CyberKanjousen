@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2029188530828882033",
+    "created_at": "2026-03-05T05:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029436419756966005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1566269424855687169",
+          "start": 0,
+          "username": "tokiy_0904"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029436419756966005",
+    "in_reply_to_user_id": "1566269424855687169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029188530828882033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiy_0904 -&gt;中国語“家务是我的头痛”\nなにこれ😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2391,
+        "media_key": "3_2029188525078552576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkgNmObIAAIW0H.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2029188530828882033",
+        "created_at": "2026-03-05T05:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029436419756966005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1566269424855687169",
+              "start": 0,
+              "username": "tokiy_0904"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029436419756966005",
+        "in_reply_to_user_id": "1566269424855687169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029188530828882033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiy_0904 -&gt;中国語“家务是我的头痛”\nなにこれ😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029188525078552576"
+          ]
+        },
+        "author_id": "1566269424855687169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2029188530828882033",
+        "created_at": "2026-03-04T13:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029188530828882033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z74xS9OTM2",
+              "end": 46,
+              "expanded_url": "https://x.com/tokiy_0904/status/2029188530828882033/photo/1",
+              "media_key": "3_2029188525078552576",
+              "start": 23,
+              "url": "https://t.co/z74xS9OTM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029188530828882033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 72365,
+          "like_count": 1565,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "【悲報】Duolingo、日本語が下手すぎる https://t.co/z74xS9OTM2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜ CN/EN/JP ｜ 互fo可能 ｜ 崩舟终邦烤玩家 ｜ まのさば好き ｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 104,
+          "like_count": 2883,
+          "listed_count": 1,
+          "media_count": 431,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-04T03:38:32.000Z",
+        "description": "'09(16,新高2) / 漢検準1級 / 地球科学科志望 / 漢字 / 音ゲー / 地震 / 気象少し",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCfUHM…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCfUHMSDidnr_9g2q-ec-epg",
+                "start": 0,
+                "url": "https://t.co/Cb4JZXxjIV"
+              }
+            ]
+          }
+        },
+        "id": "1566269424855687169",
+        "location": "武󠄀藏󠄀國󠄀府󠄀",
+        "name": "朱鷺(とき)",
+        "pinned_tweet_id": "1985351790993551477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908693786517266432/wvJHaYGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1731,
+          "following_count": 2412,
+          "like_count": 242547,
+          "listed_count": 9,
+          "media_count": 2369,
+          "tweet_count": 16351
+        },
+        "url": "https://t.co/Cb4JZXxjIV",
+        "username": "tokiy_0904",
+        "verified": false
+      }
+    ]
+  }
+}

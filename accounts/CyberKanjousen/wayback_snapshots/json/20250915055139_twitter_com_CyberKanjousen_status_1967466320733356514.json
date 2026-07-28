@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1967083378597093834",
+    "created_at": "2025-09-15T05:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T06:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967466320733356514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1706612962168070144",
+          "start": 0,
+          "username": "langheying"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967466320733356514",
+    "in_reply_to_user_id": "1706612962168070144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967083378597093834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@langheying 皮套，安卓思维👎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_1967083375770161152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x76IBbUAAeG1s.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1967083378597093834",
+        "created_at": "2025-09-15T05:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T06:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967466320733356514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1706612962168070144",
+              "start": 0,
+              "username": "langheying"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967466320733356514",
+        "in_reply_to_user_id": "1706612962168070144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967083378597093834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@langheying 皮套，安卓思维👎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967083375770161152"
+          ]
+        },
+        "author_id": "1706612962168070144",
+        "conversation_id": "1967083378597093834",
+        "created_at": "2025-09-14T04:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967083378597093834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojQ1Di7wJh",
+              "end": 23,
+              "expanded_url": "https://x.com/langheying/status/1967083378597093834/photo/1",
+              "media_key": "3_1967083375770161152",
+              "start": 0,
+              "url": "https://t.co/ojQ1Di7wJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967083378597093834",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 289813,
+          "like_count": 2036,
+          "quote_count": 15,
+          "reply_count": 101,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ojQ1Di7wJh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 105
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T10:13:39.000Z",
+        "description": "狼桜一生押し",
+        "id": "1706612962168070144",
+        "location": "Hong Kong",
+        "name": "リシャオラン🐻",
+        "pinned_tweet_id": "1959130278301245635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954197516884336640/mj-WM2By_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 1101,
+          "like_count": 3044,
+          "listed_count": 2,
+          "media_count": 489,
+          "tweet_count": 1700
+        },
+        "username": "langheying",
+        "verified": false
+      }
+    ]
+  }
+}

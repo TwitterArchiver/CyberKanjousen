@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026479764425654272"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026477251022434780",
+    "created_at": "2026-02-25T02:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026479772893851994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aj7I2KMzXQ",
+          "end": 43,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2026479772893851994/photo/1",
+          "media_key": "3_2026479764425654272",
+          "start": 20,
+          "url": "https://t.co/aj7I2KMzXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026479772893851994",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026477251022434780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop 原来右边那人是九鸟（） https://t.co/aj7I2KMzXQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026479772893851994].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026479772893851994",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026479772893851994"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2019,
+        "media_key": "3_2026479764425654272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-Am-cbwAAVrnO.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1018,
+        "media_key": "3_2026423493815050240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9NbmFaIAANFTp.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026423493815050240"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2026477251022434780",
+        "created_at": "2026-02-25T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026477251022434780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dawzIynD0A",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2026477251022434780/photo/1",
+              "media_key": "3_2026423493815050240",
+              "start": 0,
+              "url": "https://t.co/dawzIynD0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026477251022434780",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dawzIynD0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 69,
+          "like_count": 1877,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100977,
+          "following_count": 718,
+          "like_count": 34462,
+          "listed_count": 289,
+          "media_count": 16209,
+          "tweet_count": 23284
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

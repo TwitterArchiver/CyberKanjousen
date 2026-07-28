@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2032942923516456980",
+    "created_at": "2026-03-15T11:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033142975149277495"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "China",
+          "probability": 0.969,
+          "start": 13,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1459767830623178755",
+          "start": 0,
+          "username": "PawelHuryn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033142975149277495",
+    "in_reply_to_user_id": "1459767830623178755",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032942923516456980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PawelHuryn \"China\"\nHave you ever allowed Chinese users to use your product?😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3150,
+        "media_key": "3_2032942917392769024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDZ2z_fXoAA00KC.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032942923516456980",
+        "created_at": "2026-03-15T11:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033142975149277495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "China",
+              "probability": 0.969,
+              "start": 13,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1459767830623178755",
+              "start": 0,
+              "username": "PawelHuryn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033142975149277495",
+        "in_reply_to_user_id": "1459767830623178755",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032942923516456980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PawelHuryn \"China\"\nHave you ever allowed Chinese users to use your product?😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032942917392769024"
+          ]
+        },
+        "author_id": "1459767830623178755",
+        "conversation_id": "2032942923516456980",
+        "created_at": "2026-03-14T22:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:07:12.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032941642752065965",
+          "2032942693391745259",
+          "2032942923516456980"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Claude",
+              "probability": 0.5019,
+              "start": 3,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPenLCsgIJ",
+              "end": 92,
+              "expanded_url": "https://x.com/PawelHuryn/status/2032942923516456980/photo/1",
+              "media_key": "3_2032942917392769024",
+              "start": 69,
+              "url": "https://t.co/tPenLCsgIJ"
+            },
+            {
+              "display_url": "x.com/claudeai/statu…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/claudeai/status/2032911276226257206",
+              "start": 93,
+              "url": "https://t.co/Sf1jzqVj15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032942923516456980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1300,
+          "impression_count": 378489,
+          "like_count": 2851,
+          "quote_count": 87,
+          "reply_count": 90,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032911276226257206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2x Claude usage for the next 2 weeks. Did the timezone math for you. https://t.co/tPenLCsgIJ https://t.co/Sf1jzqVj15"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 151,
+          "like_count": 4638,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-14T06:19:25.000Z",
+        "description": "AI PM | Deep research. I build, test, then teach. 130K+ subscribe → https://t.co/Tpe2QTF08u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "productcompass.pm",
+                "end": 91,
+                "expanded_url": "http://productcompass.pm",
+                "start": 68,
+                "url": "https://t.co/Tpe2QTF08u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "productcompass.pm",
+                "end": 23,
+                "expanded_url": "https://www.productcompass.pm/",
+                "start": 0,
+                "url": "https://t.co/B9jpTdKDGa"
+              }
+            ]
+          }
+        },
+        "id": "1459767830623178755",
+        "location": "Newsletter: Join 130K+ →",
+        "name": "Paweł Huryn",
+        "pinned_tweet_id": "2025470280945041547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031703870615715840/aq6W0Caw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42008,
+          "following_count": 370,
+          "like_count": 3416,
+          "listed_count": 758,
+          "media_count": 1589,
+          "tweet_count": 6390
+        },
+        "url": "https://t.co/B9jpTdKDGa",
+        "username": "PawelHuryn",
+        "verified": true
+      }
+    ]
+  }
+}

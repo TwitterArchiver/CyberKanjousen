@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2062496793074782280",
+    "created_at": "2026-06-04T12:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062516378142384614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1751290211345330176",
+          "start": 0,
+          "username": "AwP0rt0h1ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062516378142384614",
+    "in_reply_to_user_id": "1751290211345330176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062497622842315226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AwP0rt0h1ty 豆包能用来 Vibe Coding 吗？\n環状線记得豆包没有自己的 Agent 客户端，连 API 也没有吧🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062496793074782280",
+        "created_at": "2026-06-04T12:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062516378142384614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1751290211345330176",
+              "start": 0,
+              "username": "AwP0rt0h1ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062516378142384614",
+        "in_reply_to_user_id": "1751290211345330176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062497622842315226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AwP0rt0h1ty 豆包能用来 Vibe Coding 吗？\n環状線记得豆包没有自己的 Agent 客户端，连 API 也没有吧🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751290211345330176",
+        "conversation_id": "2062496793074782280",
+        "created_at": "2026-06-04T11:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062497622842315226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062497622842315226",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062496793074782280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 何止一半  能说出这种话的智商不及常人十分之一\n问他用什么 Vibe 他估计会说用豆包"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2062202655741767826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823,
+          "following_count": 869,
+          "like_count": 24276,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 7313
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T17:05:09.000Z",
+        "description": "Koishi 聊天机器人插件 Minecraft Fishtime开发者\n正在开发 独立应用 OCC-OpenClassCooperation\n技术栈：JavaScript/TypeScript  Python C# Vue\n偏好开源协议 MIT\n友跨  双\n自家笨宝@kuailebang2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 134,
+                "username": "kuailebang2"
+              }
+            ]
+          }
+        },
+        "id": "1751290211345330176",
+        "location": "Shandong Province",
+        "name": "AwP0rt0h1ty",
+        "pinned_tweet_id": "1989981176040476672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055713527340388352/CDXIoXsK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 336,
+          "like_count": 4557,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1966
+        },
+        "username": "AwP0rt0h1ty",
+        "verified": false
+      }
+    ]
+  }
+}

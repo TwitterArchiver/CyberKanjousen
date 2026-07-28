@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2003327599377035537",
+    "created_at": "2025-12-23T04:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003327599377035537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999034817514807296",
+          "start": 3,
+          "username": "Kirara_Kazari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003327599377035537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003272951395950979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirara_Kazari: sinx对cosx说，今天晚上是tanx还是cotx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2003327599377035537",
+        "created_at": "2025-12-23T04:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003327599377035537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999034817514807296",
+              "start": 3,
+              "username": "Kirara_Kazari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003327599377035537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003272951395950979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirara_Kazari: sinx对cosx说，今天晚上是tanx还是cotx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999034817514807296",
+        "conversation_id": "2003272951395950979",
+        "created_at": "2025-12-23T01:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T02:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003272951395950979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003272951395950979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sinx对cosx说，今天晚上是tanx还是cotx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 318
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:33:47.000Z",
+        "description": "一起，起飞吧。第二次。 osu 5 digit player\nopen to everything. 一代目:@Kirara_Miku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Kirara_Miku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/TzQPM7aR5o"
+              }
+            ]
+          }
+        },
+        "id": "1999034817514807296",
+        "location": "風莉の星",
+        "name": "雲母風莉",
+        "pinned_tweet_id": "1999050355527839797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999034960959963137/ClOIp2wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 190,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/TzQPM7aR5o",
+        "username": "Kirara_Kazari",
+        "verified": false
+      }
+    ]
+  }
+}

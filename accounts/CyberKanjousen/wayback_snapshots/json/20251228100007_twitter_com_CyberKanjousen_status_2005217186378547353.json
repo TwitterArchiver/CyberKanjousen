@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005156364365303808"
+      ],
+      "media_source_tweet_id": [
+        "2005202064415092771"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2005217186378547353",
+    "created_at": "2025-12-28T10:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005217186378547353"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "桜羽エマ",
+          "probability": 0.3405,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "47955870",
+          "start": 3,
+          "username": "kasuga_iz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/32hEhx4F78",
+          "end": 43,
+          "expanded_url": "https://x.com/kasuga_iz/status/2005202064415092771/photo/1",
+          "media_key": "3_2005156364365303808",
+          "start": 20,
+          "url": "https://t.co/32hEhx4F78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005217186378547353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 530
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005202064415092771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasuga_iz: 桜羽エマ https://t.co/32hEhx4F78"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_2005156364365303808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9O_FvEbkAA3M0F.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005156364365303808"
+          ],
+          "media_source_tweet_id": [
+            "2005202064415092771"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2005217186378547353",
+        "created_at": "2025-12-28T10:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005217186378547353"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "桜羽エマ",
+              "probability": 0.3405,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "47955870",
+              "start": 3,
+              "username": "kasuga_iz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32hEhx4F78",
+              "end": 43,
+              "expanded_url": "https://x.com/kasuga_iz/status/2005202064415092771/photo/1",
+              "media_key": "3_2005156364365303808",
+              "start": 20,
+              "url": "https://t.co/32hEhx4F78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005217186378547353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 530
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005202064415092771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasuga_iz: 桜羽エマ https://t.co/32hEhx4F78"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005156364365303808"
+          ]
+        },
+        "author_id": "47955870",
+        "conversation_id": "2005202064415092771",
+        "created_at": "2025-12-28T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005202064415092771"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "桜羽エマ",
+              "probability": 0.3598,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/32hEhx4F78",
+              "end": 28,
+              "expanded_url": "https://x.com/kasuga_iz/status/2005202064415092771/photo/1",
+              "media_key": "3_2005156364365303808",
+              "start": 5,
+              "url": "https://t.co/32hEhx4F78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005202064415092771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 27757,
+          "like_count": 3020,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "桜羽エマ https://t.co/32hEhx4F78"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 378
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-17T13:16:03.000Z",
+        "description": "春日いづれです。エモとかわいいを描きたいです！最近はブルアカとまのさばを遊んでいます。Fanbox：https://t.co/qo2sDpuDVW / Skeb : https://t.co/LMnBwJQPdx / Sub：@sub_kasuga ⚠Do not use my art.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "sub_kasuga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kasuga-iz.fanbox.cc",
+                "end": 73,
+                "expanded_url": "https://kasuga-iz.fanbox.cc",
+                "start": 50,
+                "url": "https://t.co/qo2sDpuDVW"
+              },
+              {
+                "display_url": "skeb.jp/@kasuga_iz",
+                "end": 106,
+                "expanded_url": "http://skeb.jp/@kasuga_iz",
+                "start": 83,
+                "url": "https://t.co/LMnBwJQPdx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kasugaizure",
+                "end": 23,
+                "expanded_url": "https://lit.link/kasugaizure",
+                "start": 0,
+                "url": "https://t.co/1YnOM7NVFC"
+              }
+            ]
+          }
+        },
+        "id": "47955870",
+        "location": "連絡先はlit.linkに記載しています！",
+        "name": "春日✨️C107(火)東ア-77ab",
+        "pinned_tweet_id": "2002302957828587803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325441442353852417/CkHPS4KU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73571,
+          "following_count": 1181,
+          "like_count": 28055,
+          "listed_count": 724,
+          "media_count": 2670,
+          "tweet_count": 60040
+        },
+        "url": "https://t.co/1YnOM7NVFC",
+        "username": "kasuga_iz",
+        "verified": true
+      }
+    ]
+  }
+}

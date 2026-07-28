@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2000872359302250577",
+    "created_at": "2025-12-16T12:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T13:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000903726840864913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1263087080973807617",
+          "start": 0,
+          "username": "yachippppp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000903726840864913",
+    "in_reply_to_user_id": "1263087080973807617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000872359302250577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yachippppp 你说的对但是原神是一款由米哈游自主研发的……后面忘了（随便说说）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2000872359302250577",
+        "created_at": "2025-12-16T12:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T13:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000903726840864913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1263087080973807617",
+              "start": 0,
+              "username": "yachippppp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000903726840864913",
+        "in_reply_to_user_id": "1263087080973807617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000872359302250577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yachippppp 你说的对但是原神是一款由米哈游自主研发的……后面忘了（随便说说）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263087080973807617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2000872359302250577",
+        "created_at": "2025-12-16T10:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000872359302250577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000872359302250577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1810,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "でも中国語の勉強は楽しい！まだ難しいところまでいってないからだと思われますが…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 252
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T12:44:17.000Z",
+        "description": "ちうね（＠yachixxxxxx)の健全なアカウントです。秋丸ねう名義で学マスアンソロ参加したよ きららキャラットで「紡ぐ乙女と大正の月」連載してました。お仕事のご依頼はchiune329⭐︎https://t.co/ESNqlmk34o(⭐︎→@)まで 単行本→https://t.co/JUsP17Byka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "yachixxxxxx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 119,
+                "expanded_url": "http://gmail.com",
+                "start": 96,
+                "url": "https://t.co/ESNqlmk34o"
+              },
+              {
+                "display_url": "amazon.co.jp/dp/4832271997/",
+                "end": 155,
+                "expanded_url": "http://amazon.co.jp/dp/4832271997/",
+                "start": 132,
+                "url": "https://t.co/JUsP17Byka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiunetube",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@chiunetube",
+                "start": 0,
+                "url": "https://t.co/0ei6hjqbTV"
+              }
+            ]
+          }
+        },
+        "id": "1263087080973807617",
+        "location": "締切でリンボーダンス",
+        "name": "ちうね/2日目東カ－14ab",
+        "pinned_tweet_id": "1984184729743380949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263090551596802049/CBn6WK99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21040,
+          "following_count": 98,
+          "like_count": 6200,
+          "listed_count": 176,
+          "media_count": 817,
+          "tweet_count": 10048
+        },
+        "url": "https://t.co/0ei6hjqbTV",
+        "username": "yachippppp",
+        "verified": true
+      }
+    ]
+  }
+}

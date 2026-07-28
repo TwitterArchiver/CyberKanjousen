@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026294986",
+          "name": "MasterCard"
+        }
+      }
+    ],
+    "conversation_id": "2013976803409633344",
+    "created_at": "2026-01-21T14:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013978821813318004"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2013978821813318004",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013976803409633344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话说那个虚假网站除了加密货币地址以外，竟然也支持MasterCard和VISA付款，诈骗犯子不担心银行会追回款项吗😅\n还是说那两个付款方式其实无法使用，摆在那里只是打个马虎眼，以弄假成真？\n不仅如此，虚假网站也有我要找的《视觉SLAM十四讲》这本书，封面和真实网站别无二致，看来是Z-Library源码泄露了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2013973640119812096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_MSWu5XgAAQlhV.jpg",
+        "width": 2557
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026294986",
+              "name": "MasterCard"
+            }
+          }
+        ],
+        "conversation_id": "2013976803409633344",
+        "created_at": "2026-01-21T14:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013978821813318004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013978821813318004",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013976803409633344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说那个虚假网站除了加密货币地址以外，竟然也支持MasterCard和VISA付款，诈骗犯子不担心银行会追回款项吗😅\n还是说那两个付款方式其实无法使用，摆在那里只是打个马虎眼，以弄假成真？\n不仅如此，虚假网站也有我要找的《视觉SLAM十四讲》这本书，封面和真实网站别无二致，看来是Z-Library源码泄露了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013973640119812096"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2013976803409633344",
+        "created_at": "2026-01-21T14:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013976803409633344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVyYAj4Yot",
+              "end": 120,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2013976803409633344/photo/1",
+              "media_key": "3_2013973640119812096",
+              "start": 97,
+              "url": "https://t.co/lVyYAj4Yot"
+            },
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Cldeop/status/2013968928238936467",
+              "start": 121,
+              "url": "https://t.co/kZf8HOKL0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013976803409633344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于虚假网站\n我今天谷歌了一下Z-Lib，想要下载一本书，返回的第一个结果是一个域名为.id的网站。我进了之后发现登录状态失效了，于是登录了一下，结果之后直接说让我付费升级，否则无法下载书籍。\n我觉得很奇怪，于是问了下Gemini。Gemini说Z-Library一直都是可以免费下载书籍的，我于是对那个.id域名的网站起了疑心，旋即通过历史记录里的另一地址访问Z-Library，发现登录状态实际上并没有失效，而且下载书记并不需要付费。\n在Z-Library搜索页面看到了官方贴出的这个告示，我意识到之前访问的是虚假网站，于是立刻修改了密码\n诈骗犯子没一个家里有喘气的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013968928238936467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于虚假网站\n我今天谷歌了一下Z-Lib，想要下载一本书，返回的第一个结果是一个域名为.id的网站。我进了之后发现登录状态失效了，于是登录了一下，结果之后直接说让我付费升级，否则无法下载书籍。 https://t.co/lVyYAj4Yot https://t.co/kZf8HOKL0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 878
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

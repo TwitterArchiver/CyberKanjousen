@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2032855609633362006",
+    "created_at": "2026-03-15T09:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T10:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033114145382617091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911914631893024768",
+          "start": 0,
+          "username": "ZhiLin54110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033114145382617091",
+    "in_reply_to_user_id": "1911914631893024768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033110954410754270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhiLin54110 现在还有几个 B 友知道御坂美琴的？😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032855609633362006",
+        "created_at": "2026-03-15T09:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033114145382617091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911914631893024768",
+              "start": 0,
+              "username": "ZhiLin54110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033114145382617091",
+        "in_reply_to_user_id": "1911914631893024768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033110954410754270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhiLin54110 现在还有几个 B 友知道御坂美琴的？😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911914631893024768",
+        "conversation_id": "2032855609633362006",
+        "created_at": "2026-03-15T09:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T10:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033110954410754270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033110954410754270",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032855609633362006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 哔站？早就是坟场粪坑了，吉祥物御坂美琴边缘化了😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 148,
+          "like_count": 4614,
+          "listed_count": 2,
+          "media_count": 496,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T22:49:39.000Z",
+        "description": "鄙人是专科生，喜欢日漫二次元，玩使命召唤，也喜欢其他欧美游戏还有汉文化\n说句心里话，哔哩哔哩腾讯网易伤害我太深了，对内重拳出击，对外唯唯诺诺，洋鬼子是你爹是吧？国漫2d不管管了？3d泛滥同质化公式化严重，还修仙呢？以后直接盗版白嫖，不会充一分钱！\n还限日限韩，笑死我了，自己都一个劲的送钱",
+        "id": "1911914631893024768",
+        "name": "宫村米子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024887896596242432/gtWaZ5MZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 137,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "ZhiLin54110",
+        "verified": false
+      }
+    ]
+  }
+}

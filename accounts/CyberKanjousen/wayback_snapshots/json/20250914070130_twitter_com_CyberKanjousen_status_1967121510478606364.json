@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967121501792202754"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "1967063253147938879",
+    "created_at": "2025-09-14T07:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967121510478606364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1646013705874976768",
+          "start": 0,
+          "username": "girlsbandcry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DToSXY5Xcq",
+          "end": 37,
+          "expanded_url": "https://x.com/CyberKanjousen/status/1967121510478606364/photo/1",
+          "media_key": "3_1967121501792202754",
+          "start": 14,
+          "url": "https://t.co/DToSXY5Xcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967121510478606364",
+    "in_reply_to_user_id": "1646013705874976768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967063253147938879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@girlsbandcry https://t.co/DToSXY5Xcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 445,
+        "media_key": "3_1967121501792202754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yelWhbcAIDTon.jpg",
+        "width": 442
+      },
+      {
+        "duration_ms": 7316,
+        "height": 675,
+        "media_key": "13_1967055534710026240",
+        "preview_image_url": "https://pbs.twimg.com/media/G0xjMIjbgAAGN12.jpg",
+        "public_metrics": {
+          "view_count": 59886
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967055534710026240/vid/avc1/478x270/QuRSeZ0SGALPKSLs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967055534710026240/vid/avc1/638x360/5XkDwZZjqRXobn3Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967055534710026240/vid/avc1/952x536/evXJnSq1tSFcLix3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967055534710026240/pl/XPyX8quFGbJdYUH1.m3u8"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967121501792202754"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "1967063253147938879",
+        "created_at": "2025-09-14T07:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967121510478606364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1646013705874976768",
+              "start": 0,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DToSXY5Xcq",
+              "end": 37,
+              "expanded_url": "https://x.com/CyberKanjousen/status/1967121510478606364/photo/1",
+              "media_key": "3_1967121501792202754",
+              "start": 14,
+              "url": "https://t.co/DToSXY5Xcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967121510478606364",
+        "in_reply_to_user_id": "1646013705874976768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967063253147938879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@girlsbandcry https://t.co/DToSXY5Xcq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967055534710026240"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "1967063253147938879",
+        "created_at": "2025-09-14T03:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967063253147938879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "桃香",
+              "probability": 0.5342,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "桃ワショ"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 156,
+              "start": 143,
+              "tag": "GirlsBandCry"
+            },
+            {
+              "end": 165,
+              "start": 157,
+              "tag": "TGS2025"
+            },
+            {
+              "end": 172,
+              "start": 166,
+              "tag": "Steam"
+            },
+            {
+              "end": 182,
+              "start": 173,
+              "tag": "トゲナシトゲアリ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Steam is the ultimate destination for playing, discussing, and creating games.",
+              "display_url": "store.steampowered.com/app/3642370/_/",
+              "end": 135,
+              "expanded_url": "https://store.steampowered.com/app/3642370/_/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1964545279140777985/uZ0d1jTB?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1964545279140777985/uZ0d1jTB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "Steam Store",
+              "unwound_url": "https://store.steampowered.com/",
+              "url": "https://t.co/BtV3j6avDT"
+            },
+            {
+              "display_url": "pic.x.com/af2e3CJzOg",
+              "end": 206,
+              "expanded_url": "https://x.com/girlsbandcry/status/1967063253147938879/video/1",
+              "media_key": "13_1967055534710026240",
+              "start": 183,
+              "url": "https://t.co/af2e3CJzOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967063253147938879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 742,
+          "impression_count": 297107,
+          "like_count": 5906,
+          "quote_count": 401,
+          "reply_count": 53,
+          "retweet_count": 2604
+        },
+        "reply_settings": "everyone",
+        "text": "#桃ワショ 公開１周年記念🎂\nあの「桃香（を）ワッショイ」が\n9月29日(月)よりSteamで発売決定！🎮\n\n10月12日(日)までセール価格で350円です‼\n\nウィッシュリストに登録して\n発売をお待ちください✨\n🔗ストア\nhttps://t.co/BtV3j6avDT\n\n#ガルクラ #GirlsBandCry #TGS2025 #Steam #トゲナシトゲアリ https://t.co/af2e3CJzOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 101
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1943263934053781838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220841,
+          "following_count": 27,
+          "like_count": 3373,
+          "listed_count": 822,
+          "media_count": 1996,
+          "tweet_count": 4960
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

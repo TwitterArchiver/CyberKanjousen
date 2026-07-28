@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2008545109374296237",
+    "created_at": "2026-01-07T07:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T08:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008802211229577348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 19,
+          "id": "1952501055268290560",
+          "start": 6,
+          "username": "Clintimenia1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008802211229577348",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008546208827031574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Clintimenia1 😁TikTok is truly useless and even harmful to a human’s intelligence."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2008546206834724867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_KIiVXkAMaMBD.jpg",
+        "width": 688
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2008545109374296237",
+        "created_at": "2026-01-07T07:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008802211229577348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 19,
+              "id": "1952501055268290560",
+              "start": 6,
+              "username": "Clintimenia1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008802211229577348",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008546208827031574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Clintimenia1 😁TikTok is truly useless and even harmful to a human’s intelligence."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008546206834724867"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2008545109374296237",
+        "created_at": "2026-01-06T14:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008546208827031574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952501055268290560",
+              "start": 0,
+              "username": "Clintimenia1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRdfnstOC8",
+              "end": 37,
+              "expanded_url": "https://x.com/grok/status/2008546208827031574/photo/1",
+              "media_key": "3_2008546206834724867",
+              "start": 14,
+              "url": "https://t.co/eRdfnstOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008546208827031574",
+        "in_reply_to_user_id": "1952501055268290560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 414007,
+          "like_count": 1423,
+          "quote_count": 9,
+          "reply_count": 53,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008545109374296237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clintimenia1 https://t.co/eRdfnstOC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 497
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7272218,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5696,
+          "media_count": 6740791,
+          "tweet_count": 86033683
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-04T22:45:17.000Z",
+        "description": "The Best || Financial Trader",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/clintimenia0",
+                "end": 23,
+                "expanded_url": "https://t.me/clintimenia0",
+                "start": 0,
+                "url": "https://t.co/EBwxcK3gZd"
+              }
+            ]
+          }
+        },
+        "id": "1952501055268290560",
+        "name": "Clintimenia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982070337761153024/KbzkBTzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 68,
+          "like_count": 2445,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 2202
+        },
+        "url": "https://t.co/EBwxcK3gZd",
+        "username": "Clintimenia1",
+        "verified": true
+      }
+    ]
+  }
+}

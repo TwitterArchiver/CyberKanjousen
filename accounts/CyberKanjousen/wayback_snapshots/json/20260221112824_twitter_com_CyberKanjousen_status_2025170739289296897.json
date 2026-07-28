@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025170678870409219"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025170737209004223",
+    "created_at": "2026-02-21T11:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025170739289296897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "bilibili.com/video/BV18eZvB…",
+          "end": 26,
+          "expanded_url": "https://www.bilibili.com/video/BV18eZvBFEHq",
+          "start": 3,
+          "url": "https://t.co/v2Tx8aVrPT"
+        },
+        {
+          "display_url": "pic.x.com/HH8xp1tfsv",
+          "end": 50,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2025170739289296897/photo/1",
+          "media_key": "3_2025170678870409219",
+          "start": 27,
+          "url": "https://t.co/HH8xp1tfsv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025170739289296897",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025170737209004223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出处：https://t.co/v2Tx8aVrPT https://t.co/HH8xp1tfsv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2025170678870409219",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBraAKubgAMkO_g.jpg",
+        "width": 1916
+      },
+      {
+        "duration_ms": 15100,
+        "height": 480,
+        "media_key": "13_2025170333712715776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025170333712715776/img/rAmQ7aHmpBSdk0fP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025170333712715776/vid/avc1/478x270/6vi2lM2RbTrXZxIh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025170333712715776/vid/avc1/638x360/SGmG6xLJ8YgzrBwF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025170333712715776/vid/avc1/852x480/P8Xuh3E5y6g6qR7J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025170333712715776/pl/Hd2SFV1Q4gTXZ_56.m3u8"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025170678870409219"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025170737209004223",
+        "created_at": "2026-02-21T11:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025170739289296897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV18eZvB…",
+              "end": 26,
+              "expanded_url": "https://www.bilibili.com/video/BV18eZvBFEHq",
+              "start": 3,
+              "url": "https://t.co/v2Tx8aVrPT"
+            },
+            {
+              "display_url": "pic.x.com/HH8xp1tfsv",
+              "end": 50,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2025170739289296897/photo/1",
+              "media_key": "3_2025170678870409219",
+              "start": 27,
+              "url": "https://t.co/HH8xp1tfsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025170739289296897",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025170737209004223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出处：https://t.co/v2Tx8aVrPT https://t.co/HH8xp1tfsv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025170333712715776"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2025170737209004223",
+        "created_at": "2026-02-21T11:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025170737209004223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9Dj3BkfUY",
+              "end": 29,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2025170737209004223/video/1",
+              "media_key": "13_2025170333712715776",
+              "start": 6,
+              "url": "https://t.co/h9Dj3BkfUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025170737209004223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "并非老资历 https://t.co/h9Dj3BkfUY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 59,
+          "like_count": 1610,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

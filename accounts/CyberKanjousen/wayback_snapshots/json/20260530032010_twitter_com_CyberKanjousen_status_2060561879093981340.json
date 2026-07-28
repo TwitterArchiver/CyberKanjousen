@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2060557515520385194",
+    "created_at": "2026-05-30T03:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060561879093981340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1495150221793189888",
+          "start": 0,
+          "username": "Kelupain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060561879093981340",
+    "in_reply_to_user_id": "1495150221793189888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060560746174685361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kelupain 百合在拉美国家也很受欢迎吗？\n本以为拉美的文化和东亚文化差异很大，但目前来看和中日韩二次元最有共同话题的反而是拉美😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060557515520385194",
+        "created_at": "2026-05-30T03:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060561879093981340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1495150221793189888",
+              "start": 0,
+              "username": "Kelupain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060561879093981340",
+        "in_reply_to_user_id": "1495150221793189888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060560746174685361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kelupain 百合在拉美国家也很受欢迎吗？\n本以为拉美的文化和东亚文化差异很大，但目前来看和中日韩二次元最有共同话题的反而是拉美😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495150221793189888",
+        "conversation_id": "2060557515520385194",
+        "created_at": "2026-05-30T03:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060560746174685361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060560746174685361",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060557515520385194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我经常能刷到一个西班牙语国家的人在发各种百合漫相关的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 866,
+          "like_count": 23192,
+          "listed_count": 11,
+          "media_count": 1232,
+          "tweet_count": 6910
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-19T21:36:26.000Z",
+        "description": "",
+        "id": "1495150221793189888",
+        "name": "蝎原雷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999326585854513152/pv63CcNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 978,
+          "like_count": 10417,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 3465
+        },
+        "username": "Kelupain",
+        "verified": false
+      }
+    ]
+  }
+}

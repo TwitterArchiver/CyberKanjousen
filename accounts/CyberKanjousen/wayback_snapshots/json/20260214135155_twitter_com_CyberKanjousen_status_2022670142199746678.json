@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2022670142199746678",
+    "created_at": "2026-02-14T13:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T14:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022670142199746678"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022670142199746678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "春节快到了，看了孩子的推特🌹🌹🌹\n想看看孩子平时是不是跟小姑娘聊天\n结果翻了一遍，本以为能逮到几个甜甜的女孩子\n结果没想到全是玩Linux/Python/kali/Andrax/C++/Java/C/Windows/JavaScript/PHP/Go/Lua/MySQL/Rust/Swift/Kotlin/TypeScript/Ruby/Perl/Shell/HTML5/CSS3/Node.js/React/Vue.js/Docker/Kubernetes/nginx/Redis/MongoDB/Git/Vim/Emacs/Visual Studio Code/Arch Linux/Manjaro/Ubuntu/CentOS/树莓派/OpenWrt/黑苹果/Hackintosh/Metasploit/Nmap/Wireshark/Burp Suite/Unreal Engine/Unity/Blender/OpenGL/汇编/MATLAB/R语言/Erlang/Elixir/Haskell/Scala/Dart/Flutter/Qt 的！！！\n看到这儿，我顿时就放心了/厉害/厉害/厉害\n看来是我多虑了，孩子根本没空早恋，也没空睡觉。\n碧阳孩子前途一片阴暗，这辈子算是跟机房CP锁死了。\n飞了，孩子👍👍👍\n祝你在这个情人节，跟你的Bug和404页面过得开心！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "春节快到了，看了孩子的推特🌹🌹🌹\n想看看孩子平时是不是跟小姑娘聊天\n结果翻了一遍，本以为能逮到几个甜甜的女孩子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022670142199746678",
+        "created_at": "2026-02-14T13:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T14:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022670142199746678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022670142199746678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "春节快到了，看了孩子的推特🌹🌹🌹\n想看看孩子平时是不是跟小姑娘聊天\n结果翻了一遍，本以为能逮到几个甜甜的女孩子\n结果没想到全是玩Linux/Python/kali/Andrax/C++/Java/C/Windows/JavaScript/PHP/Go/Lua/MySQL/Rust/Swift/Kotlin/TypeScript/Ruby/Perl/Shell/HTML5/CSS3/Node.js/React/Vue.js/Docker/Kubernetes/nginx/Redis/MongoDB/Git/Vim/Emacs/Visual Studio Code/Arch Linux/Manjaro/Ubuntu/CentOS/树莓派/OpenWrt/黑苹果/Hackintosh/Metasploit/Nmap/Wireshark/Burp Suite/Unreal Engine/Unity/Blender/OpenGL/汇编/MATLAB/R语言/Erlang/Elixir/Haskell/Scala/Dart/Flutter/Qt 的！！！\n看到这儿，我顿时就放心了/厉害/厉害/厉害\n看来是我多虑了，孩子根本没空早恋，也没空睡觉。\n碧阳孩子前途一片阴暗，这辈子算是跟机房CP锁死了。\n飞了，孩子👍👍👍\n祝你在这个情人节，跟你的Bug和404页面过得开心！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春节快到了，看了孩子的推特🌹🌹🌹\n想看看孩子平时是不是跟小姑娘聊天\n结果翻了一遍，本以为能逮到几个甜甜的女孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜114514流写手｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 35,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

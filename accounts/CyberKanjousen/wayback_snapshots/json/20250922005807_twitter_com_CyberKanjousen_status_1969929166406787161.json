@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1969530646549971128",
+    "created_at": "2025-09-22T00:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969929166406787161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1814583260527394816",
+          "start": 0,
+          "username": "konosorae"
+        },
+        {
+          "end": 26,
+          "id": "1865419581206208512",
+          "start": 11,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969929166406787161",
+    "in_reply_to_user_id": "1814583260527394816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969640794777927837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konosorae @DDzhanshou5150 玉玉笑传之掺冰冰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1969530646549971128",
+        "created_at": "2025-09-22T00:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969929166406787161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814583260527394816",
+              "start": 0,
+              "username": "konosorae"
+            },
+            {
+              "end": 26,
+              "id": "1865419581206208512",
+              "start": 11,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969929166406787161",
+        "in_reply_to_user_id": "1814583260527394816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969640794777927837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konosorae @DDzhanshou5150 玉玉笑传之掺冰冰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814583260527394816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1969530646549971128",
+        "created_at": "2025-09-21T05:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969640794777927837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969640794777927837",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5404,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969530646549971128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 这样，去找一个得了肺癌的高中化学老师和一个往货里加胡椒粉的小混混"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 116
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T08:49:24.000Z",
+        "description": "不必认识我不必了解我不要靠近我       \n\n绝对纯粹重男的暗面堆积处       \n\n和我互动请做好被长期视奸的准备",
+        "id": "1814583260527394816",
+        "name": "riff",
+        "pinned_tweet_id": "1855351681741132124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814584211862659073/3_UcmUaC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 113,
+          "like_count": 2966,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 458
+        },
+        "username": "konosorae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7061,
+          "following_count": 6573,
+          "like_count": 23114,
+          "listed_count": 14,
+          "media_count": 4838,
+          "tweet_count": 33454
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

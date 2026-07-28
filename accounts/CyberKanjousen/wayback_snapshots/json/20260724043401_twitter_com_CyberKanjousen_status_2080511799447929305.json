@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2080511799447929305",
+    "created_at": "2026-07-24T04:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080511799447929305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijinping_bot/…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/xijinping_bot/status/2080503936981897466",
+          "start": 48,
+          "url": "https://t.co/bGYN1VQXZa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080511799447929305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080503936981897466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话说「男凝」是什么意思，念起来好像「男娘」，是「男娘」为了规避墙内屏蔽词机制而谐音出来的词吗？ https://t.co/bGYN1VQXZa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080511799447929305",
+        "created_at": "2026-07-24T04:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080511799447929305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijinping_bot/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/xijinping_bot/status/2080503936981897466",
+              "start": 48,
+              "url": "https://t.co/bGYN1VQXZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080511799447929305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080503936981897466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说「男凝」是什么意思，念起来好像「男娘」，是「男娘」为了规避墙内屏蔽词机制而谐音出来的词吗？ https://t.co/bGYN1VQXZa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790448736629301248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2080155696809619742",
+        "created_at": "2026-07-24T04:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080503936981897466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080503936981897466",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080155696809619742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 致敬最不男凝，最有逻辑，最讲礼貌，最不像韦哥，最没有架子，最心理健康的百合理论家👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11761,
+          "following_count": 882,
+          "like_count": 31510,
+          "listed_count": 20,
+          "media_count": 2222,
+          "tweet_count": 10956
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "📕🔪/异端毛派/利伯塔利亚通/无产阶级专政万岁，人类专政万岁/驱逐汉畜，恢复马列/#我的史观 #精神探索 #奇异搞笑/告别土地，与农耕文明决裂/毛泽东万寿无疆，毛主席遗臭万年",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 41,
+                "tag": "我的史观"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "精神探索"
+              },
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "奇异搞笑"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5ZMa"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "武汉0731研究院",
+        "name": "羽泽东与秦始皇🇮🇷🚩——色指导勾引考茨基罪大恶极",
+        "pinned_tweet_id": "2076737306241974562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076205963405856768/wOyb_Dwi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 1609,
+          "like_count": 26991,
+          "listed_count": 16,
+          "media_count": 1050,
+          "tweet_count": 21139
+        },
+        "url": "https://t.co/ZQF7vW5ZMa",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

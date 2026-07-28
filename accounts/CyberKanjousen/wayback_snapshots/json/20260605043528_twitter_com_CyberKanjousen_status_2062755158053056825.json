@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2062701185023214012",
+    "created_at": "2026-06-05T04:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062755158053056825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1627140243412639744",
+          "start": 0,
+          "username": "Smartest2077"
+        },
+        {
+          "end": 27,
+          "id": "1444347089308184581",
+          "start": 14,
+          "username": "HellKillerEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062755158053056825",
+    "in_reply_to_user_id": "1627140243412639744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062746626272506170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smartest2077 @HellKillerEX 有道理。对于商家而言，扫码理论上只需要一张印着二维码的纸，NFC 却需要 POS 机。\n\n不过大一些的商家还是都有 POS 机的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062701185023214012",
+        "created_at": "2026-06-05T04:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062755158053056825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627140243412639744",
+              "start": 0,
+              "username": "Smartest2077"
+            },
+            {
+              "end": 27,
+              "id": "1444347089308184581",
+              "start": 14,
+              "username": "HellKillerEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062755158053056825",
+        "in_reply_to_user_id": "1627140243412639744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062746626272506170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smartest2077 @HellKillerEX 有道理。对于商家而言，扫码理论上只需要一张印着二维码的纸，NFC 却需要 POS 机。\n\n不过大一些的商家还是都有 POS 机的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627140243412639744",
+        "conversation_id": "2062701185023214012",
+        "created_at": "2026-06-05T04:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062746626272506170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 29,
+              "id": "1444347089308184581",
+              "start": 16,
+              "username": "HellKillerEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062746626272506170",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062722002109239297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @HellKillerEX 但是码方便的不只是消费者，也方便了商家的准备，尤其是路边摊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4857,
+          "following_count": 867,
+          "like_count": 24351,
+          "listed_count": 10,
+          "media_count": 1315,
+          "tweet_count": 7338
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-19T02:57:28.000Z",
+        "description": "千粉大号 @Smartest8964 被人才🐜🐲封禁，寻回推油中\n提问箱https://t.co/zUiWF50YWn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Smartest8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/smartest8964",
+                "end": 59,
+                "expanded_url": "https://ngl.link/smartest8964",
+                "start": 36,
+                "url": "https://t.co/zUiWF50YWn"
+              }
+            ]
+          }
+        },
+        "id": "1627140243412639744",
+        "name": "𝕿𝕽𝖀𝕿𝕳🇹🇼",
+        "pinned_tweet_id": "1953048470417494290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020483548105658368/ozUwDTOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 411,
+          "like_count": 2885,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 2033
+        },
+        "username": "Smartest2077",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T17:02:52.000Z",
+        "description": "♂️です|⚧️🏳️‍⚧️ friendly|昔からの激推し:🍀@shino_nome22|他最推し:🐇🎀@rin_risu2/🐤@kc_2_cos/🌸@n_mikitani/⋈@hiiragi_yuka530/🍫💪@Chocolat_cos0/🌸🌸@angelia_lapin/🍑@tmmt_san",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "shino_nome22"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "rin_risu2"
+              },
+              {
+                "end": 73,
+                "start": 64,
+                "username": "kc_2_cos"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "n_mikitani"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "hiiragi_yuka530"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Chocolat_cos0"
+              },
+              {
+                "end": 138,
+                "start": 124,
+                "username": "angelia_lapin"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "tmmt_san"
+              }
+            ]
+          }
+        },
+        "id": "1444347089308184581",
+        "name": "ℝ𝕖𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟(Elder Luminescence)♂️🩷🍀🐇",
+        "pinned_tweet_id": "2058456051465453786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007387585484832768/divYTE2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 7499,
+          "like_count": 20542,
+          "listed_count": 6,
+          "media_count": 1288,
+          "tweet_count": 24764
+        },
+        "username": "HellKillerEX",
+        "verified": false
+      }
+    ]
+  }
+}

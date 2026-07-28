@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2060323836453933352",
+    "created_at": "2026-05-29T11:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T12:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060325947820400985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497883344385626112",
+          "start": 0,
+          "username": "xuelangchensha1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060325947820400985",
+    "in_reply_to_user_id": "1497883344385626112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060324600584831218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelangchensha1 環状線今天已经不知道多少回在墙内刷到这个照片了……\n后来问了一下 GPT ，果然很可疑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2060323836453933352",
+        "created_at": "2026-05-29T11:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060325947820400985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497883344385626112",
+              "start": 0,
+              "username": "xuelangchensha1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060325947820400985",
+        "in_reply_to_user_id": "1497883344385626112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060324600584831218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelangchensha1 環状線今天已经不知道多少回在墙内刷到这个照片了……\n后来问了一下 GPT ，果然很可疑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497883344385626112",
+        "conversation_id": "2060323836453933352",
+        "created_at": "2026-05-29T11:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T12:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060324600584831218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060324600584831218",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060323836453933352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 还是对这些媒体资讯要有理性思考的对吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 867,
+          "like_count": 23131,
+          "listed_count": 11,
+          "media_count": 1229,
+          "tweet_count": 6889
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T10:36:54.000Z",
+        "description": "CN/JP/EN | \n自由民主制度框架内的民族保守派（虽然立场明确但希望不影响交朋友） | \n崇尚法治 文明 人权 自由的普世价值 | 厌恶老中人 | \n人心良知最首要，立场什么都是次要  | \n通过x讲点墙内不能讲的,所以墙外不发生活推",
+        "id": "1497883344385626112",
+        "name": "宮坂寝子✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777315910283599872/ZPPgoY9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 947,
+          "like_count": 32041,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 6334
+        },
+        "username": "xuelangchensha1",
+        "verified": false
+      }
+    ]
+  }
+}

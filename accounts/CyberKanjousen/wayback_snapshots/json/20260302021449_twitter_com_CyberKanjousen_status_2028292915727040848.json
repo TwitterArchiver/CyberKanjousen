@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2028273127923568797",
+    "created_at": "2026-03-02T02:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028292915727040848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "821614513736781825",
+          "start": 0,
+          "username": "14ManGo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028292915727040848",
+    "in_reply_to_user_id": "821614513736781825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028273127923568797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@14ManGo1 GBC 的小曲.mp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56680,
+        "height": 1408,
+        "media_key": "13_2028272585608478720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028272585608478720/img/N13NGS7VAgo7TupV.jpg",
+        "public_metrics": {
+          "view_count": 360
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028272585608478720/vid/avc1/478x270/543W4NkXm747whhy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028272585608478720/vid/avc1/638x360/GB8q1JGUt_RJIKXm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028272585608478720/vid/avc1/1278x720/CYwmM2UGsPZ3KXmk.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028272585608478720/pl/crw5KYuJbpZtyK-5.m3u8?tag=14"
+          }
+        ],
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2028273127923568797",
+        "created_at": "2026-03-02T02:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028292915727040848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "821614513736781825",
+              "start": 0,
+              "username": "14ManGo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028292915727040848",
+        "in_reply_to_user_id": "821614513736781825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028273127923568797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@14ManGo1 GBC 的小曲.mp3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028272585608478720"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2028273127923568797",
+        "created_at": "2026-03-02T00:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028273127923568797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O2odAuIJ8H",
+              "end": 40,
+              "expanded_url": "https://x.com/14ManGo1/status/2028273127923568797/video/1",
+              "media_key": "13_2028272585608478720",
+              "start": 17,
+              "url": "https://t.co/O2odAuIJ8H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028273127923568797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 824,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女装后不会遇到性转兄弟？【18】 https://t.co/O2odAuIJ8H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 97,
+          "like_count": 2476,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木M-emo",
+        "pinned_tweet_id": "1581220939135479814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33649,
+          "following_count": 127,
+          "like_count": 300,
+          "listed_count": 110,
+          "media_count": 166,
+          "tweet_count": 364
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

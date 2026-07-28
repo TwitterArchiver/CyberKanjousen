@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2049483715139584018",
+    "created_at": "2026-04-29T15:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049515786453299459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "994860234899382272",
+          "start": 0,
+          "username": "Reetesh11414307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049515786453299459",
+    "in_reply_to_user_id": "994860234899382272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049515449554243736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reetesh11414307 環状線压抑得不得了（各种方面上的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2049483715139584018",
+        "created_at": "2026-04-29T15:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049515786453299459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "994860234899382272",
+              "start": 0,
+              "username": "Reetesh11414307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049515786453299459",
+        "in_reply_to_user_id": "994860234899382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049515449554243736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reetesh11414307 環状線压抑得不得了（各种方面上的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994860234899382272",
+        "conversation_id": "2049483715139584018",
+        "created_at": "2026-04-29T15:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049515449554243736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049515449554243736",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049483715139584018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 压抑了是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 666,
+          "like_count": 16352,
+          "listed_count": 5,
+          "media_count": 937,
+          "tweet_count": 5051
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-11T08:42:18.000Z",
+        "description": "之前是畫🔞的不知名小透明現在有AI我要當神人爆雷",
+        "id": "994860234899382272",
+        "name": "林翩翩",
+        "pinned_tweet_id": "2049123795852775716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043184572859613184/g3svBAgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 20,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 256
+        },
+        "username": "Reetesh11414307",
+        "verified": true
+      }
+    ]
+  }
+}

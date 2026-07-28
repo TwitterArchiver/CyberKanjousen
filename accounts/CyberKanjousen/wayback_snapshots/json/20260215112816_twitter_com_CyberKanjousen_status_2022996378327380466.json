@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2022856913180909760",
+    "created_at": "2026-02-15T11:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022996378327380466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1229707931639136256",
+          "start": 0,
+          "username": "shupra004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022996378327380466",
+    "in_reply_to_user_id": "1229707931639136256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022856913180909760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shupra004 中国語の「谢谢」：\n「シェイシェイ」は正しくない\n「シエシエ」はほぼ正しい\n「xiè xiè」は正しい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2022856907862777856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKho-CbIAAAoCC.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2022856913180909760",
+        "created_at": "2026-02-15T11:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022996378327380466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1229707931639136256",
+              "start": 0,
+              "username": "shupra004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022996378327380466",
+        "in_reply_to_user_id": "1229707931639136256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022856913180909760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shupra004 中国語の「谢谢」：\n「シェイシェイ」は正しくない\n「シエシエ」はほぼ正しい\n「xiè xiè」は正しい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022856907862777856"
+          ]
+        },
+        "author_id": "1229707931639136256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1012681620074053632",
+              "name": "Doraemon"
+            }
+          }
+        ],
+        "conversation_id": "2022856913180909760",
+        "created_at": "2026-02-15T02:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022856913180909760"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "のび太",
+              "probability": 0.8885,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j5FHroFBzV",
+              "end": 100,
+              "expanded_url": "https://x.com/shupra004/status/2022856913180909760/photo/1",
+              "media_key": "3_2022856907862777856",
+              "start": 77,
+              "url": "https://t.co/j5FHroFBzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022856913180909760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 31014,
+          "like_count": 699,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "のび太、「谢谢はシェイシェイじゃなくてシエシエ」だと訂正して回ってるけど、怒ってるのは日本人中国語クラスタだけで、当の中国人はあんまり気にしてないぞ…… https://t.co/j5FHroFBzV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 36,
+          "like_count": 1167,
+          "listed_count": 2,
+          "media_count": 299,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-18T10:03:22.000Z",
+        "description": "中国語大喜利アカウント。FF外通知は基本的に切っています。基本フォロバしてますが、割と見落としがちなので鍵垢の方含めフォロバ無かったらリプかDMください。",
+        "id": "1229707931639136256",
+        "location": "日本",
+        "name": "しゅぷら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439410017963163649/SEBLvwfg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7412,
+          "following_count": 6043,
+          "like_count": 694379,
+          "listed_count": 35,
+          "media_count": 1737,
+          "tweet_count": 8519
+        },
+        "username": "shupra004",
+        "verified": false
+      }
+    ]
+  }
+}

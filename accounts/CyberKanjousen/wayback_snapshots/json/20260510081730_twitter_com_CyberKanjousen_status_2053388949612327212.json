@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2053333283585556823",
+    "created_at": "2026-05-10T08:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053388949612327212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1751238664586465280",
+          "start": 0,
+          "username": "uettypi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053388949612327212",
+    "in_reply_to_user_id": "1751238664586465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053388779008958646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uettypi 东升西落，窃听龙吟🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2053333283585556823",
+        "created_at": "2026-05-10T08:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053388949612327212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1751238664586465280",
+              "start": 0,
+              "username": "uettypi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053388949612327212",
+        "in_reply_to_user_id": "1751238664586465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053388779008958646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uettypi 东升西落，窃听龙吟🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751238664586465280",
+        "conversation_id": "2053333283585556823",
+        "created_at": "2026-05-10T08:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053388779008958646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053388779008958646",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053333283585556823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 是啊，其他国家都是SS，只有中国是SSS！🫡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 811,
+          "like_count": 19057,
+          "listed_count": 9,
+          "media_count": 1011,
+          "tweet_count": 5596
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T13:40:17.000Z",
+        "description": "逸一时，误一世。\nOIer & CTFer　|　音ゲーム",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uettypi.top",
+                "end": 23,
+                "expanded_url": "http://uettypi.top",
+                "start": 0,
+                "url": "https://t.co/WlEu2gh97z"
+              }
+            ]
+          }
+        },
+        "id": "1751238664586465280",
+        "name": "uettypi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033714455612428292/Q3j71uNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 123,
+          "like_count": 5199,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/WlEu2gh97z",
+        "username": "uettypi",
+        "verified": false
+      }
+    ]
+  }
+}

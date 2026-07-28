@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2029247929920475136"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2029162844684730416",
+    "created_at": "2026-03-04T17:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T18:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029247938837508268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975478815410577408",
+          "start": 0,
+          "username": "scathacheron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcdQY0QIQI",
+          "end": 74,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2029247938837508268/photo/1",
+          "media_key": "16_2029247929920475136",
+          "start": 51,
+          "url": "https://t.co/OcdQY0QIQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029247938837508268",
+    "in_reply_to_user_id": "1975478815410577408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029162844684730416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scathacheron ああああああああああああああああああああああああああああああああああああ https://t.co/OcdQY0QIQI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 222,
+        "media_key": "16_2029247929920475136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HClWPagbUAA5cjq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HClWPagbUAA5cjq.mp4"
+          }
+        ],
+        "width": 300
+      },
+      {
+        "height": 848,
+        "media_key": "3_2029162836887588864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCkI2WQb0AAwS_X.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2029247929920475136"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2029162844684730416",
+        "created_at": "2026-03-04T17:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T18:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029247938837508268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975478815410577408",
+              "start": 0,
+              "username": "scathacheron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcdQY0QIQI",
+              "end": 74,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2029247938837508268/photo/1",
+              "media_key": "16_2029247929920475136",
+              "start": 51,
+              "url": "https://t.co/OcdQY0QIQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029247938837508268",
+        "in_reply_to_user_id": "1975478815410577408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029162844684730416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scathacheron ああああああああああああああああああああああああああああああああああああ https://t.co/OcdQY0QIQI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029162836887588864"
+          ]
+        },
+        "author_id": "1975478815410577408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10048027121",
+              "name": "火花 (ドラマ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029162844684730416",
+        "created_at": "2026-03-04T11:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029162844684730416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9zU5ey4RNK",
+              "end": 53,
+              "expanded_url": "https://x.com/scathacheron/status/2029162844684730416/photo/1",
+              "media_key": "3_2029162836887588864",
+              "start": 30,
+              "url": "https://t.co/9zU5ey4RNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029162844684730416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 177929,
+          "like_count": 5045,
+          "quote_count": 34,
+          "reply_count": 27,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "マネーウォーズでお試し火花使ってみたけどめっちゃ強いな‼️ https://t.co/9zU5ey4RNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜ CN/EN/JP ｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 146,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 123,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 105,
+          "like_count": 2809,
+          "listed_count": 1,
+          "media_count": 426,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T08:30:36.000Z",
+        "description": "雑多垢 ゼンゼロ、スタレ、FGOメイン🗝️@violanocturne アイコン:えりばた先生 【@Eribata_zzz】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "violanocturne"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Eribata_zzz"
+              }
+            ]
+          }
+        },
+        "id": "1975478815410577408",
+        "name": "𝐯𝐢𝐨𝐥𝐚",
+        "pinned_tweet_id": "2023696803007537192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012743211790278657/ZBHsp3Sd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 637,
+          "like_count": 29594,
+          "listed_count": 7,
+          "media_count": 585,
+          "tweet_count": 15412
+        },
+        "username": "scathacheron",
+        "verified": false
+      }
+    ]
+  }
+}

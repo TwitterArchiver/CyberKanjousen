@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2049838948755923444",
+    "created_at": "2026-05-01T09:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050146954123022399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1346704806325338113",
+          "start": 0,
+          "username": "HuangFuping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050146954123022399",
+    "in_reply_to_user_id": "1346704806325338113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050146131058065574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangFuping 環状線没有，所以只能靠想象😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2049838948755923444",
+        "created_at": "2026-05-01T09:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050146954123022399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1346704806325338113",
+              "start": 0,
+              "username": "HuangFuping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050146954123022399",
+        "in_reply_to_user_id": "1346704806325338113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050146131058065574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangFuping 環状線没有，所以只能靠想象😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346704806325338113",
+        "conversation_id": "2049838948755923444",
+        "created_at": "2026-05-01T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050146131058065574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050146131058065574",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049838948755923444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我不知道你有没有朝鲜的朋友\n作为真的有朝鲜朋友的人，我觉得波奇的精神状态真的太正常了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "HuamanX09"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 113,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 90,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 701,
+          "like_count": 16776,
+          "listed_count": 5,
+          "media_count": 946,
+          "tweet_count": 5144
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-06T06:27:12.000Z",
+        "description": "让桌子跳起舞来！",
+        "id": "1346704806325338113",
+        "location": "枝江市",
+        "name": "CA皇甫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680603252549877761/JcWoyk0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 805,
+          "like_count": 58677,
+          "listed_count": 38,
+          "media_count": 1550,
+          "tweet_count": 22586
+        },
+        "username": "HuangFuping",
+        "verified": false
+      }
+    ]
+  }
+}

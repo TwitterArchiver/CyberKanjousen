@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2013114116756627531",
+    "created_at": "2026-01-19T22:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T23:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013382496251941054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1551258526584115204",
+          "start": 0,
+          "username": "FinanceYF5"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013382496251941054",
+    "in_reply_to_user_id": "1551258526584115204",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013114116756627531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FinanceYF5 @grok 事实核查"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25634,
+        "height": 1024,
+        "media_key": "13_2013114094245875712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013114094245875712/img/wv6n52IglKSNScoU.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013114094245875712/vid/avc1/320x568/SicL-BMtRCQSuPI0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013114094245875712/vid/avc1/480x852/ZgRWw41OVyLfHmCt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013114094245875712/vid/avc1/576x1024/xMr3TU7X68IPbx2r.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013114094245875712/pl/M9kDrlaY3JcRHXFS.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2013114116756627531",
+        "created_at": "2026-01-19T22:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T23:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013382496251941054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1551258526584115204",
+              "start": 0,
+              "username": "FinanceYF5"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013382496251941054",
+        "in_reply_to_user_id": "1551258526584115204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013114116756627531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FinanceYF5 @grok 事实核查"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013114094245875712"
+          ]
+        },
+        "author_id": "1551258526584115204",
+        "conversation_id": "2013114116756627531",
+        "created_at": "2026-01-19T04:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013114116756627531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJdCQjFo3B",
+              "end": 136,
+              "expanded_url": "https://x.com/FinanceYF5/status/2013114116756627531/video/1",
+              "media_key": "13_2013114094245875712",
+              "start": 113,
+              "url": "https://t.co/qJdCQjFo3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013114116756627531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8183,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国正在大规模推广农业机器人。\n\n全天候自动采收已成为粮食安全的新基准。\n\n视觉模型负责识别采摘，机械臂完成放置，物流系统同步，人类监督处理异常情况。\n\n水果更便宜，损伤更少，供应链更高效。\n\n来自Solo Tech视频分享 https://t.co/qJdCQjFo3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 32,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 823
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-24T17:30:38.000Z",
+        "description": "增长顾问 | AI行业分析师，Learn in Public",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/hanweilang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/hanweilang",
+                "start": 0,
+                "url": "https://t.co/CiSnfQhPGA"
+              }
+            ]
+          }
+        },
+        "id": "1551258526584115204",
+        "location": "San Francisco Bay area",
+        "name": "AI Will",
+        "pinned_tweet_id": "2004726917493391651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896818103016935424/ucw3T2uW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182481,
+          "following_count": 1995,
+          "like_count": 5258,
+          "listed_count": 2128,
+          "media_count": 23476,
+          "tweet_count": 42831
+        },
+        "url": "https://t.co/CiSnfQhPGA",
+        "username": "FinanceYF5",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7591979,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5842,
+          "media_count": 7819893,
+          "tweet_count": 92593274
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2009686213918417333",
+    "created_at": "2026-01-09T17:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T18:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009686213918417333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maskedglue/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/maskedglue/status/2009589610838683903",
+          "start": 19,
+          "url": "https://t.co/ftBpMJXkUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009686213918417333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009589610838683903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "底下有个ネトウヨ跟grok干起来了😅 https://t.co/ftBpMJXkUU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2009686213918417333",
+        "created_at": "2026-01-09T17:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T18:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009686213918417333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maskedglue/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/maskedglue/status/2009589610838683903",
+              "start": 19,
+              "url": "https://t.co/ftBpMJXkUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009686213918417333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009589610838683903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "底下有个ネトウヨ跟grok干起来了😅 https://t.co/ftBpMJXkUU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773985431597760512",
+        "conversation_id": "2009556320840782043",
+        "created_at": "2026-01-09T11:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009589610838683903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916153132033425408",
+              "start": 0,
+              "username": "amatsusae54"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009589610838683903",
+        "in_reply_to_user_id": "1916153132033425408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 191462,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009556320840782043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amatsusae54 @grok どっち？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 532
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T08:07:50.000Z",
+        "description": "ポケモンgo最近はじめました。フォローしてくれたら返します。",
+        "id": "1773985431597760512",
+        "name": "ライター",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773985949623672832/OOhe21zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 17,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 154
+        },
+        "username": "maskedglue",
+        "verified": false
+      }
+    ]
+  }
+}

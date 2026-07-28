@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055277913931698176"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2055277973851476454",
+    "created_at": "2026-05-15T13:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T14:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055277973851476454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vp30PEcjhx",
+          "end": 67,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2055277973851476454/photo/1",
+          "media_key": "3_2055277913931698176",
+          "start": 44,
+          "url": "https://t.co/Vp30PEcjhx"
+        },
+        {
+          "display_url": "x.com/USA_China_Talk…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/USA_China_Talk/status/2055142629239885928",
+          "start": 68,
+          "url": "https://t.co/sfZVYSfTxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055277973851476454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055142629239885928",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "美国本来就在世界舞台上，特朗普令美国退出了舞台，又令美国有实力重返世界舞台。MAGA！ https://t.co/Vp30PEcjhx https://t.co/sfZVYSfTxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2055277913931698176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXQX5aa0AAAOSO.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055277913931698176"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2055277973851476454",
+        "created_at": "2026-05-15T13:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T14:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055277973851476454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vp30PEcjhx",
+              "end": 67,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2055277973851476454/photo/1",
+              "media_key": "3_2055277913931698176",
+              "start": 44,
+              "url": "https://t.co/Vp30PEcjhx"
+            },
+            {
+              "display_url": "x.com/USA_China_Talk…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/USA_China_Talk/status/2055142629239885928",
+              "start": 68,
+              "url": "https://t.co/sfZVYSfTxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055277973851476454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055142629239885928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "美国本来就在世界舞台上，特朗普令美国退出了舞台，又令美国有实力重返世界舞台。MAGA！ https://t.co/Vp30PEcjhx https://t.co/sfZVYSfTxN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "conversation_id": "2055142629239885928",
+        "created_at": "2026-05-15T04:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055142629239885928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WhiteHouse/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/WhiteHouse/status/2054986537775911168",
+              "start": 17,
+              "url": "https://t.co/OO3VrpfIPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055142629239885928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 81548,
+          "like_count": 558,
+          "quote_count": 22,
+          "reply_count": 124,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054986537775911168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国实力重返世界舞台。 🇺🇸🇨🇳 https://t.co/OO3VrpfIPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 826,
+          "like_count": 19939,
+          "listed_count": 8,
+          "media_count": 1067,
+          "tweet_count": 5931
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629549,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4381,
+          "media_count": 448,
+          "tweet_count": 2448
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

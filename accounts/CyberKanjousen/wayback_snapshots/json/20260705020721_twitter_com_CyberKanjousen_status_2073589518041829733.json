@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2073195090177073610",
+    "created_at": "2026-07-05T02:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073589518041829733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2592646267",
+          "start": 0,
+          "username": "riz001400"
+        },
+        {
+          "end": 27,
+          "id": "1138842105856573445",
+          "start": 11,
+          "username": "NoContextHumans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073589518041829733",
+    "in_reply_to_user_id": "2592646267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073588755479536119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@riz001400 @NoContextHumans 不过主题推文给出的是图片的话，那应该可以把字型写对的吧🤔\n不过環状線认为 Unicode 的这种多个字型合并为一个码位的方式在有些时候会比较方便，比如查日语汉字的读法之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2073195090177073610",
+        "created_at": "2026-07-05T02:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073589518041829733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2592646267",
+              "start": 0,
+              "username": "riz001400"
+            },
+            {
+              "end": 27,
+              "id": "1138842105856573445",
+              "start": 11,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073589518041829733",
+        "in_reply_to_user_id": "2592646267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073588755479536119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@riz001400 @NoContextHumans 不过主题推文给出的是图片的话，那应该可以把字型写对的吧🤔\n不过環状線认为 Unicode 的这种多个字型合并为一个码位的方式在有些时候会比较方便，比如查日语汉字的读法之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2592646267",
+        "conversation_id": "2073195090177073610",
+        "created_at": "2026-07-05T02:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073588755479536119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 32,
+              "id": "1138842105856573445",
+              "start": 16,
+              "username": "NoContextHumans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073588755479536119",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073482723004666109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @NoContextHumans 这个涉及Unicode的码位和字型选择。\n基本区是重灾区，各国家地区的异体字多如牛毛。\n有的时候一个码位甚至会有六七种不同来源的字形。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9141,
+          "following_count": 880,
+          "like_count": 29418,
+          "listed_count": 13,
+          "media_count": 1873,
+          "tweet_count": 9588
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-28T06:50:21.000Z",
+        "description": "姑且是个虚拟人类，Eden所属，半死不活中。\n本账号亦为riz中之人即riztech的发言渠道。\n汉语，英语皆可直接对话，日本語の対話はGPTによる変換+Rizの意訳エンジンによる校正によって行われました。。バンドリーマー。\n中国語拼音 and HSK course are opening.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Riztech.xyz",
+                "end": 23,
+                "expanded_url": "http://Riztech.xyz",
+                "start": 0,
+                "url": "https://t.co/NQf5CzTgmz"
+              }
+            ]
+          }
+        },
+        "id": "2592646267",
+        "name": "Riz/リズ(=Riztech）@中国語拼音とhsk开課！",
+        "pinned_tweet_id": "2058887807503040611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486664734430547974/tOO5E35P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 680,
+          "like_count": 3772,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 2818
+        },
+        "url": "https://t.co/NQf5CzTgmz",
+        "username": "riz001400",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-12T16:14:51.000Z",
+        "description": "The ORIGINAL Out of Context Human Race page! No Copyright intended. DMs open for business enquiries.📲",
+        "id": "1138842105856573445",
+        "name": "Out of Context Human Race",
+        "pinned_tweet_id": "2073300780262826466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207636309508014081/hfA24vWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4292461,
+          "following_count": 309,
+          "like_count": 140,
+          "listed_count": 9693,
+          "media_count": 46944,
+          "tweet_count": 54279
+        },
+        "url": "",
+        "username": "NoContextHumans",
+        "verified": true
+      }
+    ]
+  }
+}

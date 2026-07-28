@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2036719995145896232",
+    "created_at": "2026-03-25T14:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036810576094200121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954601674083053569",
+          "start": 0,
+          "username": "JuSakuyuLime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036810576094200121",
+    "in_reply_to_user_id": "1954601674083053569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036809879089025409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuSakuyuLime 人生就是 Mai Mai ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2036719995145896232",
+        "created_at": "2026-03-25T14:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036810576094200121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954601674083053569",
+              "start": 0,
+              "username": "JuSakuyuLime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036810576094200121",
+        "in_reply_to_user_id": "1954601674083053569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036809879089025409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuSakuyuLime 人生就是 Mai Mai ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601674083053569",
+        "conversation_id": "2036719995145896232",
+        "created_at": "2026-03-25T14:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036809879089025409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036809879089025409",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036719995145896232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 人生就是一台八键洗衣机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 292,
+          "like_count": 7557,
+          "listed_count": 3,
+          "media_count": 632,
+          "tweet_count": 3002
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-10T17:52:21.000Z",
+        "description": "Antipathy World\n🇺🇳\n不知道自己為何物的phony\n看情况会互fo哦\nChinese &English &Japanese自放送\n有事请私信喵，欢迎和我聊天捏捏捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YuringSpeaking",
+                "end": 23,
+                "expanded_url": "https://t.me/YuringSpeaking",
+                "start": 0,
+                "url": "https://t.co/miEPcgzByf"
+              }
+            ]
+          }
+        },
+        "id": "1954601674083053569",
+        "location": "宿州東站，鐵科院滾動試驗台",
+        "name": "雎咲柚檸Sakiyuring",
+        "pinned_tweet_id": "1998412348437246269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1921,
+          "like_count": 2694,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/miEPcgzByf",
+        "username": "JuSakuyuLime",
+        "verified": false
+      }
+    ]
+  }
+}

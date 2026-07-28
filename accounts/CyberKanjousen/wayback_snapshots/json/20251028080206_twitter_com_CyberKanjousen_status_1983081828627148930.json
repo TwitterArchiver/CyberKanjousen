@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983081819181662208"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1983081828627148930",
+    "created_at": "2025-10-28T08:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983081828627148930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjW6mTbRVP",
+          "end": 23,
+          "expanded_url": "https://x.com/CyberKanjousen/status/1983081828627148930/photo/1",
+          "media_key": "3_1983081819181662208",
+          "start": 0,
+          "url": "https://t.co/MjW6mTbRVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983081828627148930",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/MjW6mTbRVP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1983081819181662208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4VSaGDbwAAtJvm.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983081819181662208"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1983081828627148930",
+        "created_at": "2025-10-28T08:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983081828627148930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjW6mTbRVP",
+              "end": 23,
+              "expanded_url": "https://x.com/CyberKanjousen/status/1983081828627148930/photo/1",
+              "media_key": "3_1983081819181662208",
+              "start": 0,
+              "url": "https://t.co/MjW6mTbRVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983081828627148930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MjW6mTbRVP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 152
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      }
+    ]
+  }
+}

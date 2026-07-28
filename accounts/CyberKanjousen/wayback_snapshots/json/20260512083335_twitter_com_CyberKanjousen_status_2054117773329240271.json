@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2054101531901964543",
+    "created_at": "2026-05-12T08:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054117773329240271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1892971043280814080",
+          "start": 0,
+          "username": "sawatama_arijit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054117773329240271",
+    "in_reply_to_user_id": "1892971043280814080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054117050398990786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sawatama_arijit 是的，不过「屄」并不好通过输入法打出来，所以为了方便打成「逼」。「肏」也是同理。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2054101531901964543",
+        "created_at": "2026-05-12T08:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054117773329240271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1892971043280814080",
+              "start": 0,
+              "username": "sawatama_arijit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054117773329240271",
+        "in_reply_to_user_id": "1892971043280814080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054117050398990786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sawatama_arijit 是的，不过「屄」并不好通过输入法打出来，所以为了方便打成「逼」。「肏」也是同理。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892971043280814080",
+        "conversation_id": "2054101531901964543",
+        "created_at": "2026-05-12T08:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054117050398990786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054117050398990786",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054101531901964543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 确实逼一开始就是代屄的吧，也不是规范使用🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 818,
+          "like_count": 19400,
+          "listed_count": 7,
+          "media_count": 1025,
+          "tweet_count": 5694
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T16:15:19.000Z",
+        "description": "头像是诗音：“要是陪我睡的话就原谅你”。\n是诗人（存疑）。古典乐爱好者，山下和仁好き 。\n一般乡下中学经历",
+        "id": "1892971043280814080",
+        "location": "联合王国,德文郡,普利茅斯",
+        "name": "空气动力少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050831475277549568/cJXzqkND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 50,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 129
+        },
+        "username": "sawatama_arijit",
+        "verified": false
+      }
+    ]
+  }
+}

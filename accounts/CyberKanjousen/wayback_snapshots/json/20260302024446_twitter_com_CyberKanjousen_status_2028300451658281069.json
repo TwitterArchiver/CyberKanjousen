@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028300438421073920"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2028300451658281069",
+    "created_at": "2026-03-02T02:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028300451658281069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tk2SXjotyr",
+          "end": 49,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2028300451658281069/photo/1",
+          "media_key": "3_2028300438421073920",
+          "start": 26,
+          "url": "https://t.co/Tk2SXjotyr"
+        },
+        {
+          "display_url": "x.com/dtdt666/status…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/dtdt666/status/2028090375345442849",
+          "start": 50,
+          "url": "https://t.co/q9lAXvToch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028300451658281069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028090375345442849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Vibe Coding 程序员最终也要变成小南梁吗 https://t.co/Tk2SXjotyr https://t.co/q9lAXvToch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1785,
+        "media_key": "3_2028300438421073920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX4gJnbcAA0umE.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2028043345566871552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUOrYGbsAADgTE.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028300438421073920"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2028300451658281069",
+        "created_at": "2026-03-02T02:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028300451658281069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tk2SXjotyr",
+              "end": 49,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2028300451658281069/photo/1",
+              "media_key": "3_2028300438421073920",
+              "start": 26,
+              "url": "https://t.co/Tk2SXjotyr"
+            },
+            {
+              "display_url": "x.com/dtdt666/status…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/dtdt666/status/2028090375345442849",
+              "start": 50,
+              "url": "https://t.co/q9lAXvToch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028300451658281069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028090375345442849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Vibe Coding 程序员最终也要变成小南梁吗 https://t.co/Tk2SXjotyr https://t.co/q9lAXvToch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028043345566871552"
+          ]
+        },
+        "author_id": "1400012445154889731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2028090375345442849",
+        "created_at": "2026-03-01T12:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T13:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028090375345442849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N8D0MiSNRk",
+              "end": 165,
+              "expanded_url": "https://x.com/DtDt666/status/2028090375345442849/photo/1",
+              "media_key": "3_2028043345566871552",
+              "start": 142,
+              "url": "https://t.co/N8D0MiSNRk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028090375345442849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太过于真实！程序猿变了！\n\nLV1：从装上Copilot插件，开始尝鲜AI补全，感觉打开了新世界。\n\nLV2：谨慎使用AI工具，边用边审视，生怕它搞出什么幺蛾子。\n\nLV3：彻底放飞，AI说什么都对，一路“Yes”全盘接受。\n\nLV4：告别图形界面，命令行里直接召唤AI，效率至上。\n\nLV5：让不同大模型互相审查代码，AI内卷从此开始。\n\nLV6：随时随地OpenClaw（可能指某种AI编程硬件或工具），编程无处不在。\n\nLV7：走上讲台，开始教别人如何用AI编程，成为AI时代的布道者。\n\nAI浪潮之下，程序员的角色不断演进——从使用者到驾驭者，再到传播者。时代变了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 30923,
+          "like_count": 230,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "太过于真实！程序猿变了！\n\nLV1：从装上Copilot插件，开始尝鲜AI补全，感觉打开了新世界。\n\nLV2：谨慎使用AI工具，边用边审视，生怕它搞出什么幺蛾子。\n\nLV3：彻底放飞，AI说什么都对，一路“Yes”全盘接受。\n\nLV4：告别图形界面，命令行里直接召唤AI，效率至上。 https://t.co/N8D0MiSNRk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜ 和サイバー老婆 @Kanjousen0 贴贴！｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、诈骗广告NG｜LBGTQ+ 包容 ｜ 币圈、露骨政治不涉及 ｜ 里推：@Kanjousen_dwb ｜ 详细简介：https://t.co/Pn7jwkMBvH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 149,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 126,
+                "url": "https://t.co/Pn7jwkMBvH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 97,
+          "like_count": 2481,
+          "listed_count": 1,
+          "media_count": 396,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-02T08:52:39.000Z",
+        "description": "一生只搞一个币 $SOL  \n\n把复杂的问题，用图片简单化\n\n陪兄弟们一起穿越牛熊！\n\n#OKX  定投，就用OKX https://t.co/KejoV0foz5\n\n#Binance 币安福利官专属注册通道👉https://t.co/wExZLqKcA2",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 12,
+                "start": 8,
+                "tag": "SOL"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 44,
+                "tag": "OKX"
+              },
+              {
+                "end": 92,
+                "start": 84,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/7484094",
+                "end": 82,
+                "expanded_url": "http://www.okx.com/join/7484094",
+                "start": 59,
+                "url": "https://t.co/KejoV0foz5"
+              },
+              {
+                "display_url": "maxweb.black/join?ref=53200…",
+                "end": 128,
+                "expanded_url": "https://www.maxweb.black/join?ref=532007156",
+                "start": 105,
+                "url": "https://t.co/wExZLqKcA2"
+              }
+            ]
+          }
+        },
+        "id": "1400012445154889731",
+        "location": "Hong Kong",
+        "name": "看不懂的SOL",
+        "pinned_tweet_id": "1895474001369333776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759123402139500544/g6UJlLcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177324,
+          "following_count": 1807,
+          "like_count": 16598,
+          "listed_count": 1912,
+          "media_count": 3461,
+          "tweet_count": 6139
+        },
+        "username": "DtDt666",
+        "verified": true
+      }
+    ]
+  }
+}

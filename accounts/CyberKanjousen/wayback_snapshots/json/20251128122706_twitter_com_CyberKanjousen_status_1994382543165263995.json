@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418662307442221063",
+          "name": "Kaf"
+        }
+      }
+    ],
+    "conversation_id": "1994352947732283418",
+    "created_at": "2025-11-28T12:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994382543165263995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1082119799730130944",
+          "start": 0,
+          "username": "kaf_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994382543165263995",
+    "in_reply_to_user_id": "1082119799730130944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994352947732283418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaf_info 《不可抗力》唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_1994352515035590656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61dC7-acAAJBKm.jpg",
+        "width": 1656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1994352947732283418",
+        "created_at": "2025-11-28T12:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994382543165263995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1082119799730130944",
+              "start": 0,
+              "username": "kaf_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994382543165263995",
+        "in_reply_to_user_id": "1082119799730130944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994352947732283418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaf_info 《不可抗力》唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994352515035590656"
+          ]
+        },
+        "author_id": "1082119799730130944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418662307442221063",
+              "name": "Kaf"
+            }
+          }
+        ],
+        "conversation_id": "1994352947732283418",
+        "created_at": "2025-11-28T10:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994352947732283418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "花譜 China 1st Solo Live",
+              "probability": 0.7952,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "上海",
+              "probability": 0.6929,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqd2SxXr6d",
+              "end": 65,
+              "expanded_url": "https://x.com/kaf_info/status/1994352947732283418/photo/1",
+              "media_key": "3_1994352515035590656",
+              "start": 42,
+              "url": "https://t.co/sqd2SxXr6d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994352947732283418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 199446,
+          "like_count": 2461,
+          "quote_count": 202,
+          "reply_count": 97,
+          "retweet_count": 999
+        },
+        "reply_settings": "everyone",
+        "text": "『花譜 China 1st Solo Live「宿声」』上海公演についてのお知らせ https://t.co/sqd2SxXr6d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 163
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-07T03:40:39.000Z",
+        "description": "バーチャルシンガー《花譜》公式インフォメーションアカウント/ Contact: kaf.information@kamitsubaki.jp / 花譜: @virtual_kaf / English: @kaf_info_en",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "kaf_info_en"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaf.kamitsubaki.jp",
+                "end": 23,
+                "expanded_url": "https://kaf.kamitsubaki.jp/",
+                "start": 0,
+                "url": "https://t.co/QIz1AM2iOR"
+              }
+            ]
+          }
+        },
+        "id": "1082119799730130944",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "花譜 information",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1576841184869175297/8aDzNllt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93881,
+          "following_count": 30,
+          "like_count": 4,
+          "listed_count": 937,
+          "media_count": 1240,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/QIz1AM2iOR",
+        "username": "kaf_info",
+        "verified": true
+      }
+    ]
+  }
+}

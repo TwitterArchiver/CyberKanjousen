@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060031156599595008"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2060031166145814907",
+    "created_at": "2026-05-28T16:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060031166145814907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQnPKPPQgu",
+          "end": 129,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2060031166145814907/photo/1",
+          "media_key": "3_2060031156599595008",
+          "start": 106,
+          "url": "https://t.co/NQnPKPPQgu"
+        },
+        {
+          "display_url": "x.com/odisranos28190…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/odisranos28190/status/2059993775536001473",
+          "start": 130,
+          "url": "https://t.co/SzmacedoQp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060031166145814907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059993775536001473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先，環状線不玩鸣潮，也不玩原神，也没有 fo ごさり。環状線没有偏向任何一方。\n\n其次，您似乎认为ごさり事件ごさり自己和/或鸣潮玩家的责任，那么，ごさり做了什么？鸣潮玩家做了什么？反观某些原神玩家又做了什么？ https://t.co/NQnPKPPQgu https://t.co/SzmacedoQp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_2060031156599595008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJazbCNbIAAYvUb.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060031156599595008"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2060031166145814907",
+        "created_at": "2026-05-28T16:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060031166145814907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQnPKPPQgu",
+              "end": 129,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2060031166145814907/photo/1",
+              "media_key": "3_2060031156599595008",
+              "start": 106,
+              "url": "https://t.co/NQnPKPPQgu"
+            },
+            {
+              "display_url": "x.com/odisranos28190…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/odisranos28190/status/2059993775536001473",
+              "start": 130,
+              "url": "https://t.co/SzmacedoQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060031166145814907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059993775536001473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先，環状線不玩鸣潮，也不玩原神，也没有 fo ごさり。環状線没有偏向任何一方。\n\n其次，您似乎认为ごさり事件ごさり自己和/或鸣潮玩家的责任，那么，ごさり做了什么？鸣潮玩家做了什么？反观某些原神玩家又做了什么？ https://t.co/NQnPKPPQgu https://t.co/SzmacedoQp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959330148672806912",
+        "conversation_id": "2059835745863705056",
+        "created_at": "2026-05-28T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059993775536001473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059993775536001473",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059835745863705056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 怎么其他做了米家内容的二创作者，碰了其他二游屁事没有，碰了高端神游就闹得一地鸡毛，鸣潮玩家就不要在这里双厨了，迎接你的只有打潮鞭哦😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4291,
+          "following_count": 863,
+          "like_count": 22875,
+          "listed_count": 11,
+          "media_count": 1217,
+          "tweet_count": 6817
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-23T19:01:30.000Z",
+        "description": "",
+        "id": "1959330148672806912",
+        "name": "Ranos Odis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959330211004301312/wUes-4UU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 372,
+          "like_count": 1276,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "OdisRanos28190",
+        "verified": false
+      }
+    ]
+  }
+}

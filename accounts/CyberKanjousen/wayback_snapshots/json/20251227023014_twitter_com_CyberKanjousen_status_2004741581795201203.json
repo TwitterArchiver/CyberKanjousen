@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2004519596431434095",
+    "created_at": "2025-12-27T02:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T03:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004741581795201203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1788343326585806848",
+          "start": 0,
+          "username": "SGZH99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004741581795201203",
+    "in_reply_to_user_id": "1788343326585806848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004519596431434095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SGZH99 日本因为《刀枪法》被踢出你们的“自由世界”了，😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56603,
+        "height": 594,
+        "media_key": "13_2004519508472430592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004519508472430592/img/7jIens6An0r8dOCU.jpg",
+        "public_metrics": {
+          "view_count": 113662
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004519508472430592/vid/avc1/326x270/Y33QpDEX3Vszw0xU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004519508472430592/vid/avc1/436x360/hWK34Dc6PBrv_Giv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004519508472430592/vid/avc1/720x594/Sl92vrYGwdDuVap-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004519508472430592/pl/QRnyjOr0wNB1xoxm.m3u8?v=eb8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2004519596431434095",
+        "created_at": "2025-12-27T02:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004741581795201203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1788343326585806848",
+              "start": 0,
+              "username": "SGZH99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004741581795201203",
+        "in_reply_to_user_id": "1788343326585806848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004519596431434095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SGZH99 日本因为《刀枪法》被踢出你们的“自由世界”了，😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004519508472430592"
+          ]
+        },
+        "author_id": "1788343326585806848",
+        "conversation_id": "2004519596431434095",
+        "created_at": "2025-12-26T11:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004519596431434095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3YZIJbrDQJ",
+              "end": 45,
+              "expanded_url": "https://x.com/SGZH99/status/2004519596431434095/video/1",
+              "media_key": "13_2004519508472430592",
+              "start": 22,
+              "url": "https://t.co/3YZIJbrDQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004519596431434095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 105621,
+          "like_count": 917,
+          "quote_count": 4,
+          "reply_count": 114,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "看自由世界的警察如何看待公民自由合法持枪！ https://t.co/3YZIJbrDQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 367
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T23:01:08.000Z",
+        "description": "",
+        "id": "1788343326585806848",
+        "location": "纽约布鲁克林",
+        "name": "圣光之辉",
+        "pinned_tweet_id": "2004171946033082470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943378292188282880/u1TFip5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56628,
+          "following_count": 2606,
+          "like_count": 42576,
+          "listed_count": 148,
+          "media_count": 5808,
+          "tweet_count": 12734
+        },
+        "username": "SGZH99",
+        "verified": true
+      }
+    ]
+  }
+}

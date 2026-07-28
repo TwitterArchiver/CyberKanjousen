@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014236304926740480"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2014236907904110689",
+    "created_at": "2026-01-22T07:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014236907904110689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pexooR3sGG",
+          "end": 78,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2014236907904110689/photo/1",
+          "media_key": "3_2014236304926740480",
+          "start": 55,
+          "url": "https://t.co/pexooR3sGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014236907904110689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么YOLO训练的模型要保存到SD的文件夹下\n我在YOLO训练集目录下半天没找到输出模型，原来是放这里了😅 https://t.co/pexooR3sGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_2014236304926740480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QBP1jakAA1vV3.png",
+        "width": 1982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014236304926740480"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2014236907904110689",
+        "created_at": "2026-01-22T07:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014236907904110689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pexooR3sGG",
+              "end": 78,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2014236907904110689/photo/1",
+              "media_key": "3_2014236304926740480",
+              "start": 55,
+              "url": "https://t.co/pexooR3sGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014236907904110689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么YOLO训练的模型要保存到SD的文件夹下\n我在YOLO训练集目录下半天没找到输出模型，原来是放这里了😅 https://t.co/pexooR3sGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜时不时炮打ネトウヨ、殖人等极端反智群体｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CyberKanjousen",
+                "end": 23,
+                "expanded_url": "https://github.com/CyberKanjousen",
+                "start": 0,
+                "url": "https://t.co/t6dmiW4LzP"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 27,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/t6dmiW4LzP",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

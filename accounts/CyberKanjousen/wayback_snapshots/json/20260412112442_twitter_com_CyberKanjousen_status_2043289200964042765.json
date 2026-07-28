@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2043195208033280133",
+    "created_at": "2026-04-12T11:24:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043289200964042765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913620465240670208",
+          "start": 0,
+          "username": "YuchenWeng_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043289200964042765",
+    "in_reply_to_user_id": "1913620465240670208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043288917491765624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuchenWeng_ 環状線不是机器人，这个自动化账号标记即使不是机器人也能挂😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043288914996219904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs4cT_X0AA0NJ6.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043288915239399424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs4cU5WcAA1T6i.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2043195208033280133",
+        "created_at": "2026-04-12T11:24:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043289200964042765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913620465240670208",
+              "start": 0,
+              "username": "YuchenWeng_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043289200964042765",
+        "in_reply_to_user_id": "1913620465240670208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043288917491765624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuchenWeng_ 環状線不是机器人，这个自动化账号标记即使不是机器人也能挂😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043288914996219904",
+            "3_2043288915239399424"
+          ]
+        },
+        "author_id": "1913620465240670208",
+        "conversation_id": "2043195208033280133",
+        "created_at": "2026-04-12T11:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043288917491765624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJEJEQhrEm",
+              "end": 64,
+              "expanded_url": "https://x.com/YuchenWeng_/status/2043288917491765624/photo/1",
+              "media_key": "3_2043288914996219904",
+              "start": 41,
+              "url": "https://t.co/jJEJEQhrEm"
+            },
+            {
+              "display_url": "pic.x.com/jJEJEQhrEm",
+              "end": 64,
+              "expanded_url": "https://x.com/YuchenWeng_/status/2043288917491765624/photo/1",
+              "media_key": "3_2043288915239399424",
+              "start": 41,
+              "url": "https://t.co/jJEJEQhrEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043288917491765624",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043287988139106486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这个「自动发推」是什么？难不成你是机器人，怎么会 https://t.co/jJEJEQhrEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和宝宝@HoroyoiBerry 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n详细简介：https://t.co/Pn7jwkMBvH\n回fo标准：https://t.co/em6r0Bcd7P\n里推：@Kanjousen_dwb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "HoroyoiBerry"
+              },
+              {
+                "end": 162,
+                "start": 148,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 114,
+                "expanded_url": "http://kanjousen.com/me",
+                "start": 91,
+                "url": "https://t.co/Pn7jwkMBvH"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 144,
+                "expanded_url": "http://kanjousen.com/fo-block",
+                "start": 121,
+                "url": "https://t.co/em6r0Bcd7P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2043213232698196203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 414,
+          "like_count": 12361,
+          "listed_count": 4,
+          "media_count": 819,
+          "tweet_count": 4299
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T15:47:51.000Z",
+        "description": "正在学习云架构和Vibe Coding; 主要使用的云平台是Azure和cloudflare. 喜欢Gemini和Claude, 最讨厌的是Grok. 最讨厌无知的人, 特别是键政键魔怔的.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laow.dev",
+                "end": 23,
+                "expanded_url": "http://laow.dev",
+                "start": 0,
+                "url": "https://t.co/TNVckzw2D3"
+              }
+            ]
+          }
+        },
+        "id": "1913620465240670208",
+        "location": "Gaithersburg, MD, USA",
+        "name": "Laow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999158913736843268/HTI2Vflf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 179,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/TNVckzw2D3",
+        "username": "YuchenWeng_",
+        "verified": false
+      }
+    ]
+  }
+}

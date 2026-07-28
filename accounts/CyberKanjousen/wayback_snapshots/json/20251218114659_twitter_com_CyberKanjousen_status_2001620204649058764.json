@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001598397300854784"
+      ],
+      "media_source_tweet_id": [
+        "2001598850616955193"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2001620204649058764",
+    "created_at": "2025-12-18T11:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T12:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001620204649058764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871928876345225216",
+          "start": 3,
+          "username": "tabedesuyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KFFsHYt1bD",
+          "end": 39,
+          "expanded_url": "https://x.com/tabedesuyo/status/2001598850616955193/photo/1",
+          "media_key": "3_2001598397300854784",
+          "start": 16,
+          "url": "https://t.co/KFFsHYt1bD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001620204649058764",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001598850616955193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tabedesuyo: https://t.co/KFFsHYt1bD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_2001598397300854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8cbIy4b0AA_s0Z.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001598397300854784"
+          ],
+          "media_source_tweet_id": [
+            "2001598850616955193"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2001620204649058764",
+        "created_at": "2025-12-18T11:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T12:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001620204649058764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871928876345225216",
+              "start": 3,
+              "username": "tabedesuyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFFsHYt1bD",
+              "end": 39,
+              "expanded_url": "https://x.com/tabedesuyo/status/2001598850616955193/photo/1",
+              "media_key": "3_2001598397300854784",
+              "start": 16,
+              "url": "https://t.co/KFFsHYt1bD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001620204649058764",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001598850616955193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tabedesuyo: https://t.co/KFFsHYt1bD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001598397300854784"
+          ]
+        },
+        "author_id": "1871928876345225216",
+        "conversation_id": "2001598850616955193",
+        "created_at": "2025-12-18T10:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001598850616955193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KFFsHYt1bD",
+              "end": 23,
+              "expanded_url": "https://x.com/tabedesuyo/status/2001598850616955193/photo/1",
+              "media_key": "3_2001598397300854784",
+              "start": 0,
+              "url": "https://t.co/KFFsHYt1bD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001598850616955193",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 6511,
+          "like_count": 861,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KFFsHYt1bD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998952832222085120/Dipb94xX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 275
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-25T14:40:05.000Z",
+        "description": "さぶ@tabedesuka\nhttps://t.co/sVpWVCNQbh\nhttps://t.co/dQUDAFx3eD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "tabedesuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tabedesuyo",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@tabedesuyo",
+                "start": 14,
+                "url": "https://t.co/sVpWVCNQbh"
+              },
+              {
+                "display_url": "tabedesuyo.fanbox.cc",
+                "end": 61,
+                "expanded_url": "https://tabedesuyo.fanbox.cc/",
+                "start": 38,
+                "url": "https://t.co/dQUDAFx3eD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tabedesuyo",
+                "end": 23,
+                "expanded_url": "https://lit.link/tabedesuyo",
+                "start": 0,
+                "url": "https://t.co/zBRtyd7hOe"
+              }
+            ]
+          }
+        },
+        "id": "1871928876345225216",
+        "location": "イラスト（8/23～）",
+        "name": "たべ",
+        "pinned_tweet_id": "1995810372373414247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994502749552349184/3K2y8V1K_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6102,
+          "following_count": 232,
+          "like_count": 8685,
+          "listed_count": 24,
+          "media_count": 234,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/zBRtyd7hOe",
+        "username": "tabedesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

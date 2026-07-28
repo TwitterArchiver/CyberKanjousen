@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2070055226216964125",
+    "created_at": "2026-06-25T13:08:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:08:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070132129665818630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "855565460464652288",
+          "start": 0,
+          "username": "CarlosZeLuis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070132129665818630",
+    "in_reply_to_user_id": "855565460464652288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070131690123702388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlosZeLuis 发挥失常来解释太勉强了，除非说「某一科因为某种原因而缺考」这种借口。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2070055226216964125",
+        "created_at": "2026-06-25T13:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070132129665818630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "855565460464652288",
+              "start": 0,
+              "username": "CarlosZeLuis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070132129665818630",
+        "in_reply_to_user_id": "855565460464652288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070131690123702388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlosZeLuis 发挥失常来解释太勉强了，除非说「某一科因为某种原因而缺考」这种借口。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "855565460464652288",
+        "conversation_id": "2070055226216964125",
+        "created_at": "2026-06-25T13:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070131690123702388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070131690123702388",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070055226216964125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 就这一次，难道不能用发挥失常来解释么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7972,
+          "following_count": 873,
+          "like_count": 28063,
+          "listed_count": 12,
+          "media_count": 1699,
+          "tweet_count": 8934
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-21T23:34:36.000Z",
+        "description": "不忠于任何政治倾向和宗教信仰，也试图不沉溺于任何信息茧房。喜欢琢磨世间一切的本质，努力扒掉所有皇帝的新装。There’s no such a thing as absolute certainty.",
+        "id": "855565460464652288",
+        "name": "小蓝鸟归来",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954767913573101568/pwvaDtXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 1007,
+          "like_count": 283505,
+          "listed_count": 5,
+          "media_count": 397,
+          "tweet_count": 17716
+        },
+        "url": "",
+        "username": "CarlosZeLuis",
+        "verified": true
+      }
+    ]
+  }
+}

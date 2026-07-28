@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2032095421003415594",
+    "created_at": "2026-03-12T15:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032122420497432673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1830967077303394304",
+          "start": 0,
+          "username": "logiclogic1223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032122420497432673",
+    "in_reply_to_user_id": "1830967077303394304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120701306749288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@logiclogic1223 何况是退烧，已经比尸体还冷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032095421003415594",
+        "created_at": "2026-03-12T15:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032122420497432673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1830967077303394304",
+              "start": 0,
+              "username": "logiclogic1223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032122420497432673",
+        "in_reply_to_user_id": "1830967077303394304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120701306749288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@logiclogic1223 何况是退烧，已经比尸体还冷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830967077303394304",
+        "conversation_id": "2032095421003415594",
+        "created_at": "2026-03-12T15:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032120701306749288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120701306749288",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032095421003415594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 小米已经这样了吗？以前支持发烧友，现在退烧了咩？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 130,
+          "like_count": 4101,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T13:52:36.000Z",
+        "description": "#AI落地 #商业观察 #打工逃生\n前打工人，现AI落地顾问。\n帮企业用AI降本，帮个人用AI增效。\n相信「技术不值钱，解决问题才值钱」。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "AI落地"
+              },
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "商业观察"
+              },
+              {
+                "end": 17,
+                "start": 12,
+                "tag": "打工逃生"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newhorseai.com",
+                "end": 23,
+                "expanded_url": "https://newhorseai.com/",
+                "start": 0,
+                "url": "https://t.co/cIkD657xfl"
+              }
+            ]
+          }
+        },
+        "id": "1830967077303394304",
+        "name": "Aiden_novak (Newhorse AI)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027870819440070657/1JDRdAyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 319,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 567
+        },
+        "url": "https://t.co/cIkD657xfl",
+        "username": "logiclogic1223",
+        "verified": true
+      }
+    ]
+  }
+}

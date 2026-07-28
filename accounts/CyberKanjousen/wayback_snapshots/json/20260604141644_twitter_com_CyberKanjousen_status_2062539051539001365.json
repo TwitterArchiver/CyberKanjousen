@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062539044328992768"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2062539051539001365",
+    "created_at": "2026-06-04T14:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T15:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062539051539001365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jUfN6Tfuq",
+          "end": 131,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2062539051539001365/photo/1",
+          "media_key": "3_2062539044328992768",
+          "start": 108,
+          "url": "https://t.co/1jUfN6Tfuq"
+        },
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/cyberkanjousen/status/2062472280081576376",
+          "start": 132,
+          "url": "https://t.co/usDbrx61uY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062539051539001365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062472280081576376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "「这波操作叫『自我做空』！」\n\n张董事长在台上滔滔不绝，\n\n「我首先卖出我手上的股票，然后故意使自己公司的股价下跌，再低价买回我的股票。这样我便从中获得了巨大的利益——我就是全中国掌管股票的神！你们都给我看好了！」 https://t.co/1jUfN6Tfuq https://t.co/usDbrx61uY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_2062539044328992768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-cVUCacAAEe7h.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062539044328992768"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062539051539001365",
+        "created_at": "2026-06-04T14:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062539051539001365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jUfN6Tfuq",
+              "end": 131,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2062539051539001365/photo/1",
+              "media_key": "3_2062539044328992768",
+              "start": 108,
+              "url": "https://t.co/1jUfN6Tfuq"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2062472280081576376",
+              "start": 132,
+              "url": "https://t.co/usDbrx61uY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062539051539001365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062472280081576376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "「这波操作叫『自我做空』！」\n\n张董事长在台上滔滔不绝，\n\n「我首先卖出我手上的股票，然后故意使自己公司的股价下跌，再低价买回我的股票。这样我便从中获得了巨大的利益——我就是全中国掌管股票的神！你们都给我看好了！」 https://t.co/1jUfN6Tfuq https://t.co/usDbrx61uY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2062472280081576376",
+        "created_at": "2026-06-04T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062472280081576376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheriyuo/statu…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/sheriyuo/status/2062415645548183658",
+              "start": 144,
+              "url": "https://t.co/wZVSgRKFch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062472280081576376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2120,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062415645548183658",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "粉笔是什么野鸡公司？😅\n之前听都没听过……\n\n另外環状線不认为所谓「带着全家一起炒股」是什么好建议。和炒币一样，如果没有足够的金融知识就盲目炒股的话，那就和「赌博」没有区别。\n\n「考公」这条路虽然已经走烂了，但「盲目炒股」不更坏吗？\n\n而且演讲还不能控制好情绪，这种人是怎么配上讲台的？ https://t.co/wZVSgRKFch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2062202655741767826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4828,
+          "following_count": 868,
+          "like_count": 24293,
+          "listed_count": 10,
+          "media_count": 1310,
+          "tweet_count": 7322
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

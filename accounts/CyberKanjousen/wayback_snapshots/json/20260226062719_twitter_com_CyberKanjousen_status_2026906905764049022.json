@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2026873471847067852",
+    "created_at": "2026-02-26T06:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026906905764049022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018306514549972992",
+          "start": 0,
+          "username": "bcfqdtfqz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 34,
+          "expanded_url": "https://x.com/cyberkanjousen/status/2026906614645854229?s=46",
+          "start": 11,
+          "url": "https://t.co/koMcAQtw6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026906905764049022",
+    "in_reply_to_user_id": "2018306514549972992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026906614645854229",
+        "type": "quoted"
+      },
+      {
+        "id": "2026873471847067852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bcfqdtfqz https://t.co/koMcAQtw6U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 319,
+        "media_key": "3_2026906607838441474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEE0iEaMAIzSXZ.jpg",
+        "width": 320
+      },
+      {
+        "height": 326,
+        "media_key": "3_2026906607897223168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEE0iSbIAA3CRd.jpg",
+        "width": 321
+      },
+      {
+        "height": 326,
+        "media_key": "3_2026906607687446531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEE0hgaMAMiE5Y.jpg",
+        "width": 321
+      },
+      {
+        "height": 322,
+        "media_key": "3_2026906607695835137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEE0hiaMAEsSKK.jpg",
+        "width": 320
+      },
+      {
+        "height": 320,
+        "media_key": "3_2026873457603129345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDmq70aMAE8KxA.jpg",
+        "width": 321
+      },
+      {
+        "height": 326,
+        "media_key": "3_2026873457615798272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDmq73bgAAVIW6.jpg",
+        "width": 321
+      },
+      {
+        "height": 326,
+        "media_key": "3_2026873457611542528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDmq72akAA5_UP.jpg",
+        "width": 321
+      },
+      {
+        "height": 323,
+        "media_key": "3_2026873457607323648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDmq71aMAAcVD3.jpg",
+        "width": 321
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026873471847067852",
+        "created_at": "2026-02-26T06:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026906905764049022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018306514549972992",
+              "start": 0,
+              "username": "bcfqdtfqz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 34,
+              "expanded_url": "https://x.com/cyberkanjousen/status/2026906614645854229?s=46",
+              "start": 11,
+              "url": "https://t.co/koMcAQtw6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026906905764049022",
+        "in_reply_to_user_id": "2018306514549972992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026906614645854229",
+            "type": "quoted"
+          },
+          {
+            "id": "2026873471847067852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bcfqdtfqz https://t.co/koMcAQtw6U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026906607838441474",
+            "3_2026906607897223168",
+            "3_2026906607687446531",
+            "3_2026906607695835137"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2026906614645854229",
+        "created_at": "2026-02-26T06:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026906614645854229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2ElOH3Pjo",
+              "end": 53,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026906614645854229/photo/1",
+              "media_key": "3_2026906607838441474",
+              "start": 30,
+              "url": "https://t.co/Z2ElOH3Pjo"
+            },
+            {
+              "display_url": "pic.x.com/Z2ElOH3Pjo",
+              "end": 53,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026906614645854229/photo/1",
+              "media_key": "3_2026906607897223168",
+              "start": 30,
+              "url": "https://t.co/Z2ElOH3Pjo"
+            },
+            {
+              "display_url": "pic.x.com/Z2ElOH3Pjo",
+              "end": 53,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026906614645854229/photo/1",
+              "media_key": "3_2026906607687446531",
+              "start": 30,
+              "url": "https://t.co/Z2ElOH3Pjo"
+            },
+            {
+              "display_url": "pic.x.com/Z2ElOH3Pjo",
+              "end": 53,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2026906614645854229/photo/1",
+              "media_key": "3_2026906607695835137",
+              "start": 30,
+              "url": "https://t.co/Z2ElOH3Pjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026906614645854229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明明没看过原视频，为什么我自动脑补的视频声音是东北话呢？ https://t.co/Z2ElOH3Pjo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026873457603129345",
+            "3_2026873457615798272",
+            "3_2026873457611542528",
+            "3_2026873457607323648"
+          ]
+        },
+        "author_id": "2018306514549972992",
+        "conversation_id": "2026873471847067852",
+        "created_at": "2026-02-26T04:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026873471847067852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqnGQQEHvk",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2026873471847067852/photo/1",
+              "media_key": "3_2026873457603129345",
+              "start": 11,
+              "url": "https://t.co/EqnGQQEHvk"
+            },
+            {
+              "display_url": "pic.x.com/EqnGQQEHvk",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2026873471847067852/photo/1",
+              "media_key": "3_2026873457615798272",
+              "start": 11,
+              "url": "https://t.co/EqnGQQEHvk"
+            },
+            {
+              "display_url": "pic.x.com/EqnGQQEHvk",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2026873471847067852/photo/1",
+              "media_key": "3_2026873457611542528",
+              "start": 11,
+              "url": "https://t.co/EqnGQQEHvk"
+            },
+            {
+              "display_url": "pic.x.com/EqnGQQEHvk",
+              "end": 34,
+              "expanded_url": "https://x.com/bcfqdtfqz/status/2026873471847067852/photo/1",
+              "media_key": "3_2026873457607323648",
+              "start": 11,
+              "url": "https://t.co/EqnGQQEHvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026873471847067852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疑似呼唤少女被骂原因 https://t.co/EqnGQQEHvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2024543595987161356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 76,
+          "like_count": 1992,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "这里是番茄🍅， 日常分享有趣的东西，支持投稿｜回复均为个人，发帖梗图为主",
+        "id": "2018306514549972992",
+        "location": "Hong Kong，China",
+        "name": "不吃番茄倒吐番茄籽",
+        "pinned_tweet_id": "2019800185157877987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018311578802941952/1OWgbIsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 1006,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 837
+        },
+        "username": "bcfqdtfqz",
+        "verified": true
+      }
+    ]
+  }
+}

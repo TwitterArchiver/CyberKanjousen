@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2046557892095189339",
+    "created_at": "2026-04-21T12:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046566853741543852"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046566853741543852",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046557892095189339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "总之，我们怀念他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2046557892095189339",
+        "created_at": "2026-04-21T12:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046566853741543852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046566853741543852",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046557892095189339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "总之，我们怀念他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2046557892095189339",
+        "created_at": "2026-04-21T11:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046557892095189339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "kanjousen.com",
+              "end": 133,
+              "expanded_url": "http://kanjousen.com",
+              "start": 110,
+              "status": 521,
+              "unwound_url": "http://kanjousen.com",
+              "url": "https://t.co/LdHvcsKcl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046557892095189339",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1644,
+          "like_count": 39,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "重要声明：\n*某哈工威的大学生*（现在墙内已改名为「ハクロヨ」）不再参与控制、管理、经营「サイバー環状線」的 X 账号，他的墙内账号将不再以「サイバー環状線」「環状線」为名。「サイバー環状線」今后的活动与他不再发生关系\nhttps://t.co/LdHvcsKcl7 稍后将停止运行一段时间以便移除他的信息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "-",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2046557892095189339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 881,
+          "tweet_count": 4671
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

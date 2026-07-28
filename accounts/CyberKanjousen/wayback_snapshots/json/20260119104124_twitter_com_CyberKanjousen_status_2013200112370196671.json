@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013200098189078528"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "1963067524515311888",
+    "created_at": "2026-01-19T10:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T11:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013200112370196671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963184493038362624",
+          "start": 0,
+          "username": "takagi258"
+        },
+        {
+          "end": 27,
+          "id": "1860334582022946816",
+          "start": 11,
+          "username": "LongjiangL75132"
+        },
+        {
+          "end": 43,
+          "id": "1136383051917910017",
+          "start": 28,
+          "username": "ChineseEmbinUS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hNrLphXKzR",
+          "end": 67,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2013200112370196671/photo/1",
+          "media_key": "3_2013200098189078528",
+          "start": 44,
+          "url": "https://t.co/hNrLphXKzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013200112370196671",
+    "in_reply_to_user_id": "1963184493038362624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963199020030964183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takagi258 @LongjiangL75132 @ChineseEmbinUS https://t.co/hNrLphXKzR"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [LongjiangL75132].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "LongjiangL75132",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "LongjiangL75132"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2013200098189078528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BS0qpXcAANG0W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013200098189078528"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "1963067524515311888",
+        "created_at": "2026-01-19T10:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T11:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013200112370196671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963184493038362624",
+              "start": 0,
+              "username": "takagi258"
+            },
+            {
+              "end": 27,
+              "id": "1860334582022946816",
+              "start": 11,
+              "username": "LongjiangL75132"
+            },
+            {
+              "end": 43,
+              "id": "1136383051917910017",
+              "start": 28,
+              "username": "ChineseEmbinUS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNrLphXKzR",
+              "end": 67,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2013200112370196671/photo/1",
+              "media_key": "3_2013200098189078528",
+              "start": 44,
+              "url": "https://t.co/hNrLphXKzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013200112370196671",
+        "in_reply_to_user_id": "1963184493038362624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963199020030964183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takagi258 @LongjiangL75132 @ChineseEmbinUS https://t.co/hNrLphXKzR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963184493038362624",
+        "conversation_id": "1963067524515311888",
+        "created_at": "2025-09-03T11:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963199020030964183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1860334582022946816",
+              "start": 0,
+              "username": "LongjiangL75132"
+            },
+            {
+              "end": 32,
+              "id": "1136383051917910017",
+              "start": 17,
+              "username": "ChineseEmbinUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963199020030964183",
+        "in_reply_to_user_id": "1860334582022946816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963089182332702931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LongjiangL75132 @ChineseEmbinUS 乐子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜正在幻想拿到创作激励｜互fo欢迎｜极端群体、黄推NG",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 768
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-03T10:17:20.000Z",
+        "description": "",
+        "id": "1963184493038362624",
+        "name": "HP_w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963184614379548672/MR6Jpiyj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "takagi258",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-05T21:23:27.000Z",
+        "description": "Official twitter account of the Embassy of the People's Republic of China in the United States of America",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "china-embassy.org/eng/",
+                "end": 23,
+                "expanded_url": "http://www.china-embassy.org/eng/",
+                "start": 0,
+                "url": "https://t.co/CDD3PtM4RK"
+              }
+            ]
+          }
+        },
+        "id": "1136383051917910017",
+        "location": "Washington, DC",
+        "name": "Chinese Embassy in US",
+        "pinned_tweet_id": "2008911162595766420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246473297199587329/Sih5XdxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340481,
+          "following_count": 624,
+          "like_count": 6439,
+          "listed_count": 1399,
+          "media_count": 2756,
+          "tweet_count": 6740
+        },
+        "url": "https://t.co/CDD3PtM4RK",
+        "username": "ChineseEmbinUS",
+        "verified": true
+      }
+    ]
+  }
+}

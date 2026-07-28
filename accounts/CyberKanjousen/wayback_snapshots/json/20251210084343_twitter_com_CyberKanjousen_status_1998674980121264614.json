@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "1998571199983661545",
+    "created_at": "2025-12-10T08:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998674980121264614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998674980121264614",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998571199983661545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 这下真是学新闻学学的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_1998571195621343232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7xZ6d1WgAAM_kp.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "1998571199983661545",
+        "created_at": "2025-12-10T08:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998674980121264614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998674980121264614",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998571199983661545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 这下真是学新闻学学的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998571195621343232"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1998571199983661545",
+        "created_at": "2025-12-10T01:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998571199983661545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmrHVLNP6h",
+              "end": 23,
+              "expanded_url": "https://x.com/Kenntnis22/status/1998571199983661545/photo/1",
+              "media_key": "3_1998571195621343232",
+              "start": 0,
+              "url": "https://t.co/FmrHVLNP6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998571199983661545",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 76838,
+          "like_count": 1995,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FmrHVLNP6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934586498302836736/dNcqR6nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 224
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1997400407924990284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45087,
+          "following_count": 347,
+          "like_count": 37632,
+          "listed_count": 226,
+          "media_count": 7792,
+          "tweet_count": 11916
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

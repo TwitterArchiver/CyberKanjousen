@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2055229846503260345",
+    "created_at": "2026-05-15T11:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055253180783698091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541690170160070657",
+          "start": 0,
+          "username": "gold_ddl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055253180783698091",
+    "in_reply_to_user_id": "1541690170160070657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055251273436557666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@gold_ddl 圈外人環状線没看懂，可以稍微解释一下吗喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2055229846503260345",
+        "created_at": "2026-05-15T11:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055253180783698091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541690170160070657",
+              "start": 0,
+              "username": "gold_ddl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055253180783698091",
+        "in_reply_to_user_id": "1541690170160070657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055251273436557666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@gold_ddl 圈外人環状線没看懂，可以稍微解释一下吗喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541690170160070657",
+        "conversation_id": "2055229846503260345",
+        "created_at": "2026-05-15T11:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055251273436557666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055251273436557666",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055229846503260345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 安东尼已有箭头之姿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3278,
+          "following_count": 825,
+          "like_count": 19895,
+          "listed_count": 8,
+          "media_count": 1063,
+          "tweet_count": 5916
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-28T07:49:34.000Z",
+        "description": "ND | MtX | 现居安徽 | 沉迷尖塔中...\nsteam1365859697欢迎找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gold_ddl",
+                "end": 23,
+                "expanded_url": "http://t.me/gold_ddl",
+                "start": 0,
+                "url": "https://t.co/ztWKvyp4Ei"
+              }
+            ]
+          }
+        },
+        "id": "1541690170160070657",
+        "location": "川陀大学图书馆",
+        "name": "金蒲公英(可食用)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035048383489220609/-WIV_jXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 461,
+          "like_count": 3489,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/ztWKvyp4Ei",
+        "username": "gold_ddl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2076274760498155641",
+    "created_at": "2026-07-12T13:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076296990833717487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "iCosint"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076296990833717487",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076294619290386819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iCosint 「教官教官，我阳了！」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2076274760498155641",
+        "created_at": "2026-07-12T13:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076296990833717487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "iCosint"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076296990833717487",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076294619290386819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iCosint 「教官教官，我阳了！」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "conversation_id": "2076274760498155641",
+        "created_at": "2026-07-12T13:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076294619290386819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076294619290386819",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076274760498155641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 谢谢環狀線，我知道怎么逃军训了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9823,
+          "following_count": 880,
+          "like_count": 30433,
+          "listed_count": 13,
+          "media_count": 2024,
+          "tweet_count": 10197
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "转推bot\nWe do the right thing, even when it’s not easy.\n退役 OIer || 12年初中生 || 实事求是 || 正太控 || 包容大部分意识形态 \n\n一个还没想清楚要成为什么的人\n先在互联网上留下点痕迹",
+        "id": "1790006276162048000",
+        "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝",
+        "pinned_tweet_id": "2062531172589277501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055991608882196481/QFDQbnJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 641,
+          "like_count": 30683,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 6259
+        },
+        "url": "",
+        "username": "iCosint",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2008873246020833351",
+    "created_at": "2026-01-07T12:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008873246020833351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1785688393244119040",
+          "start": 3,
+          "username": "mama_nishiazabu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008873246020833351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008810299777052779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mama_nishiazabu: 高市総理アンチ増えたわよね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2008873246020833351",
+        "created_at": "2026-01-07T12:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008873246020833351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1785688393244119040",
+              "start": 3,
+              "username": "mama_nishiazabu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008873246020833351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008810299777052779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mama_nishiazabu: 高市総理アンチ増えたわよね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785688393244119040",
+        "conversation_id": "2008810299777052779",
+        "created_at": "2026-01-07T07:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008810299777052779"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "高市総理",
+              "probability": 0.6545,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008810299777052779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 69629,
+          "like_count": 2115,
+          "quote_count": 31,
+          "reply_count": 172,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "高市総理アンチ増えたわよね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 TG@CyberKanjousen",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006931034299052033/6Qy-Q8mJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 16,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 501
+        },
+        "username": "CyberKanjousen",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T15:11:25.000Z",
+        "description": "六本木西麻布で働くみんなの母です。 仕事や恋愛などママへの質問はお気軽にね。 たまには家帰ってきなさいね？じっくりことこと🫕煮込んだカレーを作るからね🍛 #DV反対 🎌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "DV反対"
+              }
+            ]
+          }
+        },
+        "id": "1785688393244119040",
+        "location": "日本 東京",
+        "name": "西麻布の母🔮",
+        "pinned_tweet_id": "1955210169148903720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956981726145871873/bxZO9mAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91101,
+          "following_count": 172,
+          "like_count": 1816,
+          "listed_count": 317,
+          "media_count": 648,
+          "tweet_count": 2235
+        },
+        "username": "mama_nishiazabu",
+        "verified": false
+      }
+    ]
+  }
+}

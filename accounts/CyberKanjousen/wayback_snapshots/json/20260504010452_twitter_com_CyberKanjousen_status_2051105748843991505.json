@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2050827091013403103",
+    "created_at": "2026-05-04T01:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T02:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051105748843991505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lily0727k/stat…",
+          "end": 46,
+          "expanded_url": "https://x.com/lily0727k/status/2050733473405821239?s=46",
+          "start": 23,
+          "url": "https://t.co/q0TXEyHTci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051105748843991505",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050733473405821239",
+        "type": "quoted"
+      },
+      {
+        "id": "2051104601068212461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan 静安大悦城说是\n\nhttps://t.co/q0TXEyHTci"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2050733426433728512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWrL6OaIAAzZs-.jpg",
+        "width": 1024
+      },
+      {
+        "height": 575,
+        "media_key": "3_2050733440459554816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWrMuebQAAmMjL.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2050733451251523584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWrNWrboAAlDdj.jpg",
+        "width": 1024
+      },
+      {
+        "height": 576,
+        "media_key": "3_2050733463360462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHWrODybYAAK64W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2050827091013403103",
+        "created_at": "2026-05-04T01:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051105748843991505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lily0727k/stat…",
+              "end": 46,
+              "expanded_url": "https://x.com/lily0727k/status/2050733473405821239?s=46",
+              "start": 23,
+              "url": "https://t.co/q0TXEyHTci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051105748843991505",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050733473405821239",
+            "type": "quoted"
+          },
+          {
+            "id": "2051104601068212461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan 静安大悦城说是\n\nhttps://t.co/q0TXEyHTci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050733426433728512",
+            "3_2050733440459554816",
+            "3_2050733451251523584",
+            "3_2050733463360462848"
+          ]
+        },
+        "author_id": "753297307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2050733473405821239",
+        "created_at": "2026-05-03T00:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T01:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050733473405821239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pqln8GOCdg",
+              "end": 168,
+              "expanded_url": "https://x.com/Lily0727K/status/2050733473405821239/photo/1",
+              "media_key": "3_2050733426433728512",
+              "start": 145,
+              "url": "https://t.co/Pqln8GOCdg"
+            },
+            {
+              "display_url": "pic.x.com/Pqln8GOCdg",
+              "end": 168,
+              "expanded_url": "https://x.com/Lily0727K/status/2050733473405821239/photo/1",
+              "media_key": "3_2050733440459554816",
+              "start": 145,
+              "url": "https://t.co/Pqln8GOCdg"
+            },
+            {
+              "display_url": "pic.x.com/Pqln8GOCdg",
+              "end": 168,
+              "expanded_url": "https://x.com/Lily0727K/status/2050733473405821239/photo/1",
+              "media_key": "3_2050733451251523584",
+              "start": 145,
+              "url": "https://t.co/Pqln8GOCdg"
+            },
+            {
+              "display_url": "pic.x.com/Pqln8GOCdg",
+              "end": 168,
+              "expanded_url": "https://x.com/Lily0727K/status/2050733473405821239/photo/1",
+              "media_key": "3_2050733463360462848",
+              "start": 145,
+              "url": "https://t.co/Pqln8GOCdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050733473405821239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 922,
+          "impression_count": 630248,
+          "like_count": 6524,
+          "quote_count": 223,
+          "reply_count": 182,
+          "retweet_count": 1498
+        },
+        "reply_settings": "everyone",
+        "text": "上海の二次元文化がすごいのは知っていたけど、今の勢いは想像を超えていました！\n\n道を歩いても地下鉄乗っても、すぐ目に入ってくるのは大量の色鮮やかなコスプレ！\n\n日本と中国の両方のIPが入り乱れ、関連店舗は超満員、とてつもない熱気です！\n\nもはや秋葉原を超えて、世界最大の二次元の聖地です！ https://t.co/Pqln8GOCdg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2050827091013403103",
+        "created_at": "2026-05-04T01:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051104601068212461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051104601068212461",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050827091013403103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这是上海啥地方，好奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 723,
+          "like_count": 17455,
+          "listed_count": 8,
+          "media_count": 960,
+          "tweet_count": 5291
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | ❤️: @xinxinUnique | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "xinxinUnique"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3722,
+          "following_count": 542,
+          "like_count": 9277,
+          "listed_count": 10,
+          "media_count": 54,
+          "tweet_count": 3822
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-12T15:25:01.000Z",
+        "description": "東京大学医学部卒。元血液内科専門医。令和元年Googleのソフトウェアエンジニアに転職しました。今は世界最強のポーカープレイヤーを目指しています。ツイートは個人の意見であり会社を代表しません。趣味はIIDX中伝。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.mu/nekochan0214",
+                "end": 23,
+                "expanded_url": "https://note.mu/nekochan0214",
+                "start": 0,
+                "url": "https://t.co/0xV3kNFxbu"
+              }
+            ]
+          }
+        },
+        "id": "753297307",
+        "location": "Travelling around the world",
+        "name": "Lillian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1118109707044917249/aMCIyW1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63401,
+          "following_count": 9,
+          "like_count": 16493,
+          "listed_count": 483,
+          "media_count": 3545,
+          "tweet_count": 44646
+        },
+        "url": "https://t.co/0xV3kNFxbu",
+        "username": "Lily0727K",
+        "verified": true
+      }
+    ]
+  }
+}

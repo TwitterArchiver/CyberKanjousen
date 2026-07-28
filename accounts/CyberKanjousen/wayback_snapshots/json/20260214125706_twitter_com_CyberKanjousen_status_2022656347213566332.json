@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2022648975820562733",
+    "created_at": "2026-02-14T12:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022656347213566332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022656347213566332",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022648975820562733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 手机不好操作，得电脑才行"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16149,
+        "height": 574,
+        "media_key": "7_2022648932413673472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022648932413673472/pu/img/gntqBbGaT-voOrSz.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022648932413673472/pu/vid/avc1/602x270/QR8FFYsn2RQhfpbL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022648932413673472/pu/vid/avc1/802x360/T7UXdWPv9pkxPMeu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022648932413673472/pu/vid/avc1/1280x574/nwUu5fehjHOsY9nM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022648932413673472/pu/pl/FmlFJpx32Yh5_p9a.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2022648975820562733",
+        "created_at": "2026-02-14T12:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022656347213566332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022656347213566332",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022648975820562733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 手机不好操作，得电脑才行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022648932413673472"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2022648975820562733",
+        "created_at": "2026-02-14T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022648975820562733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxtG4JnEDY",
+              "end": 60,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2022648975820562733/video/1",
+              "media_key": "7_2022648932413673472",
+              "start": 37,
+              "url": "https://t.co/gxtG4JnEDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022648975820562733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bro试图幻想自己是Dream大神💀💀💀💀💀💀\n给我自己看乐了🤡🤡🤡🤡🤡 https://t.co/gxtG4JnEDY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜114514流写手｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容 ｜ 露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 35,
+          "like_count": 1140,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "びゃくやこう\nsub： @IzayoiMarinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "IzayoiMarinn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "KIRIHARA RYUJI",
+        "name": "まりん#彼氏募集中",
+        "pinned_tweet_id": "2003470270389191105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011846547357777923/79zd_F7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 2354,
+          "like_count": 37782,
+          "listed_count": 5,
+          "media_count": 1556,
+          "tweet_count": 17803
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

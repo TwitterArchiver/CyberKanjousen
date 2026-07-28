@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2057892152567620086",
+    "created_at": "2026-05-22T18:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057898766863384788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1789631856721412096",
+          "start": 0,
+          "username": "0xSuBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057898766863384788",
+    "in_reply_to_user_id": "1789631856721412096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057898571907944476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@0xSuBC 再不睡天就要亮了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2057892152567620086",
+        "created_at": "2026-05-22T18:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057898766863384788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1789631856721412096",
+              "start": 0,
+              "username": "0xSuBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057898766863384788",
+        "in_reply_to_user_id": "1789631856721412096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057898571907944476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@0xSuBC 再不睡天就要亮了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789631856721412096",
+        "conversation_id": "2057892152567620086",
+        "created_at": "2026-05-22T18:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057898571907944476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057898571907944476",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057892152567620086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 她已经把大部分相关帖子删了，睡觉吧，别掺和了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3981,
+          "following_count": 843,
+          "like_count": 21459,
+          "listed_count": 9,
+          "media_count": 1138,
+          "tweet_count": 6384
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-12T12:21:07.000Z",
+        "description": "A Just Player | Cooking @INJ_Pass @CramSchoolClub | Ambassador @injective | 练习忍术中...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "INJ_Pass"
+              },
+              {
+                "end": 49,
+                "start": 34,
+                "username": "CramSchoolClub"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "injective"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xSuBC",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0xSuBC",
+                "start": 0,
+                "url": "https://t.co/tIgDgMpAQl"
+              }
+            ]
+          }
+        },
+        "id": "1789631856721412096",
+        "name": "Su BC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056895437999861760/9f68Jdus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 904,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/tIgDgMpAQl",
+        "username": "0xSuBC",
+        "verified": true
+      }
+    ]
+  }
+}

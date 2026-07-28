@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2012707514094362853",
+    "created_at": "2026-01-18T15:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012915790253895724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868092819",
+          "start": 0,
+          "username": "basane158"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012915790253895724",
+    "in_reply_to_user_id": "1868092819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012707514094362853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basane158 @grok 把日文译成中文，其他保持不变"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2012605135177015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-41tQtaYAAGokN.jpg",
+        "width": 790
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2012605135252271104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-41tQ_WsAA6SsX.jpg",
+        "width": 790
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2012605135298375680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-41tRKWMAArViK.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2012707514094362853",
+        "created_at": "2026-01-18T15:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012915790253895724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868092819",
+              "start": 0,
+              "username": "basane158"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012915790253895724",
+        "in_reply_to_user_id": "1868092819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012707514094362853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basane158 @grok 把日文译成中文，其他保持不变"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012605135177015296",
+            "3_2012605135252271104",
+            "3_2012605135298375680"
+          ]
+        },
+        "author_id": "1868092819",
+        "conversation_id": "2012707514094362853",
+        "created_at": "2026-01-18T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012707514094362853"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "モーティスボックス",
+              "probability": 0.4959,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 17,
+              "normalized_text": "むつさきういモー",
+              "probability": 0.2916,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 32,
+              "tag": "UNMASQUERADE_東京"
+            },
+            {
+              "end": 59,
+              "start": 49,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwOexslx3U",
+              "end": 83,
+              "expanded_url": "https://x.com/basane158/status/2012707514094362853/photo/1",
+              "media_key": "3_2012605135177015296",
+              "start": 60,
+              "url": "https://t.co/FwOexslx3U"
+            },
+            {
+              "display_url": "pic.x.com/FwOexslx3U",
+              "end": 83,
+              "expanded_url": "https://x.com/basane158/status/2012707514094362853/photo/1",
+              "media_key": "3_2012605135252271104",
+              "start": 60,
+              "url": "https://t.co/FwOexslx3U"
+            },
+            {
+              "display_url": "pic.x.com/FwOexslx3U",
+              "end": 83,
+              "expanded_url": "https://x.com/basane158/status/2012707514094362853/photo/1",
+              "media_key": "3_2012605135298375680",
+              "start": 60,
+              "url": "https://t.co/FwOexslx3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012707514094362853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 19885,
+          "like_count": 1019,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "モーティスボックスとむつさきういモー\n(原作：ムジカキャスト)\n#UNMASQUERADE_東京\n#AveMujica https://t.co/FwOexslx3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "我从丹东来✋😭🤚 换你一城雪白✋😭🤚 日本语/英语学习中",
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2011084871540892060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 25,
+          "like_count": 431,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 709
+        },
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-15T15:04:14.000Z",
+        "description": "蓮ノ空女学院スクールアイドルクラブ/Ave Mujica/ストレイライト/前橋ウィッチーズ/ Roselia/スタァライト/ヘブバン/響け！ユーフォニアム/BIRDIE WING/ 絵の感想などあればマシュマロ→ https://t.co/OJB3fHrgqZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/2byc5bw0uwtr1pk",
+                "end": 130,
+                "expanded_url": "https://marshmallow-qa.com/2byc5bw0uwtr1pk",
+                "start": 107,
+                "url": "https://t.co/OJB3fHrgqZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=8208562",
+                "start": 0,
+                "url": "https://t.co/UdQUksrhN0"
+              }
+            ]
+          }
+        },
+        "id": "1868092819",
+        "location": "素晴らしき世界 でも どこにもない場所",
+        "name": "みどり",
+        "pinned_tweet_id": "2010853816003129557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944721459034968064/LhCHFdNe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2640,
+          "following_count": 3018,
+          "like_count": 27408,
+          "listed_count": 19,
+          "media_count": 522,
+          "tweet_count": 18722
+        },
+        "url": "https://t.co/UdQUksrhN0",
+        "username": "basane158",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7572778,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5833,
+          "media_count": 7797878,
+          "tweet_count": 92008581
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

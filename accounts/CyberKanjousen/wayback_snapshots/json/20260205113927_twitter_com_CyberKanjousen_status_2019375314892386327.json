@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2019181238851105018",
+    "created_at": "2026-02-05T11:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019375314892386327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527847554825723905",
+          "start": 0,
+          "username": "WLoliyeyeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019375314892386327",
+    "in_reply_to_user_id": "1527847554825723905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019181238851105018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WLoliyeyeye 鸿蒙的UI我认为就是邯郸学步、东施效颦👎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2019181234459693056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWSonka0AAsWyH.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2019181234925207552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWSopTaAAA19_A.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2019181235122368512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWSoqCacAAAnIJ.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2019181235629879301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAWSor7acAUe9jm.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2019181238851105018",
+        "created_at": "2026-02-05T11:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019375314892386327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527847554825723905",
+              "start": 0,
+              "username": "WLoliyeyeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019375314892386327",
+        "in_reply_to_user_id": "1527847554825723905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019181238851105018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WLoliyeyeye 鸿蒙的UI我认为就是邯郸学步、东施效颦👎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019181234459693056",
+            "3_2019181234925207552",
+            "3_2019181235122368512",
+            "3_2019181235629879301"
+          ]
+        },
+        "author_id": "1527847554825723905",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2019181238851105018",
+        "created_at": "2026-02-04T22:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T23:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019181238851105018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YphWj71j1",
+              "end": 157,
+              "expanded_url": "https://x.com/WLoliyeyeye/status/2019181238851105018/photo/1",
+              "media_key": "3_2019181234459693056",
+              "start": 134,
+              "url": "https://t.co/6YphWj71j1"
+            },
+            {
+              "display_url": "pic.x.com/6YphWj71j1",
+              "end": 157,
+              "expanded_url": "https://x.com/WLoliyeyeye/status/2019181238851105018/photo/1",
+              "media_key": "3_2019181234925207552",
+              "start": 134,
+              "url": "https://t.co/6YphWj71j1"
+            },
+            {
+              "display_url": "pic.x.com/6YphWj71j1",
+              "end": 157,
+              "expanded_url": "https://x.com/WLoliyeyeye/status/2019181238851105018/photo/1",
+              "media_key": "3_2019181235122368512",
+              "start": 134,
+              "url": "https://t.co/6YphWj71j1"
+            },
+            {
+              "display_url": "pic.x.com/6YphWj71j1",
+              "end": 157,
+              "expanded_url": "https://x.com/WLoliyeyeye/status/2019181238851105018/photo/1",
+              "media_key": "3_2019181235629879301",
+              "start": 134,
+              "url": "https://t.co/6YphWj71j1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019181238851105018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1816,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安卓15最大的感觉是更像苹果了，而且我觉得比14更流畅，更好看，\n安卓系统现在最新的是安卓16，这个手机早就可以升安卓16了，不过我一直不想升，\n据说好多中国手机也可以升级安卓16了，但是都是魔改的安卓系统，少了很多浪漫，\n不过那也比破烂鸿蒙强，破烂华为，一股土味。 https://t.co/6YphWj71j1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能｜神人群体、黄推、宗教、币圈、诈骗广告NG｜LBGT包容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 30,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-21T03:03:49.000Z",
+        "description": "自由引导人民      我支持台湾",
+        "id": "1527847554825723905",
+        "name": "ko~yuki",
+        "pinned_tweet_id": "1989573266953179553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971163884779417600/u0nbCeQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 1203,
+          "like_count": 12434,
+          "listed_count": 51,
+          "media_count": 1269,
+          "tweet_count": 3986
+        },
+        "username": "WLoliyeyeye",
+        "verified": false
+      }
+    ]
+  }
+}

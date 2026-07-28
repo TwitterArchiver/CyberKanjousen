@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2052920871346692267",
+    "created_at": "2026-05-09T01:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T02:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052924321795072131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1072837502732566529",
+          "start": 0,
+          "username": "yutian_blue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052924321795072131",
+    "in_reply_to_user_id": "1072837502732566529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052924069134422076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yutian_blue 感觉環状線挺符合营销号的定义的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2052920871346692267",
+        "created_at": "2026-05-09T01:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052924321795072131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "yutian_blue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052924321795072131",
+        "in_reply_to_user_id": "1072837502732566529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052924069134422076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yutian_blue 感觉環状線挺符合营销号的定义的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072837502732566529",
+        "conversation_id": "2052920871346692267",
+        "created_at": "2026-05-09T01:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052924069134422076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052924069134422076",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052920871346692267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 并非营销号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 124,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 101,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 809,
+          "like_count": 18779,
+          "listed_count": 9,
+          "media_count": 1001,
+          "tweet_count": 5521
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-12T12:56:07.000Z",
+        "description": "不知名创作者，爱搞抽象\nAI永远的神，造物主",
+        "id": "1072837502732566529",
+        "name": "雨天心情好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047688077926379521/_8-cuqwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6445,
+          "following_count": 485,
+          "like_count": 1632,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 2865
+        },
+        "username": "yutian_blue",
+        "verified": true
+      }
+    ]
+  }
+}
