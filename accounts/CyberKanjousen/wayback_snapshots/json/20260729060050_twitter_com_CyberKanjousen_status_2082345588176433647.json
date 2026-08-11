@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2082332899110691088",
+    "created_at": "2026-07-29T06:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T07:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082345588176433647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1958534758885187584",
+          "start": 0,
+          "username": "YYuke2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082345588176433647",
+    "in_reply_to_user_id": "1958534758885187584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082342638913753166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYuke2333 其实并不只是热的问题。漂流的时候皮肤除了会受到太阳的直接紫外线辐射，还会再受到水面反射阳光的辐射，所以此时皮肤受到的辐射格外多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2082332899110691088",
+        "created_at": "2026-07-29T06:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082345588176433647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1958534758885187584",
+              "start": 0,
+              "username": "YYuke2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082345588176433647",
+        "in_reply_to_user_id": "1958534758885187584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082342638913753166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYuke2333 其实并不只是热的问题。漂流的时候皮肤除了会受到太阳的直接紫外线辐射，还会再受到水面反射阳光的辐射，所以此时皮肤受到的辐射格外多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958534758885187584",
+        "conversation_id": "2082332899110691088",
+        "created_at": "2026-07-29T05:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082342638913753166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082342638913753166",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082332899110691088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 这得多热。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12310,
+          "following_count": 878,
+          "like_count": 31945,
+          "listed_count": 21,
+          "media_count": 2300,
+          "tweet_count": 11192
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-21T14:21:02.000Z",
+        "description": "主要谈科技，经济，俄乌，少谈⏰军事，不辩经，不吵架，可以和非极左极右亲中亲俄亲脑残第三世界人士交流，立场差异过大直接批发ban\n没有丝毫水平不想要流量就是个吓骂蛆",
+        "id": "1958534758885187584",
+        "location": "Nakano-ku, Tokyo",
+        "name": "/-/ 、、、「」",
+        "pinned_tweet_id": "2019051730487611619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958536536389242880/hGXaMb7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 1360,
+          "like_count": 28474,
+          "listed_count": 6,
+          "media_count": 89,
+          "tweet_count": 3531
+        },
+        "url": "",
+        "username": "YYuke2333",
+        "verified": false
+      }
+    ]
+  }
+}

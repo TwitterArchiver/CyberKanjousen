@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2083357796699963571",
+    "created_at": "2026-08-01T03:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083389255502754125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2005931339086979072",
+          "start": 0,
+          "username": "Ray33193082060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083389255502754125",
+    "in_reply_to_user_id": "2005931339086979072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083383137749585992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ray33193082060 那看来果然对方是诈骗分子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2083357796699963571",
+        "created_at": "2026-08-01T03:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083389255502754125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2005931339086979072",
+              "start": 0,
+              "username": "Ray33193082060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083389255502754125",
+        "in_reply_to_user_id": "2005931339086979072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083383137749585992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ray33193082060 那看来果然对方是诈骗分子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005931339086979072",
+        "conversation_id": "2083357796699963571",
+        "created_at": "2026-08-01T02:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083383137749585992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083383137749585992",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083357796699963571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 不开玩笑，哥们还真被这个家伙加过...\n用的图和措辞一毛一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12678,
+          "following_count": 878,
+          "like_count": 32216,
+          "listed_count": 21,
+          "media_count": 2362,
+          "tweet_count": 11370
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-30T09:18:06.000Z",
+        "description": "",
+        "id": "2005931339086979072",
+        "name": "Ray",
+        "pinned_tweet_id": "2027461604707881028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009242114090258439/Tjb7JTnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 217,
+          "like_count": 6793,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 932
+        },
+        "url": "",
+        "username": "Ray33193082060",
+        "verified": false
+      }
+    ]
+  }
+}

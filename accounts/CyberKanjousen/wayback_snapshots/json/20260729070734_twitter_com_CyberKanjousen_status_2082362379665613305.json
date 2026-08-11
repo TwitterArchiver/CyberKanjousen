@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2082290261892510151",
+    "created_at": "2026-07-29T07:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082362379665613305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "778677727",
+          "start": 0,
+          "username": "zhinarencs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082362379665613305",
+    "in_reply_to_user_id": "778677727",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082362290452709472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencs8964 玩😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2082290261892510151",
+        "created_at": "2026-07-29T07:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082362379665613305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "778677727",
+              "start": 0,
+              "username": "zhinarencs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082362379665613305",
+        "in_reply_to_user_id": "778677727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082362290452709472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencs8964 玩😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "778677727",
+        "conversation_id": "2082290261892510151",
+        "created_at": "2026-07-29T07:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082362290452709472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082362290452709472",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082290261892510151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 真是的，我有逼你们玩吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12312,
+          "following_count": 878,
+          "like_count": 31971,
+          "listed_count": 21,
+          "media_count": 2302,
+          "tweet_count": 11202
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2012-08-24T17:52:02.000Z",
+        "description": "",
+        "id": "778677727",
+        "location": "满洲国731大宾馆",
+        "name": "白马师团的牢内_official",
+        "pinned_tweet_id": "2080961383383077057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081348546645897216/GCZolGd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 340,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "zhinarencs8964",
+        "verified": true
+      }
+    ]
+  }
+}

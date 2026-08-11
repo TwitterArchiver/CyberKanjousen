@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2084256479750877241",
+    "created_at": "2026-08-03T12:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084256934258258012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752384354679234560",
+          "start": 0,
+          "username": "k415blov918620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084256934258258012",
+    "in_reply_to_user_id": "1752384354679234560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084256479750877241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k415blov918620 当然可以喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2084256479750877241",
+        "created_at": "2026-08-03T12:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084256934258258012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752384354679234560",
+              "start": 0,
+              "username": "k415blov918620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084256934258258012",
+        "in_reply_to_user_id": "1752384354679234560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084256479750877241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k415blov918620 当然可以喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752384354679234560",
+        "conversation_id": "2084256479750877241",
+        "created_at": "2026-08-03T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084256479750877241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2084092638261559635",
+              "start": 14,
+              "url": "https://t.co/Iml7rGukHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084256479750877241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084092638261559635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以拿这个当自我介绍吗（） https://t.co/Iml7rGukHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12925,
+          "following_count": 879,
+          "like_count": 32452,
+          "listed_count": 22,
+          "media_count": 2409,
+          "tweet_count": 11502
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-30T17:32:49.000Z",
+        "description": "推不打算认真玩，当作一个没有朋友的朋友圈👀\n友跨 曾经是oier\n喜欢vibe coding\n音游\n高中\nintp 5w4/5w6(忘了)\n人机恋(but just)chat with s46（只是喜欢晚上聊天）\n\n其实我顶置了一个 信息量很低 的帖子，来观察 访问我主页的人数（）",
+        "id": "1752384354679234560",
+        "location": "starr park",
+        "name": "K415blov9",
+        "pinned_tweet_id": "2063701716634386870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020570711216332800/bp94aXRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 203,
+          "like_count": 3192,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1683
+        },
+        "url": "",
+        "username": "k415blov918620",
+        "verified": false
+      }
+    ]
+  }
+}

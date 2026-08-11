@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2083913292679180677",
+    "created_at": "2026-08-02T15:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083940794046771211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2068365590998499328",
+          "start": 0,
+          "username": "enhao245"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083940794046771211",
+    "in_reply_to_user_id": "2068365590998499328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083915065833767293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enhao245 小时候没意识到小学男同学都是正太（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2083913292679180677",
+        "created_at": "2026-08-02T15:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083940794046771211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2068365590998499328",
+              "start": 0,
+              "username": "enhao245"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083940794046771211",
+        "in_reply_to_user_id": "2068365590998499328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083915065833767293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enhao245 小时候没意识到小学男同学都是正太（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068365590998499328",
+        "conversation_id": "2083913292679180677",
+        "created_at": "2026-08-02T13:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083915065833767293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083915065833767293",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083913292679180677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 小时候没意识到小学女同学都是萝莉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12839,
+          "following_count": 881,
+          "like_count": 32352,
+          "listed_count": 22,
+          "media_count": 2395,
+          "tweet_count": 11453
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-20T16:11:11.000Z",
+        "description": "08后男生 | 性格挺好吧🤤\n学日语ing✨\n超级喜欢日漫和纯音乐\n日常分享 | 清水？？\n欢迎找我聊天交友～ 🇨🇳🇹🇼🇯🇵\n同好扩列​ | 互fo交流喵",
+        "id": "2068365590998499328",
+        "name": "鱼酱あ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072330198436163584/AsbwMDZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 266,
+          "like_count": 991,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "enhao245",
+        "verified": false
+      }
+    ]
+  }
+}

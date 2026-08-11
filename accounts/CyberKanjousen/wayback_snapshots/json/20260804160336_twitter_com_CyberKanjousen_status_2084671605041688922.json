@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084671593033437184"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2084671605041688922",
+    "created_at": "2026-08-04T16:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084671605041688922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mg9YF9hiMG",
+          "end": 74,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2084671605041688922/photo/1",
+          "media_key": "3_2084671593033437184",
+          "start": 51,
+          "url": "https://t.co/mg9YF9hiMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084671605041688922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "由于以下软件从未用过，所以環状線分得了 0 CNY。\n\n不过就算用了，分到的钱有上海最低时薪高吗？😁 https://t.co/mg9YF9hiMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2084671593033437184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO49xNAbEAAdARy.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084671593033437184"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2084671605041688922",
+        "created_at": "2026-08-04T16:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084671605041688922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg9YF9hiMG",
+              "end": 74,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2084671605041688922/photo/1",
+              "media_key": "3_2084671593033437184",
+              "start": 51,
+              "url": "https://t.co/mg9YF9hiMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084671605041688922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于以下软件从未用过，所以環状線分得了 0 CNY。\n\n不过就算用了，分到的钱有上海最低时薪高吗？😁 https://t.co/mg9YF9hiMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14100,
+          "following_count": 880,
+          "like_count": 32513,
+          "listed_count": 23,
+          "media_count": 2435,
+          "tweet_count": 11571
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}
