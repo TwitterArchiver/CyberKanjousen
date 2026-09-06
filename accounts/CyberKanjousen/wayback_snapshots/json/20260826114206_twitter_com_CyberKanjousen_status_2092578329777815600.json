@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2092440431929733303",
+    "created_at": "2026-08-26T11:42:06.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092578329777815600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1587568329618661377",
+          "start": 0,
+          "username": "rnjnki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092578329777815600",
+    "in_reply_to_user_id": "1587568329618661377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092550186807759200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rnjnki2 你好，吃我一点点😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2092440431929733303",
+        "created_at": "2026-08-26T11:42:06.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092578329777815600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1587568329618661377",
+              "start": 0,
+              "username": "rnjnki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092578329777815600",
+        "in_reply_to_user_id": "1587568329618661377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092550186807759200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rnjnki2 你好，吃我一点点😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587568329618661377",
+        "conversation_id": "2092440431929733303",
+        "created_at": "2026-08-26T09:50:16.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092550186807759200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092550186807759200",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092440431929733303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 你好 我吃一点点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092578329777815600",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17184,
+          "following_count": 880,
+          "like_count": 34507,
+          "listed_count": 30,
+          "media_count": 2814,
+          "tweet_count": 12825
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-01T22:13:10.000Z",
+        "description": "普通的Marycia玩家\n#Marycia3D",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 13,
+                "tag": "Marycia3D"
+              }
+            ]
+          }
+        },
+        "id": "1587568329618661377",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092563079141941732",
+        "name": "猫奴砸chalker",
+        "pinned_tweet_id": "2052008162652516745",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587568329618661377/1770421118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027589542421880832/GW55I-HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 405,
+          "like_count": 6512,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "rnjnki2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

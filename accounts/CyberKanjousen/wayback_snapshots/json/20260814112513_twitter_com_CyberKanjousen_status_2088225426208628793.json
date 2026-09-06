@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088225132951257089",
+        "3_2088225143642570752"
+      ],
+      "media_source_tweet_id": [
+        "2088225159367041113",
+        "2088225159367041113"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2088225426208628793",
+    "created_at": "2026-08-14T11:25:13.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088225426208628793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "982638749661069315",
+          "start": 3,
+          "username": "Lyytoaoitori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cgUZhTbDvK",
+          "end": 48,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/2088225159367041113/photo/1",
+          "media_key": "3_2088225132951257089",
+          "start": 25,
+          "url": "https://t.co/cgUZhTbDvK"
+        },
+        {
+          "display_url": "pic.x.com/cgUZhTbDvK",
+          "end": 48,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/2088225159367041113/photo/1",
+          "media_key": "3_2088225143642570752",
+          "start": 25,
+          "url": "https://t.co/cgUZhTbDvK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088225426208628793",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088225132951257089"
+      },
+      {
+        "media_key": "3_2088225143642570752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088225159367041113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyytoaoitori: 😊🧘‍♀️💢 https://t.co/cgUZhTbDvK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1912,
+        "media_key": "3_2088225132951257089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrdscyaQAEi8JP.jpg",
+        "width": 1340
+      },
+      {
+        "height": 1882,
+        "media_key": "3_2088225143642570752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrdtEnawAAOODJ.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088225132951257089",
+            "3_2088225143642570752"
+          ]
+        },
+        "author_id": "982638749661069315",
+        "conversation_id": "2088225159367041113",
+        "created_at": "2026-08-14T11:24:09.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088225159367041113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgUZhTbDvK",
+              "end": 30,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2088225159367041113/photo/1",
+              "media_key": "3_2088225132951257089",
+              "start": 7,
+              "url": "https://t.co/cgUZhTbDvK"
+            },
+            {
+              "display_url": "pic.x.com/cgUZhTbDvK",
+              "end": 30,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2088225159367041113/photo/1",
+              "media_key": "3_2088225143642570752",
+              "start": 7,
+              "url": "https://t.co/cgUZhTbDvK"
+            },
+            {
+              "display_url": "x.com/Lyytoaoitori/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Lyytoaoitori/status/2086771044132827242",
+              "start": 31,
+              "url": "https://t.co/flnTqgTTN6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088225159367041113",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088225132951257089"
+          },
+          {
+            "media_key": "3_2088225143642570752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2749,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086771044132827242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😊🧘‍♀️💢 https://t.co/cgUZhTbDvK https://t.co/flnTqgTTN6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088225132951257089",
+            "3_2088225143642570752"
+          ],
+          "media_source_tweet_id": [
+            "2088225159367041113",
+            "2088225159367041113"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2088225426208628793",
+        "created_at": "2026-08-14T11:25:13.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088225426208628793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "982638749661069315",
+              "start": 3,
+              "username": "Lyytoaoitori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgUZhTbDvK",
+              "end": 48,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2088225159367041113/photo/1",
+              "media_key": "3_2088225132951257089",
+              "start": 25,
+              "url": "https://t.co/cgUZhTbDvK"
+            },
+            {
+              "display_url": "pic.x.com/cgUZhTbDvK",
+              "end": 48,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2088225159367041113/photo/1",
+              "media_key": "3_2088225143642570752",
+              "start": 25,
+              "url": "https://t.co/cgUZhTbDvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088225426208628793",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088225132951257089"
+          },
+          {
+            "media_key": "3_2088225143642570752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088225159367041113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lyytoaoitori: 😊🧘‍♀️💢 https://t.co/cgUZhTbDvK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088225426208628793",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15175,
+          "following_count": 878,
+          "like_count": 33517,
+          "listed_count": 25,
+          "media_count": 2630,
+          "tweet_count": 12180
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-07T15:18:29.000Z",
+        "description": "リズと青い鳥、MyGO!!!!!に中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=4033649",
+                "start": 0,
+                "url": "https://t.co/f3o4fAnUn7"
+              }
+            ]
+          }
+        },
+        "id": "982638749661069315",
+        "is_identity_verified": false,
+        "location": "北宇治アイマスク専門大学院",
+        "most_recent_tweet_id": "2088225159367041113",
+        "name": "Lyy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/982638749661069315/1733811453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1144463536355102721/lDmnwqX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340221,
+          "following_count": 171,
+          "like_count": 1669,
+          "listed_count": 1297,
+          "media_count": 476,
+          "tweet_count": 624
+        },
+        "url": "https://t.co/f3o4fAnUn7",
+        "username": "Lyytoaoitori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

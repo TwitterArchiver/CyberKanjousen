@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2086780919256699156",
+    "created_at": "2026-08-10T12:51:23.000Z",
+    "display_text_range": [
+      20,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086797559474065576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1909390269533011968",
+          "start": 0,
+          "username": "gork"
+        },
+        {
+          "end": 19,
+          "id": "1551500275424186368",
+          "start": 6,
+          "username": "Zhangjianuo7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086797559474065576",
+    "in_reply_to_user_id": "1909390269533011968",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086786229811519803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gork @Zhangjianuo7 “the discord call was plotting against thighs the whole time…”\nWhat the hell"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2086780919256699156",
+        "created_at": "2026-08-10T12:51:23.000Z",
+        "display_text_range": [
+          20,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086797559474065576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1909390269533011968",
+              "start": 0,
+              "username": "gork"
+            },
+            {
+              "end": 19,
+              "id": "1551500275424186368",
+              "start": 6,
+              "username": "Zhangjianuo7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086797559474065576",
+        "in_reply_to_user_id": "1909390269533011968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086786229811519803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gork @Zhangjianuo7 “the discord call was plotting against thighs the whole time…”\nWhat the hell"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909390269533011968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2086780919256699156",
+        "created_at": "2026-08-10T12:06:22.000Z",
+        "display_text_range": [
+          30,
+          239
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086786229811519803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551500275424186368",
+              "start": 0,
+              "username": "Zhangjianuo7"
+            },
+            {
+              "end": 29,
+              "id": "1918274202580467713",
+              "start": 14,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086786229811519803",
+        "in_reply_to_user_id": "1551500275424186368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086786153471185090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhangjianuo7 @CyberKanjousen true in the pocket vibration sense but the bike almost falling and that climax bit makes me wonder if the discord call was plotting against thighs the whole time or if the universe just likes dumb bike wobbles"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086797559474065576",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14822,
+          "following_count": 880,
+          "like_count": 33103,
+          "listed_count": 25,
+          "media_count": 2555,
+          "tweet_count": 11940
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "is_identity_verified": false,
+        "location": "+1 (833) 987-4675",
+        "most_recent_tweet_id": "2086797403814846536",
+        "name": "gork",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909390269533011968/1749793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428634,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 419,
+          "media_count": 46905,
+          "tweet_count": 2474149
+        },
+        "url": "",
+        "username": "gork",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-25T09:31:14.000Z",
+        "description": "和平友爱友好交往\n爱国爱党，非极左或极右 毛选、共产党宣言、资本论已读\n沙勒/夏莱跨国优秀教师\n星粉、摩粉，搞机的来互fo\nC# WinUI Avalonia .NET开发 \n😋古法代码😋\nFinnish Spanish学习中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/TCKw7Xf1oy"
+              }
+            ]
+          }
+        },
+        "id": "1551500275424186368",
+        "is_identity_verified": false,
+        "location": "八宝州",
+        "most_recent_tweet_id": "2086795280347996603",
+        "name": "酷安今天倒闭了没🇨🇳🇭🇰🇲🇴🇹🇼",
+        "pinned_tweet_id": "1884978106483826741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1551500275424186368/1782657788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071242872846680064/DY2cBJSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 704,
+          "like_count": 2814,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 3167
+        },
+        "url": "https://t.co/TCKw7Xf1oy",
+        "username": "Zhangjianuo7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2087207268672823574",
+    "created_at": "2026-08-12T00:47:34.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T01:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087340179619209569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1565881978062118913",
+          "start": 0,
+          "username": "Espania_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087340179619209569",
+    "in_reply_to_user_id": "1565881978062118913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087235526516764945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Espania_CN 年轻人思想就是开放😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2087207268672823574",
+        "created_at": "2026-08-12T00:47:34.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T01:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087340179619209569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1565881978062118913",
+              "start": 0,
+              "username": "Espania_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087340179619209569",
+        "in_reply_to_user_id": "1565881978062118913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087235526516764945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Espania_CN 年轻人思想就是开放😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565881978062118913",
+        "conversation_id": "2087207268672823574",
+        "created_at": "2026-08-11T17:51:43.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087235526516764945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087235526516764945",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087207268672823574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 查一下他的资料，还挺年轻的韩国00后议员"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087340179619209569",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14935,
+          "following_count": 880,
+          "like_count": 33220,
+          "listed_count": 25,
+          "media_count": 2581,
+          "tweet_count": 12032
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T01:59:20.000Z",
+        "description": "中国大陸のクズ男子大学生🇨🇳\n🔰雑多垢：アニメ/マンガ/ゲーム/ライベ/政治歴史と人文地理/欧州と亚州の言語と文化が大好きですよ(英語、日本語、韓国語、ベトナム語勉強中)\n【日本が好きです/한국을 좋아해요 /Thích Việt Nam/香港•マカオ•台湾友好】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/espania.cn",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/espania.cn",
+                "start": 0,
+                "url": "https://t.co/29hByrmQo4"
+              }
+            ]
+          }
+        },
+        "id": "1565881978062118913",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2087281949182464047",
+        "name": "Espania",
+        "pinned_tweet_id": "1946929246875840944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565881978062118913/1736601324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007398324769595393/jS71Fby2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 6455,
+          "like_count": 120707,
+          "listed_count": 14,
+          "media_count": 121,
+          "tweet_count": 35374
+        },
+        "url": "https://t.co/29hByrmQo4",
+        "username": "Espania_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

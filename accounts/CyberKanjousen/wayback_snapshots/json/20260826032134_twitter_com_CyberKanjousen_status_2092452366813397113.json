@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2092413466585735514",
+    "created_at": "2026-08-26T03:21:34.000Z",
+    "display_text_range": [
+      29,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092452366813397113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1972497129550860288",
+          "start": 0,
+          "username": "Isolation8964"
+        },
+        {
+          "end": 28,
+          "id": "1769078117052854272",
+          "start": 15,
+          "username": "huahuojiang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cyberkanjousen…",
+          "end": 54,
+          "expanded_url": "https://x.com/cyberkanjousen/status/2092430834569507176",
+          "start": 31,
+          "url": "https://t.co/0I6brZdOAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092452366813397113",
+    "in_reply_to_user_id": "1972497129550860288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092430834569507176",
+        "type": "quoted"
+      },
+      {
+        "id": "2092427020265484350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Isolation8964 @huahuojiang_ 😡\nhttps://t.co/0I6brZdOAB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092430822976442368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnOv1CW0AABqhP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2092413466585735514",
+        "created_at": "2026-08-26T03:21:34.000Z",
+        "display_text_range": [
+          29,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092452366813397113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972497129550860288",
+              "start": 0,
+              "username": "Isolation8964"
+            },
+            {
+              "end": 28,
+              "id": "1769078117052854272",
+              "start": 15,
+              "username": "huahuojiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 54,
+              "expanded_url": "https://x.com/cyberkanjousen/status/2092430834569507176",
+              "start": 31,
+              "url": "https://t.co/0I6brZdOAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092452366813397113",
+        "in_reply_to_user_id": "1972497129550860288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092430834569507176",
+            "type": "quoted"
+          },
+          {
+            "id": "2092427020265484350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isolation8964 @huahuojiang_ 😡\nhttps://t.co/0I6brZdOAB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972497129550860288",
+        "conversation_id": "2092413466585735514",
+        "created_at": "2026-08-26T01:40:51.000Z",
+        "display_text_range": [
+          30,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092427020265484350"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "環状線吃糖"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 29,
+              "id": "1769078117052854272",
+              "start": 16,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092427020265484350",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092413466585735514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @huahuojiang_ 你怎么知道? #環状線吃糖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092430822976442368"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2092413466585735514",
+        "created_at": "2026-08-26T01:56:01.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092430834569507176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMI0V5AknL",
+              "end": 79,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2092430834569507176/photo/1",
+              "media_key": "3_2092430822976442368",
+              "start": 56,
+              "url": "https://t.co/PMI0V5AknL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092430834569507176",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092430822976442368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1105,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092413466585735514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "環状線没吃，只是偶然刷到了这个 Reddit 评论有感而发而已……\n不要造環状線的谣言说什么「環状線翻车」了😡 https://t.co/PMI0V5AknL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092452366813397113",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17057,
+          "following_count": 882,
+          "like_count": 34481,
+          "listed_count": 30,
+          "media_count": 2808,
+          "tweet_count": 12800
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "查成分fo|INTP-A|CN/TW/EN|什么都发|友跨非跨|自由主义|音游人|C-PTSD|生活健全\n能拥抱文明 能批判野蛮 / 永远与霸凌敌对\n暂无外卡 努力发帖(炒作)中\nAsk: https://t.co/mUxacbCW24\nOtherX:@Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 118,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 95,
+                "url": "https://t.co/mUxacbCW24"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInGWdc"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2092448587674447965",
+        "name": "𝓘𝓼𝓸.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050975410301849600/VTYUpb2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 142,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/lEYNInGWdc",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "is_identity_verified": false,
+        "location": "匹诺康尼",
+        "most_recent_tweet_id": "2092450049984958850",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2090066067116982651",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1774973744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7839,
+          "following_count": 3960,
+          "like_count": 105494,
+          "listed_count": 18,
+          "media_count": 9745,
+          "tweet_count": 105936
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

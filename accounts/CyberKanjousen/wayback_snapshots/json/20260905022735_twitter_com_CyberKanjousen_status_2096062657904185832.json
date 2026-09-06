@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2096038855019515982",
+    "created_at": "2026-09-05T02:27:35.000Z",
+    "display_text_range": [
+      10,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096062657904185832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3003454133",
+          "start": 0,
+          "username": "yzhu1015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096062657904185832",
+    "in_reply_to_user_id": "3003454133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096051094430556315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzhu1015 怎么可能，環状線的鸡巴还在呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2096038855019515982",
+        "created_at": "2026-09-05T02:27:35.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096062657904185832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3003454133",
+              "start": 0,
+              "username": "yzhu1015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096062657904185832",
+        "in_reply_to_user_id": "3003454133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096051094430556315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzhu1015 怎么可能，環状線的鸡巴还在呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3003454133",
+        "conversation_id": "2096038855019515982",
+        "created_at": "2026-09-05T01:41:38.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T02:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096051094430556315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096051094430556315",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096038855019515982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 兄弟，你JJ都掉了还说没事（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096062657904185832",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19040,
+          "following_count": 889,
+          "like_count": 35221,
+          "listed_count": 32,
+          "media_count": 2943,
+          "tweet_count": 13264
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-28T16:27:56.000Z",
+        "description": "AvPD | 时事 | 梦境记录 | 人文历史 | Biostatistician\nIt's hard to love this world.",
+        "id": "3003454133",
+        "is_identity_verified": false,
+        "location": "Irvine, CA",
+        "most_recent_tweet_id": "2096051094430556315",
+        "name": "Carl",
+        "pinned_tweet_id": "2079449706263138642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3003454133/1527553880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1001259462634565632/rbUbA0Vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1622,
+          "like_count": 65142,
+          "listed_count": 3,
+          "media_count": 810,
+          "tweet_count": 23897
+        },
+        "url": "",
+        "username": "yzhu1015",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

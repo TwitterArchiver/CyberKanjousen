@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2087124166633992467",
+    "created_at": "2026-08-11T14:49:52.000Z",
+    "display_text_range": [
+      12,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087189765984797127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1895142421027266562",
+          "start": 0,
+          "username": "rating3pro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087189765984797127",
+    "in_reply_to_user_id": "1895142421027266562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087189432713851114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rating3pro 那就这样表示：\n2026-8-11 18:24 GMT+8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2087124166633992467",
+        "created_at": "2026-08-11T14:49:52.000Z",
+        "display_text_range": [
+          12,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087189765984797127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1895142421027266562",
+              "start": 0,
+              "username": "rating3pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087189765984797127",
+        "in_reply_to_user_id": "1895142421027266562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087189432713851114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rating3pro 那就这样表示：\n2026-8-11 18:24 GMT+8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895142421027266562",
+        "conversation_id": "2087124166633992467",
+        "created_at": "2026-08-11T14:48:33.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087189432713851114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087189432713851114",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087124166633992467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 万一有时差（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087189765984797127",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14916,
+          "following_count": 880,
+          "like_count": 33200,
+          "listed_count": 25,
+          "media_count": 2579,
+          "tweet_count": 12021
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T16:02:27.000Z",
+        "description": "你好！\n会一点运维和网络工程，Homelab玩家\nGithub：https://t.co/FvavRW85Wq\n不知道是什么：@rating3project",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 63,
+                "username": "rating3project"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/rating3pro",
+                "end": 55,
+                "expanded_url": "http://github.com/rating3pro",
+                "start": 32,
+                "url": "https://t.co/FvavRW85Wq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xie.today",
+                "end": 23,
+                "expanded_url": "https://www.xie.today",
+                "start": 0,
+                "url": "https://t.co/DnJdutCEUJ"
+              }
+            ]
+          }
+        },
+        "id": "1895142421027266562",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087189432713851114",
+        "name": "rating3pro",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924650024274952196/BSGXBM2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 372,
+          "like_count": 27262,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2083
+        },
+        "url": "https://t.co/DnJdutCEUJ",
+        "username": "rating3pro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

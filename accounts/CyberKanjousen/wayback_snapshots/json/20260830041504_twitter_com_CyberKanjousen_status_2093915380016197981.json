@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2093892541242397051",
+    "created_at": "2026-08-30T04:15:04.000Z",
+    "display_text_range": [
+      13,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093915380016197981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1623622985675591680",
+          "start": 0,
+          "username": "gun33345820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093915380016197981",
+    "in_reply_to_user_id": "1623622985675591680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093914412143042627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gun33345820 对于这些人而言就是为了炫耀自己多么正直……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2093892541242397051",
+        "created_at": "2026-08-30T04:15:04.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093915380016197981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1623622985675591680",
+              "start": 0,
+              "username": "gun33345820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093915380016197981",
+        "in_reply_to_user_id": "1623622985675591680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093914412143042627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gun33345820 对于这些人而言就是为了炫耀自己多么正直……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623622985675591680",
+        "conversation_id": "2093892541242397051",
+        "created_at": "2026-08-30T04:11:13.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093914412143042627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093914412143042627",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093892541242397051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 小紅花能幹嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093915380016197981",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18010,
+          "following_count": 885,
+          "like_count": 34775,
+          "listed_count": 31,
+          "media_count": 2860,
+          "tweet_count": 12980
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-09T10:01:09.000Z",
+        "description": "梁家河抽煙冠軍，綠共和共產黨就是一群欠屠的畜生，嘴上說反共卻行共產之實，有何臉嘲笑對岸，同根同種習性在綠共身上實現的淋漓盡致\n備用號@a33345820",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "a33345820"
+              }
+            ]
+          }
+        },
+        "id": "1623622985675591680",
+        "is_identity_verified": true,
+        "location": "禁漫天堂",
+        "most_recent_tweet_id": "2093914412143042627",
+        "name": "超市後面抽煙的靈夢醬",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1623622985675591680/1774271249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069431267658203136/yuao-zwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 781,
+          "like_count": 5823,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 4676
+        },
+        "url": "",
+        "username": "gun33345820",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

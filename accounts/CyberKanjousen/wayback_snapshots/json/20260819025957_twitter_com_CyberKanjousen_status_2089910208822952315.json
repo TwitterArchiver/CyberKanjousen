@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2089627047123734881",
+    "created_at": "2026-08-19T02:59:57.000Z",
+    "display_text_range": [
+      27,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T03:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089910208822952315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "136969113",
+          "start": 0,
+          "username": "musanoto"
+        },
+        {
+          "end": 26,
+          "id": "1986430182622961666",
+          "start": 10,
+          "username": "LiShun89264bjgj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/parman0_1/stat…",
+          "end": 54,
+          "expanded_url": "https://x.com/parman0_1/status/1195298700572024834",
+          "start": 31,
+          "url": "https://t.co/7Cfo2Bpfhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089910208822952315",
+    "in_reply_to_user_id": "136969113",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1195298700572024834",
+        "type": "quoted"
+      },
+      {
+        "id": "2089907420588060711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musanoto @LiShun89264bjgj No\n\nhttps://t.co/7Cfo2Bpfhg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2089627047123734881",
+        "created_at": "2026-08-19T02:59:57.000Z",
+        "display_text_range": [
+          27,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089910208822952315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "136969113",
+              "start": 0,
+              "username": "musanoto"
+            },
+            {
+              "end": 26,
+              "id": "1986430182622961666",
+              "start": 10,
+              "username": "LiShun89264bjgj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/parman0_1/stat…",
+              "end": 54,
+              "expanded_url": "https://x.com/parman0_1/status/1195298700572024834",
+              "start": 31,
+              "url": "https://t.co/7Cfo2Bpfhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089910208822952315",
+        "in_reply_to_user_id": "136969113",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1195298700572024834",
+            "type": "quoted"
+          },
+          {
+            "id": "2089907420588060711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musanoto @LiShun89264bjgj No\n\nhttps://t.co/7Cfo2Bpfhg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136969113",
+        "conversation_id": "2089627047123734881",
+        "created_at": "2026-08-19T02:48:52.000Z",
+        "display_text_range": [
+          33,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089907420588060711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 32,
+              "id": "1986430182622961666",
+              "start": 16,
+              "username": "LiShun89264bjgj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cryme2019/stat…",
+              "end": 69,
+              "expanded_url": "https://x.com/cryme2019/status/1195272954793193473?s=46",
+              "start": 46,
+              "url": "https://t.co/Ve51fvLRQs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089907420588060711",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1195272954793193473",
+            "type": "quoted"
+          },
+          {
+            "id": "2089722264594124922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @LiShun89264bjgj First time? \nhttps://t.co/Ve51fvLRQs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "228168676",
+        "conversation_id": "1195272954793193473",
+        "created_at": "2019-11-15T11:13:12.000Z",
+        "display_text_range": [
+          11,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2019-11-15T11:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1195298700572024834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "828830345734656000",
+              "start": 0,
+              "username": "Cryme2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1195298700572024834",
+        "in_reply_to_user_id": "828830345734656000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1195272954793193473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cryme2019 呼吸すら許されない社会。\n許せない。\n電車に乗る権利も無いのか。\n電車で呼吸しただけで犯罪になるのか。\n女性の男性蔑視、差別許せない。\n男性は女性に逆らえない。\n逆らえば全女性から攻撃を受けるのをいいことに\nやりたい放題。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089910208822952315",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15663,
+          "following_count": 882,
+          "like_count": 33944,
+          "listed_count": 27,
+          "media_count": 2704,
+          "tweet_count": 12445
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-25T12:02:57.000Z",
+        "description": "Follow ≠ endorsement. ｜JLPTのN5持ち。アタマがダウングレード中。アバター オーヴァーチュア。 ㄈㄟㄊㄞˊㄨㄢㄔㄨㄕㄣ。ブラックリスト：眼鏡市場、佐川急便、日本郵便、三井住友海上保険、Yahoo Japan、ヤマダ電機。｜已送中，两元买的老账号。虚空化应该就是没上来。",
+        "id": "136969113",
+        "is_identity_verified": false,
+        "location": "Outer Space",
+        "most_recent_tweet_id": "2089907420588060711",
+        "name": "musanoto",
+        "pinned_tweet_id": "1740309097143324849",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136969113/1682690661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846581102401732608/PBT8HxHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 63,
+          "like_count": 6351,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 3078
+        },
+        "url": "",
+        "username": "musanoto",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-12-18T22:59:50.000Z",
+        "description": "🇯🇵🇰🇷🕊️🍀漫画描くのが好き。\n下記リンクよりLINEスタンプ販売中です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.line.me/stickershop/pr…",
+                "end": 23,
+                "expanded_url": "https://store.line.me/stickershop/product/18497992",
+                "start": 0,
+                "url": "https://t.co/2XZP9fXf1m"
+              }
+            ]
+          }
+        },
+        "id": "228168676",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2065081690205434078",
+        "name": "こうのしん（ぱーまん）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/228168676/1771893858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900494446820798465/TU0XwYAq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 2200,
+          "like_count": 2202,
+          "listed_count": 31,
+          "media_count": 75,
+          "tweet_count": 3672
+        },
+        "url": "https://t.co/2XZP9fXf1m",
+        "username": "parman0_1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-07T04:58:48.000Z",
+        "description": "#antisexism #antiracism 痴漢・性犯罪・迷惑行為等マッピングして共有 通勤・通学路や近所の被害情報を確認 2019/7/10リリース アプリはAppStore WEB版はhttps://t.co/9VGkZcbQC7 LINEアカウントhttps://t.co/YSpRhNlSU8",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "antisexism"
+              },
+              {
+                "end": 23,
+                "start": 12,
+                "tag": "antiracism"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cryme.gitlab.io/map",
+                "end": 119,
+                "expanded_url": "https://cryme.gitlab.io/map",
+                "start": 96,
+                "url": "https://t.co/9VGkZcbQC7"
+              },
+              {
+                "display_url": "nav.cx/7ZPupdc",
+                "end": 152,
+                "expanded_url": "http://nav.cx/7ZPupdc",
+                "start": 129,
+                "url": "https://t.co/YSpRhNlSU8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apps.apple.com/us/app/cryme/i…",
+                "end": 23,
+                "expanded_url": "https://apps.apple.com/us/app/cryme/id1470854330?l=ja&ls=1",
+                "start": 0,
+                "url": "https://t.co/TczE7anwDn"
+              }
+            ]
+          }
+        },
+        "id": "828830345734656000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1691798144487727508",
+        "name": "痴漢・性犯罪・迷惑行為　被害マッピング アプリ Cryme",
+        "pinned_tweet_id": "1227076293453201408",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/828830345734656000/1692528030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693211352435982336/DUZr_KEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 125,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/TczE7anwDn",
+        "username": "Cryme2019",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T13:47:30.000Z",
+        "description": "https://t.co/McvnYgiNed\n02，170-100，直男直男直男（重要的事说三遍）\n中度抑郁伴随焦虑，喜欢割手手（成功戒掉了好吧，ps：我很牛逼）\n喜欢听歌，喜欢打游戏\n努力经营自己的糖比生活，骂我默认暗恋我\n只想交朋友谢谢（男女不限）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lishun89624bjgj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lishun89624bjgj",
+                "start": 0,
+                "url": "https://t.co/McvnYgiNed"
+              }
+            ]
+          }
+        },
+        "id": "1986430182622961666",
+        "is_identity_verified": false,
+        "location": "四川，目前暂住广东",
+        "most_recent_tweet_id": "2089876045478646174",
+        "name": "书中人怀中猫",
+        "pinned_tweet_id": "2088672708238377239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986430182622961666/1785850077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986431628340830210/pw7nx0oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 58,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "LiShun89264bjgj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2091437773265760669",
+    "created_at": "2026-08-23T10:05:05.000Z",
+    "display_text_range": [
+      12,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091466750759985232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1332968496288858113",
+          "start": 0,
+          "username": "enhanceCWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091466750759985232",
+    "in_reply_to_user_id": "1332968496288858113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091455115979096236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@enhanceCWT 啊，是这样吗……\n抱歉環状線没考虑到这一点😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2091437773265760669",
+        "created_at": "2026-08-23T10:05:05.000Z",
+        "display_text_range": [
+          12,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091466750759985232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1332968496288858113",
+              "start": 0,
+              "username": "enhanceCWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091466750759985232",
+        "in_reply_to_user_id": "1332968496288858113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091455115979096236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@enhanceCWT 啊，是这样吗……\n抱歉環状線没考虑到这一点😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332968496288858113",
+        "conversation_id": "2091437773265760669",
+        "created_at": "2026-08-23T09:18:51.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091455115979096236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091455115979096236",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091437773265760669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 也有可能是为了坐车的女性设计的吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091466750759985232",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16463,
+          "following_count": 882,
+          "like_count": 34311,
+          "listed_count": 24,
+          "media_count": 2770,
+          "tweet_count": 12673
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-29T08:43:56.000Z",
+        "description": "恐龙抗狼叮咚鸡胖宝宝哈基米",
+        "id": "1332968496288858113",
+        "is_identity_verified": false,
+        "location": "万魔的产房",
+        "most_recent_tweet_id": "2091458636812038432",
+        "name": "cwt",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976239222500499456/AoE22MBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 636,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 648
+        },
+        "url": "",
+        "username": "enhanceCWT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

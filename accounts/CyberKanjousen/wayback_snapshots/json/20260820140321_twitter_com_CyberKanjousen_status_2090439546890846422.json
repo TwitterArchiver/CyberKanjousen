@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2090374789055853003",
+    "created_at": "2026-08-20T14:03:21.000Z",
+    "display_text_range": [
+      11,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090439546890846422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082425112536760320",
+          "start": 0,
+          "username": "xhb091018"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090439546890846422",
+    "in_reply_to_user_id": "2082425112536760320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090402864204296340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhb091018 而且现在中国的人口数还是 1949 年的 2 倍多……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2090374789055853003",
+        "created_at": "2026-08-20T14:03:21.000Z",
+        "display_text_range": [
+          11,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090439546890846422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082425112536760320",
+              "start": 0,
+              "username": "xhb091018"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090439546890846422",
+        "in_reply_to_user_id": "2082425112536760320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090402864204296340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhb091018 而且现在中国的人口数还是 1949 年的 2 倍多……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082425112536760320",
+        "conversation_id": "2090374789055853003",
+        "created_at": "2026-08-20T11:37:35.000Z",
+        "display_text_range": [
+          16,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T12:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090402864204296340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090402864204296340",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7758,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090374789055853003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 1949年还有1200多万，2025年就只有700多万了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090439546890846422",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15928,
+          "following_count": 878,
+          "like_count": 34107,
+          "listed_count": 24,
+          "media_count": 2729,
+          "tweet_count": 12541
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T11:19:39.000Z",
+        "description": "思春期的17岁压抑少年😋",
+        "id": "2082425112536760320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090420054215270484",
+        "name": "小汉堡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082425112536760320/1785625063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082426032578330625/euZtyG5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 27,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "xhb091018",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

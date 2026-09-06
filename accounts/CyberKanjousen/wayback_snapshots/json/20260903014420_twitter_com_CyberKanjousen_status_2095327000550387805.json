@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2095314834074255683",
+    "created_at": "2026-09-03T01:44:20.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T02:44:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095327000550387805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1271282054630539265",
+          "start": 0,
+          "username": "jmtnp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095327000550387805",
+    "in_reply_to_user_id": "1271282054630539265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095320449471389778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jmtnp1 还有会员制餐厅😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2095314834074255683",
+        "created_at": "2026-09-03T01:44:20.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095327000550387805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1271282054630539265",
+              "start": 0,
+              "username": "jmtnp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095327000550387805",
+        "in_reply_to_user_id": "1271282054630539265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095320449471389778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jmtnp1 还有会员制餐厅😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271282054630539265",
+        "conversation_id": "2095314834074255683",
+        "created_at": "2026-09-03T01:18:18.000Z",
+        "display_text_range": [
+          16,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095320449471389778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095320449471389778",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095314834074255683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 第一个整是get myself，第二个是deal with/do with，否则就成“厕所居然堵了，我大吃一斤”了🤢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095327000550387805",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18584,
+          "following_count": 889,
+          "like_count": 35010,
+          "listed_count": 32,
+          "media_count": 2914,
+          "tweet_count": 13151
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:24:39.000Z",
+        "description": "bleeding-heart libertarian❣️theater kid🎭 animation adult👸birder🐦\n🇳🇱🇮🇪🇦🇹🇹🇼安全形势不常回fo | 误封致歉，已拉黑67,400+ | Google+🐚 | 潜水号 @jimgreeneit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "jimgreeneit"
+              }
+            ]
+          }
+        },
+        "id": "1271282054630539265",
+        "is_identity_verified": false,
+        "location": "Fornost",
+        "most_recent_tweet_id": "2095321077270593988",
+        "name": "川和 吉米🚀 Jimmy K",
+        "pinned_tweet_id": "1536602745364520960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271282054630539265/1655900353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678817260348243968/O8WsI3x1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 1720,
+          "like_count": 700996,
+          "listed_count": 8,
+          "media_count": 2837,
+          "tweet_count": 19144
+        },
+        "url": "",
+        "username": "jmtnp1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

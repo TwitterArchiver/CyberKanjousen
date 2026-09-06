@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2087367512820474037",
+    "created_at": "2026-08-12T14:20:15.000Z",
+    "display_text_range": [
+      9,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087544696520470544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1359685802905587713",
+          "start": 0,
+          "username": "wdtn123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087544696520470544",
+    "in_reply_to_user_id": "1359685802905587713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087492949789868521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdtn123 小孩子写字虽然丑，但并不是图中文字的这种丑样……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2087367512820474037",
+        "created_at": "2026-08-12T14:20:15.000Z",
+        "display_text_range": [
+          9,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087544696520470544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1359685802905587713",
+              "start": 0,
+              "username": "wdtn123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087544696520470544",
+        "in_reply_to_user_id": "1359685802905587713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087492949789868521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdtn123 小孩子写字虽然丑，但并不是图中文字的这种丑样……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359685802905587713",
+        "conversation_id": "2087367512820474037",
+        "created_at": "2026-08-12T10:54:37.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087492949789868521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087492949789868521",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087367512820474037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 字这么丑 一看就是小孩子瞎几把写的 目测是周一写的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087544696520470544",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15030,
+          "following_count": 881,
+          "like_count": 33315,
+          "listed_count": 25,
+          "media_count": 2597,
+          "tweet_count": 12081
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-11T02:09:04.000Z",
+        "description": "Welcome!\nHow was your day?\n简介里填的当然只能是简介啦",
+        "id": "1359685802905587713",
+        "is_identity_verified": false,
+        "location": "中",
+        "most_recent_tweet_id": "2087492949789868521",
+        "name": "wdtn123",
+        "pinned_tweet_id": "1809867864788402680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1359685802905587713/1699911969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806507652278820864/soUI4qYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 46,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "wdtn123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

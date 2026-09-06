@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088987251892224001"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2088986174203527417",
+    "created_at": "2026-08-16T13:56:06.000Z",
+    "display_text_range": [
+      9,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088988172772581681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1536921167231332354",
+          "start": 0,
+          "username": "0926kgj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4GXAidBmi7",
+          "end": 113,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2088988172772581681/photo/1",
+          "media_key": "3_2088987251892224001",
+          "start": 90,
+          "url": "https://t.co/4GXAidBmi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088988172772581681",
+    "in_reply_to_user_id": "1536921167231332354",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088987251892224001"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088986174203527417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0926kgj Grok 翻译成中文的时候，把「친일」翻译成了「亲日」呢……\n问了下 Gemini，感觉「친일」翻译成「媚日」，或者现在中文互联网更流行的「精日」，才更好一些。 https://t.co/4GXAidBmi7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 831,
+        "media_key": "3_2088987251892224001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2S1nFbAAE4cyw.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088987251892224001"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2088986174203527417",
+        "created_at": "2026-08-16T13:56:06.000Z",
+        "display_text_range": [
+          9,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088988172772581681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1536921167231332354",
+              "start": 0,
+              "username": "0926kgj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GXAidBmi7",
+              "end": 113,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2088988172772581681/photo/1",
+              "media_key": "3_2088987251892224001",
+              "start": 90,
+              "url": "https://t.co/4GXAidBmi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088988172772581681",
+        "in_reply_to_user_id": "1536921167231332354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088987251892224001"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088986174203527417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0926kgj Grok 翻译成中文的时候，把「친일」翻译成了「亲日」呢……\n问了下 Gemini，感觉「친일」翻译成「媚日」，或者现在中文互联网更流行的「精日」，才更好一些。 https://t.co/4GXAidBmi7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536921167231332354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2088986174203527417",
+        "created_at": "2026-08-16T13:48:10.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088986174203527417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SatoYusukeyw/s…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/SatoYusukeyw/status/2088976395313750469",
+              "start": 160,
+              "url": "https://t.co/QNNQ2JpAHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088986174203527417",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088976395313750469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "일본 좋아하는 사람 많죠, 저도 일본 좋아합니다. 도쿄로 여행도 가끔 갑니다.\n\n그러나 한국에서 '친일'이라 부르는 사람들은 현대에 일본을 좋아하는 사람이 아니라.\n\n일본 제국주의에 굴종해 한국을 일본 제국 식민지의 일부로 편입시킨 '매국자'를 보통 역사적 맥락에서 친일파라고 합니다. https://t.co/QNNQ2JpAHY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088988172772581681",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15456,
+          "following_count": 881,
+          "like_count": 33719,
+          "listed_count": 27,
+          "media_count": 2666,
+          "tweet_count": 12317
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-15T03:59:35.000Z",
+        "description": "더불어민주당 경주시의원(현곡면,천북면)\nGyeongju City Council Member\n\n前 이재명 대통령 후보 직속 정무특보\n前 더불어민주당 정책위원회 부의장\n\n010-9876-3124",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@0926kgj",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@0926kgj",
+                "start": 0,
+                "url": "https://t.co/6zTjbydSUR"
+              }
+            ]
+          }
+        },
+        "id": "1536921167231332354",
+        "is_identity_verified": true,
+        "location": "대한민국 경주시",
+        "most_recent_tweet_id": "2088986807044297115",
+        "name": "김경주",
+        "pinned_tweet_id": "2062237985144443137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536921167231332354/1778558748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063847553339392000/XE9B8x4a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8522,
+          "following_count": 8280,
+          "like_count": 107303,
+          "listed_count": 18,
+          "media_count": 3281,
+          "tweet_count": 9343
+        },
+        "url": "https://t.co/6zTjbydSUR",
+        "username": "0926kgj",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

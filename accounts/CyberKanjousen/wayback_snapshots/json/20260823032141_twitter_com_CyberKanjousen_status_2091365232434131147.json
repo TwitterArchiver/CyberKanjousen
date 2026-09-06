@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2091326806053802269",
+    "created_at": "2026-08-23T03:21:41.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091365232434131147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3007906338",
+          "start": 0,
+          "username": "elmoMrch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091365232434131147",
+    "in_reply_to_user_id": "3007906338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091356124817887726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elmoMrch 妈妈的小心思被你发现了喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2091326806053802269",
+        "created_at": "2026-08-23T03:21:41.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091365232434131147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3007906338",
+              "start": 0,
+              "username": "elmoMrch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091365232434131147",
+        "in_reply_to_user_id": "3007906338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091356124817887726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elmoMrch 妈妈的小心思被你发现了喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3007906338",
+        "conversation_id": "2091326806053802269",
+        "created_at": "2026-08-23T02:45:30.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T03:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091356124817887726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091356124817887726",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091326806053802269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 难道这妈就是为了这种而生下两兄弟"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091365232434131147",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16385,
+          "following_count": 882,
+          "like_count": 34293,
+          "listed_count": 24,
+          "media_count": 2763,
+          "tweet_count": 12659
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-02T12:45:43.000Z",
+        "description": "can talk about anime, Hentai, and Tokusatsu I am from Malaysia.I don't mind making friends No Life Matters. Male. 可以聊動漫，hentai和特攝片的馬來西亞人，不介意和大家交流，反极端主义，男",
+        "id": "3007906338",
+        "is_identity_verified": false,
+        "location": "Johor Bahru, Johor, Malaysia",
+        "most_recent_tweet_id": "2091356124817887726",
+        "name": "フミトシ (MADE IN 🇲🇾🇲🇾)🔞No life matters🖕",
+        "pinned_tweet_id": "1379225227805122561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3007906338/1617670264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046367940422123520/iI2KCEco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1085,
+          "like_count": 258327,
+          "listed_count": 3,
+          "media_count": 1889,
+          "tweet_count": 12307
+        },
+        "url": "",
+        "username": "elmoMrch",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

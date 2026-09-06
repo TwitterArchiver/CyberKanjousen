@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2091726055304249613",
+    "created_at": "2026-08-25T04:40:40.000Z",
+    "display_text_range": [
+      10,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T05:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092109885026586897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807972342955405313",
+          "start": 0,
+          "username": "SuXi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092109885026586897",
+    "in_reply_to_user_id": "1807972342955405313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092094712656376079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuXi8964 唉，雌堕和翻车也不是一个意思啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2091726055304249613",
+        "created_at": "2026-08-25T04:40:40.000Z",
+        "display_text_range": [
+          10,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092109885026586897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807972342955405313",
+              "start": 0,
+              "username": "SuXi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092109885026586897",
+        "in_reply_to_user_id": "1807972342955405313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092094712656376079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuXi8964 唉，雌堕和翻车也不是一个意思啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807972342955405313",
+        "conversation_id": "2091726055304249613",
+        "created_at": "2026-08-25T03:40:23.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092094712656376079"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "環狀線翻车"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092094712656376079",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091726055304249613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 终于\n#環狀線翻车"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092109885026586897",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16726,
+          "following_count": 883,
+          "like_count": 34393,
+          "listed_count": 29,
+          "media_count": 2793,
+          "tweet_count": 12745
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-02T02:59:43.000Z",
+        "description": "左派/坚持阶级斗争/对绝大多数人民主，对极少数人专政/民主但不民粹/极端进步/支持🏳️‍🌈 🏳️‍⚧️/酷儿 泛性恋\n回fo标准：非机器人，非三无账号，有非回复的帖子，不fo粉红，支黑，极端反共\nNGL：https://t.co/YcGe4jryTy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 125,
+                "expanded_url": "https://ngl.link/suxi1848",
+                "start": 102,
+                "url": "https://t.co/YcGe4jryTy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 23,
+                "expanded_url": "http://ngl.link/suxi1848",
+                "start": 0,
+                "url": "https://t.co/X063tjGYOr"
+              }
+            ]
+          }
+        },
+        "id": "1807972342955405313",
+        "is_identity_verified": false,
+        "location": "泛亚社会主义共和国",
+        "most_recent_tweet_id": "2092100844602982878",
+        "name": "溯汐汐🏳️‍🌈🏳️‍⚧️🚩⚙️",
+        "pinned_tweet_id": "2091130396276859252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807972342955405313/1787096511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090013841304281088/wW-SLdmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 373,
+          "like_count": 2772,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/X063tjGYOr",
+        "username": "SuXi8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

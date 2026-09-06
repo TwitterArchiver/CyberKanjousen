@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2092413466585735514",
+    "created_at": "2026-08-26T01:56:33.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092430971060584565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286250636502339584",
+          "start": 0,
+          "username": "LemPackageMain1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092430971060584565",
+    "in_reply_to_user_id": "1286250636502339584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092426684591194204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemPackageMain1 还有这种说法🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2092413466585735514",
+        "created_at": "2026-08-26T01:56:33.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092430971060584565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286250636502339584",
+              "start": 0,
+              "username": "LemPackageMain1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092430971060584565",
+        "in_reply_to_user_id": "1286250636502339584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092426684591194204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemPackageMain1 还有这种说法🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286250636502339584",
+        "conversation_id": "2092413466585735514",
+        "created_at": "2026-08-26T01:39:31.000Z",
+        "display_text_range": [
+          16,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092426684591194204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092426684591194204",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092413466585735514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我看过的解释是，既然易性症不是病，那就不该吃“药”，所以吃的是“糖”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092430971060584565",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17033,
+          "following_count": 882,
+          "like_count": 34472,
+          "listed_count": 30,
+          "media_count": 2807,
+          "tweet_count": 12793
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-23T10:43:54.000Z",
+        "description": "Main包是人类，有时候可能会出错│MtF/X，183超大一只│小号&逃生舱 @_Slow_Me_Down│❤=已阅且不反对│都来找我打go和飙车！│↓网页是自用梯子，挺好用的，推荐一下🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "_Slow_Me_Down"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nfsq.us/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.nfsq.us/#/register?code=F3euQGaO",
+                "start": 0,
+                "url": "https://t.co/95LzP3mU3t"
+              }
+            ]
+          }
+        },
+        "id": "1286250636502339584",
+        "is_identity_verified": false,
+        "location": "Sonderland",
+        "most_recent_tweet_id": "2092430918405464088",
+        "name": "柠檬味的maiN包🍥（想找人贴贴版）",
+        "pinned_tweet_id": "2086099557717614953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286250636502339584/1701006007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067164320484720640/L_xZIafc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 213,
+          "like_count": 25310,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/95LzP3mU3t",
+        "username": "LemPackageMain1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

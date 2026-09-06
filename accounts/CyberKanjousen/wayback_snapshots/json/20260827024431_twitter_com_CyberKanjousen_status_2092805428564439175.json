@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092805415968952320"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2061036992599925240",
+    "created_at": "2026-08-27T02:44:31.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092805428564439175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Check out the ツイッター共栄圏 community on Discord - hang out with 700 other members and enjoy free voice and text chat.",
+          "display_url": "discord.gg/kanjousen",
+          "end": 55,
+          "expanded_url": "https://discord.gg/kanjousen",
+          "images": [
+            {
+              "height": 350,
+              "url": "https://pbs.twimg.com/news_img/2092805430078545920/9fHxTm1C?format=jpg&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2092805430078545920/9fHxTm1C?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "Join the ツイッター共栄圏 Discord Server!",
+          "unwound_url": "https://discord.com/invite/kanjousen",
+          "url": "https://t.co/x2fT8ccWRc"
+        },
+        {
+          "display_url": "pic.x.com/GPZiJkqXSd",
+          "end": 79,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2092805428564439175/photo/1",
+          "media_key": "3_2092805415968952320",
+          "start": 56,
+          "url": "https://t.co/GPZiJkqXSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092805428564439175",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092805415968952320"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061036992599925240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "欢迎加入環状線的 Discord 服务器： \nツイッター共栄圏\nhttps://t.co/x2fT8ccWRc https://t.co/GPZiJkqXSd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1386,
+        "media_key": "3_2092805415968952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsjcArX0AANpvV.jpg",
+        "width": 1925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092805415968952320"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061036992599925240",
+        "created_at": "2026-08-27T02:44:31.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092805428564439175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Check out the ツイッター共栄圏 community on Discord - hang out with 700 other members and enjoy free voice and text chat.",
+              "display_url": "discord.gg/kanjousen",
+              "end": 55,
+              "expanded_url": "https://discord.gg/kanjousen",
+              "images": [
+                {
+                  "height": 350,
+                  "url": "https://pbs.twimg.com/news_img/2092805430078545920/9fHxTm1C?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2092805430078545920/9fHxTm1C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Join the ツイッター共栄圏 Discord Server!",
+              "unwound_url": "https://discord.com/invite/kanjousen",
+              "url": "https://t.co/x2fT8ccWRc"
+            },
+            {
+              "display_url": "pic.x.com/GPZiJkqXSd",
+              "end": 79,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2092805428564439175/photo/1",
+              "media_key": "3_2092805415968952320",
+              "start": 56,
+              "url": "https://t.co/GPZiJkqXSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092805428564439175",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092805415968952320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061036992599925240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "欢迎加入環状線的 Discord 服务器： \nツイッター共栄圏\nhttps://t.co/x2fT8ccWRc https://t.co/GPZiJkqXSd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2061036992599925240",
+        "created_at": "2026-05-31T10:48:05.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061036992599925240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1. 和我環状線樣的喜好有较多重合的优先； 2. 是 Premium 订阅用户且推文几乎无垃圾/環状線樣讨厌的内容的优先； 3. 不随便在不涉及政治的推文下回复涉及露骨的政治敏感的内容的； 4. 推文不以 NSFW 、币圈、宗教等環状線樣讨厌的/垃圾内容为主的。",
+              "display_url": "kanjousen.com/display-case/a…",
+              "end": 135,
+              "expanded_url": "https://kanjousen.com/display-case/articles/essays/me/fo-block",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/2061037004503310336/T5ZBgJmL?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061037004503310336/T5ZBgJmL?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "サイバー環状線的随笔 - 環状線发病录 - 我，人类 - 𝕏的回fo/屏蔽标准",
+              "unwound_url": "https://kanjousen.com/display-case/articles/essays/me/fo-block",
+              "url": "https://t.co/CoR9zmxQ1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061036992599925240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 218,
+                "id": "1918274202580467713",
+                "start": 203,
+                "username": "CyberKanjousen"
+              },
+              {
+                "end": 271,
+                "id": "1657588281163517952",
+                "start": 256,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/display-case/a…",
+                "end": 135,
+                "expanded_url": "https://kanjousen.com/display-case/articles/essays/me/fo-block",
+                "start": 112,
+                "url": "https://t.co/PZ0aNWx553"
+              }
+            ]
+          },
+          "text": "[置顶推文]\n\n这条推文的评论区用于存放環状線过去发布的所有女装照推文。環状線承诺：環状線所有存放此处的女装照无任何修改痕迹（图片尺寸调整和抹去隐私信息除外），并且绝非 AI 生成。\n\n環状線的回 fo / 屏蔽标准见此处：https://t.co/PZ0aNWx553\n\n以下是关于環状線推特账号的声明：\n\nサイバー環状線的推特（今称「𝕏」，以下统一按习惯称「推特」）账号（合称「两号」）包括：\n\n- 𝕏@CyberKanjousen：環状線在推特上活动的主要账号（语言以简体中文为主），下称「本号」；\n- 𝕏@NihonKanjousen：環状線在推特上活动的日语账号（目前语言以日文为主），下称「日语号」。\n\n为表正式，以下以「本人」代替常用的「環状線」为第一人称。此声明不是 AI 生成的。非本人的任何对此声明的引用都与本人无关。\n\n本人访问推特的方式是 eSIM 国际漫游，完全合法合规，没有借助任何翻墙软件。\n\n本人两号的推文主要内容为日常吐槽、科技评论、动漫相关、反对极端女权主义和极端民族主义、提倡理性爱国。本人两号皆不会发布与中华人民共和国政治有任何关系的内容。\n\n本人严格遵守中华人民共和国法律法规，尊重中华人民共和国宪法和现行法律秩序，热爱祖国，拥护中国共产党领导，拥护中国特色社会主义制度，维护国家统一、民族团结与社会稳定，坚持「一个中国」原则，反对任何形式的国家分裂活动。\n\n本人不涉及、不参与、不支持任何危害中华人民共和国国家安全、损害国家利益、破坏社会公共秩序的活动；不涉及、不参与任何形式的分裂国家、颠覆国家政权、煽动仇恨、传播谣言或其他违反中华人民共和国法律法规的言行。\n\n本人两号发布的内容仅代表本人在日常生活、兴趣爱好、技术观察、文化评论等方面的个人表达。本人无意、也不会以任何形式参与涉及中华人民共和国政治安全、国家安全或社会稳定的违法违规活动。若本人过往或未来的任何表达造成误解，均以本声明为准：本人始终坚持在法律允许的范围内表达观点，并愿意对自身公开言论承担相应责任。\n\n本人已屏蔽推特上十万粉丝以上的反华账号。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 318031,
+          "like_count": 353,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "[置顶推文]\n\n这条推文的评论区用于存放環状線过去发布的所有女装照推文。環状線承诺：環状線所有存放此处的女装照无任何修改痕迹（图片尺寸调整和抹去隐私信息除外），并且绝非 AI 生成。\n\n環状線的回 fo / 屏蔽标准见此处：https://t.co/CoR9zmxQ1s\n\n以下是关于環状線推特账号的声明："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092805428564439175",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17289,
+          "following_count": 881,
+          "like_count": 34551,
+          "listed_count": 30,
+          "media_count": 2818,
+          "tweet_count": 12843
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

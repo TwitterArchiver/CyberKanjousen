@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2092801868300738989",
+    "created_at": "2026-08-27T06:06:05.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092856156217553355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1144647115030708224",
+          "start": 0,
+          "username": "nekotanko_shiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092856156217553355",
+    "in_reply_to_user_id": "1144647115030708224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092844422392320063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekotanko_shiro 環状線永不翻车😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2092801868300738989",
+        "created_at": "2026-08-27T06:06:05.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092856156217553355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1144647115030708224",
+              "start": 0,
+              "username": "nekotanko_shiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092856156217553355",
+        "in_reply_to_user_id": "1144647115030708224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092844422392320063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekotanko_shiro 環状線永不翻车😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144647115030708224",
+        "conversation_id": "2092801868300738989",
+        "created_at": "2026-08-27T05:19:28.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092844422392320063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092844422392320063",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092801868300738989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 翻車摸摸自己的喵😋🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092856156217553355",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17312,
+          "following_count": 881,
+          "like_count": 34568,
+          "listed_count": 30,
+          "media_count": 2821,
+          "tweet_count": 12855
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-28T16:41:53.000Z",
+        "description": "飴を喰うねこ/正在吃糖的一隻貓/mtf.x/重大傷病：貝歇氏症(自體免疫疾病)/ベーチェット病🐱🏳️‍⚧️\n2026/06/05 アンドロカー/安德卡 06/12 プロギノバ/補佳樂🍥\n台灣華語/台語/日本語N1\n98碼農大貓 風景/星景/動物/交通攝影📷\n可以叫我小白/白醬/しろちゃんで呼んでね🐈",
+        "id": "1144647115030708224",
+        "is_identity_verified": false,
+        "location": "そらの果て",
+        "most_recent_tweet_id": "2092855160385233102",
+        "name": "ねこたん-白🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088530748236242975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144647115030708224/1785685617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083124833509052416/38zTT0fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 883,
+          "like_count": 11986,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "nekotanko_shiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

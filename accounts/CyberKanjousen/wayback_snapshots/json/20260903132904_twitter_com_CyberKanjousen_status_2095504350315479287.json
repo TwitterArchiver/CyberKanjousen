@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2095504183566782747",
+    "created_at": "2026-09-03T13:29:04.000Z",
+    "display_text_range": [
+      9,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T14:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095504350315479287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1613494435173785600",
+          "start": 0,
+          "username": "KaH1n94"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095504350315479287",
+    "in_reply_to_user_id": "1613494435173785600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095504183566782747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaH1n94 餐刀不是金属器具吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2095504183566782747",
+        "created_at": "2026-09-03T13:29:04.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095504350315479287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1613494435173785600",
+              "start": 0,
+              "username": "KaH1n94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095504350315479287",
+        "in_reply_to_user_id": "1613494435173785600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095504183566782747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaH1n94 餐刀不是金属器具吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613494435173785600",
+        "conversation_id": "2095504183566782747",
+        "created_at": "2026-09-03T13:28:24.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095504183566782747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2095419942296297694",
+              "start": 10,
+              "url": "https://t.co/8CspJzcajP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095504183566782747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095419942296297694",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有金属器具差评😁 https://t.co/8CspJzcajP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095504350315479287",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18639,
+          "following_count": 890,
+          "like_count": 35066,
+          "listed_count": 32,
+          "media_count": 2926,
+          "tweet_count": 13195
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-12T11:14:04.000Z",
+        "description": "生活不易，阴阳怪气\nnayuta观察者，泉州土著，闽台语言文化交流。\n妹妹@Hanasaki1674721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Hanasaki1674721"
+              }
+            ]
+          }
+        },
+        "id": "1613494435173785600",
+        "is_identity_verified": false,
+        "location": "Quanzhou, China",
+        "most_recent_tweet_id": "2095504183566782747",
+        "name": "KaH1n94",
+        "pinned_tweet_id": "1907335736950747356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613494435173785600/1783222084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073609834965159936/y7KdYbPW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 551,
+          "like_count": 6998,
+          "listed_count": 1,
+          "media_count": 800,
+          "tweet_count": 4972
+        },
+        "url": "",
+        "username": "KaH1n94",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

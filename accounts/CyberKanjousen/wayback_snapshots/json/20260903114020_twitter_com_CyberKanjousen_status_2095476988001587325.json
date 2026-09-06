@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2095419942296297694",
+    "created_at": "2026-09-03T11:40:20.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095476988001587325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516582189772644352",
+          "start": 0,
+          "username": "Master_HanChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095476988001587325",
+    "in_reply_to_user_id": "1516582189772644352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095426143931543862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Master_HanChan 还有画石膏像，还有画人像……😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2095419942296297694",
+        "created_at": "2026-09-03T11:40:20.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095476988001587325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516582189772644352",
+              "start": 0,
+              "username": "Master_HanChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095476988001587325",
+        "in_reply_to_user_id": "1516582189772644352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095426143931543862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Master_HanChan 还有画石膏像，还有画人像……😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516582189772644352",
+        "conversation_id": "2095419942296297694",
+        "created_at": "2026-09-03T08:18:18.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095426143931543862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095426143931543862",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8725,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095419942296297694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 画陶罐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095476988001587325",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18622,
+          "following_count": 890,
+          "like_count": 35056,
+          "listed_count": 32,
+          "media_count": 2925,
+          "tweet_count": 13189
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-20T00:59:14.000Z",
+        "description": "✨ 折腾技术，研究安全，也在认真生活\n🛡️ 安全运营｜渗透测试｜恶意程序开发，前厂商仔\n主攻免杀与漏洞挖掘\n📈 副业交易｜定投纳指标普｜Price Action｜偶尔撸毛\n🔧 业余焊板子｜玩安卓｜折腾数码科技\n🤓 喜欢发癫｜吐槽日常｜高强度发帖\n🚫 拒绝 OD & 自伤\n欢迎同好交流｜互Fo请私信 🥰",
+        "id": "1516582189772644352",
+        "is_identity_verified": false,
+        "location": "-0.00018 km",
+        "most_recent_tweet_id": "2095455072939544836",
+        "name": "Master_寒蝉",
+        "pinned_tweet_id": "2088649950364356748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516582189772644352/1651022671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619947570385784833/LH3Y7mSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3514,
+          "following_count": 1108,
+          "like_count": 21547,
+          "listed_count": 20,
+          "media_count": 327,
+          "tweet_count": 4496
+        },
+        "url": "",
+        "username": "Master_HanChan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2094643065126273479",
+    "created_at": "2026-09-02T16:31:00.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095187749405938084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789439615830523906",
+          "start": 0,
+          "username": "hao_yan92062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095187749405938084",
+    "in_reply_to_user_id": "1789439615830523906",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095181426941673726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hao_yan92062 好喵www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2094643065126273479",
+        "created_at": "2026-09-02T16:31:00.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095187749405938084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789439615830523906",
+              "start": 0,
+              "username": "hao_yan92062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095187749405938084",
+        "in_reply_to_user_id": "1789439615830523906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095181426941673726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hao_yan92062 好喵www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789439615830523906",
+        "conversation_id": "2094643065126273479",
+        "created_at": "2026-09-02T16:05:53.000Z",
+        "display_text_range": [
+          16,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095181426941673726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095181426941673726",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094643065126273479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 可以复制发群吗，不标原作者"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095187749405938084",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18572,
+          "following_count": 889,
+          "like_count": 35008,
+          "listed_count": 32,
+          "media_count": 2913,
+          "tweet_count": 13147
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-11T23:37:40.000Z",
+        "description": "中國人🇨🇳、友達募集。\n原神、崩壊：スターレイルをプレイ。Steamゲームもやります。\n色々な界隈にいます：東方Project、Undertale、SCP、Backrooms。\n日本のアニメが好きです。政治の話は遠慮ください。気軽にフレンド申請お待ちしてます！\nQQ：3233945939",
+        "id": "1789439615830523906",
+        "is_identity_verified": false,
+        "location": "幻想乡",
+        "most_recent_tweet_id": "2095187078451773853",
+        "name": "レゴシ",
+        "pinned_tweet_id": "2064363142260412627",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789439615830523906/1716736078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091005168707907584/Y05vvDbU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 121,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 325
+        },
+        "url": "",
+        "username": "hao_yan92062",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

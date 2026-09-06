@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095498036051083264"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2095503448812711994",
+    "created_at": "2026-09-03T13:25:29.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T14:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095503448812711994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/twg1DIooox",
+          "end": 170,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2095503448812711994/photo/1",
+          "media_key": "3_2095498036051083264",
+          "start": 147,
+          "url": "https://t.co/twg1DIooox"
+        },
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/2094691249760661761",
+          "start": 171,
+          "url": "https://t.co/spnzGIIDYZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095503448812711994",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095498036051083264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "李娟说的这些话就是一派胡言。\n\n为什么突然这么说呢？\n刚刚環状線玩 Minecraft 挖空置域的时候，因为一直在走神想着写推文的事情，于是不慎挖废了三把附魔经验修补的下界合金镐。\n\n如果你看不懂上面这句话，可以简单理解为：\n「環状線在游戏里做着流水线般的工作，由于走神，连续三次出现严重失误 ，导致環状線失去了珍贵的游戏道具。」\n\n在 Minecraft 手挖空置域，你只要左手按住键盘 W 键，右手按住鼠标左键，然后周期性的挪挪鼠标就可以了，所以说是「流水线般的工作」。\n環状線在 Minecraft 的「流水线」上连续三次出现失误，能有什么损失呢？说句难听的话，充其量也就是存档文件从此少了几个数字。\n也正因为这一损失对環状線而言无关痛痒，所以環状線才敢在脑子里想别的东西。\n\n但如果是在现实的流水线呢？你敢走神吗？你敢一边做工一边想别的东西吗？\n一旦因为你的走神，导致在流水线上出现失误，轻则扣工资，中则被辞退，重则出现人员伤亡。\n而且，Minecraft 里只有你一个人，而在现实的流水线上，上下游可能还有有数十名同事。你出现失误，很大概率也会影响你的同事。\n\n但凡你珍惜流水线这个工作，你还想在流水线干下去，而且你也不蠢不坏的话，你绝对不可能有在流水线上走神的胆量。\n\n也正因为不敢走神，不敢想别的事情，必须聚精会神于当前的工作，流水线对工人的精神压力非常大。被引用推文的推主也做过流水线，想必对此深有感受罢……\n\n環状線并不否认李娟坚韧不拔的精神品质，但是能这样美化流水线，只能说李娟或许确实脱离基层太久，以至于对当年的劳动经历蒙上了一层美好的滤镜吧……"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094691249760661761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "李娟说的这些话就是一派胡言。\n\n为什么突然这么说呢？\n刚刚環状線玩 Minecraft 挖空置域的时候，因为一直在走神想着写推文的事情，于是不慎挖废了三把附魔经验修补的下界合金镐。\n\n如果你看不懂上面这句话，可以简单理解为：\n「環状線在游戏里做着流水线般的工作，由于走神，连续三次出现严重失误 https://t.co/twg1DIooox https://t.co/spnzGIIDYZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_2095498036051083264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRS0XIJagAAH9or.jpg",
+        "width": 960
+      },
+      {
+        "height": 1283,
+        "media_key": "3_2094691188767100928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHWibyakAAWeAK.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095498036051083264"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2095503448812711994",
+        "created_at": "2026-09-03T13:25:29.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095503448812711994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twg1DIooox",
+              "end": 170,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2095503448812711994/photo/1",
+              "media_key": "3_2095498036051083264",
+              "start": 147,
+              "url": "https://t.co/twg1DIooox"
+            },
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2094691249760661761",
+              "start": 171,
+              "url": "https://t.co/spnzGIIDYZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095503448812711994",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095498036051083264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "李娟说的这些话就是一派胡言。\n\n为什么突然这么说呢？\n刚刚環状線玩 Minecraft 挖空置域的时候，因为一直在走神想着写推文的事情，于是不慎挖废了三把附魔经验修补的下界合金镐。\n\n如果你看不懂上面这句话，可以简单理解为：\n「環状線在游戏里做着流水线般的工作，由于走神，连续三次出现严重失误 ，导致環状線失去了珍贵的游戏道具。」\n\n在 Minecraft 手挖空置域，你只要左手按住键盘 W 键，右手按住鼠标左键，然后周期性的挪挪鼠标就可以了，所以说是「流水线般的工作」。\n環状線在 Minecraft 的「流水线」上连续三次出现失误，能有什么损失呢？说句难听的话，充其量也就是存档文件从此少了几个数字。\n也正因为这一损失对環状線而言无关痛痒，所以環状線才敢在脑子里想别的东西。\n\n但如果是在现实的流水线呢？你敢走神吗？你敢一边做工一边想别的东西吗？\n一旦因为你的走神，导致在流水线上出现失误，轻则扣工资，中则被辞退，重则出现人员伤亡。\n而且，Minecraft 里只有你一个人，而在现实的流水线上，上下游可能还有有数十名同事。你出现失误，很大概率也会影响你的同事。\n\n但凡你珍惜流水线这个工作，你还想在流水线干下去，而且你也不蠢不坏的话，你绝对不可能有在流水线上走神的胆量。\n\n也正因为不敢走神，不敢想别的事情，必须聚精会神于当前的工作，流水线对工人的精神压力非常大。被引用推文的推主也做过流水线，想必对此深有感受罢……\n\n環状線并不否认李娟坚韧不拔的精神品质，但是能这样美化流水线，只能说李娟或许确实脱离基层太久，以至于对当年的劳动经历蒙上了一层美好的滤镜吧……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094691249760661761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李娟说的这些话就是一派胡言。\n\n为什么突然这么说呢？\n刚刚環状線玩 Minecraft 挖空置域的时候，因为一直在走神想着写推文的事情，于是不慎挖废了三把附魔经验修补的下界合金镐。\n\n如果你看不懂上面这句话，可以简单理解为：\n「環状線在游戏里做着流水线般的工作，由于走神，连续三次出现严重失误 https://t.co/twg1DIooox https://t.co/spnzGIIDYZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094691188767100928"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2094691249760661761",
+        "created_at": "2026-09-01T07:38:06.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094691249760661761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HdNdeEZUI6",
+              "end": 43,
+              "expanded_url": "https://x.com/Rococo90933671/status/2094691249760661761/photo/1",
+              "media_key": "3_2094691188767100928",
+              "start": 20,
+              "url": "https://t.co/HdNdeEZUI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094691249760661761",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094691188767100928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 367464,
+          "like_count": 1957,
+          "quote_count": 12,
+          "reply_count": 287,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "论为什么要上山下乡，论脱离群众有多恐怖 https://t.co/HdNdeEZUI6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095503448812711994",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18639,
+          "following_count": 890,
+          "like_count": 35058,
+          "listed_count": 32,
+          "media_count": 2926,
+          "tweet_count": 13192
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2095498449127080358",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14121,
+          "following_count": 3272,
+          "like_count": 49827,
+          "listed_count": 42,
+          "media_count": 5348,
+          "tweet_count": 26540
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

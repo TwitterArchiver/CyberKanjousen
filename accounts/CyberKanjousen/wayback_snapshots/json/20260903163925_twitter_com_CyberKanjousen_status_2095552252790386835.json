@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2095551350318956976",
+    "created_at": "2026-09-03T16:39:25.000Z",
+    "display_text_range": [
+      17,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T17:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095552252790386835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516967434355232768",
+          "start": 0,
+          "username": "yxcogcoyco66744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095552252790386835",
+    "in_reply_to_user_id": "1516967434355232768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095551350318956976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxcogcoyco66744 環状線上次在香港一天最多 1K HKD，看来環状線还是挺省的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2095551350318956976",
+        "created_at": "2026-09-03T16:39:25.000Z",
+        "display_text_range": [
+          17,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095552252790386835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516967434355232768",
+              "start": 0,
+              "username": "yxcogcoyco66744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095552252790386835",
+        "in_reply_to_user_id": "1516967434355232768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095551350318956976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxcogcoyco66744 環状線上次在香港一天最多 1K HKD，看来環状線还是挺省的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516967434355232768",
+        "conversation_id": "2095551350318956976",
+        "created_at": "2026-09-03T16:35:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095551350318956976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2095356861209874911",
+              "start": 23,
+              "url": "https://t.co/4l5S9W5Tfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095551350318956976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095356861209874911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洗鬼驚,再去多次香港,一日搵至少2000港紙 https://t.co/4l5S9W5Tfa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095552252790386835",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18667,
+          "following_count": 890,
+          "like_count": 35109,
+          "listed_count": 32,
+          "media_count": 2928,
+          "tweet_count": 13217
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-21T02:30:08.000Z",
+        "description": "自由的美夢在那東方古老而邪惡的專制之下是虛幻且容易破滅的|The secret to happiness is freedom. And the secret to freedom is courage|香港民族",
+        "id": "1516967434355232768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095551350318956976",
+        "name": "世界都會的末人⬜🟦",
+        "pinned_tweet_id": "1587716959130759168",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516967434355232768/1657190612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544995656359522305/ArnPjnnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 358,
+          "like_count": 34964,
+          "listed_count": 7,
+          "media_count": 934,
+          "tweet_count": 20268
+        },
+        "url": "",
+        "username": "yxcogcoyco66744",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

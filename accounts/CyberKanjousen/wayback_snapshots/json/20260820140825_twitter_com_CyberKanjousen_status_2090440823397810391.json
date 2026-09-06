@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2090321336359108825",
+    "created_at": "2026-08-20T14:08:25.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090440823397810391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998655152824434688",
+          "start": 0,
+          "username": "izumi_konataovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090440823397810391",
+    "in_reply_to_user_id": "1998655152824434688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090417780562833475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@izumi_konataovo 那不太清楚，不过依据環状線的经历来看，应该两者二选其一吧）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2090321336359108825",
+        "created_at": "2026-08-20T14:08:25.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090440823397810391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998655152824434688",
+              "start": 0,
+              "username": "izumi_konataovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090440823397810391",
+        "in_reply_to_user_id": "1998655152824434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090417780562833475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@izumi_konataovo 那不太清楚，不过依据環状線的经历来看，应该两者二选其一吧）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998655152824434688",
+        "conversation_id": "2090321336359108825",
+        "created_at": "2026-08-20T12:36:51.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090417780562833475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090417780562833475",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090321336359108825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 那男娘呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090440823397810391",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15928,
+          "following_count": 878,
+          "like_count": 34110,
+          "listed_count": 24,
+          "media_count": 2729,
+          "tweet_count": 12543
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T07:25:13.000Z",
+        "description": "我最喜欢泉此方了！我爱抹茶冰淇淋，巧克力，烤肉！\n温和左。\n知识浅薄，想要多多学习捏~",
+        "id": "1998655152824434688",
+        "is_identity_verified": false,
+        "location": "银河社会主义联邦",
+        "most_recent_tweet_id": "2090440375206863168",
+        "name": "⭐稻荷神泉此方⭐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998655152824434688/1781466807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066247234811994112/WntD1-r9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 273,
+          "like_count": 5691,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2719
+        },
+        "url": "",
+        "username": "izumi_konataovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

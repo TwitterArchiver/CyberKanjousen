@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2090039916675903716",
+    "created_at": "2026-08-20T00:36:13.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T01:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090236428475380058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "414030168",
+          "start": 0,
+          "username": "Mephy1337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090236428475380058",
+    "in_reply_to_user_id": "414030168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090143009417613421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mephy1337 そうですね😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2090039916675903716",
+        "created_at": "2026-08-20T00:36:13.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090236428475380058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "414030168",
+              "start": 0,
+              "username": "Mephy1337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090236428475380058",
+        "in_reply_to_user_id": "414030168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090143009417613421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mephy1337 そうですね😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "414030168",
+        "conversation_id": "2090039916675903716",
+        "created_at": "2026-08-19T18:25:01.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090143009417613421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090143009417613421",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090039916675903716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen これはgugugagaですか？ww"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/Rib36J6yzI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/cyberkanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/cyberkanjousen",
+                "start": 65,
+                "url": "https://t.co/Rib36J6yzI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090236428475380058",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15783,
+          "following_count": 877,
+          "like_count": 34036,
+          "listed_count": 27,
+          "media_count": 2718,
+          "tweet_count": 12498
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-16T14:57:46.000Z",
+        "description": "異常独身男性向疑似恋愛体験電脳遊戯",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/Mephy1337",
+                "end": 23,
+                "expanded_url": "http://steamcommunity.com/id/Mephy1337",
+                "start": 0,
+                "url": "https://t.co/rEgXMyxJtl"
+              }
+            ]
+          }
+        },
+        "id": "414030168",
+        "is_identity_verified": false,
+        "location": "now playing:マガルミナ",
+        "most_recent_tweet_id": "2090221996508623269",
+        "name": "めふぃ@YUZUSOFT SONG FES3日目",
+        "pinned_tweet_id": "1849767997965205518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/414030168/1782473094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1616132120216506368/_n3vI10h_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 999,
+          "like_count": 206876,
+          "listed_count": 17,
+          "media_count": 10010,
+          "tweet_count": 119610
+        },
+        "url": "https://t.co/rEgXMyxJtl",
+        "username": "Mephy1337",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

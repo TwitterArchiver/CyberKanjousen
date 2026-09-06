@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2095346046486696424",
+    "created_at": "2026-09-03T08:44:23.000Z",
+    "display_text_range": [
+      8,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095432707769520215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2000157310946258945",
+          "start": 0,
+          "username": "texnn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095432707769520215",
+    "in_reply_to_user_id": "2000157310946258945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095414787664646380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@texnn0 能摸到电线就不错了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2095346046486696424",
+        "created_at": "2026-09-03T08:44:23.000Z",
+        "display_text_range": [
+          8,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095432707769520215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2000157310946258945",
+              "start": 0,
+              "username": "texnn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095432707769520215",
+        "in_reply_to_user_id": "2000157310946258945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095414787664646380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@texnn0 能摸到电线就不错了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000157310946258945",
+        "conversation_id": "2095346046486696424",
+        "created_at": "2026-09-03T07:33:10.000Z",
+        "display_text_range": [
+          16,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095414787664646380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095414787664646380",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095346046486696424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 学长学长，我学电气的也会这样子吗，我也想摸女生的手"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095432707769520215",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18607,
+          "following_count": 890,
+          "like_count": 35041,
+          "listed_count": 32,
+          "media_count": 2922,
+          "tweet_count": 13177
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-14T10:54:30.000Z",
+        "description": "来自浙江的一位大二学生，喜欢玩valorant，头像是搞耍的，本人还是比较正经的\n好想交朋友，现实中没有什么人和我玩，网络上就爱看taffyace，喜欢在网上祝福别人，励志走遍每一个生日的帖子，希望世界和平，希望大家都开心喵",
+        "id": "2000157310946258945",
+        "is_identity_verified": false,
+        "location": "厕所拉大便，不要看",
+        "most_recent_tweet_id": "2095431944553287933",
+        "name": "jh x",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095413211252367360/xlpdoc97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "texnn0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

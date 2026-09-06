@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2088265462031274109",
+    "created_at": "2026-08-14T15:32:21.000Z",
+    "display_text_range": [
+      22,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T16:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088287620128546983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1844025283676094464",
+          "start": 0,
+          "username": "Konekoutena"
+        },
+        {
+          "end": 21,
+          "id": "1399766153053061121",
+          "start": 13,
+          "username": "premium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088287620128546983",
+    "in_reply_to_user_id": "1844025283676094464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088265462031274109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konekoutena @premium 不是，你修改一下 Stripe 的帐号归属地啊……\n如果要居住证明什么的，闲鱼有的商家就可以搞定。这个通常不需要签证。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2088265447569227776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsCXEcWAAAliol.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2088265462031274109",
+        "created_at": "2026-08-14T15:32:21.000Z",
+        "display_text_range": [
+          22,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088287620128546983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1844025283676094464",
+              "start": 0,
+              "username": "Konekoutena"
+            },
+            {
+              "end": 21,
+              "id": "1399766153053061121",
+              "start": 13,
+              "username": "premium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088287620128546983",
+        "in_reply_to_user_id": "1844025283676094464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088265462031274109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konekoutena @premium 不是，你修改一下 Stripe 的帐号归属地啊……\n如果要居住证明什么的，闲鱼有的商家就可以搞定。这个通常不需要签证。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088265447569227776"
+          ]
+        },
+        "author_id": "1844025283676094464",
+        "conversation_id": "2088265462031274109",
+        "created_at": "2026-08-14T14:04:18.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088265462031274109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 119,
+              "id": "1399766153053061121",
+              "start": 111,
+              "username": "premium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0RxkcGXtq",
+              "end": 143,
+              "expanded_url": "https://x.com/Konekoutena/status/2088265462031274109/photo/1",
+              "media_key": "3_2088265447569227776",
+              "start": 120,
+              "url": "https://t.co/D0RxkcGXtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088265462031274109",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088265447569227776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 460,
+                "start": 444,
+                "tag": "XPremiumSupport"
+              },
+              {
+                "end": 480,
+                "start": 461,
+                "tag": "StripeConnectIssue"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "id": "1399766153053061121",
+                "start": 111,
+                "username": "premium"
+              },
+              {
+                "end": 351,
+                "id": "44196397",
+                "start": 342,
+                "username": "elonmusk"
+              },
+              {
+                "end": 441,
+                "id": "102812444",
+                "start": 434,
+                "username": "stripe"
+              }
+            ]
+          },
+          "text": "现在我失去了我唯一的收入，我已经看不到活下去的希望了。我X的stripe账户是在日本注册的，如今我已经离开了日本，这个账户已经无法收款了。我想要解除这个账户的关联，重新注册可以收款的账户，但X却没有给我注销的权限。多次联系@premium ，由于条件过于苛刻始终遭受拒绝。对于童年经历了家暴与霸凌，在社会苦苦挣扎，在日本险些饿死，又多次在死亡线上徘徊，患有严重抑郁症的我，这个X账号不仅是我现在唯一的收入，也是我唯一能看到自我成就与尊严的东西。但命运把这扇门也给我关闭了。这让我明白，当老天在与你作对时，一切的努力都是徒劳的，都是给人增加笑料罢了。今天的绝望并非是这次的挫败，而是从出生开始绝望的累积。这算压死骆驼最后一根稻草吧。靠着挣扎活到了今日，但现在我真的累了，想要彻底结束了。@elonmusk 你能看到么，一路上顺风顺水，从来未对钱发愁的你，应该无法理解我所说的一切吧。你的app一个小小的设定，就足以让一个人彻底绝望了。愿来生不要有这么多的痛苦折磨了。\n\n@stripe \n\n#XPremiumSupport #StripeConnectIssue"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 939,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在我失去了我唯一的收入，我已经看不到活下去的希望了。我X的stripe账户是在日本注册的，如今我已经离开了日本，这个账户已经无法收款了。我想要解除这个账户的关联，重新注册可以收款的账户，但X却没有给我注销的权限。多次联系@premium https://t.co/D0RxkcGXtq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLo50A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 88,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 65,
+                "url": "https://t.co/NMKeNLo50A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2088287620128546983",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15191,
+          "following_count": 880,
+          "like_count": 33555,
+          "listed_count": 25,
+          "media_count": 2634,
+          "tweet_count": 12196
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "AI画师｜独立的社会观察员｜一个怀着理想主义的小说家，也是一个成长在地狱般原生家庭的抑郁症患者\n生活号@yexinstory \nYouTube频道：https://t.co/obHINabTRg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "yexinstory"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@konekoutena",
+                "end": 97,
+                "expanded_url": "https://youtube.com/@konekoutena",
+                "start": 74,
+                "url": "https://t.co/obHINabTRg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/konekoutena",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/konekoutena",
+                "start": 0,
+                "url": "https://t.co/hP17kdZ7p1"
+              }
+            ]
+          }
+        },
+        "id": "1844025283676094464",
+        "is_identity_verified": true,
+        "location": "喵星",
+        "most_recent_tweet_id": "2088282061132255240",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "2088265462031274109",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844025283676094464/1785324603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062305837201383424/QmG_C6uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17800,
+          "following_count": 1681,
+          "like_count": 15515,
+          "listed_count": 4,
+          "media_count": 7545,
+          "tweet_count": 29354
+        },
+        "url": "https://t.co/hP17kdZ7p1",
+        "username": "Konekoutena",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2021-06-01T16:34:27.000Z",
+        "description": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/premium_sign…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/premium_sign_up",
+                "start": 0,
+                "url": "https://t.co/zJi0ZdXW63"
+              }
+            ]
+          }
+        },
+        "id": "1399766153053061121",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2081845113811243217",
+        "name": "Premium",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1399766153053061121/1690180776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279993,
+          "following_count": 3,
+          "like_count": 665,
+          "listed_count": 1896,
+          "media_count": 66,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/zJi0ZdXW63",
+        "username": "premium",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}
