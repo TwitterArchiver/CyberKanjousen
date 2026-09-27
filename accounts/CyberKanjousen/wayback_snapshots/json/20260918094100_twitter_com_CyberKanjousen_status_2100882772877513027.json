@@ -1,0 +1,681 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100872359028662272",
+        "3_2100872359024398336"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596656304128",
+          "name": "Beverage - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "カルピス",
+          "id": "10049021562",
+          "name": "Calpis (カルピス)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Soda",
+          "id": "850143755873140737",
+          "name": "Soda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "カルピス",
+          "id": "10049021562",
+          "name": "Calpis (カルピス)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357835469099134977",
+          "name": "English language learning"
+        }
+      }
+    ],
+    "conversation_id": "2100882772877513027",
+    "created_at": "2026-09-18T09:41:00.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100882772877513027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FtjZLH8dqm",
+          "end": 58,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2100882772877513027/photo/1",
+          "media_key": "3_2100872359028662272",
+          "start": 35,
+          "url": "https://t.co/FtjZLH8dqm"
+        },
+        {
+          "display_url": "pic.x.com/FtjZLH8dqm",
+          "end": 58,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2100882772877513027/photo/1",
+          "media_key": "3_2100872359024398336",
+          "start": 35,
+          "url": "https://t.co/FtjZLH8dqm"
+        },
+        {
+          "display_url": "x.com/haluna7/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/haluna7/status/2099815509214847224",
+          "start": 59,
+          "url": "https://t.co/Wt9E7UvAVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100882772877513027",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100872359028662272"
+      },
+      {
+        "media_key": "3_2100872359024398336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099815509214847224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺要是我在日本地铁上晕倒的话，也会有温柔的声优小姐姐来扶我吗（幻想中 https://t.co/FtjZLH8dqm https://t.co/Wt9E7UvAVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100872359028662272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfMR5ZXIAAoE0C.jpg",
+        "width": 566
+      },
+      {
+        "height": 1609,
+        "media_key": "3_2100872359024398336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfMR5YWEAAPKXy.jpg",
+        "width": 978
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100872359028662272",
+            "3_2100872359024398336"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "カルピス",
+              "id": "10049021562",
+              "name": "Calpis (カルピス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "カルピス",
+              "id": "10049021562",
+              "name": "Calpis (カルピス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "2100882772877513027",
+        "created_at": "2026-09-18T09:41:00.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100882772877513027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtjZLH8dqm",
+              "end": 58,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2100882772877513027/photo/1",
+              "media_key": "3_2100872359028662272",
+              "start": 35,
+              "url": "https://t.co/FtjZLH8dqm"
+            },
+            {
+              "display_url": "pic.x.com/FtjZLH8dqm",
+              "end": 58,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2100882772877513027/photo/1",
+              "media_key": "3_2100872359024398336",
+              "start": 35,
+              "url": "https://t.co/FtjZLH8dqm"
+            },
+            {
+              "display_url": "x.com/haluna7/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/haluna7/status/2099815509214847224",
+              "start": 59,
+              "url": "https://t.co/Wt9E7UvAVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100882772877513027",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100872359028662272"
+          },
+          {
+            "media_key": "3_2100872359024398336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099815509214847224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺要是我在日本地铁上晕倒的话，也会有温柔的声优小姐姐来扶我吗（幻想中 https://t.co/FtjZLH8dqm https://t.co/Wt9E7UvAVc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52241895",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "カルピス",
+              "id": "10049021562",
+              "name": "Calpis (カルピス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "カルピス",
+              "id": "10049021562",
+              "name": "Calpis (カルピス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "2099815509214847224",
+        "created_at": "2026-09-15T11:00:04.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099815509214847224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099815509214847224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2008,
+          "impression_count": 4590269,
+          "like_count": 54129,
+          "quote_count": 137,
+          "reply_count": 915,
+          "retweet_count": 1892
+        },
+        "reply_settings": "everyone",
+        "text": "電車の中で女子がばたん！と倒れたので、光の速さで支えに駆け寄った\n貧血っぽい\n中国の学生さんで、まだ言葉がおぼつかない。英語もあまり。わたしの片言の中国語と、AIさんに手伝ってもらって、安心させつつ、次の駅で降りて、駅員さんの控室に\nとりあえず糖分だ！と桃カルピスを買って渡しました"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100882772877513027",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20407,
+          "following_count": 893,
+          "like_count": 36289,
+          "listed_count": 32,
+          "media_count": 3171,
+          "tweet_count": 13907
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-30T00:20:45.000Z",
+        "description": "池澤春菜:読書、海外SFとFTを偏愛。黒パグクーちゃんを溺愛。台湾と中国茶に片思い、きのこまみれ。料理とガンプラ、作るもの全般。趣味だらけの人生を謳歌中。【@のRT不可の場合は一言お書き添え下さい】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "across-ent.com/talent/women/h…",
+                "end": 23,
+                "expanded_url": "http://across-ent.com/talent/women/haruna_ikezawa.html",
+                "start": 0,
+                "url": "https://t.co/5s3Q48sxeA"
+              }
+            ]
+          }
+        },
+        "id": "52241895",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100847105380360332",
+        "name": "池澤春菜",
+        "pinned_tweet_id": "2039493720543015384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52241895/1712911172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/544677259571757058/sYHaCnJg_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80030,
+          "following_count": 690,
+          "like_count": 828,
+          "listed_count": 4193,
+          "media_count": 8968,
+          "tweet_count": 80887
+        },
+        "url": "https://t.co/5s3Q48sxeA",
+        "username": "haluna7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

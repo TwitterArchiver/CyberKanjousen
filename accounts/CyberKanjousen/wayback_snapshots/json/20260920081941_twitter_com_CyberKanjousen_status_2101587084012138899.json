@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2101209425273143320",
+    "created_at": "2026-09-20T08:19:41.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101587084012138899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3097944448",
+          "start": 0,
+          "username": "Hy9788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101587084012138899",
+    "in_reply_to_user_id": "3097944448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101564069853729277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hy9788 姐妹你好香啊（指正"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2101209425273143320",
+        "created_at": "2026-09-20T08:19:41.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101587084012138899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3097944448",
+              "start": 0,
+              "username": "Hy9788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101587084012138899",
+        "in_reply_to_user_id": "3097944448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101564069853729277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hy9788 姐妹你好香啊（指正"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3097944448",
+        "conversation_id": "2101209425273143320",
+        "created_at": "2026-09-20T06:48:14.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101564069853729277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101564069853729277",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1079,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101209425273143320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 下次见面就是兄弟你好香啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101587084012138899",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20554,
+          "following_count": 893,
+          "like_count": 36448,
+          "listed_count": 32,
+          "media_count": 3198,
+          "tweet_count": 13993
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-03-19T22:53:54.000Z",
+        "description": "12年专业技术团队|专注伦敦金（XAU）+币圈AI量化交易|用AI数据与算法捕捉趋势|严控回撤|长期复利年化超110%",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lzyq168",
+                "end": 23,
+                "expanded_url": "https://t.me/lzyq168",
+                "start": 0,
+                "url": "https://t.co/g6vtCf69OP"
+              }
+            ]
+          }
+        },
+        "id": "3097944448",
+        "is_identity_verified": false,
+        "location": "商务合作👉",
+        "most_recent_tweet_id": "2101570166744404323",
+        "name": "浪子燕青",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095719838446665730/8QFP8Ev8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10419,
+          "following_count": 1576,
+          "like_count": 1971,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/g6vtCf69OP",
+        "username": "Hy9788",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

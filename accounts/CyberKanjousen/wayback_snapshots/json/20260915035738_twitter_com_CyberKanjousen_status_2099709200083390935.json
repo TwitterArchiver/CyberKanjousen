@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2099674309929386071",
+    "created_at": "2026-09-15T03:57:38.000Z",
+    "display_text_range": [
+      12,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099709200083390935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632714097371516929",
+          "start": 0,
+          "username": "kagariet01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099709200083390935",
+    "in_reply_to_user_id": "1632714097371516929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099706416651264448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagariet01 （但環状線遮住那个 LOGO 的时候红色真的就消失了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2099674309929386071",
+        "created_at": "2026-09-15T03:57:38.000Z",
+        "display_text_range": [
+          12,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099709200083390935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632714097371516929",
+              "start": 0,
+              "username": "kagariet01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099709200083390935",
+        "in_reply_to_user_id": "1632714097371516929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099706416651264448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagariet01 （但環状線遮住那个 LOGO 的时候红色真的就消失了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632714097371516929",
+        "conversation_id": "2099674309929386071",
+        "created_at": "2026-09-15T03:46:35.000Z",
+        "display_text_range": [
+          16,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099706416651264448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099706416651264448",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099674309929386071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 原理是顏色互補和視覺疲勞\n在RGB中，綠藍色的互補色是紅色\n所以有出現紅色的錯覺是正常的\n另一個實驗：拿純綠藍色圖片盯一分鐘，再快速看向白紙（還是黑紙，忘了w），你會看到淡淡的紅色\n因為綠藍色神經麻痺了，但紅色還很敏感\n所以突然從GB看向RGB，R神經會敏感的捕捉更多R訊號，進而看到紅色"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099709200083390935",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20142,
+          "following_count": 893,
+          "like_count": 36064,
+          "listed_count": 32,
+          "media_count": 3113,
+          "tweet_count": 13761
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-06T12:05:55.000Z",
+        "description": "態：徹底瘋掉\n性：🈸🏳️‍🌈🏳️‍⚧️\n\n地：新北市板橋区（東京都板橋区 ではない）\n舍：交大 研參\n\n長：なし\n苦：言語学習\n\n高：板橋高校\n大：陽明交通大学\n部：資訊工程（情報工学）\n職：交大 学生議員\n\n੭ ˙ᗜ˙ )੭ 🥑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.kandayuri.net",
+                "end": 23,
+                "expanded_url": "http://me.kandayuri.net/",
+                "start": 0,
+                "url": "https://t.co/xUKIOPYx1j"
+              }
+            ]
+          }
+        },
+        "id": "1632714097371516929",
+        "is_identity_verified": false,
+        "location": "TW",
+        "most_recent_tweet_id": "2099709006113853769",
+        "name": "神田ゆり ੭ ˙ᗜ˙ )੭ 🥑",
+        "pinned_tweet_id": "2089307596163580037",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632714097371516929/1779383279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057508711254634496/tpRaSTFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 288,
+          "like_count": 21933,
+          "listed_count": 0,
+          "media_count": 523,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/xUKIOPYx1j",
+        "username": "kagariet01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

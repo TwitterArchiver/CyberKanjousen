@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2097560791608332577",
+    "created_at": "2026-09-09T06:10:41.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097568355553042436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097568355553042436",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097560791608332577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 但是，一栋楼不是木桶😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2097560791608332577",
+        "created_at": "2026-09-09T06:10:41.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097568355553042436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097568355553042436",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097560791608332577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 但是，一栋楼不是木桶😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528798633168347137",
+        "conversation_id": "2097560791608332577",
+        "created_at": "2026-09-09T05:40:38.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097560791608332577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097560791608332577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 336,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "根据木桶原理，一栋楼的实际寿命，取决于下水道寿命，取决于电梯寿命，取决于屋顶防水寿命，取决于窗户寿命。甚至取决于住户寿命，唯独不太可能取决于混凝土寿命。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097568355553042436",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19548,
+          "following_count": 893,
+          "like_count": 35546,
+          "listed_count": 32,
+          "media_count": 3012,
+          "tweet_count": 13450
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2097563056121520460",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22029,
+          "following_count": 4587,
+          "like_count": 12833,
+          "listed_count": 68,
+          "media_count": 3473,
+          "tweet_count": 12252
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

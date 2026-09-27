@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2097882000615243776",
+    "created_at": "2026-09-10T05:19:25.000Z",
+    "display_text_range": [
+      11,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097917842456793562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016546663524167680",
+          "start": 0,
+          "username": "astapfher"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097917842456793562",
+    "in_reply_to_user_id": "2016546663524167680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097913792160288905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astapfher 现在的推特如果对于中国人而言门槛确实稍高，但对于外国人而言也没有门槛吧？\n而且推上的外国人也不尽然都是「高知/中产」之类的网民，一些比如日本网右之类的群体素质有没有国内极端粉红高还不一定呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2097882000615243776",
+        "created_at": "2026-09-10T05:19:25.000Z",
+        "display_text_range": [
+          11,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097917842456793562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016546663524167680",
+              "start": 0,
+              "username": "astapfher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097917842456793562",
+        "in_reply_to_user_id": "2016546663524167680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097913792160288905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astapfher 现在的推特如果对于中国人而言门槛确实稍高，但对于外国人而言也没有门槛吧？\n而且推上的外国人也不尽然都是「高知/中产」之类的网民，一些比如日本网右之类的群体素质有没有国内极端粉红高还不一定呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016546663524167680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2097882000615243776",
+        "created_at": "2026-09-10T05:03:20.000Z",
+        "display_text_range": [
+          16,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097913792160288905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097913792160288905",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097882000615243776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 如果互联网一直是精英化:入站门槛一直很高,查浏览器/AI都很难及格这种。而且一直不下沉(连微信、抖音都是高知/中产专利这种),监管相对宽松的话\n你说的情况完全不存在\n现在的X,就是十几年前的国内网站\n现在的谷歌,就是十几年前的百度\n现在的蓝P、N站,就是刚上线的B站"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097917842456793562",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19693,
+          "following_count": 892,
+          "like_count": 35633,
+          "listed_count": 32,
+          "media_count": 3032,
+          "tweet_count": 13509
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-28T16:20:54.000Z",
+        "description": "Komakaze Rabu(Hejufeng Ai)，I love you！\n河駒風愛是世界上最帅的人！\n河駒風愛是世界上最帅的人！\n河駒風愛是世界上最帅的人！\n河駒風愛大人的恩情永远还不完！\n河駒風愛大人的恩情永远还不完！\n河駒風愛大人的恩情永远还不完！\n\\^O^/\\^O^/\\^O^/\n🤚😭✋🤚😭✋🤚😭",
+        "id": "2016546663524167680",
+        "is_identity_verified": false,
+        "location": "Jabjab Helmet",
+        "most_recent_tweet_id": "2097913792160288905",
+        "name": "请叫我ラブちゃんFan Edition",
+        "pinned_tweet_id": "2084136053808693428",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016546663524167680/1777560024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037391331820277761/yV_A7WWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 310,
+          "like_count": 2331,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "astapfher",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

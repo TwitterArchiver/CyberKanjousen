@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2100387006119301158",
+    "created_at": "2026-09-17T02:46:20.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T03:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100416030073823558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3278346920",
+          "start": 0,
+          "username": "Green96352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100416030073823558",
+    "in_reply_to_user_id": "3278346920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100414875835203751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Green96352 白雪公主没这么沉😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2100387006119301158",
+        "created_at": "2026-09-17T02:46:20.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100416030073823558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3278346920",
+              "start": 0,
+              "username": "Green96352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100416030073823558",
+        "in_reply_to_user_id": "3278346920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100414875835203751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Green96352 白雪公主没这么沉😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3278346920",
+        "conversation_id": "2100387006119301158",
+        "created_at": "2026-09-17T02:41:44.000Z",
+        "display_text_range": [
+          16,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100414875835203751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100414875835203751",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100387006119301158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 「那我要如何處理60公斤重的雞？」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100416030073823558",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20347,
+          "following_count": 893,
+          "like_count": 36196,
+          "listed_count": 32,
+          "media_count": 3146,
+          "tweet_count": 13849
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-07-13T08:57:19.000Z",
+        "description": "I can speak these language / 我會說這些語言：\nEnglish / 台灣話\n\nI don't speak Japanese / 日本語苦手\n\n菜逼八新人畫家一個，請多指教\nI'm a noobie Artist ,  nice to meet you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/user_sxgm4882",
+                "end": 23,
+                "expanded_url": "https://pixiv.me/user_sxgm4882",
+                "start": 0,
+                "url": "https://t.co/9bfnilDBWt"
+              }
+            ]
+          }
+        },
+        "id": "3278346920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100414875835203751",
+        "name": "Lui Green",
+        "pinned_tweet_id": "1501946686436163588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3278346920/1511083519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/930809325056008192/7M5qOlp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 2770,
+          "like_count": 79924,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 5815
+        },
+        "url": "https://t.co/9bfnilDBWt",
+        "username": "Green96352",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

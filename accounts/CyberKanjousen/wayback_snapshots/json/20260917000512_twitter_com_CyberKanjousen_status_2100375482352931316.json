@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100375467572256768"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100375482352931316",
+    "created_at": "2026-09-17T00:05:12.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100375482352931316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/848LWOtjCR",
+          "end": 57,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2100375482352931316/photo/1",
+          "media_key": "3_2100375467572256768",
+          "start": 34,
+          "url": "https://t.co/848LWOtjCR"
+        },
+        {
+          "display_url": "x.com/kawakonoka/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/kawakonoka/status/2100372113085334001",
+          "start": 58,
+          "url": "https://t.co/cjrHxOxIbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100375482352931316",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100375467572256768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100372113085334001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的，「環状線」就是出自『千本桜』的这句歌词「環状線を走り抜けて」 https://t.co/848LWOtjCR https://t.co/cjrHxOxIbw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_2100375467572256768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYIXAeW4AAuhXx.jpg",
+        "width": 1179
+      },
+      {
+        "height": 706,
+        "media_key": "3_2100372101454524416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSYFTEtWcAAg54W.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100375467572256768"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100375482352931316",
+        "created_at": "2026-09-17T00:05:12.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100375482352931316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/848LWOtjCR",
+              "end": 57,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2100375482352931316/photo/1",
+              "media_key": "3_2100375467572256768",
+              "start": 34,
+              "url": "https://t.co/848LWOtjCR"
+            },
+            {
+              "display_url": "x.com/kawakonoka/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/kawakonoka/status/2100372113085334001",
+              "start": 58,
+              "url": "https://t.co/cjrHxOxIbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100375482352931316",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100375467572256768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100372113085334001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的，「環状線」就是出自『千本桜』的这句歌词「環状線を走り抜けて」 https://t.co/848LWOtjCR https://t.co/cjrHxOxIbw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100372101454524416"
+          ]
+        },
+        "author_id": "1242079997981937664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "2100372113085334001",
+        "created_at": "2026-09-16T23:51:49.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T00:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100372113085334001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uPpDDZOJ2",
+              "end": 36,
+              "expanded_url": "https://x.com/KawaKonoka/status/2100372113085334001/photo/1",
+              "media_key": "3_2100372101454524416",
+              "start": 13,
+              "url": "https://t.co/6uPpDDZOJ2"
+            },
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2100276341169914019",
+              "start": 37,
+              "url": "https://t.co/vGXV1tbM4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100372113085334001",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100372101454524416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100276341169914019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个歌里居然提到了环状线 https://t.co/6uPpDDZOJ2 https://t.co/vGXV1tbM4G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100375482352931316",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20342,
+          "following_count": 893,
+          "like_count": 36193,
+          "listed_count": 32,
+          "media_count": 3144,
+          "tweet_count": 13842
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-23T13:25:33.000Z",
+        "description": "Alt account: @Senmokkou\nMarshmallow: https://t.co/BJgEGR13Dh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Senmokkou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/c7kle4xqutqzlm…",
+                "end": 60,
+                "expanded_url": "https://marshmallow-qa.com/c7kle4xqutqzlm6?t=ISadpO&utm_medium=url_text&utm_source=promotion",
+                "start": 37,
+                "url": "https://t.co/BJgEGR13Dh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@senmokkou",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@senmokkou",
+                "start": 0,
+                "url": "https://t.co/t42qVUkJoZ"
+              }
+            ]
+          }
+        },
+        "id": "1242079997981937664",
+        "is_identity_verified": false,
+        "location": "云香组",
+        "most_recent_tweet_id": "2100372113085334001",
+        "name": "川 このか（夏草）",
+        "pinned_tweet_id": "2078811517969920121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1242079997981937664/1788085419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095074929720901638/bVqdF4hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1745,
+          "like_count": 2710,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 4212
+        },
+        "url": "https://t.co/t42qVUkJoZ",
+        "username": "KawaKonoka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

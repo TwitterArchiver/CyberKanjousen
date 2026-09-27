@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097759629585629184",
+        "3_2097759629644349440"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10026331316",
+          "name": "Samsung Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364234",
+          "name": "Samsung "
+        }
+      }
+    ],
+    "conversation_id": "2097759646895194207",
+    "created_at": "2026-09-09T18:50:48.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T19:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097759646895194207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "14117843",
+          "start": 3,
+          "username": "SamsungMobileUS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jbvpqa0zlu",
+          "end": 67,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2097759646895194207/photo/1",
+          "media_key": "3_2097759629585629184",
+          "start": 44,
+          "url": "https://t.co/Jbvpqa0zlu"
+        },
+        {
+          "display_url": "pic.x.com/Jbvpqa0zlu",
+          "end": 67,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2097759646895194207/photo/1",
+          "media_key": "3_2097759629644349440",
+          "start": 44,
+          "url": "https://t.co/Jbvpqa0zlu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097759646895194207",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097759629585629184"
+      },
+      {
+        "media_key": "3_2097759629644349440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三星 @SamsungMobileUS 急了，开始对 iPhone Duo 哈气了：🤣 https://t.co/Jbvpqa0zlu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097759629585629184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy9RMmbQAAyVy6.jpg",
+        "width": 1043
+      },
+      {
+        "height": 1758,
+        "media_key": "3_2097759629644349440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRy9RM0bQAABNYU.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097759629585629184",
+            "3_2097759629644349440"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026331316",
+              "name": "Samsung Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364234",
+              "name": "Samsung "
+            }
+          }
+        ],
+        "conversation_id": "2097759646895194207",
+        "created_at": "2026-09-09T18:50:48.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T19:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097759646895194207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "14117843",
+              "start": 3,
+              "username": "SamsungMobileUS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jbvpqa0zlu",
+              "end": 67,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2097759646895194207/photo/1",
+              "media_key": "3_2097759629585629184",
+              "start": 44,
+              "url": "https://t.co/Jbvpqa0zlu"
+            },
+            {
+              "display_url": "pic.x.com/Jbvpqa0zlu",
+              "end": 67,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2097759646895194207/photo/1",
+              "media_key": "3_2097759629644349440",
+              "start": 44,
+              "url": "https://t.co/Jbvpqa0zlu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097759646895194207",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097759629585629184"
+          },
+          {
+            "media_key": "3_2097759629644349440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三星 @SamsungMobileUS 急了，开始对 iPhone Duo 哈气了：🤣 https://t.co/Jbvpqa0zlu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097759646895194207",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19654,
+          "following_count": 892,
+          "like_count": 35626,
+          "listed_count": 32,
+          "media_count": 3026,
+          "tweet_count": 13493
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-03-10T21:49:36.000Z",
+        "description": "Official X of Samsung Galaxy. #GalaxyAI\n\n#GalaxyZFold8, #GalaxyZFold8Ultra, #GalaxyZFlip8, #GalaxyWatch9, #GalaxyWatchUltra2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 30,
+                "tag": "GalaxyAI"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "tag": "GalaxyZFold8"
+              },
+              {
+                "end": 74,
+                "start": 56,
+                "tag": "GalaxyZFold8Ultra"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "tag": "GalaxyZFlip8"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "tag": "GalaxyWatch9"
+              },
+              {
+                "end": 124,
+                "start": 106,
+                "tag": "GalaxyWatchUltra2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smsng.us/GalaxyZFold8",
+                "end": 23,
+                "expanded_url": "http://smsng.us/GalaxyZFold8",
+                "start": 0,
+                "url": "https://t.co/IaLjuEpBBz"
+              }
+            ]
+          }
+        },
+        "id": "14117843",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2097756949160861768",
+        "name": "Samsung Mobile US",
+        "pinned_tweet_id": "2085433324508516368",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14117843/1784737568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684909520823177216/LOdWY5lK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4026219,
+          "following_count": 219,
+          "like_count": 59849,
+          "listed_count": 7932,
+          "media_count": 12910,
+          "tweet_count": 194611
+        },
+        "url": "https://t.co/IaLjuEpBBz",
+        "username": "SamsungMobileUS",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

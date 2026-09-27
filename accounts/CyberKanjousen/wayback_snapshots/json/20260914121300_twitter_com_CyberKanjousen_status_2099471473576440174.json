@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099465079544832000"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099471473576440174",
+    "created_at": "2026-09-14T12:13:00.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T13:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099471473576440174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GfrsI2THkw",
+          "end": 125,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2099471473576440174/photo/1",
+          "media_key": "3_2099465079544832000",
+          "start": 102,
+          "url": "https://t.co/GfrsI2THkw"
+        },
+        {
+          "display_url": "x.com/bang_dream_on/…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/bang_dream_on/status/2099118360957202903",
+          "start": 126,
+          "url": "https://t.co/PriIIzQwW4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099471473576440174",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099465079544832000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099118360957202903",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "MyGO 又「辱华」了？！🤯\n\n9 月 26 日追加 MyGO 翻唱『空に歌えば』，而这首歌正是《我的英雄学院》 片头曲。\n\n目前，墙内已经出现「都怪你们木柜子木柜子地叫，现在真成柜子了」之类的舆论…… https://t.co/GfrsI2THkw https://t.co/PriIIzQwW4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1875,
+        "media_key": "3_2099465079544832000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLMXcybYAAoWvx.jpg",
+        "width": 1475
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2099114166598656000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGNNoMaYAAqEty.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099465079544832000"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099471473576440174",
+        "created_at": "2026-09-14T12:13:00.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099471473576440174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GfrsI2THkw",
+              "end": 125,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2099471473576440174/photo/1",
+              "media_key": "3_2099465079544832000",
+              "start": 102,
+              "url": "https://t.co/GfrsI2THkw"
+            },
+            {
+              "display_url": "x.com/bang_dream_on/…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/bang_dream_on/status/2099118360957202903",
+              "start": 126,
+              "url": "https://t.co/PriIIzQwW4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099471473576440174",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099465079544832000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099118360957202903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MyGO 又「辱华」了？！🤯\n\n9 月 26 日追加 MyGO 翻唱『空に歌えば』，而这首歌正是《我的英雄学院》 片头曲。\n\n目前，墙内已经出现「都怪你们木柜子木柜子地叫，现在真成柜子了」之类的舆论…… https://t.co/GfrsI2THkw https://t.co/PriIIzQwW4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099114166598656000"
+          ]
+        },
+        "author_id": "1990633723885465602",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099118360957202903",
+        "created_at": "2026-09-13T12:49:51.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099118360957202903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5eeSKMgj5",
+              "end": 181,
+              "expanded_url": "https://x.com/bang_dream_on/status/2099118360957202903/photo/1",
+              "media_key": "3_2099114166598656000",
+              "start": 158,
+              "url": "https://t.co/X5eeSKMgj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099118360957202903",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099114166598656000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 193,
+                "start": 178,
+                "tag": "アワーノーツリリース0924"
+              }
+            ]
+          },
+          "text": "📢リリース時キャンペーン情報！②\nリリース記念！5日連続楽曲追加キャンペーン🎶\n\n下記の5日間、毎日15:00にカバー楽曲を追加いたします✨お楽しみに！\n\n9月25日(金)『ちゅ、多様性。』🛸\n9月26日(土)『空に歌えば』🧭\n9月27日(日)『Stellar Stellar』💐\n9月28日(月)『ファタール』🌙\n9月29日(火)『微笑みの爆弾』✌️\n\n#アワーノーツリリース0924"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 324609,
+          "like_count": 4386,
+          "quote_count": 621,
+          "reply_count": 17,
+          "retweet_count": 1478
+        },
+        "reply_settings": "everyone",
+        "text": "📢リリース時キャンペーン情報！②\nリリース記念！5日連続楽曲追加キャンペーン🎶\n\n下記の5日間、毎日15:00にカバー楽曲を追加いたします✨お楽しみに！\n\n9月25日(金)『ちゅ、多様性。』🛸\n9月26日(土)『空に歌えば』🧭\n9月27日(日)『Stellar Stellar』💐\n9月28日(月)『ファタール』🌙 https://t.co/X5eeSKMgj5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099471473576440174",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20100,
+          "following_count": 893,
+          "like_count": 36015,
+          "listed_count": 32,
+          "media_count": 3106,
+          "tweet_count": 13724
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2082827306335371265/XeH4bms6_bigger.jpg",
+          "description": "バンドリ！ BanG Dream! 公式",
+          "url": "https://twitter.com/bang_dream_info",
+          "user_id": [
+            "3009772568"
+          ]
+        },
+        "created_at": "2025-11-18T04:11:15.000Z",
+        "description": "「バンドリ！アワーノーツ」の公式アカウントです。 #アワーノーツ の最新情報をお届けします。9月24日（木）世界同時リリース決定！事前登録受付中。\n事前登録キャンペーンサイトはこちら▶https://t.co/DfLj6XKtrJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 25,
+                "tag": "アワーノーツ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp/pre-register/",
+                "end": 115,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/pre-register/",
+                "start": 92,
+                "url": "https://t.co/DfLj6XKtrJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp",
+                "end": 23,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/",
+                "start": 0,
+                "url": "https://t.co/L3fVZlgyfN"
+              }
+            ]
+          }
+        },
+        "id": "1990633723885465602",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099438004842750453",
+        "name": "バンドリ！アワーノーツ - 事前登録受付中",
+        "pinned_tweet_id": "2099109148063662536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990633723885465602/1789306518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099129792411107328/YXZKvaDc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139173,
+          "following_count": 36,
+          "like_count": 0,
+          "listed_count": 293,
+          "media_count": 300,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/L3fVZlgyfN",
+        "username": "bang_dream_on",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

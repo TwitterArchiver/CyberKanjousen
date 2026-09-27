@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098406787578019841",
+        "3_2098406787443494914"
+      ],
+      "media_source_tweet_id": [
+        "2098406798365438270",
+        "2098406798365438270"
+      ]
+    },
+    "author_id": "1918274202580467713",
+    "conversation_id": "2098465447356031261",
+    "created_at": "2026-09-11T17:35:24.000Z",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T18:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098465447356031261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1880036832072617984",
+          "start": 3,
+          "username": "2091996981snow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DdWEA29tWS",
+          "end": 125,
+          "expanded_url": "https://x.com/2091996981snow/status/2098406798365438270/photo/1",
+          "media_key": "3_2098406787578019841",
+          "start": 102,
+          "url": "https://t.co/DdWEA29tWS"
+        },
+        {
+          "display_url": "pic.x.com/DdWEA29tWS",
+          "end": 125,
+          "expanded_url": "https://x.com/2091996981snow/status/2098406798365438270/photo/1",
+          "media_key": "3_2098406787443494914",
+          "start": 102,
+          "url": "https://t.co/DdWEA29tWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098465447356031261",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098406787578019841"
+      },
+      {
+        "media_key": "3_2098406787443494914"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098406798365438270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2091996981snow: 看到很多人居然不相信这张仅在2015年12月15日存在了一天Bilibili开屏封面是真的，犹如18世纪清朝人不相信曾经汉人不留辫子，足以得见文化审查之荒谬程度🥲 https://t.co/DdWEA29tWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098406787578019841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8J2v_bQAENpm7.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098406787443494914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR8J2vfWkAIwf2Y.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098406787578019841",
+            "3_2098406787443494914"
+          ],
+          "media_source_tweet_id": [
+            "2098406798365438270",
+            "2098406798365438270"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2098465447356031261",
+        "created_at": "2026-09-11T17:35:24.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T18:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098465447356031261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1880036832072617984",
+              "start": 3,
+              "username": "2091996981snow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdWEA29tWS",
+              "end": 125,
+              "expanded_url": "https://x.com/2091996981snow/status/2098406798365438270/photo/1",
+              "media_key": "3_2098406787578019841",
+              "start": 102,
+              "url": "https://t.co/DdWEA29tWS"
+            },
+            {
+              "display_url": "pic.x.com/DdWEA29tWS",
+              "end": 125,
+              "expanded_url": "https://x.com/2091996981snow/status/2098406798365438270/photo/1",
+              "media_key": "3_2098406787443494914",
+              "start": 102,
+              "url": "https://t.co/DdWEA29tWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098465447356031261",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098406787578019841"
+          },
+          {
+            "media_key": "3_2098406787443494914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098406798365438270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2091996981snow: 看到很多人居然不相信这张仅在2015年12月15日存在了一天Bilibili开屏封面是真的，犹如18世纪清朝人不相信曾经汉人不留辫子，足以得见文化审查之荒谬程度🥲 https://t.co/DdWEA29tWS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098406787578019841",
+            "3_2098406787443494914"
+          ]
+        },
+        "author_id": "1880036832072617984",
+        "conversation_id": "2098406798365438270",
+        "created_at": "2026-09-11T13:42:21.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098406798365438270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdWEA29tWS",
+              "end": 105,
+              "expanded_url": "https://x.com/2091996981snow/status/2098406798365438270/photo/1",
+              "media_key": "3_2098406787578019841",
+              "start": 82,
+              "url": "https://t.co/DdWEA29tWS"
+            },
+            {
+              "display_url": "pic.x.com/DdWEA29tWS",
+              "end": 105,
+              "expanded_url": "https://x.com/2091996981snow/status/2098406798365438270/photo/1",
+              "media_key": "3_2098406787443494914",
+              "start": 82,
+              "url": "https://t.co/DdWEA29tWS"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2097882000615243776",
+              "start": 106,
+              "url": "https://t.co/Oknqd9s5D4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098406798365438270",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098406787578019841"
+          },
+          {
+            "media_key": "3_2098406787443494914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 25702,
+          "like_count": 126,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097882000615243776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到很多人居然不相信这张仅在2015年12月15日存在了一天Bilibili开屏封面是真的，犹如18世纪清朝人不相信曾经汉人不留辫子，足以得见文化审查之荒谬程度🥲 https://t.co/DdWEA29tWS https://t.co/Oknqd9s5D4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098465447356031261",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19844,
+          "following_count": 893,
+          "like_count": 35803,
+          "listed_count": 32,
+          "media_count": 3061,
+          "tweet_count": 13611
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-16T23:38:23.000Z",
+        "description": "旅行者｜数字游民｜目前旅居拉丁美洲｜\n大学退学高中学历｜知行合一爱国华侨｜\n去过15个国家｜国际低成本旅居专家｜\n不键政｜不可知论｜渡自己不渡众生｜\n备用号@478182920snow\n致力于研究整理各国移民法律政策\n会员群和移民规划服务请电邮联系\nChiangMaiSnow@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "478182920snow"
+              }
+            ]
+          }
+        },
+        "id": "1880036832072617984",
+        "is_identity_verified": true,
+        "location": "Buenos Aires, Argentina 🇦🇷",
+        "most_recent_tweet_id": "2098465460014530797",
+        "name": "CABA下小雪",
+        "pinned_tweet_id": "2095249194831540642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1880036832072617984/1759499089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880037026348597248/03WAEYvj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11557,
+          "following_count": 168,
+          "like_count": 8875,
+          "listed_count": 50,
+          "media_count": 460,
+          "tweet_count": 5200
+        },
+        "url": "",
+        "username": "2091996981snow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

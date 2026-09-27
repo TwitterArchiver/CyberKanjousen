@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1918274202580467713",
+    "conversation_id": "2100059095659372978",
+    "created_at": "2026-09-16T05:43:59.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T06:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100098351819592073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774811478480101377",
+          "start": 0,
+          "username": "Yuusea0817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100098351819592073",
+    "in_reply_to_user_id": "1774811478480101377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100081673321017792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuusea0817 其实是「双休购」这一整个词，「双休」仍然可以搜索到结果。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2100059095659372978",
+        "created_at": "2026-09-16T05:43:59.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T06:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100098351819592073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774811478480101377",
+              "start": 0,
+              "username": "Yuusea0817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100098351819592073",
+        "in_reply_to_user_id": "1774811478480101377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100081673321017792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuusea0817 其实是「双休购」这一整个词，「双休」仍然可以搜索到结果。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774811478480101377",
+        "conversation_id": "2100059095659372978",
+        "created_at": "2026-09-16T04:37:43.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T05:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100081673321017792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100081673321017792",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100059095659372978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 双休又怎么触发敏感词了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100098351819592073",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20269,
+          "following_count": 895,
+          "like_count": 36131,
+          "listed_count": 32,
+          "media_count": 3131,
+          "tweet_count": 13810
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-01T14:50:25.000Z",
+        "description": "非广告账号有fo必回\n已飞0国|清华北大没考 |诺贝尔奖觊觎者|华籍华人|国家级身份证持有者\n精通简体中文（中国）、简体中文（马来西亚）、简体中文（新加坡）、繁體中文（中國香港）、繁體中文（中國澳門）、正體中文（中華民國台灣）、English (UK), English (US) 等多種语言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genyuu.com",
+                "end": 23,
+                "expanded_url": "https://www.genyuu.com/",
+                "start": 0,
+                "url": "https://t.co/2OdKMGE53u"
+              }
+            ]
+          }
+        },
+        "id": "1774811478480101377",
+        "is_identity_verified": false,
+        "location": "玄幽帝国",
+        "most_recent_tweet_id": "2100081673321017792",
+        "name": "幽汐~（有fo必回版）（上学ing）🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1774811478480101377/1777868008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293706507169792/3xL8uExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 142,
+          "like_count": 4723,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/2OdKMGE53u",
+        "username": "Yuusea0817",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
